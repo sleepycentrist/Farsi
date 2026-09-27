@@ -13,3 +13,8 @@ When the user adds lesson notes:
 The hourly Codex follow-up is a backup for saved file changes. It does not receive arbitrary notes from other chats. Manual end-of-lesson requests should perform the same steps immediately.
 
 GitHub Pages is configured to publish from main, root /, at https://sleepycentrist.github.io/Farsi/. Verify the latest Pages build and live JSON after each push. GitHub authentication was completed as sleepycentrist on 27 September 2026. The GitHub CLI is available at ../.tools/gh_2.101.0_macOS_arm64/bin/gh relative to this repository; Git is configured to use its credentials.
+
+## Current local app folder and three-file routing
+The canonical working folder is /Users/hannemortazavi/Desktop/Farsi-game, the user's active VS Code folder. Do not publish from the earlier farsi-app clone in the ChatGPT workspace. The GitHub CLI remains at /Users/hannemortazavi/.codex/.chatgpt-projects/g-p-6977e368bd548191b880b8924bc512d1/.tools/gh_2.101.0_macOS_arm64/bin/gh.
+Inspect the latest saved schemas before edits. Route standalone vocabulary to questions.json, complete tile exercises to sentences.json, and infinitives/stems/conjugation tables to verbs.json. Check all three; update only where relevant. Reuse existing verbs (cook and prepare already exist). Preserve the six tense groups and six person keys in verb forms. Never invent forms by blindly concatenating stems.
+The user actively edits this folder. Check changes before and after edits. Never stage or publish their unfinished app edits automatically. If lesson changes overlap uncommitted user changes, defer publication and explain the conflict. Never overwrite on-disk edits or assume unsaved editor buffers are available.

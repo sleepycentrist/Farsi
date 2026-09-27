@@ -1,0 +1,7510 @@
+[
+  {
+    "id": "go",
+    "meaning": "go",
+    "infinitive": "raftan",
+    "imperative": "boro",
+    "presentStem": "rav",
+    "pastStem": "raft",
+    "forms": {
+      "present": {
+        "i": [
+          "miravam",
+          "miram"
+        ],
+        "you": [
+          "miravi",
+          "miri"
+        ],
+        "heShe": [
+          "miravad",
+          "mire"
+        ],
+        "we": [
+          "miravim",
+          "mirim"
+        ],
+        "youPlural": [
+          "miravid",
+          "mirin"
+        ],
+        "they": [
+          "miravand",
+          "miran"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram miravam",
+          "dâram miram"
+        ],
+        "you": [
+          "dâri miravi",
+          "dâri miri"
+        ],
+        "heShe": [
+          "dârad miravad",
+          "dâre mire"
+        ],
+        "we": [
+          "dârim miravim",
+          "dârim mirim"
+        ],
+        "youPlural": [
+          "dârid miravid",
+          "dârin mirin"
+        ],
+        "they": [
+          "dârand miravand",
+          "dâran miran"
+        ]
+      },
+      "past": {
+        "i": [
+          "raftam"
+        ],
+        "you": [
+          "rafti"
+        ],
+        "heShe": [
+          "raft"
+        ],
+        "we": [
+          "raftim"
+        ],
+        "youPlural": [
+          "raftid",
+          "raftin"
+        ],
+        "they": [
+          "raftand",
+          "raftan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam miraftam"
+        ],
+        "you": [
+          "dâshti mirafti"
+        ],
+        "heShe": [
+          "dâsht miraft"
+        ],
+        "we": [
+          "dâshtim miraftim"
+        ],
+        "youPlural": [
+          "dâshtid miraftid",
+          "dâshtin miraftin"
+        ],
+        "they": [
+          "dâshtand miraftand",
+          "dâshtan miraftan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham raft"
+        ],
+        "you": [
+          "khâhi raft"
+        ],
+        "heShe": [
+          "khâhad raft"
+        ],
+        "we": [
+          "khâhim raft"
+        ],
+        "youPlural": [
+          "khâhid raft"
+        ],
+        "they": [
+          "khâhand raft"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beravam",
+          "bâyad beram"
+        ],
+        "you": [
+          "bâyad beravi",
+          "bâyad beri"
+        ],
+        "heShe": [
+          "bâyad beravad",
+          "bâyad bere"
+        ],
+        "we": [
+          "bâyad beravim",
+          "bâyad berim"
+        ],
+        "youPlural": [
+          "bâyad beravid",
+          "bâyad berin"
+        ],
+        "they": [
+          "bâyad beravand",
+          "bâyad beran"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Boro is the command; formal present stem rav and spoken forms such as miram/beram are explicitly supplied."
+    ]
+  },
+  {
+    "id": "see",
+    "meaning": "see",
+    "infinitive": "didan",
+    "imperative": "bebin",
+    "presentStem": "bin",
+    "pastStem": "did",
+    "forms": {
+      "present": {
+        "i": [
+          "mibinam"
+        ],
+        "you": [
+          "mibini"
+        ],
+        "heShe": [
+          "mibinad",
+          "mibine"
+        ],
+        "we": [
+          "mibinim"
+        ],
+        "youPlural": [
+          "mibinid",
+          "mibinin"
+        ],
+        "they": [
+          "mibinand",
+          "mibinan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mibinam"
+        ],
+        "you": [
+          "dâri mibini"
+        ],
+        "heShe": [
+          "dârad mibinad",
+          "dâre mibine"
+        ],
+        "we": [
+          "dârim mibinim"
+        ],
+        "youPlural": [
+          "dârid mibinid",
+          "dârin mibinin"
+        ],
+        "they": [
+          "dârand mibinand",
+          "dâran mibinan"
+        ]
+      },
+      "past": {
+        "i": [
+          "didam"
+        ],
+        "you": [
+          "didi"
+        ],
+        "heShe": [
+          "did"
+        ],
+        "we": [
+          "didim"
+        ],
+        "youPlural": [
+          "didid",
+          "didin"
+        ],
+        "they": [
+          "didand",
+          "didan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mididam"
+        ],
+        "you": [
+          "dâshti mididi"
+        ],
+        "heShe": [
+          "dâsht midid"
+        ],
+        "we": [
+          "dâshtim mididim"
+        ],
+        "youPlural": [
+          "dâshtid mididid",
+          "dâshtin mididin"
+        ],
+        "they": [
+          "dâshtand mididand",
+          "dâshtan mididan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham did"
+        ],
+        "you": [
+          "khâhi did"
+        ],
+        "heShe": [
+          "khâhad did"
+        ],
+        "we": [
+          "khâhim did"
+        ],
+        "youPlural": [
+          "khâhid did"
+        ],
+        "they": [
+          "khâhand did"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bebinam"
+        ],
+        "you": [
+          "bâyad bebini"
+        ],
+        "heShe": [
+          "bâyad bebinad",
+          "bâyad bebine"
+        ],
+        "we": [
+          "bâyad bebinim"
+        ],
+        "youPlural": [
+          "bâyad bebinid",
+          "bâyad bebinin"
+        ],
+        "they": [
+          "bâyad bebinand",
+          "bâyad bebinan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "hear",
+    "meaning": "hear",
+    "infinitive": "shenidan",
+    "imperative": "beshenav",
+    "presentStem": "shenav",
+    "pastStem": "shenid",
+    "forms": {
+      "present": {
+        "i": [
+          "mishenavam",
+          "mishnavam"
+        ],
+        "you": [
+          "mishenavi",
+          "mishnavi"
+        ],
+        "heShe": [
+          "mishenavad",
+          "mishnave"
+        ],
+        "we": [
+          "mishenavim",
+          "mishnavim"
+        ],
+        "youPlural": [
+          "mishenavid",
+          "mishnavin"
+        ],
+        "they": [
+          "mishenavand",
+          "mishnavan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mishenavam",
+          "dâram mishnavam"
+        ],
+        "you": [
+          "dâri mishenavi",
+          "dâri mishnavi"
+        ],
+        "heShe": [
+          "dârad mishenavad",
+          "dâre mishnave"
+        ],
+        "we": [
+          "dârim mishenavim",
+          "dârim mishnavim"
+        ],
+        "youPlural": [
+          "dârid mishenavid",
+          "dârin mishnavin"
+        ],
+        "they": [
+          "dârand mishenavand",
+          "dâran mishnavan"
+        ]
+      },
+      "past": {
+        "i": [
+          "shenidam"
+        ],
+        "you": [
+          "shenidi"
+        ],
+        "heShe": [
+          "shenid"
+        ],
+        "we": [
+          "shenidim"
+        ],
+        "youPlural": [
+          "shenidid",
+          "shenidin"
+        ],
+        "they": [
+          "shenidand",
+          "shenidan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mishenidam"
+        ],
+        "you": [
+          "dâshti mishenidi"
+        ],
+        "heShe": [
+          "dâsht mishenid"
+        ],
+        "we": [
+          "dâshtim mishenidim"
+        ],
+        "youPlural": [
+          "dâshtid mishenidid",
+          "dâshtin mishenidin"
+        ],
+        "they": [
+          "dâshtand mishenidand",
+          "dâshtan mishenidan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham shenid"
+        ],
+        "you": [
+          "khâhi shenid"
+        ],
+        "heShe": [
+          "khâhad shenid"
+        ],
+        "we": [
+          "khâhim shenid"
+        ],
+        "youPlural": [
+          "khâhid shenid"
+        ],
+        "they": [
+          "khâhand shenid"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beshenavam",
+          "bâyad beshnavam"
+        ],
+        "you": [
+          "bâyad beshenavi",
+          "bâyad beshnavi"
+        ],
+        "heShe": [
+          "bâyad beshenavad",
+          "bâyad beshnave"
+        ],
+        "we": [
+          "bâyad beshenavim",
+          "bâyad beshnavim"
+        ],
+        "youPlural": [
+          "bâyad beshenavid",
+          "bâyad beshnavin"
+        ],
+        "they": [
+          "bâyad beshenavand",
+          "bâyad beshnavan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Beshenav is the formal imperative; beshnav is a common shorter pronunciation."
+    ]
+  },
+  {
+    "id": "eat",
+    "meaning": "eat",
+    "infinitive": "khordan",
+    "imperative": "bokhor",
+    "presentStem": "khor",
+    "pastStem": "khord",
+    "forms": {
+      "present": {
+        "i": [
+          "mikhoram"
+        ],
+        "you": [
+          "mikhori"
+        ],
+        "heShe": [
+          "mikhorad",
+          "mikhore"
+        ],
+        "we": [
+          "mikhorim"
+        ],
+        "youPlural": [
+          "mikhorid",
+          "mikhorin"
+        ],
+        "they": [
+          "mikhorand",
+          "mikhoran"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mikhoram"
+        ],
+        "you": [
+          "dâri mikhori"
+        ],
+        "heShe": [
+          "dârad mikhorad",
+          "dâre mikhore"
+        ],
+        "we": [
+          "dârim mikhorim"
+        ],
+        "youPlural": [
+          "dârid mikhorid",
+          "dârin mikhorin"
+        ],
+        "they": [
+          "dârand mikhorand",
+          "dâran mikhoran"
+        ]
+      },
+      "past": {
+        "i": [
+          "khordam"
+        ],
+        "you": [
+          "khordi"
+        ],
+        "heShe": [
+          "khord"
+        ],
+        "we": [
+          "khordim"
+        ],
+        "youPlural": [
+          "khordid",
+          "khordin"
+        ],
+        "they": [
+          "khordand",
+          "khordan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mikhordam"
+        ],
+        "you": [
+          "dâshti mikhordi"
+        ],
+        "heShe": [
+          "dâsht mikhord"
+        ],
+        "we": [
+          "dâshtim mikhordim"
+        ],
+        "youPlural": [
+          "dâshtid mikhordid",
+          "dâshtin mikhordin"
+        ],
+        "they": [
+          "dâshtand mikhordand",
+          "dâshtan mikhordan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham khord"
+        ],
+        "you": [
+          "khâhi khord"
+        ],
+        "heShe": [
+          "khâhad khord"
+        ],
+        "we": [
+          "khâhim khord"
+        ],
+        "youPlural": [
+          "khâhid khord"
+        ],
+        "they": [
+          "khâhand khord"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bokhoram"
+        ],
+        "you": [
+          "bâyad bokhori"
+        ],
+        "heShe": [
+          "bâyad bokhorad",
+          "bâyad bokhore"
+        ],
+        "we": [
+          "bâyad bokhorim"
+        ],
+        "youPlural": [
+          "bâyad bokhorid",
+          "bâyad bokhorin"
+        ],
+        "they": [
+          "bâyad bokhorand",
+          "bâyad bokhoran"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "come",
+    "meaning": "come",
+    "infinitive": "âmadan",
+    "imperative": "biyâ",
+    "presentStem": "ây",
+    "pastStem": "âmad",
+    "forms": {
+      "present": {
+        "i": [
+          "miâyam",
+          "miyâm"
+        ],
+        "you": [
+          "miâyi",
+          "miyây"
+        ],
+        "heShe": [
+          "miâyad",
+          "miyâd"
+        ],
+        "we": [
+          "miâyim",
+          "miyâyim"
+        ],
+        "youPlural": [
+          "miâyid",
+          "miyâyin"
+        ],
+        "they": [
+          "miâyand",
+          "miyân"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram miâyam",
+          "dâram miyâm"
+        ],
+        "you": [
+          "dâri miâyi",
+          "dâri miyây"
+        ],
+        "heShe": [
+          "dârad miâyad",
+          "dâre miyâd"
+        ],
+        "we": [
+          "dârim miâyim",
+          "dârim miyâyim"
+        ],
+        "youPlural": [
+          "dârid miâyid",
+          "dârin miyâyin"
+        ],
+        "they": [
+          "dârand miâyand",
+          "dâran miyân"
+        ]
+      },
+      "past": {
+        "i": [
+          "âmadam",
+          "umadam"
+        ],
+        "you": [
+          "âmadi",
+          "umadi"
+        ],
+        "heShe": [
+          "âmad",
+          "umad"
+        ],
+        "we": [
+          "âmadim",
+          "umadim"
+        ],
+        "youPlural": [
+          "âmadid",
+          "umadin"
+        ],
+        "they": [
+          "âmadand",
+          "umadan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam miâmadam",
+          "dâshtam miumadam"
+        ],
+        "you": [
+          "dâshti miâmadi",
+          "dâshti miumadi"
+        ],
+        "heShe": [
+          "dâsht miâmad",
+          "dâsht miumad"
+        ],
+        "we": [
+          "dâshtim miâmadim",
+          "dâshtim miumadim"
+        ],
+        "youPlural": [
+          "dâshtid miâmadid",
+          "dâshtin miumadin"
+        ],
+        "they": [
+          "dâshtand miâmadand",
+          "dâshtan miumadan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham âmad"
+        ],
+        "you": [
+          "khâhi âmad"
+        ],
+        "heShe": [
+          "khâhad âmad"
+        ],
+        "we": [
+          "khâhim âmad"
+        ],
+        "youPlural": [
+          "khâhid âmad"
+        ],
+        "they": [
+          "khâhand âmad"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad biyâyam",
+          "bâyad biyâm"
+        ],
+        "you": [
+          "bâyad biyâyi",
+          "bâyad biyây"
+        ],
+        "heShe": [
+          "bâyad biyâyad",
+          "bâyad biyâd"
+        ],
+        "we": [
+          "bâyad biyâyim"
+        ],
+        "youPlural": [
+          "bâyad biyâyid",
+          "bâyad biyâyin"
+        ],
+        "they": [
+          "bâyad biyâyand",
+          "bâyad biyân"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "bring",
+    "meaning": "bring",
+    "infinitive": "âvordan",
+    "imperative": "biyâvar",
+    "presentStem": "âvar",
+    "pastStem": "âvord",
+    "forms": {
+      "present": {
+        "i": [
+          "miâvaram",
+          "miyâram"
+        ],
+        "you": [
+          "miâvari",
+          "miyâri"
+        ],
+        "heShe": [
+          "miâvarad",
+          "miyâre"
+        ],
+        "we": [
+          "miâvarim",
+          "miyârim"
+        ],
+        "youPlural": [
+          "miâvarid",
+          "miyârin"
+        ],
+        "they": [
+          "miâvarand",
+          "miyâran"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram miâvaram",
+          "dâram miyâram"
+        ],
+        "you": [
+          "dâri miâvari",
+          "dâri miyâri"
+        ],
+        "heShe": [
+          "dârad miâvarad",
+          "dâre miyâre"
+        ],
+        "we": [
+          "dârim miâvarim",
+          "dârim miyârim"
+        ],
+        "youPlural": [
+          "dârid miâvarid",
+          "dârin miyârin"
+        ],
+        "they": [
+          "dârand miâvarand",
+          "dâran miyâran"
+        ]
+      },
+      "past": {
+        "i": [
+          "âvordam"
+        ],
+        "you": [
+          "âvordi"
+        ],
+        "heShe": [
+          "âvord"
+        ],
+        "we": [
+          "âvordim"
+        ],
+        "youPlural": [
+          "âvordid",
+          "âvordin"
+        ],
+        "they": [
+          "âvordand",
+          "âvordan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam miâvordam"
+        ],
+        "you": [
+          "dâshti miâvordi"
+        ],
+        "heShe": [
+          "dâsht miâvord"
+        ],
+        "we": [
+          "dâshtim miâvordim"
+        ],
+        "youPlural": [
+          "dâshtid miâvordid",
+          "dâshtin miâvordin"
+        ],
+        "they": [
+          "dâshtand miâvordand",
+          "dâshtan miâvordan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham âvord"
+        ],
+        "you": [
+          "khâhi âvord"
+        ],
+        "heShe": [
+          "khâhad âvord"
+        ],
+        "we": [
+          "khâhim âvord"
+        ],
+        "youPlural": [
+          "khâhid âvord"
+        ],
+        "they": [
+          "khâhand âvord"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad biyâvaram",
+          "bâyad biyâram"
+        ],
+        "you": [
+          "bâyad biyâvari",
+          "bâyad biyâri"
+        ],
+        "heShe": [
+          "bâyad biyâvarad",
+          "bâyad biyâre"
+        ],
+        "we": [
+          "bâyad biyâvarim",
+          "bâyad biyârim"
+        ],
+        "youPlural": [
+          "bâyad biyâvarid",
+          "bâyad biyârin"
+        ],
+        "they": [
+          "bâyad biyâvarand",
+          "bâyad biyâran"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "close",
+    "meaning": "close",
+    "infinitive": "bastan",
+    "imperative": "beband",
+    "presentStem": "band",
+    "pastStem": "bast",
+    "forms": {
+      "present": {
+        "i": [
+          "mibandam"
+        ],
+        "you": [
+          "mibandi"
+        ],
+        "heShe": [
+          "mibandad",
+          "mibande"
+        ],
+        "we": [
+          "mibandim"
+        ],
+        "youPlural": [
+          "mibandid",
+          "mibandin"
+        ],
+        "they": [
+          "mibandand",
+          "mibandan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mibandam"
+        ],
+        "you": [
+          "dâri mibandi"
+        ],
+        "heShe": [
+          "dârad mibandad",
+          "dâre mibande"
+        ],
+        "we": [
+          "dârim mibandim"
+        ],
+        "youPlural": [
+          "dârid mibandid",
+          "dârin mibandin"
+        ],
+        "they": [
+          "dârand mibandand",
+          "dâran mibandan"
+        ]
+      },
+      "past": {
+        "i": [
+          "bastam"
+        ],
+        "you": [
+          "basti"
+        ],
+        "heShe": [
+          "bast"
+        ],
+        "we": [
+          "bastim"
+        ],
+        "youPlural": [
+          "bastid",
+          "bastin"
+        ],
+        "they": [
+          "bastand",
+          "bastan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mibastam"
+        ],
+        "you": [
+          "dâshti mibasti"
+        ],
+        "heShe": [
+          "dâsht mibast"
+        ],
+        "we": [
+          "dâshtim mibastim"
+        ],
+        "youPlural": [
+          "dâshtid mibastid",
+          "dâshtin mibastin"
+        ],
+        "they": [
+          "dâshtand mibastand",
+          "dâshtan mibastan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham bast"
+        ],
+        "you": [
+          "khâhi bast"
+        ],
+        "heShe": [
+          "khâhad bast"
+        ],
+        "we": [
+          "khâhim bast"
+        ],
+        "youPlural": [
+          "khâhid bast"
+        ],
+        "they": [
+          "khâhand bast"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bebandam"
+        ],
+        "you": [
+          "bâyad bebandi"
+        ],
+        "heShe": [
+          "bâyad bebandad",
+          "bâyad bebande"
+        ],
+        "we": [
+          "bâyad bebandim"
+        ],
+        "youPlural": [
+          "bâyad bebandid",
+          "bâyad bebandin"
+        ],
+        "they": [
+          "bâyad bebandand",
+          "bâyad bebandan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "ask",
+    "meaning": "ask",
+    "infinitive": "porsidan",
+    "imperative": "bepors",
+    "presentStem": "pors",
+    "pastStem": "porsid",
+    "forms": {
+      "present": {
+        "i": [
+          "miporsam"
+        ],
+        "you": [
+          "miporsi"
+        ],
+        "heShe": [
+          "miporsad",
+          "miporse"
+        ],
+        "we": [
+          "miporsim"
+        ],
+        "youPlural": [
+          "miporsid",
+          "miporsin"
+        ],
+        "they": [
+          "miporsand",
+          "miporsan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram miporsam"
+        ],
+        "you": [
+          "dâri miporsi"
+        ],
+        "heShe": [
+          "dârad miporsad",
+          "dâre miporse"
+        ],
+        "we": [
+          "dârim miporsim"
+        ],
+        "youPlural": [
+          "dârid miporsid",
+          "dârin miporsin"
+        ],
+        "they": [
+          "dârand miporsand",
+          "dâran miporsan"
+        ]
+      },
+      "past": {
+        "i": [
+          "porsidam"
+        ],
+        "you": [
+          "porsidi"
+        ],
+        "heShe": [
+          "porsid"
+        ],
+        "we": [
+          "porsidim"
+        ],
+        "youPlural": [
+          "porsidid",
+          "porsidin"
+        ],
+        "they": [
+          "porsidand",
+          "porsidan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam miporsidam"
+        ],
+        "you": [
+          "dâshti miporsidi"
+        ],
+        "heShe": [
+          "dâsht miporsid"
+        ],
+        "we": [
+          "dâshtim miporsidim"
+        ],
+        "youPlural": [
+          "dâshtid miporsidid",
+          "dâshtin miporsidin"
+        ],
+        "they": [
+          "dâshtand miporsidand",
+          "dâshtan miporsidan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham porsid"
+        ],
+        "you": [
+          "khâhi porsid"
+        ],
+        "heShe": [
+          "khâhad porsid"
+        ],
+        "we": [
+          "khâhim porsid"
+        ],
+        "youPlural": [
+          "khâhid porsid"
+        ],
+        "they": [
+          "khâhand porsid"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beporsam"
+        ],
+        "you": [
+          "bâyad beporsi"
+        ],
+        "heShe": [
+          "bâyad beporsad",
+          "bâyad beporse"
+        ],
+        "we": [
+          "bâyad beporsim"
+        ],
+        "youPlural": [
+          "bâyad beporsid",
+          "bâyad beporsin"
+        ],
+        "they": [
+          "bâyad beporsand",
+          "bâyad beporsan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "build",
+    "meaning": "build",
+    "infinitive": "sâkhtan",
+    "imperative": "besâz",
+    "presentStem": "sâz",
+    "pastStem": "sâkht",
+    "forms": {
+      "present": {
+        "i": [
+          "misâzam"
+        ],
+        "you": [
+          "misâzi"
+        ],
+        "heShe": [
+          "misâzad",
+          "misâze"
+        ],
+        "we": [
+          "misâzim"
+        ],
+        "youPlural": [
+          "misâzid",
+          "misâzin"
+        ],
+        "they": [
+          "misâzand",
+          "misâzan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram misâzam"
+        ],
+        "you": [
+          "dâri misâzi"
+        ],
+        "heShe": [
+          "dârad misâzad",
+          "dâre misâze"
+        ],
+        "we": [
+          "dârim misâzim"
+        ],
+        "youPlural": [
+          "dârid misâzid",
+          "dârin misâzin"
+        ],
+        "they": [
+          "dârand misâzand",
+          "dâran misâzan"
+        ]
+      },
+      "past": {
+        "i": [
+          "sâkhtam"
+        ],
+        "you": [
+          "sâkhti"
+        ],
+        "heShe": [
+          "sâkht"
+        ],
+        "we": [
+          "sâkhtim"
+        ],
+        "youPlural": [
+          "sâkhtid",
+          "sâkhtin"
+        ],
+        "they": [
+          "sâkhtand",
+          "sâkhtan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam misâkhtam"
+        ],
+        "you": [
+          "dâshti misâkhti"
+        ],
+        "heShe": [
+          "dâsht misâkht"
+        ],
+        "we": [
+          "dâshtim misâkhtim"
+        ],
+        "youPlural": [
+          "dâshtid misâkhtid",
+          "dâshtin misâkhtin"
+        ],
+        "they": [
+          "dâshtand misâkhtand",
+          "dâshtan misâkhtan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham sâkht"
+        ],
+        "you": [
+          "khâhi sâkht"
+        ],
+        "heShe": [
+          "khâhad sâkht"
+        ],
+        "we": [
+          "khâhim sâkht"
+        ],
+        "youPlural": [
+          "khâhid sâkht"
+        ],
+        "they": [
+          "khâhand sâkht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad besâzam"
+        ],
+        "you": [
+          "bâyad besâzi"
+        ],
+        "heShe": [
+          "bâyad besâzad",
+          "bâyad besâze"
+        ],
+        "we": [
+          "bâyad besâzim"
+        ],
+        "youPlural": [
+          "bâyad besâzid",
+          "bâyad besâzin"
+        ],
+        "they": [
+          "bâyad besâzand",
+          "bâyad besâzan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "read",
+    "meaning": "read",
+    "infinitive": "khândan",
+    "imperative": "bekhân",
+    "presentStem": "khân",
+    "pastStem": "khând",
+    "forms": {
+      "present": {
+        "i": [
+          "mikhânam",
+          "mikhunam"
+        ],
+        "you": [
+          "mikhâni",
+          "mikhuni"
+        ],
+        "heShe": [
+          "mikhânad",
+          "mikhune"
+        ],
+        "we": [
+          "mikhânim",
+          "mikhunim"
+        ],
+        "youPlural": [
+          "mikhânid",
+          "mikhunin"
+        ],
+        "they": [
+          "mikhânand",
+          "mikhunan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mikhânam",
+          "dâram mikhunam"
+        ],
+        "you": [
+          "dâri mikhâni",
+          "dâri mikhuni"
+        ],
+        "heShe": [
+          "dârad mikhânad",
+          "dâre mikhune"
+        ],
+        "we": [
+          "dârim mikhânim",
+          "dârim mikhunim"
+        ],
+        "youPlural": [
+          "dârid mikhânid",
+          "dârin mikhunin"
+        ],
+        "they": [
+          "dârand mikhânand",
+          "dâran mikhunan"
+        ]
+      },
+      "past": {
+        "i": [
+          "khândam",
+          "khundam"
+        ],
+        "you": [
+          "khândi",
+          "khundi"
+        ],
+        "heShe": [
+          "khând",
+          "khund"
+        ],
+        "we": [
+          "khândim",
+          "khundim"
+        ],
+        "youPlural": [
+          "khândid",
+          "khundin"
+        ],
+        "they": [
+          "khândand",
+          "khundan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mikhândam",
+          "dâshtam mikhundam"
+        ],
+        "you": [
+          "dâshti mikhândi",
+          "dâshti mikhundi"
+        ],
+        "heShe": [
+          "dâsht mikhând",
+          "dâsht mikhund"
+        ],
+        "we": [
+          "dâshtim mikhândim",
+          "dâshtim mikhundim"
+        ],
+        "youPlural": [
+          "dâshtid mikhândid",
+          "dâshtin mikhundin"
+        ],
+        "they": [
+          "dâshtand mikhândand",
+          "dâshtan mikhundan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham khând"
+        ],
+        "you": [
+          "khâhi khând"
+        ],
+        "heShe": [
+          "khâhad khând"
+        ],
+        "we": [
+          "khâhim khând"
+        ],
+        "youPlural": [
+          "khâhid khând"
+        ],
+        "they": [
+          "khâhand khând"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bekhânam",
+          "bâyad bekhunam"
+        ],
+        "you": [
+          "bâyad bekhâni",
+          "bâyad bekhuni"
+        ],
+        "heShe": [
+          "bâyad bekhânad",
+          "bâyad bekhune"
+        ],
+        "we": [
+          "bâyad bekhânim",
+          "bâyad bekhunim"
+        ],
+        "youPlural": [
+          "bâyad bekhânid",
+          "bâyad bekhunin"
+        ],
+        "they": [
+          "bâyad bekhânand",
+          "bâyad bekhunan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "wash",
+    "meaning": "wash",
+    "infinitive": "shostan",
+    "imperative": "beshuy",
+    "presentStem": "shuy",
+    "pastStem": "shost",
+    "forms": {
+      "present": {
+        "i": [
+          "mishuyam",
+          "mishuam"
+        ],
+        "you": [
+          "mishuyi",
+          "mishui"
+        ],
+        "heShe": [
+          "mishuyad",
+          "mishue"
+        ],
+        "we": [
+          "mishuyim",
+          "mishuim"
+        ],
+        "youPlural": [
+          "mishuyid",
+          "mishuin"
+        ],
+        "they": [
+          "mishuyand",
+          "mishuan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mishuyam",
+          "dâram mishuam"
+        ],
+        "you": [
+          "dâri mishuyi",
+          "dâri mishui"
+        ],
+        "heShe": [
+          "dârad mishuyad",
+          "dâre mishue"
+        ],
+        "we": [
+          "dârim mishuyim",
+          "dârim mishuim"
+        ],
+        "youPlural": [
+          "dârid mishuyid",
+          "dârin mishuin"
+        ],
+        "they": [
+          "dârand mishuyand",
+          "dâran mishuan"
+        ]
+      },
+      "past": {
+        "i": [
+          "shostam"
+        ],
+        "you": [
+          "shosti"
+        ],
+        "heShe": [
+          "shost"
+        ],
+        "we": [
+          "shostim"
+        ],
+        "youPlural": [
+          "shostid",
+          "shostin"
+        ],
+        "they": [
+          "shostand",
+          "shostan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mishostam"
+        ],
+        "you": [
+          "dâshti mishosti"
+        ],
+        "heShe": [
+          "dâsht mishost"
+        ],
+        "we": [
+          "dâshtim mishostim"
+        ],
+        "youPlural": [
+          "dâshtid mishostid",
+          "dâshtin mishostin"
+        ],
+        "they": [
+          "dâshtand mishostand",
+          "dâshtan mishostan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham shost"
+        ],
+        "you": [
+          "khâhi shost"
+        ],
+        "heShe": [
+          "khâhad shost"
+        ],
+        "we": [
+          "khâhim shost"
+        ],
+        "youPlural": [
+          "khâhid shost"
+        ],
+        "they": [
+          "khâhand shost"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beshuyam",
+          "bâyad beshuam"
+        ],
+        "you": [
+          "bâyad beshuyi",
+          "bâyad beshui"
+        ],
+        "heShe": [
+          "bâyad beshuyad",
+          "bâyad beshue"
+        ],
+        "we": [
+          "bâyad beshuyim",
+          "bâyad beshuim"
+        ],
+        "youPlural": [
+          "bâyad beshuyid",
+          "bâyad beshuin"
+        ],
+        "they": [
+          "bâyad beshuyand",
+          "bâyad beshuan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "arrive",
+    "meaning": "arrive",
+    "infinitive": "residan",
+    "imperative": "beres",
+    "presentStem": "res",
+    "pastStem": "resid",
+    "forms": {
+      "present": {
+        "i": [
+          "miresam"
+        ],
+        "you": [
+          "miresi"
+        ],
+        "heShe": [
+          "miresad",
+          "mirese"
+        ],
+        "we": [
+          "miresim"
+        ],
+        "youPlural": [
+          "miresid",
+          "miresin"
+        ],
+        "they": [
+          "miresand",
+          "miresan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram miresam"
+        ],
+        "you": [
+          "dâri miresi"
+        ],
+        "heShe": [
+          "dârad miresad",
+          "dâre mirese"
+        ],
+        "we": [
+          "dârim miresim"
+        ],
+        "youPlural": [
+          "dârid miresid",
+          "dârin miresin"
+        ],
+        "they": [
+          "dârand miresand",
+          "dâran miresan"
+        ]
+      },
+      "past": {
+        "i": [
+          "residam"
+        ],
+        "you": [
+          "residi"
+        ],
+        "heShe": [
+          "resid"
+        ],
+        "we": [
+          "residim"
+        ],
+        "youPlural": [
+          "residid",
+          "residin"
+        ],
+        "they": [
+          "residand",
+          "residan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam miresidam"
+        ],
+        "you": [
+          "dâshti miresidi"
+        ],
+        "heShe": [
+          "dâsht miresid"
+        ],
+        "we": [
+          "dâshtim miresidim"
+        ],
+        "youPlural": [
+          "dâshtid miresidid",
+          "dâshtin miresidin"
+        ],
+        "they": [
+          "dâshtand miresidand",
+          "dâshtan miresidan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham resid"
+        ],
+        "you": [
+          "khâhi resid"
+        ],
+        "heShe": [
+          "khâhad resid"
+        ],
+        "we": [
+          "khâhim resid"
+        ],
+        "youPlural": [
+          "khâhid resid"
+        ],
+        "they": [
+          "khâhand resid"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beresam"
+        ],
+        "you": [
+          "bâyad beresi"
+        ],
+        "heShe": [
+          "bâyad beresad",
+          "bâyad berese"
+        ],
+        "we": [
+          "bâyad beresim"
+        ],
+        "youPlural": [
+          "bâyad beresid",
+          "bâyad beresin"
+        ],
+        "they": [
+          "bâyad beresand",
+          "bâyad beresan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "do",
+    "meaning": "do",
+    "infinitive": "kardan",
+    "imperative": "bekon",
+    "presentStem": "kon",
+    "pastStem": "kard",
+    "forms": {
+      "present": {
+        "i": [
+          "mikonam"
+        ],
+        "you": [
+          "mikoni"
+        ],
+        "heShe": [
+          "mikonad",
+          "mikone"
+        ],
+        "we": [
+          "mikonim"
+        ],
+        "youPlural": [
+          "mikonid",
+          "mikonin"
+        ],
+        "they": [
+          "mikonand",
+          "mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mikonam"
+        ],
+        "you": [
+          "dâri mikoni"
+        ],
+        "heShe": [
+          "dârad mikonad",
+          "dâre mikone"
+        ],
+        "we": [
+          "dârim mikonim"
+        ],
+        "youPlural": [
+          "dârid mikonid",
+          "dârin mikonin"
+        ],
+        "they": [
+          "dârand mikonand",
+          "dâran mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "kardam"
+        ],
+        "you": [
+          "kardi"
+        ],
+        "heShe": [
+          "kard"
+        ],
+        "we": [
+          "kardim"
+        ],
+        "youPlural": [
+          "kardid",
+          "kardin"
+        ],
+        "they": [
+          "kardand",
+          "kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mikardam"
+        ],
+        "you": [
+          "dâshti mikardi"
+        ],
+        "heShe": [
+          "dâsht mikard"
+        ],
+        "we": [
+          "dâshtim mikardim"
+        ],
+        "youPlural": [
+          "dâshtid mikardid",
+          "dâshtin mikardin"
+        ],
+        "they": [
+          "dâshtand mikardand",
+          "dâshtan mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham kard"
+        ],
+        "you": [
+          "khâhi kard"
+        ],
+        "heShe": [
+          "khâhad kard"
+        ],
+        "we": [
+          "khâhim kard"
+        ],
+        "youPlural": [
+          "khâhid kard"
+        ],
+        "they": [
+          "khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bekonam"
+        ],
+        "you": [
+          "bâyad bekoni"
+        ],
+        "heShe": [
+          "bâyad bekonad",
+          "bâyad bekone"
+        ],
+        "we": [
+          "bâyad bekonim"
+        ],
+        "youPlural": [
+          "bâyad bekonid",
+          "bâyad bekonin"
+        ],
+        "they": [
+          "bâyad bekonand",
+          "bâyad bekonan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "give",
+    "meaning": "give",
+    "infinitive": "dâdan",
+    "imperative": "bedeh",
+    "presentStem": "deh",
+    "pastStem": "dâd",
+    "forms": {
+      "present": {
+        "i": [
+          "mideham",
+          "midam"
+        ],
+        "you": [
+          "midehi",
+          "midi"
+        ],
+        "heShe": [
+          "midehad",
+          "mide"
+        ],
+        "we": [
+          "midehim",
+          "midim"
+        ],
+        "youPlural": [
+          "midehid",
+          "midin"
+        ],
+        "they": [
+          "midehand",
+          "midan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mideham",
+          "dâram midam"
+        ],
+        "you": [
+          "dâri midehi",
+          "dâri midi"
+        ],
+        "heShe": [
+          "dârad midehad",
+          "dâre mide"
+        ],
+        "we": [
+          "dârim midehim",
+          "dârim midim"
+        ],
+        "youPlural": [
+          "dârid midehid",
+          "dârin midin"
+        ],
+        "they": [
+          "dârand midehand",
+          "dâran midan"
+        ]
+      },
+      "past": {
+        "i": [
+          "dâdam"
+        ],
+        "you": [
+          "dâdi"
+        ],
+        "heShe": [
+          "dâd"
+        ],
+        "we": [
+          "dâdim"
+        ],
+        "youPlural": [
+          "dâdid",
+          "dâdin"
+        ],
+        "they": [
+          "dâdand",
+          "dâdan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam midâdam"
+        ],
+        "you": [
+          "dâshti midâdi"
+        ],
+        "heShe": [
+          "dâsht midâd"
+        ],
+        "we": [
+          "dâshtim midâdim"
+        ],
+        "youPlural": [
+          "dâshtid midâdid",
+          "dâshtin midâdin"
+        ],
+        "they": [
+          "dâshtand midâdand",
+          "dâshtan midâdan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham dâd"
+        ],
+        "you": [
+          "khâhi dâd"
+        ],
+        "heShe": [
+          "khâhad dâd"
+        ],
+        "we": [
+          "khâhim dâd"
+        ],
+        "youPlural": [
+          "khâhid dâd"
+        ],
+        "they": [
+          "khâhand dâd"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bedeham",
+          "bâyad bedam"
+        ],
+        "you": [
+          "bâyad bedehi",
+          "bâyad bedi"
+        ],
+        "heShe": [
+          "bâyad bedehad",
+          "bâyad bede"
+        ],
+        "we": [
+          "bâyad bedehim",
+          "bâyad bedim"
+        ],
+        "youPlural": [
+          "bâyad bedehid",
+          "bâyad bedin"
+        ],
+        "they": [
+          "bâyad bedehand",
+          "bâyad bedan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "pick-up",
+    "meaning": "pick up",
+    "infinitive": "bardâshtan",
+    "imperative": "bardâr",
+    "presentStem": "bardâr",
+    "pastStem": "bardâsht",
+    "forms": {
+      "present": {
+        "i": [
+          "mibardâram"
+        ],
+        "you": [
+          "mibardâri"
+        ],
+        "heShe": [
+          "mibardârad",
+          "mibardâre"
+        ],
+        "we": [
+          "mibardârim"
+        ],
+        "youPlural": [
+          "mibardârid",
+          "mibardârin"
+        ],
+        "they": [
+          "mibardârand",
+          "mibardâran"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mibardâram"
+        ],
+        "you": [
+          "dâri mibardâri"
+        ],
+        "heShe": [
+          "dârad mibardârad",
+          "dâre mibardâre"
+        ],
+        "we": [
+          "dârim mibardârim"
+        ],
+        "youPlural": [
+          "dârid mibardârid",
+          "dârin mibardârin"
+        ],
+        "they": [
+          "dârand mibardârand",
+          "dâran mibardâran"
+        ]
+      },
+      "past": {
+        "i": [
+          "bardâshtam"
+        ],
+        "you": [
+          "bardâshti"
+        ],
+        "heShe": [
+          "bardâsht"
+        ],
+        "we": [
+          "bardâshtim"
+        ],
+        "youPlural": [
+          "bardâshtid",
+          "bardâshtin"
+        ],
+        "they": [
+          "bardâshtand",
+          "bardâshtan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mibardâshtam"
+        ],
+        "you": [
+          "dâshti mibardâshti"
+        ],
+        "heShe": [
+          "dâsht mibardâsht"
+        ],
+        "we": [
+          "dâshtim mibardâshtim"
+        ],
+        "youPlural": [
+          "dâshtid mibardâshtid",
+          "dâshtin mibardâshtin"
+        ],
+        "they": [
+          "dâshtand mibardâshtand",
+          "dâshtan mibardâshtan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham bardâsht"
+        ],
+        "you": [
+          "khâhi bardâsht"
+        ],
+        "heShe": [
+          "khâhad bardâsht"
+        ],
+        "we": [
+          "khâhim bardâsht"
+        ],
+        "youPlural": [
+          "khâhid bardâsht"
+        ],
+        "they": [
+          "khâhand bardâsht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bardâram"
+        ],
+        "you": [
+          "bâyad bardâri"
+        ],
+        "heShe": [
+          "bâyad bardârad",
+          "bâyad bardâre"
+        ],
+        "we": [
+          "bâyad bardârim"
+        ],
+        "youPlural": [
+          "bâyad bardârid",
+          "bâyad bardârin"
+        ],
+        "they": [
+          "bâyad bardârand",
+          "bâyad bardâran"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "buy",
+    "meaning": "buy",
+    "infinitive": "kharidan",
+    "imperative": "bekhar",
+    "presentStem": "khar",
+    "pastStem": "kharid",
+    "forms": {
+      "present": {
+        "i": [
+          "mikharam"
+        ],
+        "you": [
+          "mikhari"
+        ],
+        "heShe": [
+          "mikharad",
+          "mikhare"
+        ],
+        "we": [
+          "mikharim"
+        ],
+        "youPlural": [
+          "mikharid",
+          "mikharin"
+        ],
+        "they": [
+          "mikharand",
+          "mikharan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mikharam"
+        ],
+        "you": [
+          "dâri mikhari"
+        ],
+        "heShe": [
+          "dârad mikharad",
+          "dâre mikhare"
+        ],
+        "we": [
+          "dârim mikharim"
+        ],
+        "youPlural": [
+          "dârid mikharid",
+          "dârin mikharin"
+        ],
+        "they": [
+          "dârand mikharand",
+          "dâran mikharan"
+        ]
+      },
+      "past": {
+        "i": [
+          "kharidam"
+        ],
+        "you": [
+          "kharidi"
+        ],
+        "heShe": [
+          "kharid"
+        ],
+        "we": [
+          "kharidim"
+        ],
+        "youPlural": [
+          "kharidid",
+          "kharidin"
+        ],
+        "they": [
+          "kharidand",
+          "kharidan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mikharidam"
+        ],
+        "you": [
+          "dâshti mikharidi"
+        ],
+        "heShe": [
+          "dâsht mikharid"
+        ],
+        "we": [
+          "dâshtim mikharidim"
+        ],
+        "youPlural": [
+          "dâshtid mikharidid",
+          "dâshtin mikharidin"
+        ],
+        "they": [
+          "dâshtand mikharidand",
+          "dâshtan mikharidan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham kharid"
+        ],
+        "you": [
+          "khâhi kharid"
+        ],
+        "heShe": [
+          "khâhad kharid"
+        ],
+        "we": [
+          "khâhim kharid"
+        ],
+        "youPlural": [
+          "khâhid kharid"
+        ],
+        "they": [
+          "khâhand kharid"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bekharam"
+        ],
+        "you": [
+          "bâyad bekhari"
+        ],
+        "heShe": [
+          "bâyad bekharad",
+          "bâyad bekhare"
+        ],
+        "we": [
+          "bâyad bekharim"
+        ],
+        "youPlural": [
+          "bâyad bekharid",
+          "bâyad bekharin"
+        ],
+        "they": [
+          "bâyad bekharand",
+          "bâyad bekharan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "sit",
+    "meaning": "sit",
+    "infinitive": "neshastan",
+    "imperative": "beneshin",
+    "presentStem": "neshin",
+    "pastStem": "neshast",
+    "forms": {
+      "present": {
+        "i": [
+          "mineshinam"
+        ],
+        "you": [
+          "mineshini"
+        ],
+        "heShe": [
+          "mineshinad",
+          "mineshine"
+        ],
+        "we": [
+          "mineshinim"
+        ],
+        "youPlural": [
+          "mineshinid",
+          "mineshinin"
+        ],
+        "they": [
+          "mineshinand",
+          "mineshinan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mineshinam"
+        ],
+        "you": [
+          "dâri mineshini"
+        ],
+        "heShe": [
+          "dârad mineshinad",
+          "dâre mineshine"
+        ],
+        "we": [
+          "dârim mineshinim"
+        ],
+        "youPlural": [
+          "dârid mineshinid",
+          "dârin mineshinin"
+        ],
+        "they": [
+          "dârand mineshinand",
+          "dâran mineshinan"
+        ]
+      },
+      "past": {
+        "i": [
+          "neshastam"
+        ],
+        "you": [
+          "neshasti"
+        ],
+        "heShe": [
+          "neshast"
+        ],
+        "we": [
+          "neshastim"
+        ],
+        "youPlural": [
+          "neshastid",
+          "neshastin"
+        ],
+        "they": [
+          "neshastand",
+          "neshastan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mineshastam"
+        ],
+        "you": [
+          "dâshti mineshasti"
+        ],
+        "heShe": [
+          "dâsht mineshast"
+        ],
+        "we": [
+          "dâshtim mineshastim"
+        ],
+        "youPlural": [
+          "dâshtid mineshastid",
+          "dâshtin mineshastin"
+        ],
+        "they": [
+          "dâshtand mineshastand",
+          "dâshtan mineshastan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham neshast"
+        ],
+        "you": [
+          "khâhi neshast"
+        ],
+        "heShe": [
+          "khâhad neshast"
+        ],
+        "we": [
+          "khâhim neshast"
+        ],
+        "youPlural": [
+          "khâhid neshast"
+        ],
+        "they": [
+          "khâhand neshast"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beneshinam"
+        ],
+        "you": [
+          "bâyad beneshini"
+        ],
+        "heShe": [
+          "bâyad beneshinad",
+          "bâyad beneshine"
+        ],
+        "we": [
+          "bâyad beneshinim"
+        ],
+        "youPlural": [
+          "bâyad beneshinid",
+          "bâyad beneshinin"
+        ],
+        "they": [
+          "bâyad beneshinand",
+          "bâyad beneshinan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "put",
+    "meaning": "put",
+    "infinitive": "gozâshtan",
+    "imperative": "begozâr",
+    "presentStem": "gozâr",
+    "pastStem": "gozâsht",
+    "forms": {
+      "present": {
+        "i": [
+          "migozâram"
+        ],
+        "you": [
+          "migozâri"
+        ],
+        "heShe": [
+          "migozârad",
+          "migozâre"
+        ],
+        "we": [
+          "migozârim"
+        ],
+        "youPlural": [
+          "migozârid",
+          "migozârin"
+        ],
+        "they": [
+          "migozârand",
+          "migozâran"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram migozâram"
+        ],
+        "you": [
+          "dâri migozâri"
+        ],
+        "heShe": [
+          "dârad migozârad",
+          "dâre migozâre"
+        ],
+        "we": [
+          "dârim migozârim"
+        ],
+        "youPlural": [
+          "dârid migozârid",
+          "dârin migozârin"
+        ],
+        "they": [
+          "dârand migozârand",
+          "dâran migozâran"
+        ]
+      },
+      "past": {
+        "i": [
+          "gozâshtam"
+        ],
+        "you": [
+          "gozâshti"
+        ],
+        "heShe": [
+          "gozâsht"
+        ],
+        "we": [
+          "gozâshtim"
+        ],
+        "youPlural": [
+          "gozâshtid",
+          "gozâshtin"
+        ],
+        "they": [
+          "gozâshtand",
+          "gozâshtan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam migozâshtam"
+        ],
+        "you": [
+          "dâshti migozâshti"
+        ],
+        "heShe": [
+          "dâsht migozâsht"
+        ],
+        "we": [
+          "dâshtim migozâshtim"
+        ],
+        "youPlural": [
+          "dâshtid migozâshtid",
+          "dâshtin migozâshtin"
+        ],
+        "they": [
+          "dâshtand migozâshtand",
+          "dâshtan migozâshtan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham gozâsht"
+        ],
+        "you": [
+          "khâhi gozâsht"
+        ],
+        "heShe": [
+          "khâhad gozâsht"
+        ],
+        "we": [
+          "khâhim gozâsht"
+        ],
+        "youPlural": [
+          "khâhid gozâsht"
+        ],
+        "they": [
+          "khâhand gozâsht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad begozâram"
+        ],
+        "you": [
+          "bâyad begozâri"
+        ],
+        "heShe": [
+          "bâyad begozârad",
+          "bâyad begozâre"
+        ],
+        "we": [
+          "bâyad begozârim"
+        ],
+        "youPlural": [
+          "bâyad begozârid",
+          "bâyad begozârin"
+        ],
+        "they": [
+          "bâyad begozârand",
+          "bâyad begozâran"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "take",
+    "meaning": "take away",
+    "infinitive": "bordan",
+    "imperative": "bebar",
+    "presentStem": "bar",
+    "pastStem": "bord",
+    "forms": {
+      "present": {
+        "i": [
+          "mibaram"
+        ],
+        "you": [
+          "mibari"
+        ],
+        "heShe": [
+          "mibarad",
+          "mibare"
+        ],
+        "we": [
+          "mibarim"
+        ],
+        "youPlural": [
+          "mibarid",
+          "mibarin"
+        ],
+        "they": [
+          "mibarand",
+          "mibaran"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mibaram"
+        ],
+        "you": [
+          "dâri mibari"
+        ],
+        "heShe": [
+          "dârad mibarad",
+          "dâre mibare"
+        ],
+        "we": [
+          "dârim mibarim"
+        ],
+        "youPlural": [
+          "dârid mibarid",
+          "dârin mibarin"
+        ],
+        "they": [
+          "dârand mibarand",
+          "dâran mibaran"
+        ]
+      },
+      "past": {
+        "i": [
+          "bordam"
+        ],
+        "you": [
+          "bordi"
+        ],
+        "heShe": [
+          "bord"
+        ],
+        "we": [
+          "bordim"
+        ],
+        "youPlural": [
+          "bordid",
+          "bordin"
+        ],
+        "they": [
+          "bordand",
+          "bordan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mibordam"
+        ],
+        "you": [
+          "dâshti mibordi"
+        ],
+        "heShe": [
+          "dâsht mibord"
+        ],
+        "we": [
+          "dâshtim mibordim"
+        ],
+        "youPlural": [
+          "dâshtid mibordid",
+          "dâshtin mibordin"
+        ],
+        "they": [
+          "dâshtand mibordand",
+          "dâshtan mibordan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham bord"
+        ],
+        "you": [
+          "khâhi bord"
+        ],
+        "heShe": [
+          "khâhad bord"
+        ],
+        "we": [
+          "khâhim bord"
+        ],
+        "youPlural": [
+          "khâhid bord"
+        ],
+        "they": [
+          "khâhand bord"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bebaram"
+        ],
+        "you": [
+          "bâyad bebari"
+        ],
+        "heShe": [
+          "bâyad bebarad",
+          "bâyad bebare"
+        ],
+        "we": [
+          "bâyad bebarim"
+        ],
+        "youPlural": [
+          "bâyad bebarid",
+          "bâyad bebarin"
+        ],
+        "they": [
+          "bâyad bebarand",
+          "bâyad bebaran"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "pour",
+    "meaning": "pour",
+    "infinitive": "rikhtan",
+    "imperative": "beriz",
+    "presentStem": "riz",
+    "pastStem": "rikht",
+    "forms": {
+      "present": {
+        "i": [
+          "mirizam"
+        ],
+        "you": [
+          "mirizi"
+        ],
+        "heShe": [
+          "mirizad",
+          "mirize"
+        ],
+        "we": [
+          "mirizim"
+        ],
+        "youPlural": [
+          "mirizid",
+          "mirizin"
+        ],
+        "they": [
+          "mirizand",
+          "mirizan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mirizam"
+        ],
+        "you": [
+          "dâri mirizi"
+        ],
+        "heShe": [
+          "dârad mirizad",
+          "dâre mirize"
+        ],
+        "we": [
+          "dârim mirizim"
+        ],
+        "youPlural": [
+          "dârid mirizid",
+          "dârin mirizin"
+        ],
+        "they": [
+          "dârand mirizand",
+          "dâran mirizan"
+        ]
+      },
+      "past": {
+        "i": [
+          "rikhtam"
+        ],
+        "you": [
+          "rikhti"
+        ],
+        "heShe": [
+          "rikht"
+        ],
+        "we": [
+          "rikhtim"
+        ],
+        "youPlural": [
+          "rikhtid",
+          "rikhtin"
+        ],
+        "they": [
+          "rikhtand",
+          "rikhtan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mirikhtam"
+        ],
+        "you": [
+          "dâshti mirikhti"
+        ],
+        "heShe": [
+          "dâsht mirikht"
+        ],
+        "we": [
+          "dâshtim mirikhtim"
+        ],
+        "youPlural": [
+          "dâshtid mirikhtid",
+          "dâshtin mirikhtin"
+        ],
+        "they": [
+          "dâshtand mirikhtand",
+          "dâshtan mirikhtan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham rikht"
+        ],
+        "you": [
+          "khâhi rikht"
+        ],
+        "heShe": [
+          "khâhad rikht"
+        ],
+        "we": [
+          "khâhim rikht"
+        ],
+        "youPlural": [
+          "khâhid rikht"
+        ],
+        "they": [
+          "khâhand rikht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad berizam"
+        ],
+        "you": [
+          "bâyad berizi"
+        ],
+        "heShe": [
+          "bâyad berizad",
+          "bâyad berize"
+        ],
+        "we": [
+          "bâyad berizim"
+        ],
+        "youPlural": [
+          "bâyad berizid",
+          "bâyad berizin"
+        ],
+        "they": [
+          "bâyad berizand",
+          "bâyad berizan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "pull",
+    "meaning": "pull",
+    "infinitive": "keshidan",
+    "imperative": "bekesh",
+    "presentStem": "kesh",
+    "pastStem": "keshid",
+    "forms": {
+      "present": {
+        "i": [
+          "mikesham"
+        ],
+        "you": [
+          "mikeshi"
+        ],
+        "heShe": [
+          "mikeshad",
+          "mikeshe"
+        ],
+        "we": [
+          "mikeshim"
+        ],
+        "youPlural": [
+          "mikeshid",
+          "mikeshin"
+        ],
+        "they": [
+          "mikeshand",
+          "mikeshan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mikesham"
+        ],
+        "you": [
+          "dâri mikeshi"
+        ],
+        "heShe": [
+          "dârad mikeshad",
+          "dâre mikeshe"
+        ],
+        "we": [
+          "dârim mikeshim"
+        ],
+        "youPlural": [
+          "dârid mikeshid",
+          "dârin mikeshin"
+        ],
+        "they": [
+          "dârand mikeshand",
+          "dâran mikeshan"
+        ]
+      },
+      "past": {
+        "i": [
+          "keshidam"
+        ],
+        "you": [
+          "keshidi"
+        ],
+        "heShe": [
+          "keshid"
+        ],
+        "we": [
+          "keshidim"
+        ],
+        "youPlural": [
+          "keshidid",
+          "keshidin"
+        ],
+        "they": [
+          "keshidand",
+          "keshidan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mikeshidam"
+        ],
+        "you": [
+          "dâshti mikeshidi"
+        ],
+        "heShe": [
+          "dâsht mikeshid"
+        ],
+        "we": [
+          "dâshtim mikeshidim"
+        ],
+        "youPlural": [
+          "dâshtid mikeshidid",
+          "dâshtin mikeshidin"
+        ],
+        "they": [
+          "dâshtand mikeshidand",
+          "dâshtan mikeshidan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham keshid"
+        ],
+        "you": [
+          "khâhi keshid"
+        ],
+        "heShe": [
+          "khâhad keshid"
+        ],
+        "we": [
+          "khâhim keshid"
+        ],
+        "youPlural": [
+          "khâhid keshid"
+        ],
+        "they": [
+          "khâhand keshid"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bekesham"
+        ],
+        "you": [
+          "bâyad bekeshi"
+        ],
+        "heShe": [
+          "bâyad bekeshad",
+          "bâyad bekeshe"
+        ],
+        "we": [
+          "bâyad bekeshim"
+        ],
+        "youPlural": [
+          "bâyad bekeshid",
+          "bâyad bekeshin"
+        ],
+        "they": [
+          "bâyad bekeshand",
+          "bâyad bekeshan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "break",
+    "meaning": "break",
+    "infinitive": "shekastan",
+    "imperative": "beshekan",
+    "presentStem": "shekan",
+    "pastStem": "shekast",
+    "forms": {
+      "present": {
+        "i": [
+          "mishekanam"
+        ],
+        "you": [
+          "mishekani"
+        ],
+        "heShe": [
+          "mishekanad",
+          "mishekane"
+        ],
+        "we": [
+          "mishekanim"
+        ],
+        "youPlural": [
+          "mishekanid",
+          "mishekanin"
+        ],
+        "they": [
+          "mishekanand",
+          "mishekanan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mishekanam"
+        ],
+        "you": [
+          "dâri mishekani"
+        ],
+        "heShe": [
+          "dârad mishekanad",
+          "dâre mishekane"
+        ],
+        "we": [
+          "dârim mishekanim"
+        ],
+        "youPlural": [
+          "dârid mishekanid",
+          "dârin mishekanin"
+        ],
+        "they": [
+          "dârand mishekanand",
+          "dâran mishekanan"
+        ]
+      },
+      "past": {
+        "i": [
+          "shekastam"
+        ],
+        "you": [
+          "shekasti"
+        ],
+        "heShe": [
+          "shekast"
+        ],
+        "we": [
+          "shekastim"
+        ],
+        "youPlural": [
+          "shekastid",
+          "shekastin"
+        ],
+        "they": [
+          "shekastand",
+          "shekastan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mishekastam"
+        ],
+        "you": [
+          "dâshti mishekasti"
+        ],
+        "heShe": [
+          "dâsht mishekast"
+        ],
+        "we": [
+          "dâshtim mishekastim"
+        ],
+        "youPlural": [
+          "dâshtid mishekastid",
+          "dâshtin mishekastin"
+        ],
+        "they": [
+          "dâshtand mishekastand",
+          "dâshtan mishekastan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham shekast"
+        ],
+        "you": [
+          "khâhi shekast"
+        ],
+        "heShe": [
+          "khâhad shekast"
+        ],
+        "we": [
+          "khâhim shekast"
+        ],
+        "youPlural": [
+          "khâhid shekast"
+        ],
+        "they": [
+          "khâhand shekast"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beshekanam"
+        ],
+        "you": [
+          "bâyad beshekani"
+        ],
+        "heShe": [
+          "bâyad beshekanad",
+          "bâyad beshekane"
+        ],
+        "we": [
+          "bâyad beshekanim"
+        ],
+        "youPlural": [
+          "bâyad beshekanid",
+          "bâyad beshekanin"
+        ],
+        "they": [
+          "bâyad beshekanand",
+          "bâyad beshekanan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "cook",
+    "meaning": "cook",
+    "infinitive": "pokhtan",
+    "imperative": "bepaz",
+    "presentStem": "paz",
+    "pastStem": "pokht",
+    "forms": {
+      "present": {
+        "i": [
+          "mipazam"
+        ],
+        "you": [
+          "mipazi"
+        ],
+        "heShe": [
+          "mipazad",
+          "mipaze"
+        ],
+        "we": [
+          "mipazim"
+        ],
+        "youPlural": [
+          "mipazid",
+          "mipazin"
+        ],
+        "they": [
+          "mipazand",
+          "mipazan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mipazam"
+        ],
+        "you": [
+          "dâri mipazi"
+        ],
+        "heShe": [
+          "dârad mipazad",
+          "dâre mipaze"
+        ],
+        "we": [
+          "dârim mipazim"
+        ],
+        "youPlural": [
+          "dârid mipazid",
+          "dârin mipazin"
+        ],
+        "they": [
+          "dârand mipazand",
+          "dâran mipazan"
+        ]
+      },
+      "past": {
+        "i": [
+          "pokhtam"
+        ],
+        "you": [
+          "pokhti"
+        ],
+        "heShe": [
+          "pokht"
+        ],
+        "we": [
+          "pokhtim"
+        ],
+        "youPlural": [
+          "pokhtid",
+          "pokhtin"
+        ],
+        "they": [
+          "pokhtand",
+          "pokhtan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mipokhtam"
+        ],
+        "you": [
+          "dâshti mipokhti"
+        ],
+        "heShe": [
+          "dâsht mipokht"
+        ],
+        "we": [
+          "dâshtim mipokhtim"
+        ],
+        "youPlural": [
+          "dâshtid mipokhtid",
+          "dâshtin mipokhtin"
+        ],
+        "they": [
+          "dâshtand mipokhtand",
+          "dâshtan mipokhtan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham pokht"
+        ],
+        "you": [
+          "khâhi pokht"
+        ],
+        "heShe": [
+          "khâhad pokht"
+        ],
+        "we": [
+          "khâhim pokht"
+        ],
+        "youPlural": [
+          "khâhid pokht"
+        ],
+        "they": [
+          "khâhand pokht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bepazam"
+        ],
+        "you": [
+          "bâyad bepazi"
+        ],
+        "heShe": [
+          "bâyad bepazad",
+          "bâyad bepaze"
+        ],
+        "we": [
+          "bâyad bepazim"
+        ],
+        "youPlural": [
+          "bâyad bepazid",
+          "bâyad bepazin"
+        ],
+        "they": [
+          "bâyad bepazand",
+          "bâyad bepazan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "seat",
+    "meaning": "seat someone",
+    "infinitive": "neshândan",
+    "imperative": "beneshân",
+    "presentStem": "neshân",
+    "pastStem": "neshând",
+    "forms": {
+      "present": {
+        "i": [
+          "mineshânam"
+        ],
+        "you": [
+          "mineshâni"
+        ],
+        "heShe": [
+          "mineshânad",
+          "mineshâne"
+        ],
+        "we": [
+          "mineshânim"
+        ],
+        "youPlural": [
+          "mineshânid",
+          "mineshânin"
+        ],
+        "they": [
+          "mineshânand",
+          "mineshânan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mineshânam"
+        ],
+        "you": [
+          "dâri mineshâni"
+        ],
+        "heShe": [
+          "dârad mineshânad",
+          "dâre mineshâne"
+        ],
+        "we": [
+          "dârim mineshânim"
+        ],
+        "youPlural": [
+          "dârid mineshânid",
+          "dârin mineshânin"
+        ],
+        "they": [
+          "dârand mineshânand",
+          "dâran mineshânan"
+        ]
+      },
+      "past": {
+        "i": [
+          "neshândam"
+        ],
+        "you": [
+          "neshândi"
+        ],
+        "heShe": [
+          "neshând"
+        ],
+        "we": [
+          "neshândim"
+        ],
+        "youPlural": [
+          "neshândid",
+          "neshândin"
+        ],
+        "they": [
+          "neshândand",
+          "neshândan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mineshândam"
+        ],
+        "you": [
+          "dâshti mineshândi"
+        ],
+        "heShe": [
+          "dâsht mineshând"
+        ],
+        "we": [
+          "dâshtim mineshândim"
+        ],
+        "youPlural": [
+          "dâshtid mineshândid",
+          "dâshtin mineshândin"
+        ],
+        "they": [
+          "dâshtand mineshândand",
+          "dâshtan mineshândan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâham neshând"
+        ],
+        "you": [
+          "khâhi neshând"
+        ],
+        "heShe": [
+          "khâhad neshând"
+        ],
+        "we": [
+          "khâhim neshând"
+        ],
+        "youPlural": [
+          "khâhid neshând"
+        ],
+        "they": [
+          "khâhand neshând"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad beneshânam"
+        ],
+        "you": [
+          "bâyad beneshâni"
+        ],
+        "heShe": [
+          "bâyad beneshânad",
+          "bâyad beneshâne"
+        ],
+        "we": [
+          "bâyad beneshânim"
+        ],
+        "youPlural": [
+          "bâyad beneshânid",
+          "bâyad beneshânin"
+        ],
+        "they": [
+          "bâyad beneshânand",
+          "bâyad beneshânan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "be",
+    "meaning": "be",
+    "infinitive": "budan",
+    "imperative": "bâsh",
+    "presentStem": "bâsh",
+    "pastStem": "bud",
+    "forms": {
+      "present": {
+        "i": [
+          "hastam"
+        ],
+        "you": [
+          "hasti"
+        ],
+        "heShe": [
+          "ast",
+          "hast"
+        ],
+        "we": [
+          "hastim"
+        ],
+        "youPlural": [
+          "hastid",
+          "hastin"
+        ],
+        "they": [
+          "hastand",
+          "hastan"
+        ]
+      },
+      "presentContinuous": {},
+      "past": {
+        "i": [
+          "budam"
+        ],
+        "you": [
+          "budi"
+        ],
+        "heShe": [
+          "bud"
+        ],
+        "we": [
+          "budim"
+        ],
+        "youPlural": [
+          "budid",
+          "budin"
+        ],
+        "they": [
+          "budand",
+          "budan"
+        ]
+      },
+      "pastContinuous": {},
+      "future": {
+        "i": [
+          "khâham bud"
+        ],
+        "you": [
+          "khâhi bud"
+        ],
+        "heShe": [
+          "khâhad bud"
+        ],
+        "we": [
+          "khâhim bud"
+        ],
+        "youPlural": [
+          "khâhid bud"
+        ],
+        "they": [
+          "khâhand bud"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bâsham"
+        ],
+        "you": [
+          "bâyad bâshi"
+        ],
+        "heShe": [
+          "bâyad bâshad",
+          "bâyad bâshe"
+        ],
+        "we": [
+          "bâyad bâshim"
+        ],
+        "youPlural": [
+          "bâyad bâshid",
+          "bâyad bâshin"
+        ],
+        "they": [
+          "bâyad bâshand",
+          "bâyad bâshan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Continuous forms are excluded for this state/ability meaning. Do not generate a quiz question for an empty form object."
+    ]
+  },
+  {
+    "id": "have",
+    "meaning": "have",
+    "infinitive": "dâshtan",
+    "imperative": "dâshte bâsh",
+    "presentStem": "dâr",
+    "pastStem": "dâsht",
+    "forms": {
+      "present": {
+        "i": [
+          "dâram"
+        ],
+        "you": [
+          "dâri"
+        ],
+        "heShe": [
+          "dârad",
+          "dâre"
+        ],
+        "we": [
+          "dârim"
+        ],
+        "youPlural": [
+          "dârid",
+          "dârin"
+        ],
+        "they": [
+          "dârand",
+          "dâran"
+        ]
+      },
+      "presentContinuous": {},
+      "past": {
+        "i": [
+          "dâshtam"
+        ],
+        "you": [
+          "dâshti"
+        ],
+        "heShe": [
+          "dâsht"
+        ],
+        "we": [
+          "dâshtim"
+        ],
+        "youPlural": [
+          "dâshtid",
+          "dâshtin"
+        ],
+        "they": [
+          "dâshtand",
+          "dâshtan"
+        ]
+      },
+      "pastContinuous": {},
+      "future": {
+        "i": [
+          "khâham dâsht"
+        ],
+        "you": [
+          "khâhi dâsht"
+        ],
+        "heShe": [
+          "khâhad dâsht"
+        ],
+        "we": [
+          "khâhim dâsht"
+        ],
+        "youPlural": [
+          "khâhid dâsht"
+        ],
+        "they": [
+          "khâhand dâsht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad dâshte bâsham"
+        ],
+        "you": [
+          "bâyad dâshte bâshi"
+        ],
+        "heShe": [
+          "bâyad dâshte bâshad",
+          "bâyad dâshte bâshe"
+        ],
+        "we": [
+          "bâyad dâshte bâshim"
+        ],
+        "youPlural": [
+          "bâyad dâshte bâshid",
+          "bâyad dâshte bâshin"
+        ],
+        "they": [
+          "bâyad dâshte bâshand",
+          "bâyad dâshte bâshan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Continuous forms are excluded for this state/ability meaning. Do not generate a quiz question for an empty form object.",
+      "Dâr is the present stem, not the imperative. The command and must construction use dâshte bâsh-."
+    ]
+  },
+  {
+    "id": "live",
+    "meaning": "live",
+    "infinitive": "zendegi kardan",
+    "imperative": "zendegi kon",
+    "presentStem": "zendegi kon",
+    "pastStem": "zendegi kard",
+    "forms": {
+      "present": {
+        "i": [
+          "zendegi mikonam"
+        ],
+        "you": [
+          "zendegi mikoni"
+        ],
+        "heShe": [
+          "zendegi mikonad",
+          "zendegi mikone"
+        ],
+        "we": [
+          "zendegi mikonim"
+        ],
+        "youPlural": [
+          "zendegi mikonid",
+          "zendegi mikonin"
+        ],
+        "they": [
+          "zendegi mikonand",
+          "zendegi mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram zendegi mikonam"
+        ],
+        "you": [
+          "dâri zendegi mikoni"
+        ],
+        "heShe": [
+          "dârad zendegi mikonad",
+          "dâre zendegi mikone"
+        ],
+        "we": [
+          "dârim zendegi mikonim"
+        ],
+        "youPlural": [
+          "dârid zendegi mikonid",
+          "dârin zendegi mikonin"
+        ],
+        "they": [
+          "dârand zendegi mikonand",
+          "dâran zendegi mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "zendegi kardam"
+        ],
+        "you": [
+          "zendegi kardi"
+        ],
+        "heShe": [
+          "zendegi kard"
+        ],
+        "we": [
+          "zendegi kardim"
+        ],
+        "youPlural": [
+          "zendegi kardid",
+          "zendegi kardin"
+        ],
+        "they": [
+          "zendegi kardand",
+          "zendegi kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam zendegi mikardam"
+        ],
+        "you": [
+          "dâshti zendegi mikardi"
+        ],
+        "heShe": [
+          "dâsht zendegi mikard"
+        ],
+        "we": [
+          "dâshtim zendegi mikardim"
+        ],
+        "youPlural": [
+          "dâshtid zendegi mikardid",
+          "dâshtin zendegi mikardin"
+        ],
+        "they": [
+          "dâshtand zendegi mikardand",
+          "dâshtan zendegi mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "zendegi khâham kard"
+        ],
+        "you": [
+          "zendegi khâhi kard"
+        ],
+        "heShe": [
+          "zendegi khâhad kard"
+        ],
+        "we": [
+          "zendegi khâhim kard"
+        ],
+        "youPlural": [
+          "zendegi khâhid kard"
+        ],
+        "they": [
+          "zendegi khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad zendegi konam",
+          "bâyad zendegi bekonam"
+        ],
+        "you": [
+          "bâyad zendegi koni",
+          "bâyad zendegi bekoni"
+        ],
+        "heShe": [
+          "bâyad zendegi konad",
+          "bâyad zendegi kone",
+          "bâyad zendegi bekonad"
+        ],
+        "we": [
+          "bâyad zendegi konim",
+          "bâyad zendegi bekonim"
+        ],
+        "youPlural": [
+          "bâyad zendegi konid",
+          "bâyad zendegi konin",
+          "bâyad zendegi bekonid"
+        ],
+        "they": [
+          "bâyad zendegi konand",
+          "bâyad zendegi konan",
+          "bâyad zendegi bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "speak",
+    "meaning": "speak",
+    "infinitive": "sohbat kardan",
+    "imperative": "sohbat kon",
+    "presentStem": "sohbat kon",
+    "pastStem": "sohbat kard",
+    "forms": {
+      "present": {
+        "i": [
+          "sohbat mikonam"
+        ],
+        "you": [
+          "sohbat mikoni"
+        ],
+        "heShe": [
+          "sohbat mikonad",
+          "sohbat mikone"
+        ],
+        "we": [
+          "sohbat mikonim"
+        ],
+        "youPlural": [
+          "sohbat mikonid",
+          "sohbat mikonin"
+        ],
+        "they": [
+          "sohbat mikonand",
+          "sohbat mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram sohbat mikonam"
+        ],
+        "you": [
+          "dâri sohbat mikoni"
+        ],
+        "heShe": [
+          "dârad sohbat mikonad",
+          "dâre sohbat mikone"
+        ],
+        "we": [
+          "dârim sohbat mikonim"
+        ],
+        "youPlural": [
+          "dârid sohbat mikonid",
+          "dârin sohbat mikonin"
+        ],
+        "they": [
+          "dârand sohbat mikonand",
+          "dâran sohbat mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "sohbat kardam"
+        ],
+        "you": [
+          "sohbat kardi"
+        ],
+        "heShe": [
+          "sohbat kard"
+        ],
+        "we": [
+          "sohbat kardim"
+        ],
+        "youPlural": [
+          "sohbat kardid",
+          "sohbat kardin"
+        ],
+        "they": [
+          "sohbat kardand",
+          "sohbat kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam sohbat mikardam"
+        ],
+        "you": [
+          "dâshti sohbat mikardi"
+        ],
+        "heShe": [
+          "dâsht sohbat mikard"
+        ],
+        "we": [
+          "dâshtim sohbat mikardim"
+        ],
+        "youPlural": [
+          "dâshtid sohbat mikardid",
+          "dâshtin sohbat mikardin"
+        ],
+        "they": [
+          "dâshtand sohbat mikardand",
+          "dâshtan sohbat mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "sohbat khâham kard"
+        ],
+        "you": [
+          "sohbat khâhi kard"
+        ],
+        "heShe": [
+          "sohbat khâhad kard"
+        ],
+        "we": [
+          "sohbat khâhim kard"
+        ],
+        "youPlural": [
+          "sohbat khâhid kard"
+        ],
+        "they": [
+          "sohbat khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad sohbat konam",
+          "bâyad sohbat bekonam"
+        ],
+        "you": [
+          "bâyad sohbat koni",
+          "bâyad sohbat bekoni"
+        ],
+        "heShe": [
+          "bâyad sohbat konad",
+          "bâyad sohbat kone",
+          "bâyad sohbat bekonad"
+        ],
+        "we": [
+          "bâyad sohbat konim",
+          "bâyad sohbat bekonim"
+        ],
+        "youPlural": [
+          "bâyad sohbat konid",
+          "bâyad sohbat konin",
+          "bâyad sohbat bekonid"
+        ],
+        "they": [
+          "bâyad sohbat konand",
+          "bâyad sohbat konan",
+          "bâyad sohbat bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "study",
+    "meaning": "study",
+    "infinitive": "dars khândan",
+    "imperative": "dars bekhân",
+    "presentStem": "dars khân",
+    "pastStem": "dars khând",
+    "forms": {
+      "present": {
+        "i": [
+          "dars mikhânam",
+          "dars mikhunam"
+        ],
+        "you": [
+          "dars mikhâni",
+          "dars mikhuni"
+        ],
+        "heShe": [
+          "dars mikhânad",
+          "dars mikhune"
+        ],
+        "we": [
+          "dars mikhânim",
+          "dars mikhunim"
+        ],
+        "youPlural": [
+          "dars mikhânid",
+          "dars mikhunin"
+        ],
+        "they": [
+          "dars mikhânand",
+          "dars mikhunan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram dars mikhânam",
+          "dâram dars mikhunam"
+        ],
+        "you": [
+          "dâri dars mikhâni",
+          "dâri dars mikhuni"
+        ],
+        "heShe": [
+          "dârad dars mikhânad",
+          "dâre dars mikhune"
+        ],
+        "we": [
+          "dârim dars mikhânim",
+          "dârim dars mikhunim"
+        ],
+        "youPlural": [
+          "dârid dars mikhânid",
+          "dârin dars mikhunin"
+        ],
+        "they": [
+          "dârand dars mikhânand",
+          "dâran dars mikhunan"
+        ]
+      },
+      "past": {
+        "i": [
+          "dars khândam",
+          "dars khundam"
+        ],
+        "you": [
+          "dars khândi",
+          "dars khundi"
+        ],
+        "heShe": [
+          "dars khând",
+          "dars khund"
+        ],
+        "we": [
+          "dars khândim",
+          "dars khundim"
+        ],
+        "youPlural": [
+          "dars khândid",
+          "dars khundin"
+        ],
+        "they": [
+          "dars khândand",
+          "dars khundan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam dars mikhândam",
+          "dâshtam dars mikhundam"
+        ],
+        "you": [
+          "dâshti dars mikhândi",
+          "dâshti dars mikhundi"
+        ],
+        "heShe": [
+          "dâsht dars mikhând",
+          "dâsht dars mikhund"
+        ],
+        "we": [
+          "dâshtim dars mikhândim",
+          "dâshtim dars mikhundim"
+        ],
+        "youPlural": [
+          "dâshtid dars mikhândid",
+          "dâshtin dars mikhundin"
+        ],
+        "they": [
+          "dâshtand dars mikhândand",
+          "dâshtan dars mikhundan"
+        ]
+      },
+      "future": {
+        "i": [
+          "dars khâham khând"
+        ],
+        "you": [
+          "dars khâhi khând"
+        ],
+        "heShe": [
+          "dars khâhad khând"
+        ],
+        "we": [
+          "dars khâhim khând"
+        ],
+        "youPlural": [
+          "dars khâhid khând"
+        ],
+        "they": [
+          "dars khâhand khând"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad dars bekhânam",
+          "bâyad dars bekhunam"
+        ],
+        "you": [
+          "bâyad dars bekhâni",
+          "bâyad dars bekhuni"
+        ],
+        "heShe": [
+          "bâyad dars bekhânad",
+          "bâyad dars bekhune"
+        ],
+        "we": [
+          "bâyad dars bekhânim",
+          "bâyad dars bekhunim"
+        ],
+        "youPlural": [
+          "bâyad dars bekhânid",
+          "bâyad dars bekhunin"
+        ],
+        "they": [
+          "bâyad dars bekhânand",
+          "bâyad dars bekhunan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "proud",
+    "meaning": "feel proud",
+    "infinitive": "eftekhâr kardan",
+    "imperative": "eftekhâr kon",
+    "presentStem": "eftekhâr kon",
+    "pastStem": "eftekhâr kard",
+    "forms": {
+      "present": {
+        "i": [
+          "eftekhâr mikonam"
+        ],
+        "you": [
+          "eftekhâr mikoni"
+        ],
+        "heShe": [
+          "eftekhâr mikonad",
+          "eftekhâr mikone"
+        ],
+        "we": [
+          "eftekhâr mikonim"
+        ],
+        "youPlural": [
+          "eftekhâr mikonid",
+          "eftekhâr mikonin"
+        ],
+        "they": [
+          "eftekhâr mikonand",
+          "eftekhâr mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram eftekhâr mikonam"
+        ],
+        "you": [
+          "dâri eftekhâr mikoni"
+        ],
+        "heShe": [
+          "dârad eftekhâr mikonad",
+          "dâre eftekhâr mikone"
+        ],
+        "we": [
+          "dârim eftekhâr mikonim"
+        ],
+        "youPlural": [
+          "dârid eftekhâr mikonid",
+          "dârin eftekhâr mikonin"
+        ],
+        "they": [
+          "dârand eftekhâr mikonand",
+          "dâran eftekhâr mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "eftekhâr kardam"
+        ],
+        "you": [
+          "eftekhâr kardi"
+        ],
+        "heShe": [
+          "eftekhâr kard"
+        ],
+        "we": [
+          "eftekhâr kardim"
+        ],
+        "youPlural": [
+          "eftekhâr kardid",
+          "eftekhâr kardin"
+        ],
+        "they": [
+          "eftekhâr kardand",
+          "eftekhâr kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam eftekhâr mikardam"
+        ],
+        "you": [
+          "dâshti eftekhâr mikardi"
+        ],
+        "heShe": [
+          "dâsht eftekhâr mikard"
+        ],
+        "we": [
+          "dâshtim eftekhâr mikardim"
+        ],
+        "youPlural": [
+          "dâshtid eftekhâr mikardid",
+          "dâshtin eftekhâr mikardin"
+        ],
+        "they": [
+          "dâshtand eftekhâr mikardand",
+          "dâshtan eftekhâr mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "eftekhâr khâham kard"
+        ],
+        "you": [
+          "eftekhâr khâhi kard"
+        ],
+        "heShe": [
+          "eftekhâr khâhad kard"
+        ],
+        "we": [
+          "eftekhâr khâhim kard"
+        ],
+        "youPlural": [
+          "eftekhâr khâhid kard"
+        ],
+        "they": [
+          "eftekhâr khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad eftekhâr konam",
+          "bâyad eftekhâr bekonam"
+        ],
+        "you": [
+          "bâyad eftekhâr koni",
+          "bâyad eftekhâr bekoni"
+        ],
+        "heShe": [
+          "bâyad eftekhâr konad",
+          "bâyad eftekhâr kone",
+          "bâyad eftekhâr bekonad"
+        ],
+        "we": [
+          "bâyad eftekhâr konim",
+          "bâyad eftekhâr bekonim"
+        ],
+        "youPlural": [
+          "bâyad eftekhâr konid",
+          "bâyad eftekhâr konin",
+          "bâyad eftekhâr bekonid"
+        ],
+        "they": [
+          "bâyad eftekhâr konand",
+          "bâyad eftekhâr konan",
+          "bâyad eftekhâr bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "watch",
+    "meaning": "watch",
+    "infinitive": "tamâshâ kardan",
+    "imperative": "tamâshâ kon",
+    "presentStem": "tamâshâ kon",
+    "pastStem": "tamâshâ kard",
+    "forms": {
+      "present": {
+        "i": [
+          "tamâshâ mikonam"
+        ],
+        "you": [
+          "tamâshâ mikoni"
+        ],
+        "heShe": [
+          "tamâshâ mikonad",
+          "tamâshâ mikone"
+        ],
+        "we": [
+          "tamâshâ mikonim"
+        ],
+        "youPlural": [
+          "tamâshâ mikonid",
+          "tamâshâ mikonin"
+        ],
+        "they": [
+          "tamâshâ mikonand",
+          "tamâshâ mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram tamâshâ mikonam"
+        ],
+        "you": [
+          "dâri tamâshâ mikoni"
+        ],
+        "heShe": [
+          "dârad tamâshâ mikonad",
+          "dâre tamâshâ mikone"
+        ],
+        "we": [
+          "dârim tamâshâ mikonim"
+        ],
+        "youPlural": [
+          "dârid tamâshâ mikonid",
+          "dârin tamâshâ mikonin"
+        ],
+        "they": [
+          "dârand tamâshâ mikonand",
+          "dâran tamâshâ mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "tamâshâ kardam"
+        ],
+        "you": [
+          "tamâshâ kardi"
+        ],
+        "heShe": [
+          "tamâshâ kard"
+        ],
+        "we": [
+          "tamâshâ kardim"
+        ],
+        "youPlural": [
+          "tamâshâ kardid",
+          "tamâshâ kardin"
+        ],
+        "they": [
+          "tamâshâ kardand",
+          "tamâshâ kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam tamâshâ mikardam"
+        ],
+        "you": [
+          "dâshti tamâshâ mikardi"
+        ],
+        "heShe": [
+          "dâsht tamâshâ mikard"
+        ],
+        "we": [
+          "dâshtim tamâshâ mikardim"
+        ],
+        "youPlural": [
+          "dâshtid tamâshâ mikardid",
+          "dâshtin tamâshâ mikardin"
+        ],
+        "they": [
+          "dâshtand tamâshâ mikardand",
+          "dâshtan tamâshâ mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "tamâshâ khâham kard"
+        ],
+        "you": [
+          "tamâshâ khâhi kard"
+        ],
+        "heShe": [
+          "tamâshâ khâhad kard"
+        ],
+        "we": [
+          "tamâshâ khâhim kard"
+        ],
+        "youPlural": [
+          "tamâshâ khâhid kard"
+        ],
+        "they": [
+          "tamâshâ khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad tamâshâ konam",
+          "bâyad tamâshâ bekonam"
+        ],
+        "you": [
+          "bâyad tamâshâ koni",
+          "bâyad tamâshâ bekoni"
+        ],
+        "heShe": [
+          "bâyad tamâshâ konad",
+          "bâyad tamâshâ kone",
+          "bâyad tamâshâ bekonad"
+        ],
+        "we": [
+          "bâyad tamâshâ konim",
+          "bâyad tamâshâ bekonim"
+        ],
+        "youPlural": [
+          "bâyad tamâshâ konid",
+          "bâyad tamâshâ konin",
+          "bâyad tamâshâ bekonid"
+        ],
+        "they": [
+          "bâyad tamâshâ konand",
+          "bâyad tamâshâ konan",
+          "bâyad tamâshâ bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "start",
+    "meaning": "start",
+    "infinitive": "shoru' kardan",
+    "imperative": "shoru' kon",
+    "presentStem": "shoru' kon",
+    "pastStem": "shoru' kard",
+    "forms": {
+      "present": {
+        "i": [
+          "shoru' mikonam"
+        ],
+        "you": [
+          "shoru' mikoni"
+        ],
+        "heShe": [
+          "shoru' mikonad",
+          "shoru' mikone"
+        ],
+        "we": [
+          "shoru' mikonim"
+        ],
+        "youPlural": [
+          "shoru' mikonid",
+          "shoru' mikonin"
+        ],
+        "they": [
+          "shoru' mikonand",
+          "shoru' mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram shoru' mikonam"
+        ],
+        "you": [
+          "dâri shoru' mikoni"
+        ],
+        "heShe": [
+          "dârad shoru' mikonad",
+          "dâre shoru' mikone"
+        ],
+        "we": [
+          "dârim shoru' mikonim"
+        ],
+        "youPlural": [
+          "dârid shoru' mikonid",
+          "dârin shoru' mikonin"
+        ],
+        "they": [
+          "dârand shoru' mikonand",
+          "dâran shoru' mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "shoru' kardam"
+        ],
+        "you": [
+          "shoru' kardi"
+        ],
+        "heShe": [
+          "shoru' kard"
+        ],
+        "we": [
+          "shoru' kardim"
+        ],
+        "youPlural": [
+          "shoru' kardid",
+          "shoru' kardin"
+        ],
+        "they": [
+          "shoru' kardand",
+          "shoru' kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam shoru' mikardam"
+        ],
+        "you": [
+          "dâshti shoru' mikardi"
+        ],
+        "heShe": [
+          "dâsht shoru' mikard"
+        ],
+        "we": [
+          "dâshtim shoru' mikardim"
+        ],
+        "youPlural": [
+          "dâshtid shoru' mikardid",
+          "dâshtin shoru' mikardin"
+        ],
+        "they": [
+          "dâshtand shoru' mikardand",
+          "dâshtan shoru' mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "shoru' khâham kard"
+        ],
+        "you": [
+          "shoru' khâhi kard"
+        ],
+        "heShe": [
+          "shoru' khâhad kard"
+        ],
+        "we": [
+          "shoru' khâhim kard"
+        ],
+        "youPlural": [
+          "shoru' khâhid kard"
+        ],
+        "they": [
+          "shoru' khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad shoru' konam",
+          "bâyad shoru' bekonam"
+        ],
+        "you": [
+          "bâyad shoru' koni",
+          "bâyad shoru' bekoni"
+        ],
+        "heShe": [
+          "bâyad shoru' konad",
+          "bâyad shoru' kone",
+          "bâyad shoru' bekonad"
+        ],
+        "we": [
+          "bâyad shoru' konim",
+          "bâyad shoru' bekonim"
+        ],
+        "youPlural": [
+          "bâyad shoru' konid",
+          "bâyad shoru' konin",
+          "bâyad shoru' bekonid"
+        ],
+        "they": [
+          "bâyad shoru' konand",
+          "bâyad shoru' konan",
+          "bâyad shoru' bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "finish",
+    "meaning": "finish",
+    "infinitive": "tamâm kardan",
+    "imperative": "tamâm kon",
+    "presentStem": "tamâm kon",
+    "pastStem": "tamâm kard",
+    "forms": {
+      "present": {
+        "i": [
+          "tamâm mikonam"
+        ],
+        "you": [
+          "tamâm mikoni"
+        ],
+        "heShe": [
+          "tamâm mikonad",
+          "tamâm mikone"
+        ],
+        "we": [
+          "tamâm mikonim"
+        ],
+        "youPlural": [
+          "tamâm mikonid",
+          "tamâm mikonin"
+        ],
+        "they": [
+          "tamâm mikonand",
+          "tamâm mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram tamâm mikonam"
+        ],
+        "you": [
+          "dâri tamâm mikoni"
+        ],
+        "heShe": [
+          "dârad tamâm mikonad",
+          "dâre tamâm mikone"
+        ],
+        "we": [
+          "dârim tamâm mikonim"
+        ],
+        "youPlural": [
+          "dârid tamâm mikonid",
+          "dârin tamâm mikonin"
+        ],
+        "they": [
+          "dârand tamâm mikonand",
+          "dâran tamâm mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "tamâm kardam"
+        ],
+        "you": [
+          "tamâm kardi"
+        ],
+        "heShe": [
+          "tamâm kard"
+        ],
+        "we": [
+          "tamâm kardim"
+        ],
+        "youPlural": [
+          "tamâm kardid",
+          "tamâm kardin"
+        ],
+        "they": [
+          "tamâm kardand",
+          "tamâm kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam tamâm mikardam"
+        ],
+        "you": [
+          "dâshti tamâm mikardi"
+        ],
+        "heShe": [
+          "dâsht tamâm mikard"
+        ],
+        "we": [
+          "dâshtim tamâm mikardim"
+        ],
+        "youPlural": [
+          "dâshtid tamâm mikardid",
+          "dâshtin tamâm mikardin"
+        ],
+        "they": [
+          "dâshtand tamâm mikardand",
+          "dâshtan tamâm mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "tamâm khâham kard"
+        ],
+        "you": [
+          "tamâm khâhi kard"
+        ],
+        "heShe": [
+          "tamâm khâhad kard"
+        ],
+        "we": [
+          "tamâm khâhim kard"
+        ],
+        "youPlural": [
+          "tamâm khâhid kard"
+        ],
+        "they": [
+          "tamâm khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad tamâm konam",
+          "bâyad tamâm bekonam"
+        ],
+        "you": [
+          "bâyad tamâm koni",
+          "bâyad tamâm bekoni"
+        ],
+        "heShe": [
+          "bâyad tamâm konad",
+          "bâyad tamâm kone",
+          "bâyad tamâm bekonad"
+        ],
+        "we": [
+          "bâyad tamâm konim",
+          "bâyad tamâm bekonim"
+        ],
+        "youPlural": [
+          "bâyad tamâm konid",
+          "bâyad tamâm konin",
+          "bâyad tamâm bekonid"
+        ],
+        "they": [
+          "bâyad tamâm konand",
+          "bâyad tamâm konan",
+          "bâyad tamâm bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "stop",
+    "meaning": "stop something",
+    "infinitive": "motavaghghef kardan",
+    "imperative": "motavaghghef kon",
+    "presentStem": "motavaghghef kon",
+    "pastStem": "motavaghghef kard",
+    "forms": {
+      "present": {
+        "i": [
+          "motavaghghef mikonam"
+        ],
+        "you": [
+          "motavaghghef mikoni"
+        ],
+        "heShe": [
+          "motavaghghef mikonad",
+          "motavaghghef mikone"
+        ],
+        "we": [
+          "motavaghghef mikonim"
+        ],
+        "youPlural": [
+          "motavaghghef mikonid",
+          "motavaghghef mikonin"
+        ],
+        "they": [
+          "motavaghghef mikonand",
+          "motavaghghef mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram motavaghghef mikonam"
+        ],
+        "you": [
+          "dâri motavaghghef mikoni"
+        ],
+        "heShe": [
+          "dârad motavaghghef mikonad",
+          "dâre motavaghghef mikone"
+        ],
+        "we": [
+          "dârim motavaghghef mikonim"
+        ],
+        "youPlural": [
+          "dârid motavaghghef mikonid",
+          "dârin motavaghghef mikonin"
+        ],
+        "they": [
+          "dârand motavaghghef mikonand",
+          "dâran motavaghghef mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "motavaghghef kardam"
+        ],
+        "you": [
+          "motavaghghef kardi"
+        ],
+        "heShe": [
+          "motavaghghef kard"
+        ],
+        "we": [
+          "motavaghghef kardim"
+        ],
+        "youPlural": [
+          "motavaghghef kardid",
+          "motavaghghef kardin"
+        ],
+        "they": [
+          "motavaghghef kardand",
+          "motavaghghef kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam motavaghghef mikardam"
+        ],
+        "you": [
+          "dâshti motavaghghef mikardi"
+        ],
+        "heShe": [
+          "dâsht motavaghghef mikard"
+        ],
+        "we": [
+          "dâshtim motavaghghef mikardim"
+        ],
+        "youPlural": [
+          "dâshtid motavaghghef mikardid",
+          "dâshtin motavaghghef mikardin"
+        ],
+        "they": [
+          "dâshtand motavaghghef mikardand",
+          "dâshtan motavaghghef mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "motavaghghef khâham kard"
+        ],
+        "you": [
+          "motavaghghef khâhi kard"
+        ],
+        "heShe": [
+          "motavaghghef khâhad kard"
+        ],
+        "we": [
+          "motavaghghef khâhim kard"
+        ],
+        "youPlural": [
+          "motavaghghef khâhid kard"
+        ],
+        "they": [
+          "motavaghghef khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad motavaghghef konam",
+          "bâyad motavaghghef bekonam"
+        ],
+        "you": [
+          "bâyad motavaghghef koni",
+          "bâyad motavaghghef bekoni"
+        ],
+        "heShe": [
+          "bâyad motavaghghef konad",
+          "bâyad motavaghghef kone",
+          "bâyad motavaghghef bekonad"
+        ],
+        "we": [
+          "bâyad motavaghghef konim",
+          "bâyad motavaghghef bekonim"
+        ],
+        "youPlural": [
+          "bâyad motavaghghef konid",
+          "bâyad motavaghghef konin",
+          "bâyad motavaghghef bekonid"
+        ],
+        "they": [
+          "bâyad motavaghghef konand",
+          "bâyad motavaghghef konan",
+          "bâyad motavaghghef bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "warm",
+    "meaning": "warm up",
+    "infinitive": "garm kardan",
+    "imperative": "garm kon",
+    "presentStem": "garm kon",
+    "pastStem": "garm kard",
+    "forms": {
+      "present": {
+        "i": [
+          "garm mikonam"
+        ],
+        "you": [
+          "garm mikoni"
+        ],
+        "heShe": [
+          "garm mikonad",
+          "garm mikone"
+        ],
+        "we": [
+          "garm mikonim"
+        ],
+        "youPlural": [
+          "garm mikonid",
+          "garm mikonin"
+        ],
+        "they": [
+          "garm mikonand",
+          "garm mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram garm mikonam"
+        ],
+        "you": [
+          "dâri garm mikoni"
+        ],
+        "heShe": [
+          "dârad garm mikonad",
+          "dâre garm mikone"
+        ],
+        "we": [
+          "dârim garm mikonim"
+        ],
+        "youPlural": [
+          "dârid garm mikonid",
+          "dârin garm mikonin"
+        ],
+        "they": [
+          "dârand garm mikonand",
+          "dâran garm mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "garm kardam"
+        ],
+        "you": [
+          "garm kardi"
+        ],
+        "heShe": [
+          "garm kard"
+        ],
+        "we": [
+          "garm kardim"
+        ],
+        "youPlural": [
+          "garm kardid",
+          "garm kardin"
+        ],
+        "they": [
+          "garm kardand",
+          "garm kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam garm mikardam"
+        ],
+        "you": [
+          "dâshti garm mikardi"
+        ],
+        "heShe": [
+          "dâsht garm mikard"
+        ],
+        "we": [
+          "dâshtim garm mikardim"
+        ],
+        "youPlural": [
+          "dâshtid garm mikardid",
+          "dâshtin garm mikardin"
+        ],
+        "they": [
+          "dâshtand garm mikardand",
+          "dâshtan garm mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "garm khâham kard"
+        ],
+        "you": [
+          "garm khâhi kard"
+        ],
+        "heShe": [
+          "garm khâhad kard"
+        ],
+        "we": [
+          "garm khâhim kard"
+        ],
+        "youPlural": [
+          "garm khâhid kard"
+        ],
+        "they": [
+          "garm khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad garm konam",
+          "bâyad garm bekonam"
+        ],
+        "you": [
+          "bâyad garm koni",
+          "bâyad garm bekoni"
+        ],
+        "heShe": [
+          "bâyad garm konad",
+          "bâyad garm kone",
+          "bâyad garm bekonad"
+        ],
+        "we": [
+          "bâyad garm konim",
+          "bâyad garm bekonim"
+        ],
+        "youPlural": [
+          "bâyad garm konid",
+          "bâyad garm konin",
+          "bâyad garm bekonid"
+        ],
+        "they": [
+          "bâyad garm konand",
+          "bâyad garm konan",
+          "bâyad garm bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "cool",
+    "meaning": "cool down",
+    "infinitive": "sard kardan",
+    "imperative": "sard kon",
+    "presentStem": "sard kon",
+    "pastStem": "sard kard",
+    "forms": {
+      "present": {
+        "i": [
+          "sard mikonam"
+        ],
+        "you": [
+          "sard mikoni"
+        ],
+        "heShe": [
+          "sard mikonad",
+          "sard mikone"
+        ],
+        "we": [
+          "sard mikonim"
+        ],
+        "youPlural": [
+          "sard mikonid",
+          "sard mikonin"
+        ],
+        "they": [
+          "sard mikonand",
+          "sard mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram sard mikonam"
+        ],
+        "you": [
+          "dâri sard mikoni"
+        ],
+        "heShe": [
+          "dârad sard mikonad",
+          "dâre sard mikone"
+        ],
+        "we": [
+          "dârim sard mikonim"
+        ],
+        "youPlural": [
+          "dârid sard mikonid",
+          "dârin sard mikonin"
+        ],
+        "they": [
+          "dârand sard mikonand",
+          "dâran sard mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "sard kardam"
+        ],
+        "you": [
+          "sard kardi"
+        ],
+        "heShe": [
+          "sard kard"
+        ],
+        "we": [
+          "sard kardim"
+        ],
+        "youPlural": [
+          "sard kardid",
+          "sard kardin"
+        ],
+        "they": [
+          "sard kardand",
+          "sard kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam sard mikardam"
+        ],
+        "you": [
+          "dâshti sard mikardi"
+        ],
+        "heShe": [
+          "dâsht sard mikard"
+        ],
+        "we": [
+          "dâshtim sard mikardim"
+        ],
+        "youPlural": [
+          "dâshtid sard mikardid",
+          "dâshtin sard mikardin"
+        ],
+        "they": [
+          "dâshtand sard mikardand",
+          "dâshtan sard mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "sard khâham kard"
+        ],
+        "you": [
+          "sard khâhi kard"
+        ],
+        "heShe": [
+          "sard khâhad kard"
+        ],
+        "we": [
+          "sard khâhim kard"
+        ],
+        "youPlural": [
+          "sard khâhid kard"
+        ],
+        "they": [
+          "sard khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad sard konam",
+          "bâyad sard bekonam"
+        ],
+        "you": [
+          "bâyad sard koni",
+          "bâyad sard bekoni"
+        ],
+        "heShe": [
+          "bâyad sard konad",
+          "bâyad sard kone",
+          "bâyad sard bekonad"
+        ],
+        "we": [
+          "bâyad sard konim",
+          "bâyad sard bekonim"
+        ],
+        "youPlural": [
+          "bâyad sard konid",
+          "bâyad sard konin",
+          "bâyad sard bekonid"
+        ],
+        "they": [
+          "bâyad sard konand",
+          "bâyad sard konan",
+          "bâyad sard bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "think",
+    "meaning": "think",
+    "infinitive": "fekr kardan",
+    "imperative": "fekr kon",
+    "presentStem": "fekr kon",
+    "pastStem": "fekr kard",
+    "forms": {
+      "present": {
+        "i": [
+          "fekr mikonam"
+        ],
+        "you": [
+          "fekr mikoni"
+        ],
+        "heShe": [
+          "fekr mikonad",
+          "fekr mikone"
+        ],
+        "we": [
+          "fekr mikonim"
+        ],
+        "youPlural": [
+          "fekr mikonid",
+          "fekr mikonin"
+        ],
+        "they": [
+          "fekr mikonand",
+          "fekr mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram fekr mikonam"
+        ],
+        "you": [
+          "dâri fekr mikoni"
+        ],
+        "heShe": [
+          "dârad fekr mikonad",
+          "dâre fekr mikone"
+        ],
+        "we": [
+          "dârim fekr mikonim"
+        ],
+        "youPlural": [
+          "dârid fekr mikonid",
+          "dârin fekr mikonin"
+        ],
+        "they": [
+          "dârand fekr mikonand",
+          "dâran fekr mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "fekr kardam"
+        ],
+        "you": [
+          "fekr kardi"
+        ],
+        "heShe": [
+          "fekr kard"
+        ],
+        "we": [
+          "fekr kardim"
+        ],
+        "youPlural": [
+          "fekr kardid",
+          "fekr kardin"
+        ],
+        "they": [
+          "fekr kardand",
+          "fekr kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam fekr mikardam"
+        ],
+        "you": [
+          "dâshti fekr mikardi"
+        ],
+        "heShe": [
+          "dâsht fekr mikard"
+        ],
+        "we": [
+          "dâshtim fekr mikardim"
+        ],
+        "youPlural": [
+          "dâshtid fekr mikardid",
+          "dâshtin fekr mikardin"
+        ],
+        "they": [
+          "dâshtand fekr mikardand",
+          "dâshtan fekr mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "fekr khâham kard"
+        ],
+        "you": [
+          "fekr khâhi kard"
+        ],
+        "heShe": [
+          "fekr khâhad kard"
+        ],
+        "we": [
+          "fekr khâhim kard"
+        ],
+        "youPlural": [
+          "fekr khâhid kard"
+        ],
+        "they": [
+          "fekr khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad fekr konam",
+          "bâyad fekr bekonam"
+        ],
+        "you": [
+          "bâyad fekr koni",
+          "bâyad fekr bekoni"
+        ],
+        "heShe": [
+          "bâyad fekr konad",
+          "bâyad fekr kone",
+          "bâyad fekr bekonad"
+        ],
+        "we": [
+          "bâyad fekr konim",
+          "bâyad fekr bekonim"
+        ],
+        "youPlural": [
+          "bâyad fekr konid",
+          "bâyad fekr konin",
+          "bâyad fekr bekonid"
+        ],
+        "they": [
+          "bâyad fekr konand",
+          "bâyad fekr konan",
+          "bâyad fekr bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "open",
+    "meaning": "open",
+    "infinitive": "bâz kardan",
+    "imperative": "bâz kon",
+    "presentStem": "bâz kon",
+    "pastStem": "bâz kard",
+    "forms": {
+      "present": {
+        "i": [
+          "bâz mikonam"
+        ],
+        "you": [
+          "bâz mikoni"
+        ],
+        "heShe": [
+          "bâz mikonad",
+          "bâz mikone"
+        ],
+        "we": [
+          "bâz mikonim"
+        ],
+        "youPlural": [
+          "bâz mikonid",
+          "bâz mikonin"
+        ],
+        "they": [
+          "bâz mikonand",
+          "bâz mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram bâz mikonam"
+        ],
+        "you": [
+          "dâri bâz mikoni"
+        ],
+        "heShe": [
+          "dârad bâz mikonad",
+          "dâre bâz mikone"
+        ],
+        "we": [
+          "dârim bâz mikonim"
+        ],
+        "youPlural": [
+          "dârid bâz mikonid",
+          "dârin bâz mikonin"
+        ],
+        "they": [
+          "dârand bâz mikonand",
+          "dâran bâz mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "bâz kardam"
+        ],
+        "you": [
+          "bâz kardi"
+        ],
+        "heShe": [
+          "bâz kard"
+        ],
+        "we": [
+          "bâz kardim"
+        ],
+        "youPlural": [
+          "bâz kardid",
+          "bâz kardin"
+        ],
+        "they": [
+          "bâz kardand",
+          "bâz kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam bâz mikardam"
+        ],
+        "you": [
+          "dâshti bâz mikardi"
+        ],
+        "heShe": [
+          "dâsht bâz mikard"
+        ],
+        "we": [
+          "dâshtim bâz mikardim"
+        ],
+        "youPlural": [
+          "dâshtid bâz mikardid",
+          "dâshtin bâz mikardin"
+        ],
+        "they": [
+          "dâshtand bâz mikardand",
+          "dâshtan bâz mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "bâz khâham kard"
+        ],
+        "you": [
+          "bâz khâhi kard"
+        ],
+        "heShe": [
+          "bâz khâhad kard"
+        ],
+        "we": [
+          "bâz khâhim kard"
+        ],
+        "youPlural": [
+          "bâz khâhid kard"
+        ],
+        "they": [
+          "bâz khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bâz konam",
+          "bâyad bâz bekonam"
+        ],
+        "you": [
+          "bâyad bâz koni",
+          "bâyad bâz bekoni"
+        ],
+        "heShe": [
+          "bâyad bâz konad",
+          "bâyad bâz kone",
+          "bâyad bâz bekonad"
+        ],
+        "we": [
+          "bâyad bâz konim",
+          "bâyad bâz bekonim"
+        ],
+        "youPlural": [
+          "bâyad bâz konid",
+          "bâyad bâz konin",
+          "bâyad bâz bekonid"
+        ],
+        "they": [
+          "bâyad bâz konand",
+          "bâyad bâz konan",
+          "bâyad bâz bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "fill",
+    "meaning": "fill",
+    "infinitive": "por kardan",
+    "imperative": "por kon",
+    "presentStem": "por kon",
+    "pastStem": "por kard",
+    "forms": {
+      "present": {
+        "i": [
+          "por mikonam"
+        ],
+        "you": [
+          "por mikoni"
+        ],
+        "heShe": [
+          "por mikonad",
+          "por mikone"
+        ],
+        "we": [
+          "por mikonim"
+        ],
+        "youPlural": [
+          "por mikonid",
+          "por mikonin"
+        ],
+        "they": [
+          "por mikonand",
+          "por mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram por mikonam"
+        ],
+        "you": [
+          "dâri por mikoni"
+        ],
+        "heShe": [
+          "dârad por mikonad",
+          "dâre por mikone"
+        ],
+        "we": [
+          "dârim por mikonim"
+        ],
+        "youPlural": [
+          "dârid por mikonid",
+          "dârin por mikonin"
+        ],
+        "they": [
+          "dârand por mikonand",
+          "dâran por mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "por kardam"
+        ],
+        "you": [
+          "por kardi"
+        ],
+        "heShe": [
+          "por kard"
+        ],
+        "we": [
+          "por kardim"
+        ],
+        "youPlural": [
+          "por kardid",
+          "por kardin"
+        ],
+        "they": [
+          "por kardand",
+          "por kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam por mikardam"
+        ],
+        "you": [
+          "dâshti por mikardi"
+        ],
+        "heShe": [
+          "dâsht por mikard"
+        ],
+        "we": [
+          "dâshtim por mikardim"
+        ],
+        "youPlural": [
+          "dâshtid por mikardid",
+          "dâshtin por mikardin"
+        ],
+        "they": [
+          "dâshtand por mikardand",
+          "dâshtan por mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "por khâham kard"
+        ],
+        "you": [
+          "por khâhi kard"
+        ],
+        "heShe": [
+          "por khâhad kard"
+        ],
+        "we": [
+          "por khâhim kard"
+        ],
+        "youPlural": [
+          "por khâhid kard"
+        ],
+        "they": [
+          "por khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad por konam",
+          "bâyad por bekonam"
+        ],
+        "you": [
+          "bâyad por koni",
+          "bâyad por bekoni"
+        ],
+        "heShe": [
+          "bâyad por konad",
+          "bâyad por kone",
+          "bâyad por bekonad"
+        ],
+        "we": [
+          "bâyad por konim",
+          "bâyad por bekonim"
+        ],
+        "youPlural": [
+          "bâyad por konid",
+          "bâyad por konin",
+          "bâyad por bekonid"
+        ],
+        "they": [
+          "bâyad por konand",
+          "bâyad por konan",
+          "bâyad por bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "prepare",
+    "meaning": "prepare",
+    "infinitive": "dorost kardan",
+    "imperative": "dorost kon",
+    "presentStem": "dorost kon",
+    "pastStem": "dorost kard",
+    "forms": {
+      "present": {
+        "i": [
+          "dorost mikonam"
+        ],
+        "you": [
+          "dorost mikoni"
+        ],
+        "heShe": [
+          "dorost mikonad",
+          "dorost mikone"
+        ],
+        "we": [
+          "dorost mikonim"
+        ],
+        "youPlural": [
+          "dorost mikonid",
+          "dorost mikonin"
+        ],
+        "they": [
+          "dorost mikonand",
+          "dorost mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram dorost mikonam"
+        ],
+        "you": [
+          "dâri dorost mikoni"
+        ],
+        "heShe": [
+          "dârad dorost mikonad",
+          "dâre dorost mikone"
+        ],
+        "we": [
+          "dârim dorost mikonim"
+        ],
+        "youPlural": [
+          "dârid dorost mikonid",
+          "dârin dorost mikonin"
+        ],
+        "they": [
+          "dârand dorost mikonand",
+          "dâran dorost mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "dorost kardam"
+        ],
+        "you": [
+          "dorost kardi"
+        ],
+        "heShe": [
+          "dorost kard"
+        ],
+        "we": [
+          "dorost kardim"
+        ],
+        "youPlural": [
+          "dorost kardid",
+          "dorost kardin"
+        ],
+        "they": [
+          "dorost kardand",
+          "dorost kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam dorost mikardam"
+        ],
+        "you": [
+          "dâshti dorost mikardi"
+        ],
+        "heShe": [
+          "dâsht dorost mikard"
+        ],
+        "we": [
+          "dâshtim dorost mikardim"
+        ],
+        "youPlural": [
+          "dâshtid dorost mikardid",
+          "dâshtin dorost mikardin"
+        ],
+        "they": [
+          "dâshtand dorost mikardand",
+          "dâshtan dorost mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "dorost khâham kard"
+        ],
+        "you": [
+          "dorost khâhi kard"
+        ],
+        "heShe": [
+          "dorost khâhad kard"
+        ],
+        "we": [
+          "dorost khâhim kard"
+        ],
+        "youPlural": [
+          "dorost khâhid kard"
+        ],
+        "they": [
+          "dorost khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad dorost konam",
+          "bâyad dorost bekonam"
+        ],
+        "you": [
+          "bâyad dorost koni",
+          "bâyad dorost bekoni"
+        ],
+        "heShe": [
+          "bâyad dorost konad",
+          "bâyad dorost kone",
+          "bâyad dorost bekonad"
+        ],
+        "we": [
+          "bâyad dorost konim",
+          "bâyad dorost bekonim"
+        ],
+        "youPlural": [
+          "bâyad dorost konid",
+          "bâyad dorost konin",
+          "bâyad dorost bekonid"
+        ],
+        "they": [
+          "bâyad dorost konand",
+          "bâyad dorost konan",
+          "bâyad dorost bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "fry",
+    "meaning": "fry",
+    "infinitive": "sorkh kardan",
+    "imperative": "sorkh kon",
+    "presentStem": "sorkh kon",
+    "pastStem": "sorkh kard",
+    "forms": {
+      "present": {
+        "i": [
+          "sorkh mikonam"
+        ],
+        "you": [
+          "sorkh mikoni"
+        ],
+        "heShe": [
+          "sorkh mikonad",
+          "sorkh mikone"
+        ],
+        "we": [
+          "sorkh mikonim"
+        ],
+        "youPlural": [
+          "sorkh mikonid",
+          "sorkh mikonin"
+        ],
+        "they": [
+          "sorkh mikonand",
+          "sorkh mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram sorkh mikonam"
+        ],
+        "you": [
+          "dâri sorkh mikoni"
+        ],
+        "heShe": [
+          "dârad sorkh mikonad",
+          "dâre sorkh mikone"
+        ],
+        "we": [
+          "dârim sorkh mikonim"
+        ],
+        "youPlural": [
+          "dârid sorkh mikonid",
+          "dârin sorkh mikonin"
+        ],
+        "they": [
+          "dârand sorkh mikonand",
+          "dâran sorkh mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "sorkh kardam"
+        ],
+        "you": [
+          "sorkh kardi"
+        ],
+        "heShe": [
+          "sorkh kard"
+        ],
+        "we": [
+          "sorkh kardim"
+        ],
+        "youPlural": [
+          "sorkh kardid",
+          "sorkh kardin"
+        ],
+        "they": [
+          "sorkh kardand",
+          "sorkh kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam sorkh mikardam"
+        ],
+        "you": [
+          "dâshti sorkh mikardi"
+        ],
+        "heShe": [
+          "dâsht sorkh mikard"
+        ],
+        "we": [
+          "dâshtim sorkh mikardim"
+        ],
+        "youPlural": [
+          "dâshtid sorkh mikardid",
+          "dâshtin sorkh mikardin"
+        ],
+        "they": [
+          "dâshtand sorkh mikardand",
+          "dâshtan sorkh mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "sorkh khâham kard"
+        ],
+        "you": [
+          "sorkh khâhi kard"
+        ],
+        "heShe": [
+          "sorkh khâhad kard"
+        ],
+        "we": [
+          "sorkh khâhim kard"
+        ],
+        "youPlural": [
+          "sorkh khâhid kard"
+        ],
+        "they": [
+          "sorkh khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad sorkh konam",
+          "bâyad sorkh bekonam"
+        ],
+        "you": [
+          "bâyad sorkh koni",
+          "bâyad sorkh bekoni"
+        ],
+        "heShe": [
+          "bâyad sorkh konad",
+          "bâyad sorkh kone",
+          "bâyad sorkh bekonad"
+        ],
+        "we": [
+          "bâyad sorkh konim",
+          "bâyad sorkh bekonim"
+        ],
+        "youPlural": [
+          "bâyad sorkh konid",
+          "bâyad sorkh konin",
+          "bâyad sorkh bekonid"
+        ],
+        "they": [
+          "bâyad sorkh konand",
+          "bâyad sorkh konan",
+          "bâyad sorkh bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "turn-off",
+    "meaning": "turn off",
+    "infinitive": "khâmush kardan",
+    "imperative": "khâmush kon",
+    "presentStem": "khâmush kon",
+    "pastStem": "khâmush kard",
+    "forms": {
+      "present": {
+        "i": [
+          "khâmush mikonam"
+        ],
+        "you": [
+          "khâmush mikoni"
+        ],
+        "heShe": [
+          "khâmush mikonad",
+          "khâmush mikone"
+        ],
+        "we": [
+          "khâmush mikonim"
+        ],
+        "youPlural": [
+          "khâmush mikonid",
+          "khâmush mikonin"
+        ],
+        "they": [
+          "khâmush mikonand",
+          "khâmush mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram khâmush mikonam"
+        ],
+        "you": [
+          "dâri khâmush mikoni"
+        ],
+        "heShe": [
+          "dârad khâmush mikonad",
+          "dâre khâmush mikone"
+        ],
+        "we": [
+          "dârim khâmush mikonim"
+        ],
+        "youPlural": [
+          "dârid khâmush mikonid",
+          "dârin khâmush mikonin"
+        ],
+        "they": [
+          "dârand khâmush mikonand",
+          "dâran khâmush mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "khâmush kardam"
+        ],
+        "you": [
+          "khâmush kardi"
+        ],
+        "heShe": [
+          "khâmush kard"
+        ],
+        "we": [
+          "khâmush kardim"
+        ],
+        "youPlural": [
+          "khâmush kardid",
+          "khâmush kardin"
+        ],
+        "they": [
+          "khâmush kardand",
+          "khâmush kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam khâmush mikardam"
+        ],
+        "you": [
+          "dâshti khâmush mikardi"
+        ],
+        "heShe": [
+          "dâsht khâmush mikard"
+        ],
+        "we": [
+          "dâshtim khâmush mikardim"
+        ],
+        "youPlural": [
+          "dâshtid khâmush mikardid",
+          "dâshtin khâmush mikardin"
+        ],
+        "they": [
+          "dâshtand khâmush mikardand",
+          "dâshtan khâmush mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "khâmush khâham kard"
+        ],
+        "you": [
+          "khâmush khâhi kard"
+        ],
+        "heShe": [
+          "khâmush khâhad kard"
+        ],
+        "we": [
+          "khâmush khâhim kard"
+        ],
+        "youPlural": [
+          "khâmush khâhid kard"
+        ],
+        "they": [
+          "khâmush khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad khâmush konam",
+          "bâyad khâmush bekonam"
+        ],
+        "you": [
+          "bâyad khâmush koni",
+          "bâyad khâmush bekoni"
+        ],
+        "heShe": [
+          "bâyad khâmush konad",
+          "bâyad khâmush kone",
+          "bâyad khâmush bekonad"
+        ],
+        "we": [
+          "bâyad khâmush konim",
+          "bâyad khâmush bekonim"
+        ],
+        "youPlural": [
+          "bâyad khâmush konid",
+          "bâyad khâmush konin",
+          "bâyad khâmush bekonid"
+        ],
+        "they": [
+          "bâyad khâmush konand",
+          "bâyad khâmush konan",
+          "bâyad khâmush bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "grill",
+    "meaning": "grill",
+    "infinitive": "kabâb kardan",
+    "imperative": "kabâb kon",
+    "presentStem": "kabâb kon",
+    "pastStem": "kabâb kard",
+    "forms": {
+      "present": {
+        "i": [
+          "kabâb mikonam"
+        ],
+        "you": [
+          "kabâb mikoni"
+        ],
+        "heShe": [
+          "kabâb mikonad",
+          "kabâb mikone"
+        ],
+        "we": [
+          "kabâb mikonim"
+        ],
+        "youPlural": [
+          "kabâb mikonid",
+          "kabâb mikonin"
+        ],
+        "they": [
+          "kabâb mikonand",
+          "kabâb mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram kabâb mikonam"
+        ],
+        "you": [
+          "dâri kabâb mikoni"
+        ],
+        "heShe": [
+          "dârad kabâb mikonad",
+          "dâre kabâb mikone"
+        ],
+        "we": [
+          "dârim kabâb mikonim"
+        ],
+        "youPlural": [
+          "dârid kabâb mikonid",
+          "dârin kabâb mikonin"
+        ],
+        "they": [
+          "dârand kabâb mikonand",
+          "dâran kabâb mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "kabâb kardam"
+        ],
+        "you": [
+          "kabâb kardi"
+        ],
+        "heShe": [
+          "kabâb kard"
+        ],
+        "we": [
+          "kabâb kardim"
+        ],
+        "youPlural": [
+          "kabâb kardid",
+          "kabâb kardin"
+        ],
+        "they": [
+          "kabâb kardand",
+          "kabâb kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam kabâb mikardam"
+        ],
+        "you": [
+          "dâshti kabâb mikardi"
+        ],
+        "heShe": [
+          "dâsht kabâb mikard"
+        ],
+        "we": [
+          "dâshtim kabâb mikardim"
+        ],
+        "youPlural": [
+          "dâshtid kabâb mikardid",
+          "dâshtin kabâb mikardin"
+        ],
+        "they": [
+          "dâshtand kabâb mikardand",
+          "dâshtan kabâb mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "kabâb khâham kard"
+        ],
+        "you": [
+          "kabâb khâhi kard"
+        ],
+        "heShe": [
+          "kabâb khâhad kard"
+        ],
+        "we": [
+          "kabâb khâhim kard"
+        ],
+        "youPlural": [
+          "kabâb khâhid kard"
+        ],
+        "they": [
+          "kabâb khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad kabâb konam",
+          "bâyad kabâb bekonam"
+        ],
+        "you": [
+          "bâyad kabâb koni",
+          "bâyad kabâb bekoni"
+        ],
+        "heShe": [
+          "bâyad kabâb konad",
+          "bâyad kabâb kone",
+          "bâyad kabâb bekonad"
+        ],
+        "we": [
+          "bâyad kabâb konim",
+          "bâyad kabâb bekonim"
+        ],
+        "youPlural": [
+          "bâyad kabâb konid",
+          "bâyad kabâb konin",
+          "bâyad kabâb bekonid"
+        ],
+        "they": [
+          "bâyad kabâb konand",
+          "bâyad kabâb konan",
+          "bâyad kabâb bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "pay",
+    "meaning": "pay",
+    "infinitive": "pul dâdan",
+    "imperative": "pul bedeh",
+    "presentStem": "pul deh",
+    "pastStem": "pul dâd",
+    "forms": {
+      "present": {
+        "i": [
+          "pul mideham",
+          "pul midam"
+        ],
+        "you": [
+          "pul midehi",
+          "pul midi"
+        ],
+        "heShe": [
+          "pul midehad",
+          "pul mide"
+        ],
+        "we": [
+          "pul midehim",
+          "pul midim"
+        ],
+        "youPlural": [
+          "pul midehid",
+          "pul midin"
+        ],
+        "they": [
+          "pul midehand",
+          "pul midan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram pul mideham",
+          "dâram pul midam"
+        ],
+        "you": [
+          "dâri pul midehi",
+          "dâri pul midi"
+        ],
+        "heShe": [
+          "dârad pul midehad",
+          "dâre pul mide"
+        ],
+        "we": [
+          "dârim pul midehim",
+          "dârim pul midim"
+        ],
+        "youPlural": [
+          "dârid pul midehid",
+          "dârin pul midin"
+        ],
+        "they": [
+          "dârand pul midehand",
+          "dâran pul midan"
+        ]
+      },
+      "past": {
+        "i": [
+          "pul dâdam"
+        ],
+        "you": [
+          "pul dâdi"
+        ],
+        "heShe": [
+          "pul dâd"
+        ],
+        "we": [
+          "pul dâdim"
+        ],
+        "youPlural": [
+          "pul dâdid",
+          "pul dâdin"
+        ],
+        "they": [
+          "pul dâdand",
+          "pul dâdan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam pul midâdam"
+        ],
+        "you": [
+          "dâshti pul midâdi"
+        ],
+        "heShe": [
+          "dâsht pul midâd"
+        ],
+        "we": [
+          "dâshtim pul midâdim"
+        ],
+        "youPlural": [
+          "dâshtid pul midâdid",
+          "dâshtin pul midâdin"
+        ],
+        "they": [
+          "dâshtand pul midâdand",
+          "dâshtan pul midâdan"
+        ]
+      },
+      "future": {
+        "i": [
+          "pul khâham dâd"
+        ],
+        "you": [
+          "pul khâhi dâd"
+        ],
+        "heShe": [
+          "pul khâhad dâd"
+        ],
+        "we": [
+          "pul khâhim dâd"
+        ],
+        "youPlural": [
+          "pul khâhid dâd"
+        ],
+        "they": [
+          "pul khâhand dâd"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad pul bedeham",
+          "bâyad pul bedam"
+        ],
+        "you": [
+          "bâyad pul bedehi",
+          "bâyad pul bedi"
+        ],
+        "heShe": [
+          "bâyad pul bedehad",
+          "bâyad pul bede"
+        ],
+        "we": [
+          "bâyad pul bedehim",
+          "bâyad pul bedim"
+        ],
+        "youPlural": [
+          "bâyad pul bedehid",
+          "bâyad pul bedin"
+        ],
+        "they": [
+          "bâyad pul bedehand",
+          "bâyad pul bedan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "lean",
+    "meaning": "lean",
+    "infinitive": "tekye dâdan",
+    "imperative": "tekye bedeh",
+    "presentStem": "tekye deh",
+    "pastStem": "tekye dâd",
+    "forms": {
+      "present": {
+        "i": [
+          "tekye mideham",
+          "tekye midam"
+        ],
+        "you": [
+          "tekye midehi",
+          "tekye midi"
+        ],
+        "heShe": [
+          "tekye midehad",
+          "tekye mide"
+        ],
+        "we": [
+          "tekye midehim",
+          "tekye midim"
+        ],
+        "youPlural": [
+          "tekye midehid",
+          "tekye midin"
+        ],
+        "they": [
+          "tekye midehand",
+          "tekye midan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram tekye mideham",
+          "dâram tekye midam"
+        ],
+        "you": [
+          "dâri tekye midehi",
+          "dâri tekye midi"
+        ],
+        "heShe": [
+          "dârad tekye midehad",
+          "dâre tekye mide"
+        ],
+        "we": [
+          "dârim tekye midehim",
+          "dârim tekye midim"
+        ],
+        "youPlural": [
+          "dârid tekye midehid",
+          "dârin tekye midin"
+        ],
+        "they": [
+          "dârand tekye midehand",
+          "dâran tekye midan"
+        ]
+      },
+      "past": {
+        "i": [
+          "tekye dâdam"
+        ],
+        "you": [
+          "tekye dâdi"
+        ],
+        "heShe": [
+          "tekye dâd"
+        ],
+        "we": [
+          "tekye dâdim"
+        ],
+        "youPlural": [
+          "tekye dâdid",
+          "tekye dâdin"
+        ],
+        "they": [
+          "tekye dâdand",
+          "tekye dâdan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam tekye midâdam"
+        ],
+        "you": [
+          "dâshti tekye midâdi"
+        ],
+        "heShe": [
+          "dâsht tekye midâd"
+        ],
+        "we": [
+          "dâshtim tekye midâdim"
+        ],
+        "youPlural": [
+          "dâshtid tekye midâdid",
+          "dâshtin tekye midâdin"
+        ],
+        "they": [
+          "dâshtand tekye midâdand",
+          "dâshtan tekye midâdan"
+        ]
+      },
+      "future": {
+        "i": [
+          "tekye khâham dâd"
+        ],
+        "you": [
+          "tekye khâhi dâd"
+        ],
+        "heShe": [
+          "tekye khâhad dâd"
+        ],
+        "we": [
+          "tekye khâhim dâd"
+        ],
+        "youPlural": [
+          "tekye khâhid dâd"
+        ],
+        "they": [
+          "tekye khâhand dâd"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad tekye bedeham",
+          "bâyad tekye bedam"
+        ],
+        "you": [
+          "bâyad tekye bedehi",
+          "bâyad tekye bedi"
+        ],
+        "heShe": [
+          "bâyad tekye bedehad",
+          "bâyad tekye bede"
+        ],
+        "we": [
+          "bâyad tekye bedehim",
+          "bâyad tekye bedim"
+        ],
+        "youPlural": [
+          "bâyad tekye bedehid",
+          "bâyad tekye bedin"
+        ],
+        "they": [
+          "bâyad tekye bedehand",
+          "bâyad tekye bedan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "answer",
+    "meaning": "answer",
+    "infinitive": "pâsokh dâdan",
+    "imperative": "pâsokh bedeh",
+    "presentStem": "pâsokh deh",
+    "pastStem": "pâsokh dâd",
+    "forms": {
+      "present": {
+        "i": [
+          "pâsokh mideham",
+          "pâsokh midam"
+        ],
+        "you": [
+          "pâsokh midehi",
+          "pâsokh midi"
+        ],
+        "heShe": [
+          "pâsokh midehad",
+          "pâsokh mide"
+        ],
+        "we": [
+          "pâsokh midehim",
+          "pâsokh midim"
+        ],
+        "youPlural": [
+          "pâsokh midehid",
+          "pâsokh midin"
+        ],
+        "they": [
+          "pâsokh midehand",
+          "pâsokh midan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram pâsokh mideham",
+          "dâram pâsokh midam"
+        ],
+        "you": [
+          "dâri pâsokh midehi",
+          "dâri pâsokh midi"
+        ],
+        "heShe": [
+          "dârad pâsokh midehad",
+          "dâre pâsokh mide"
+        ],
+        "we": [
+          "dârim pâsokh midehim",
+          "dârim pâsokh midim"
+        ],
+        "youPlural": [
+          "dârid pâsokh midehid",
+          "dârin pâsokh midin"
+        ],
+        "they": [
+          "dârand pâsokh midehand",
+          "dâran pâsokh midan"
+        ]
+      },
+      "past": {
+        "i": [
+          "pâsokh dâdam"
+        ],
+        "you": [
+          "pâsokh dâdi"
+        ],
+        "heShe": [
+          "pâsokh dâd"
+        ],
+        "we": [
+          "pâsokh dâdim"
+        ],
+        "youPlural": [
+          "pâsokh dâdid",
+          "pâsokh dâdin"
+        ],
+        "they": [
+          "pâsokh dâdand",
+          "pâsokh dâdan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam pâsokh midâdam"
+        ],
+        "you": [
+          "dâshti pâsokh midâdi"
+        ],
+        "heShe": [
+          "dâsht pâsokh midâd"
+        ],
+        "we": [
+          "dâshtim pâsokh midâdim"
+        ],
+        "youPlural": [
+          "dâshtid pâsokh midâdid",
+          "dâshtin pâsokh midâdin"
+        ],
+        "they": [
+          "dâshtand pâsokh midâdand",
+          "dâshtan pâsokh midâdan"
+        ]
+      },
+      "future": {
+        "i": [
+          "pâsokh khâham dâd"
+        ],
+        "you": [
+          "pâsokh khâhi dâd"
+        ],
+        "heShe": [
+          "pâsokh khâhad dâd"
+        ],
+        "we": [
+          "pâsokh khâhim dâd"
+        ],
+        "youPlural": [
+          "pâsokh khâhid dâd"
+        ],
+        "they": [
+          "pâsokh khâhand dâd"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad pâsokh bedeham",
+          "bâyad pâsokh bedam"
+        ],
+        "you": [
+          "bâyad pâsokh bedehi",
+          "bâyad pâsokh bedi"
+        ],
+        "heShe": [
+          "bâyad pâsokh bedehad",
+          "bâyad pâsokh bede"
+        ],
+        "we": [
+          "bâyad pâsokh bedehim",
+          "bâyad pâsokh bedim"
+        ],
+        "youPlural": [
+          "bâyad pâsokh bedehid",
+          "bâyad pâsokh bedin"
+        ],
+        "they": [
+          "bâyad pâsokh bedehand",
+          "bâyad pâsokh bedan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "skewer",
+    "meaning": "thread onto skewers",
+    "infinitive": "sikh keshidan",
+    "imperative": "sikh bekesh",
+    "presentStem": "sikh kesh",
+    "pastStem": "sikh keshid",
+    "forms": {
+      "present": {
+        "i": [
+          "sikh mikesham"
+        ],
+        "you": [
+          "sikh mikeshi"
+        ],
+        "heShe": [
+          "sikh mikeshad",
+          "sikh mikeshe"
+        ],
+        "we": [
+          "sikh mikeshim"
+        ],
+        "youPlural": [
+          "sikh mikeshid",
+          "sikh mikeshin"
+        ],
+        "they": [
+          "sikh mikeshand",
+          "sikh mikeshan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram sikh mikesham"
+        ],
+        "you": [
+          "dâri sikh mikeshi"
+        ],
+        "heShe": [
+          "dârad sikh mikeshad",
+          "dâre sikh mikeshe"
+        ],
+        "we": [
+          "dârim sikh mikeshim"
+        ],
+        "youPlural": [
+          "dârid sikh mikeshid",
+          "dârin sikh mikeshin"
+        ],
+        "they": [
+          "dârand sikh mikeshand",
+          "dâran sikh mikeshan"
+        ]
+      },
+      "past": {
+        "i": [
+          "sikh keshidam"
+        ],
+        "you": [
+          "sikh keshidi"
+        ],
+        "heShe": [
+          "sikh keshid"
+        ],
+        "we": [
+          "sikh keshidim"
+        ],
+        "youPlural": [
+          "sikh keshidid",
+          "sikh keshidin"
+        ],
+        "they": [
+          "sikh keshidand",
+          "sikh keshidan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam sikh mikeshidam"
+        ],
+        "you": [
+          "dâshti sikh mikeshidi"
+        ],
+        "heShe": [
+          "dâsht sikh mikeshid"
+        ],
+        "we": [
+          "dâshtim sikh mikeshidim"
+        ],
+        "youPlural": [
+          "dâshtid sikh mikeshidid",
+          "dâshtin sikh mikeshidin"
+        ],
+        "they": [
+          "dâshtand sikh mikeshidand",
+          "dâshtan sikh mikeshidan"
+        ]
+      },
+      "future": {
+        "i": [
+          "sikh khâham keshid"
+        ],
+        "you": [
+          "sikh khâhi keshid"
+        ],
+        "heShe": [
+          "sikh khâhad keshid"
+        ],
+        "we": [
+          "sikh khâhim keshid"
+        ],
+        "youPlural": [
+          "sikh khâhid keshid"
+        ],
+        "they": [
+          "sikh khâhand keshid"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad sikh bekesham"
+        ],
+        "you": [
+          "bâyad sikh bekeshi"
+        ],
+        "heShe": [
+          "bâyad sikh bekeshad",
+          "bâyad sikh bekeshe"
+        ],
+        "we": [
+          "bâyad sikh bekeshim"
+        ],
+        "youPlural": [
+          "bâyad sikh bekeshid",
+          "bâyad sikh bekeshin"
+        ],
+        "they": [
+          "bâyad sikh bekeshand",
+          "bâyad sikh bekeshan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "lay-table",
+    "meaning": "lay out the meal cloth",
+    "infinitive": "sofre andâkhtan",
+    "imperative": "sofre biyandâz",
+    "presentStem": "sofre andâz",
+    "pastStem": "sofre andâkht",
+    "forms": {
+      "present": {
+        "i": [
+          "sofre miandâzam"
+        ],
+        "you": [
+          "sofre miandâzi"
+        ],
+        "heShe": [
+          "sofre miandâzad",
+          "sofre miandâze"
+        ],
+        "we": [
+          "sofre miandâzim"
+        ],
+        "youPlural": [
+          "sofre miandâzid",
+          "sofre miandâzin"
+        ],
+        "they": [
+          "sofre miandâzand",
+          "sofre miandâzan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram sofre miandâzam"
+        ],
+        "you": [
+          "dâri sofre miandâzi"
+        ],
+        "heShe": [
+          "dârad sofre miandâzad",
+          "dâre sofre miandâze"
+        ],
+        "we": [
+          "dârim sofre miandâzim"
+        ],
+        "youPlural": [
+          "dârid sofre miandâzid",
+          "dârin sofre miandâzin"
+        ],
+        "they": [
+          "dârand sofre miandâzand",
+          "dâran sofre miandâzan"
+        ]
+      },
+      "past": {
+        "i": [
+          "sofre andâkhtam"
+        ],
+        "you": [
+          "sofre andâkhti"
+        ],
+        "heShe": [
+          "sofre andâkht"
+        ],
+        "we": [
+          "sofre andâkhtim"
+        ],
+        "youPlural": [
+          "sofre andâkhtid",
+          "sofre andâkhtin"
+        ],
+        "they": [
+          "sofre andâkhtand",
+          "sofre andâkhtan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam sofre miandâkhtam"
+        ],
+        "you": [
+          "dâshti sofre miandâkhti"
+        ],
+        "heShe": [
+          "dâsht sofre miandâkht"
+        ],
+        "we": [
+          "dâshtim sofre miandâkhtim"
+        ],
+        "youPlural": [
+          "dâshtid sofre miandâkhtid",
+          "dâshtin sofre miandâkhtin"
+        ],
+        "they": [
+          "dâshtand sofre miandâkhtand",
+          "dâshtan sofre miandâkhtan"
+        ]
+      },
+      "future": {
+        "i": [
+          "sofre khâham andâkht"
+        ],
+        "you": [
+          "sofre khâhi andâkht"
+        ],
+        "heShe": [
+          "sofre khâhad andâkht"
+        ],
+        "we": [
+          "sofre khâhim andâkht"
+        ],
+        "youPlural": [
+          "sofre khâhid andâkht"
+        ],
+        "they": [
+          "sofre khâhand andâkht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad sofre biyandâzam"
+        ],
+        "you": [
+          "bâyad sofre biyandâzi"
+        ],
+        "heShe": [
+          "bâyad sofre biyandâzad",
+          "bâyad sofre biyandâze"
+        ],
+        "we": [
+          "bâyad sofre biyandâzim"
+        ],
+        "youPlural": [
+          "bâyad sofre biyandâzid",
+          "bâyad sofre biyandâzin"
+        ],
+        "they": [
+          "bâyad sofre biyandâzand",
+          "bâyad sofre biyandâzan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives."
+    ]
+  },
+  {
+    "id": "be-located",
+    "meaning": "be located",
+    "infinitive": "gharâr dâshtan",
+    "imperative": "gharâr dâshte bâsh",
+    "presentStem": "gharâr dâr",
+    "pastStem": "gharâr dâsht",
+    "forms": {
+      "present": {
+        "i": [
+          "gharâr dâram"
+        ],
+        "you": [
+          "gharâr dâri"
+        ],
+        "heShe": [
+          "gharâr dârad",
+          "gharâr dâre"
+        ],
+        "we": [
+          "gharâr dârim"
+        ],
+        "youPlural": [
+          "gharâr dârid",
+          "gharâr dârin"
+        ],
+        "they": [
+          "gharâr dârand",
+          "gharâr dâran"
+        ]
+      },
+      "presentContinuous": {},
+      "past": {
+        "i": [
+          "gharâr dâshtam"
+        ],
+        "you": [
+          "gharâr dâshti"
+        ],
+        "heShe": [
+          "gharâr dâsht"
+        ],
+        "we": [
+          "gharâr dâshtim"
+        ],
+        "youPlural": [
+          "gharâr dâshtid",
+          "gharâr dâshtin"
+        ],
+        "they": [
+          "gharâr dâshtand",
+          "gharâr dâshtan"
+        ]
+      },
+      "pastContinuous": {},
+      "future": {
+        "i": [
+          "gharâr khâham dâsht"
+        ],
+        "you": [
+          "gharâr khâhi dâsht"
+        ],
+        "heShe": [
+          "gharâr khâhad dâsht"
+        ],
+        "we": [
+          "gharâr khâhim dâsht"
+        ],
+        "youPlural": [
+          "gharâr khâhid dâsht"
+        ],
+        "they": [
+          "gharâr khâhand dâsht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad gharâr dâshte bâsham"
+        ],
+        "you": [
+          "bâyad gharâr dâshte bâshi"
+        ],
+        "heShe": [
+          "bâyad gharâr dâshte bâshad",
+          "bâyad gharâr dâshte bâshe"
+        ],
+        "we": [
+          "bâyad gharâr dâshte bâshim"
+        ],
+        "youPlural": [
+          "bâyad gharâr dâshte bâshid",
+          "bâyad gharâr dâshte bâshin"
+        ],
+        "they": [
+          "bâyad gharâr dâshte bâshand",
+          "bâyad gharâr dâshte bâshan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Continuous forms are excluded for this state/ability meaning. Do not generate a quiz question for an empty form object.",
+      "The imperative is context-dependent; prefer the infinitive as the cue for this state meaning."
+    ]
+  },
+  {
+    "id": "become-enclosed",
+    "meaning": "become enclosed",
+    "infinitive": "mahsur shodan",
+    "imperative": "mahsur sho",
+    "presentStem": "mahsur shav",
+    "pastStem": "mahsur shod",
+    "forms": {
+      "present": {
+        "i": [
+          "mahsur mishavam"
+        ],
+        "you": [
+          "mahsur mishavi"
+        ],
+        "heShe": [
+          "mahsur mishavad",
+          "mahsur mishave"
+        ],
+        "we": [
+          "mahsur mishavim"
+        ],
+        "youPlural": [
+          "mahsur mishavid",
+          "mahsur mishavin"
+        ],
+        "they": [
+          "mahsur mishavand",
+          "mahsur mishavan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram mahsur mishavam"
+        ],
+        "you": [
+          "dâri mahsur mishavi"
+        ],
+        "heShe": [
+          "dârad mahsur mishavad",
+          "dâre mahsur mishave"
+        ],
+        "we": [
+          "dârim mahsur mishavim"
+        ],
+        "youPlural": [
+          "dârid mahsur mishavid",
+          "dârin mahsur mishavin"
+        ],
+        "they": [
+          "dârand mahsur mishavand",
+          "dâran mahsur mishavan"
+        ]
+      },
+      "past": {
+        "i": [
+          "mahsur shodam"
+        ],
+        "you": [
+          "mahsur shodi"
+        ],
+        "heShe": [
+          "mahsur shod"
+        ],
+        "we": [
+          "mahsur shodim"
+        ],
+        "youPlural": [
+          "mahsur shodid",
+          "mahsur shodin"
+        ],
+        "they": [
+          "mahsur shodand",
+          "mahsur shodan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam mahsur mishodam"
+        ],
+        "you": [
+          "dâshti mahsur mishodi"
+        ],
+        "heShe": [
+          "dâsht mahsur mishod"
+        ],
+        "we": [
+          "dâshtim mahsur mishodim"
+        ],
+        "youPlural": [
+          "dâshtid mahsur mishodid",
+          "dâshtin mahsur mishodin"
+        ],
+        "they": [
+          "dâshtand mahsur mishodand",
+          "dâshtan mahsur mishodan"
+        ]
+      },
+      "future": {
+        "i": [
+          "mahsur khâham shod"
+        ],
+        "you": [
+          "mahsur khâhi shod"
+        ],
+        "heShe": [
+          "mahsur khâhad shod"
+        ],
+        "we": [
+          "mahsur khâhim shod"
+        ],
+        "youPlural": [
+          "mahsur khâhid shod"
+        ],
+        "they": [
+          "mahsur khâhand shod"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad mahsur shavam"
+        ],
+        "you": [
+          "bâyad mahsur shavi"
+        ],
+        "heShe": [
+          "bâyad mahsur shavad",
+          "bâyad mahsur shave"
+        ],
+        "we": [
+          "bâyad mahsur shavim"
+        ],
+        "youPlural": [
+          "bâyad mahsur shavid",
+          "bâyad mahsur shavin"
+        ],
+        "they": [
+          "bâyad mahsur shavand",
+          "bâyad mahsur shavan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "The command is context-dependent; prefer the infinitive as the cue."
+    ]
+  },
+  {
+    "id": "can",
+    "meaning": "be able",
+    "infinitive": "tavânestan",
+    "imperative": "betavân",
+    "presentStem": "tavân",
+    "pastStem": "tavânest",
+    "forms": {
+      "present": {
+        "i": [
+          "mitavânam",
+          "mitunam"
+        ],
+        "you": [
+          "mitavâni",
+          "mituni"
+        ],
+        "heShe": [
+          "mitavânad",
+          "mitune"
+        ],
+        "we": [
+          "mitavânim",
+          "mitunim"
+        ],
+        "youPlural": [
+          "mitavânid",
+          "mitunin"
+        ],
+        "they": [
+          "mitavânand",
+          "mitunan"
+        ]
+      },
+      "presentContinuous": {},
+      "past": {
+        "i": [
+          "tavânestam"
+        ],
+        "you": [
+          "tavânesti"
+        ],
+        "heShe": [
+          "tavânest"
+        ],
+        "we": [
+          "tavânestim"
+        ],
+        "youPlural": [
+          "tavânestid",
+          "tavânestin"
+        ],
+        "they": [
+          "tavânestand",
+          "tavânestan"
+        ]
+      },
+      "pastContinuous": {},
+      "future": {
+        "i": [
+          "khâham tavânest"
+        ],
+        "you": [
+          "khâhi tavânest"
+        ],
+        "heShe": [
+          "khâhad tavânest"
+        ],
+        "we": [
+          "khâhim tavânest"
+        ],
+        "youPlural": [
+          "khâhid tavânest"
+        ],
+        "they": [
+          "khâhand tavânest"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad betavânam",
+          "bâyad betunam"
+        ],
+        "you": [
+          "bâyad betavâni",
+          "bâyad betuni"
+        ],
+        "heShe": [
+          "bâyad betavânad",
+          "bâyad betune"
+        ],
+        "we": [
+          "bâyad betavânim",
+          "bâyad betunim"
+        ],
+        "youPlural": [
+          "bâyad betavânid",
+          "bâyad betunin"
+        ],
+        "they": [
+          "bâyad betavânand",
+          "bâyad betunan"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Continuous forms are excluded for this state/ability meaning. Do not generate a quiz question for an empty form object.",
+      "The imperative betavân is rare/literary and is not a useful everyday command. Prefer the infinitive as this verb’s cue. Ability normally introduces another verb."
+    ]
+  }
+]

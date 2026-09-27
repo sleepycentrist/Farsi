@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Verb Practice</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <main>
+      <a href="index.html">← Home</a>
+
+      <h1>Verb practice</h1>
+
+      <h2>Command: boro! — go!</h2>
+      <p>The command is your cue, not the answer.</p>
+
+      <p><strong>Person:</strong> he/she — u</p>
+      <p><strong>Form:</strong> future — will go</p>
+
+      <div class="word-tiles">
+        <button onclick="checkVerb('miravad')">miravad</button>
+        <button onclick="checkVerb('raft')">raft</button>
+        <button onclick="checkVerb('khâhad raft')">khâhad raft</button>
+      </div>
+
+      <p id="verb-feedback" aria-live="polite"></p>
+    </main>
+
+    <script src="verbs.js"></script>
+  </body>
+</html>

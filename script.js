@@ -57,12 +57,12 @@ function showQuestion() {
 
   answer.textContent = '';
   revealButton.disabled = false;
-  nextButton.disabled = true;
+  nextButton.disabled = false;
 }
 
 function revealAnswer() {
   answer.textContent = vocabulary[currentIndex].english;
-  revealButton.disabled = true;
+  revealButton.disabled = false;
   nextButton.disabled = false;
 }
 

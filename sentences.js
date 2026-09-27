@@ -55,7 +55,7 @@ function renderTiles() {
   wordBank.innerHTML = '';
   sentenceBox.innerHTML = '';
   feedback.textContent = '';
-  nextButton.disabled = true;
+  nextButton.disabled = false;
 
   exercise.tiles.forEach(function (word, tileIndex) {
     if (!selectedTiles.includes(tileIndex)) {
@@ -109,7 +109,7 @@ function checkSentence() {
   } else {
     feedback.textContent =
       'That order does not match an accepted answer for this exercise. Try rearranging the tiles.';
-    nextButton.disabled = true;
+    nextButton.disabled = false;
   }
 }
 
