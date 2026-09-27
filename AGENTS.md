@@ -11,3 +11,5 @@ When the user adds lesson notes:
 6. Confirm the notes and GitHub update separately from live-site deployment. Do not claim the website was published unless verified.
 
 The hourly Codex follow-up is a backup for saved file changes. It does not receive arbitrary notes from other chats. Manual end-of-lesson requests should perform the same steps immediately.
+
+GitHub Pages is configured to publish from main, root /, at https://sleepycentrist.github.io/Farsi/. Verify the latest Pages build and live JSON after each push. GitHub authentication was completed as sleepycentrist on 27 September 2026. The GitHub CLI is available at ../.tools/gh_2.101.0_macOS_arm64/bin/gh relative to this repository; Git is configured to use its credentials.

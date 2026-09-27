@@ -17,4 +17,4 @@ Notes are not automatically parsed into exercises: the Codex update reviews the 
 python3 scripts/check_content.py
 ```
 
-GitHub stores the notes and app data. Updating the live website additionally requires a configured hosting deployment. No hosting configuration was included in the original repository; verify the existing site's hosting settings before assuming a push publishes it.
+GitHub Pages publishes https://sleepycentrist.github.io/Farsi/ from the root of the main branch. This was verified through the GitHub API on 27 September 2026. Pushing lesson updates to main triggers publishing; check the Pages build and live data before reporting deployment complete.
