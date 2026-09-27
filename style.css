@@ -130,3 +130,160 @@ h2 {
   color: #17324d;
   border-color: #17324d;
 }
+
+.reference-intro {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.helper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 24px 0;
+}
+
+.helper-links a {
+  background-color: white;
+  border: 2px solid #dca630;
+  border-radius: 999px;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h3 {
+  color: #91465b;
+  margin-top: 32px;
+}
+
+.reference-table-wrapper {
+  overflow-x: auto;
+  border-radius: 12px;
+}
+
+.reference-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.reference-table th,
+.reference-table td {
+  padding: 12px;
+  border-bottom: 1px solid #e2d8c8;
+  text-align: left;
+}
+
+.reference-table th {
+  background-color: #173f6f;
+  color: white;
+}
+
+.reference-table td[dir="rtl"],
+.persian-number {
+  font-size: 22px;
+}
+
+.number-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
+  gap: 10px;
+}
+
+.number-card,
+.letter-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  background-color: white;
+  border: 1px solid #e2d8c8;
+  border-radius: 12px;
+  padding: 14px;
+  text-align: center;
+}
+
+.number-card span[lang="fa"] {
+  font-size: 22px;
+}
+
+.rule-card {
+  background-color: #fffaf1;
+  border-left: 5px solid #dca630;
+  border-radius: 12px;
+  margin-top: 28px;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.rule-card h3 {
+  margin-top: 0;
+}
+
+.worked-example {
+  display: grid;
+  gap: 7px;
+  background-color: #173f6f;
+  color: white;
+  border-radius: 12px;
+  margin: 18px 0;
+  padding: 18px;
+  text-align: center;
+}
+
+.worked-example strong,
+.worked-example span[lang="fa"] {
+  font-size: 24px;
+}
+
+.number-examples {
+  padding-left: 22px;
+}
+
+.number-examples li {
+  margin: 10px 0;
+}
+
+.reference-note {
+  margin-bottom: 0;
+}
+
+.alphabet-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  gap: 10px;
+}
+
+.letter-card strong {
+  color: #173f6f;
+  font-size: 38px;
+  line-height: 1.2;
+}
+
+.letter-card small {
+  color: #626675;
+}
+
+@media (max-width: 520px) {
+  body {
+    padding: 16px;
+  }
+
+  main {
+    margin: 24px auto;
+  }
+
+  .reference-table th,
+  .reference-table td {
+    padding: 10px 8px;
+  }
+
+  .number-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .alphabet-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
