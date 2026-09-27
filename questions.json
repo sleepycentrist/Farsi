@@ -1,0 +1,5375 @@
+[
+  {
+    "farsi": "pasfardâ",
+    "english": "The day after tomorrow",
+    "persian": "",
+    "category": "time",
+    "sourceLine": 31,
+    "sourceCategory": "Time",
+    "id": "vocab-0001"
+  },
+  {
+    "farsi": "emruz",
+    "english": "Today",
+    "persian": "",
+    "category": "time",
+    "sourceLine": 31,
+    "sourceCategory": "Time",
+    "id": "vocab-0002"
+  },
+  {
+    "farsi": "diruz",
+    "english": "Yesterday",
+    "persian": "",
+    "category": "time",
+    "sourceLine": 31,
+    "sourceCategory": "Time",
+    "id": "vocab-0003"
+  },
+  {
+    "farsi": "bâlâ-ye",
+    "english": "above",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 54,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0004"
+  },
+  {
+    "farsi": "ru-ye",
+    "english": "on",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 55,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0005"
+  },
+  {
+    "farsi": "zir-e",
+    "english": "under",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 56,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0006"
+  },
+  {
+    "farsi": "pâyin-e",
+    "english": "below",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 57,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0007"
+  },
+  {
+    "farsi": "jelo-ye",
+    "english": "in front of",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 58,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0008"
+  },
+  {
+    "farsi": "ruberu-ye",
+    "english": "opposite/facing",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 59,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0009"
+  },
+  {
+    "farsi": "posht-e",
+    "english": "behind",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 60,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0010"
+  },
+  {
+    "farsi": "dâkhel-e / darun-e",
+    "english": "inside",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 61,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0011"
+  },
+  {
+    "farsi": "birun-e",
+    "english": "outside",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 62,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0012"
+  },
+  {
+    "farsi": "beyn-e",
+    "english": "between",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 63,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0013"
+  },
+  {
+    "farsi": "nazdik-e",
+    "english": "near",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 64,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0014"
+  },
+  {
+    "farsi": "dur az",
+    "english": "far from",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 65,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0015"
+  },
+  {
+    "farsi": "shomâl / shomâli",
+    "english": "north / northern",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 66,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0016"
+  },
+  {
+    "farsi": "jonub / jonubi",
+    "english": "south / southern",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 67,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0017"
+  },
+  {
+    "farsi": "gharb / gharbi",
+    "english": "west / western",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 68,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0018"
+  },
+  {
+    "farsi": "shargh / sharghi",
+    "english": "east / eastern",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 69,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0019"
+  },
+  {
+    "farsi": "shomâl-e gharb / shomâl-e shargh",
+    "english": "northwest / northeast",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 70,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0020"
+  },
+  {
+    "farsi": "jonub-e gharb / jonub-e shargh",
+    "english": "southwest / southeast",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 71,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0021"
+  },
+  {
+    "farsi": "râst / chap",
+    "english": "right / left",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 72,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0022"
+  },
+  {
+    "farsi": "markaz / samt",
+    "english": "centre / side or direction",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 73,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0023"
+  },
+  {
+    "farsi": "injâ / ânjâ",
+    "english": "here / there",
+    "persian": "",
+    "category": "directions",
+    "sourceLine": 74,
+    "sourceCategory": "Place and direction words",
+    "id": "vocab-0024"
+  },
+  {
+    "farsi": "bânk",
+    "english": "bank",
+    "persian": "بانک",
+    "category": "money",
+    "sourceLine": 382,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0025"
+  },
+  {
+    "farsi": "bâhush",
+    "english": "intelligent",
+    "persian": "باهوش",
+    "category": "feelings",
+    "sourceLine": 383,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0026"
+  },
+  {
+    "farsi": "khaste",
+    "english": "tired",
+    "persian": "خسته",
+    "category": "feelings",
+    "sourceLine": 384,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0027"
+  },
+  {
+    "farsi": "sakht",
+    "english": "difficult/hard",
+    "persian": "سخت",
+    "category": "descriptions",
+    "sourceLine": 385,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0028"
+  },
+  {
+    "farsi": "khafan",
+    "english": "awesome (slang)",
+    "persian": "خفن",
+    "category": "descriptions",
+    "sourceLine": 386,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0029"
+  },
+  {
+    "farsi": "nafas-gir",
+    "english": "breathtaking",
+    "persian": "نفس‌گیر",
+    "category": "descriptions",
+    "sourceLine": 387,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0030"
+  },
+  {
+    "farsi": "bekr",
+    "english": "pristine/untouched",
+    "persian": "بکر",
+    "category": "descriptions",
+    "sourceLine": 388,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0031"
+  },
+  {
+    "farsi": "mahbub",
+    "english": "popular/beloved",
+    "persian": "محبوب",
+    "category": "feelings",
+    "sourceLine": 389,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0032"
+  },
+  {
+    "farsi": "ma'dani",
+    "english": "mineral (adjective)",
+    "persian": "معدنی",
+    "category": "descriptions",
+    "sourceLine": 390,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0033"
+  },
+  {
+    "farsi": "royâyi",
+    "english": "dreamy",
+    "persian": "رویایی",
+    "category": "feelings",
+    "sourceLine": 391,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0034"
+  },
+  {
+    "farsi": "denj",
+    "english": "quiet and cosy/secluded",
+    "persian": "دنج",
+    "category": "descriptions",
+    "sourceLine": 392,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0035"
+  },
+  {
+    "farsi": "âb-e zolâl",
+    "english": "clear water",
+    "persian": "آب زلال",
+    "category": "weather",
+    "sourceLine": 393,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0036"
+  },
+  {
+    "farsi": "fogh-ol'âde",
+    "english": "extraordinary",
+    "persian": "فوق‌العاده",
+    "category": "descriptions",
+    "sourceLine": 394,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0037"
+  },
+  {
+    "farsi": "bâshokuh",
+    "english": "magnificent",
+    "persian": "باشکوه",
+    "category": "descriptions",
+    "sourceLine": 395,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0038"
+  },
+  {
+    "farsi": "ârâmesh",
+    "english": "peace/calm (noun)",
+    "persian": "آرامش",
+    "category": "feelings",
+    "sourceLine": 396,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0039"
+  },
+  {
+    "farsi": "be to eftekhâr mikonam",
+    "english": "I am proud of you",
+    "persian": "به تو افتخار می‌کنم",
+    "category": "feelings",
+    "sourceLine": 397,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0040"
+  },
+  {
+    "farsi": "Esfahân nesf-e jahân",
+    "english": "Isfahan is half the world (saying)",
+    "persian": "اصفهان نصف جهان",
+    "category": "places",
+    "sourceLine": 398,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0041"
+  },
+  {
+    "farsi": "rasmi",
+    "english": "official/formal",
+    "persian": "رسمی",
+    "category": "descriptions",
+    "sourceLine": 399,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0042"
+  },
+  {
+    "farsi": "mardom",
+    "english": "people",
+    "persian": "مردم",
+    "category": "family",
+    "sourceLine": 400,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0043"
+  },
+  {
+    "farsi": "mokhtalef",
+    "english": "different/various",
+    "persian": "مختلف",
+    "category": "descriptions",
+    "sourceLine": 401,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0044"
+  },
+  {
+    "farsi": "motefâvet",
+    "english": "different",
+    "persian": "متفاوت",
+    "category": "descriptions",
+    "sourceLine": 402,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0045"
+  },
+  {
+    "farsi": "digar",
+    "english": "other/another",
+    "persian": "دیگر",
+    "category": "sentence-building",
+    "sourceLine": 403,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0046"
+  },
+  {
+    "farsi": "mânand",
+    "english": "like/such as",
+    "persian": "مانند",
+    "category": "sentence-building",
+    "sourceLine": 404,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0047"
+  },
+  {
+    "farsi": "hodud",
+    "english": "approximately/about",
+    "persian": "حدود",
+    "category": "numbers",
+    "sourceLine": 405,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0048"
+  },
+  {
+    "farsi": "nafar",
+    "english": "person; counting word for people",
+    "persian": "نفر",
+    "category": "family",
+    "sourceLine": 406,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0049"
+  },
+  {
+    "farsi": "darsad",
+    "english": "percent",
+    "persian": "درصد",
+    "category": "numbers",
+    "sourceLine": 407,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0050"
+  },
+  {
+    "farsi": "khârej az",
+    "english": "outside of",
+    "persian": "خارج از",
+    "category": "directions",
+    "sourceLine": 408,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0051"
+  },
+  {
+    "farsi": "hâshiye",
+    "english": "edge/margin",
+    "persian": "حاشیه",
+    "category": "directions",
+    "sourceLine": 409,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0052"
+  },
+  {
+    "farsi": "âbi",
+    "english": "blue; water-related in مرز آبی (water boundary)",
+    "persian": "آبی",
+    "category": "colours",
+    "sourceLine": 410,
+    "sourceVariants": [
+      "Blue"
+    ],
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0053"
+  },
+  {
+    "farsi": "khâki",
+    "english": "earthy/land-related in مرز خاکی (land border)",
+    "persian": "خاکی",
+    "category": "descriptions",
+    "sourceLine": 411,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0054"
+  },
+  {
+    "farsi": "fâsele",
+    "english": "distance",
+    "persian": "فاصله",
+    "category": "directions",
+    "sourceLine": 412,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0055"
+  },
+  {
+    "farsi": "kilometr",
+    "english": "kilometre",
+    "persian": "کیلومتر",
+    "category": "numbers",
+    "sourceLine": 413,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0056"
+  },
+  {
+    "farsi": "taghriban",
+    "english": "approximately",
+    "persian": "تقریباً",
+    "category": "numbers",
+    "sourceLine": 414,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0057"
+  },
+  {
+    "farsi": "ghadimi",
+    "english": "old/long-established",
+    "persian": "قدیمی",
+    "category": "descriptions",
+    "sourceLine": 415,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0058"
+  },
+  {
+    "farsi": "ghadimitarin",
+    "english": "oldest",
+    "persian": "قدیمی‌ترین",
+    "category": "descriptions",
+    "sourceLine": 416,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0059"
+  },
+  {
+    "farsi": "modern",
+    "english": "modern",
+    "persian": "مدرن",
+    "category": "descriptions",
+    "sourceLine": 417,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0060"
+  },
+  {
+    "farsi": "dastur",
+    "english": "order/instruction",
+    "persian": "دستور",
+    "category": "conversation",
+    "sourceLine": 418,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0061"
+  },
+  {
+    "farsi": "Rezâ Shâh",
+    "english": "Reza Shah (name in reading)",
+    "persian": "رضا شاه",
+    "category": "society",
+    "sourceLine": 419,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0062"
+  },
+  {
+    "farsi": "motenavve'",
+    "english": "varied/diverse",
+    "persian": "متنوع",
+    "category": "descriptions",
+    "sourceLine": 420,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0063"
+  },
+  {
+    "farsi": "mo'tadel",
+    "english": "mild/temperate",
+    "persian": "معتدل",
+    "category": "weather",
+    "sourceLine": 421,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0064"
+  },
+  {
+    "farsi": "bârâni",
+    "english": "rainy",
+    "persian": "بارانی",
+    "category": "weather",
+    "sourceLine": 422,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0065"
+  },
+  {
+    "farsi": "barfi",
+    "english": "snowy",
+    "persian": "برفی",
+    "category": "weather",
+    "sourceLine": 423,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0066"
+  },
+  {
+    "farsi": "bishtar",
+    "english": "more/mostly",
+    "persian": "بیشتر",
+    "category": "numbers",
+    "sourceLine": 424,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0067"
+  },
+  {
+    "farsi": "bâlâtar az",
+    "english": "higher than/above",
+    "persian": "بالاتر از",
+    "category": "directions",
+    "sourceLine": 425,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0068"
+  },
+  {
+    "farsi": "sântigerâd",
+    "english": "Celsius/centigrade",
+    "persian": "سانتی‌گراد",
+    "category": "weather",
+    "sourceLine": 426,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0069"
+  },
+  {
+    "farsi": "shabih",
+    "english": "similar to",
+    "persian": "شبیه",
+    "category": "descriptions",
+    "sourceLine": 427,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0070"
+  },
+  {
+    "farsi": "jeddi",
+    "english": "serious",
+    "persian": "جدی",
+    "category": "feelings",
+    "sourceLine": 428,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0071"
+  },
+  {
+    "farsi": "vojud dârad",
+    "english": "exists/there is",
+    "persian": "وجود دارد",
+    "category": "actions",
+    "sourceLine": 429,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0072"
+  },
+  {
+    "farsi": "dar asar-e",
+    "english": "as a result of",
+    "persian": "در اثر",
+    "category": "sentence-building",
+    "sourceLine": 430,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0073"
+  },
+  {
+    "farsi": "kam-âb",
+    "english": "low in water",
+    "persian": "کم‌آب",
+    "category": "weather",
+    "sourceLine": 431,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0074"
+  },
+  {
+    "farsi": "hattâ",
+    "english": "even",
+    "persian": "حتی",
+    "category": "sentence-building",
+    "sourceLine": 432,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0075"
+  },
+  {
+    "farsi": "khoshk",
+    "english": "dry",
+    "persian": "خشک",
+    "category": "weather",
+    "sourceLine": 433,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0076"
+  },
+  {
+    "farsi": "khoshk shode-and",
+    "english": "have dried up",
+    "persian": "خشک شده‌اند",
+    "category": "weather",
+    "sourceLine": 434,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0077"
+  },
+  {
+    "farsi": "sâkhte shod",
+    "english": "was built",
+    "persian": "ساخته شد",
+    "category": "home",
+    "sourceLine": 435,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0078"
+  },
+  {
+    "farsi": "besyâr",
+    "english": "very/much",
+    "persian": "بسیار",
+    "category": "numbers",
+    "sourceLine": 436,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0079"
+  },
+  {
+    "farsi": "vali / ammâ",
+    "english": "but",
+    "persian": "ولی / اما",
+    "category": "sentence-building",
+    "sourceLine": 437,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0080"
+  },
+  {
+    "farsi": "niz / ham",
+    "english": "also/too",
+    "persian": "نیز / هم",
+    "category": "sentence-building",
+    "sourceLine": 438,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0081"
+  },
+  {
+    "farsi": "kodâm",
+    "english": "which",
+    "persian": "کدام",
+    "category": "conversation",
+    "sourceLine": 439,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0082"
+  },
+  {
+    "farsi": "har kodâm",
+    "english": "each one",
+    "persian": "هر کدام",
+    "category": "sentence-building",
+    "sourceLine": 440,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0083"
+  },
+  {
+    "farsi": "manâtegh",
+    "english": "regions/areas",
+    "persian": "مناطق",
+    "category": "places",
+    "sourceLine": 441,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0084"
+  },
+  {
+    "farsi": "dark-e matlab",
+    "english": "reading comprehension",
+    "persian": "درک مطلب",
+    "category": "education",
+    "sourceLine": 442,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0085"
+  },
+  {
+    "farsi": "lotfan pâsokh dahid",
+    "english": "please answer (exercise wording)",
+    "persian": "لطفاً پاسخ دهید",
+    "category": "conversation",
+    "sourceLine": 443,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0086"
+  },
+  {
+    "farsi": "agar",
+    "english": "if",
+    "persian": "اگر",
+    "category": "sentence-building",
+    "sourceLine": 444,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0087"
+  },
+  {
+    "farsi": "hanuz",
+    "english": "still/yet",
+    "persian": "هنوز",
+    "category": "time",
+    "sourceLine": 445,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0088"
+  },
+  {
+    "farsi": "hatman",
+    "english": "definitely/certainly",
+    "persian": "حتماً",
+    "category": "conversation",
+    "sourceLine": 446,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0089"
+  },
+  {
+    "farsi": "hamin alân",
+    "english": "right now",
+    "persian": "همین الان",
+    "category": "time",
+    "sourceLine": 447,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0090"
+  },
+  {
+    "farsi": "hamân",
+    "english": "that same",
+    "persian": "همان",
+    "category": "sentence-building",
+    "sourceLine": 448,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0091"
+  },
+  {
+    "farsi": "har do",
+    "english": "both",
+    "persian": "هر دو",
+    "category": "numbers",
+    "sourceLine": 449,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0092"
+  },
+  {
+    "farsi": "adad",
+    "english": "number",
+    "persian": "عدد",
+    "category": "numbers",
+    "sourceLine": 450,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0093"
+  },
+  {
+    "farsi": "ahl-e",
+    "english": "from/of (a place)",
+    "persian": "اهل",
+    "category": "places",
+    "sourceLine": 451,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0094"
+  },
+  {
+    "farsi": "orupâyi",
+    "english": "European",
+    "persian": "اروپایی",
+    "category": "places",
+    "sourceLine": 452,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0095"
+  },
+  {
+    "farsi": "pesar",
+    "english": "son/boy",
+    "persian": "پسر",
+    "category": "family",
+    "sourceLine": 453,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0096"
+  },
+  {
+    "farsi": "otâgh",
+    "english": "room",
+    "persian": "اتاق",
+    "category": "home",
+    "sourceLine": 454,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0097"
+  },
+  {
+    "farsi": "sharji",
+    "english": "humid/muggy",
+    "persian": "شرجی",
+    "category": "weather",
+    "sourceLine": 455,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0098"
+  },
+  {
+    "farsi": "meh-âlud",
+    "english": "foggy",
+    "persian": "مه‌آلود",
+    "category": "weather",
+    "sourceLine": 456,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0099"
+  },
+  {
+    "farsi": "ajib",
+    "english": "strange/weird",
+    "persian": "عجیب",
+    "category": "feelings",
+    "sourceLine": 457,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0100"
+  },
+  {
+    "farsi": "gorbe-sefat",
+    "english": "cat-like; figuratively ungrateful in this exercise",
+    "persian": "گربه‌صفت",
+    "category": "feelings",
+    "sourceLine": 458,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0101"
+  },
+  {
+    "farsi": "rubâh-sefat",
+    "english": "fox-like; figuratively cunning",
+    "persian": "روباه‌صفت",
+    "category": "feelings",
+    "sourceLine": 459,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0102"
+  },
+  {
+    "farsi": "terâfik",
+    "english": "traffic",
+    "persian": "ترافیک",
+    "category": "travel",
+    "sourceLine": 460,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0103"
+  },
+  {
+    "farsi": "dolâr",
+    "english": "dollar",
+    "persian": "دلار",
+    "category": "money",
+    "sourceLine": 461,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0104"
+  },
+  {
+    "farsi": "pul dâdan",
+    "english": "pay/give money",
+    "persian": "پول دادن",
+    "category": "money",
+    "sourceLine": 462,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0105"
+  },
+  {
+    "farsi": "amal",
+    "english": "operation/surgery in hospital context; action elsewhere",
+    "persian": "عمل",
+    "category": "health",
+    "sourceLine": 463,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0106"
+  },
+  {
+    "farsi": "zamân",
+    "english": "time",
+    "persian": "زمان",
+    "category": "time",
+    "sourceLine": 464,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0107"
+  },
+  {
+    "farsi": "dar zamân-e amal",
+    "english": "during surgery",
+    "persian": "در زمان عمل",
+    "category": "health",
+    "sourceLine": 465,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0108"
+  },
+  {
+    "farsi": "imeni",
+    "english": "safety",
+    "persian": "ایمنی",
+    "category": "health",
+    "sourceLine": 466,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0109"
+  },
+  {
+    "farsi": "mellat",
+    "english": "nation",
+    "persian": "ملت",
+    "category": "society",
+    "sourceLine": 467,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0110"
+  },
+  {
+    "farsi": "melli",
+    "english": "national",
+    "persian": "ملی",
+    "category": "society",
+    "sourceLine": 468,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0111"
+  },
+  {
+    "farsi": "râh",
+    "english": "way/road",
+    "persian": "راه",
+    "category": "travel",
+    "sourceLine": 469,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0112"
+  },
+  {
+    "farsi": "gozar",
+    "english": "passage/passing",
+    "persian": "گذر",
+    "category": "travel",
+    "sourceLine": 470,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0113"
+  },
+  {
+    "farsi": "tim",
+    "english": "team",
+    "persian": "تیم",
+    "category": "media",
+    "sourceLine": 471,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0114"
+  },
+  {
+    "farsi": "ruznâme",
+    "english": "newspaper",
+    "persian": "روزنامه",
+    "category": "media",
+    "sourceLine": 472,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0115"
+  },
+  {
+    "farsi": "majalle",
+    "english": "magazine",
+    "persian": "مجله",
+    "category": "media",
+    "sourceLine": 473,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0116"
+  },
+  {
+    "farsi": "maghâle",
+    "english": "article",
+    "persian": "مقاله",
+    "category": "media",
+    "sourceLine": 474,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0117"
+  },
+  {
+    "farsi": "imeyl / râyânâme",
+    "english": "email",
+    "persian": "ایمیل / رایانامه",
+    "category": "media",
+    "sourceLine": 475,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0118"
+  },
+  {
+    "farsi": "post-e elektroniki",
+    "english": "electronic mail",
+    "persian": "پست الکترونیکی",
+    "category": "media",
+    "sourceLine": 476,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0119"
+  },
+  {
+    "farsi": "râyâne",
+    "english": "computer",
+    "persian": "رایانه",
+    "category": "media",
+    "sourceLine": 477,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0120"
+  },
+  {
+    "farsi": "payâmak",
+    "english": "SMS/text message",
+    "persian": "پیامک",
+    "category": "media",
+    "sourceLine": 478,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0121"
+  },
+  {
+    "farsi": "payâm",
+    "english": "message; also a given name",
+    "persian": "پیام",
+    "category": "media",
+    "sourceLine": 479,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0122"
+  },
+  {
+    "farsi": "azizam",
+    "english": "my dear",
+    "persian": "عزیزم",
+    "category": "family",
+    "sourceLine": 480,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0123"
+  },
+  {
+    "farsi": "azizakam",
+    "english": "my little dear (affectionate diminutive)",
+    "persian": "عزیزکم",
+    "category": "family",
+    "sourceLine": 481,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0124"
+  },
+  {
+    "farsi": "khoshgelam",
+    "english": "my lovely/beautiful one (affectionate)",
+    "persian": "خوشگلم",
+    "category": "family",
+    "sourceLine": 482,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0125"
+  },
+  {
+    "farsi": "kuchak",
+    "english": "small",
+    "persian": "کوچک",
+    "category": "descriptions",
+    "sourceLine": 483,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0126"
+  },
+  {
+    "farsi": "bozorg",
+    "english": "big",
+    "persian": "بزرگ",
+    "category": "descriptions",
+    "sourceLine": 484,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0127"
+  },
+  {
+    "farsi": "kabir",
+    "english": "great/large (formal)",
+    "persian": "کبیر",
+    "category": "descriptions",
+    "sourceLine": 485,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0128"
+  },
+  {
+    "farsi": "saghir",
+    "english": "small/minor (formal)",
+    "persian": "صغیر",
+    "category": "descriptions",
+    "sourceLine": 486,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0129"
+  },
+  {
+    "farsi": "mard",
+    "english": "man",
+    "persian": "مرد",
+    "category": "family",
+    "sourceLine": 487,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0130"
+  },
+  {
+    "farsi": "mardak",
+    "english": "derogatory “little man/fellow”; rude, not neutral",
+    "persian": "مردک",
+    "category": "family",
+    "sourceLine": 488,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0131"
+  },
+  {
+    "farsi": "pâ",
+    "english": "foot/leg",
+    "persian": "پا",
+    "category": "health",
+    "sourceLine": 489,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0132"
+  },
+  {
+    "farsi": "takht",
+    "english": "bed/throne",
+    "persian": "تخت",
+    "category": "home",
+    "sourceLine": 490,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0133"
+  },
+  {
+    "farsi": "dâneshju",
+    "english": "university student",
+    "persian": "دانشجو",
+    "category": "education",
+    "sourceLine": 491,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0134"
+  },
+  {
+    "farsi": "dâneshâmuz",
+    "english": "school student",
+    "persian": "دانش‌آموز",
+    "category": "education",
+    "sourceLine": 492,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0135"
+  },
+  {
+    "farsi": "juyande",
+    "english": "seeker",
+    "persian": "جوینده",
+    "category": "family",
+    "sourceLine": 493,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0136"
+  },
+  {
+    "farsi": "dânesh",
+    "english": "knowledge",
+    "persian": "دانش",
+    "category": "education",
+    "sourceLine": 494,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0137"
+  },
+  {
+    "farsi": "dabir",
+    "english": "secondary-school teacher; secretary in other contexts",
+    "persian": "دبیر",
+    "category": "education",
+    "sourceLine": 495,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0138"
+  },
+  {
+    "farsi": "madrese-ye ebtedâyi",
+    "english": "primary school",
+    "persian": "مدرسه ابتدایی",
+    "category": "education",
+    "sourceLine": 496,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0139"
+  },
+  {
+    "farsi": "pish-dabestân",
+    "english": "preschool",
+    "persian": "پیش‌دبستان",
+    "category": "education",
+    "sourceLine": 497,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0140"
+  },
+  {
+    "farsi": "mahd-e kudak",
+    "english": "kindergarten/nursery",
+    "persian": "مهد کودک",
+    "category": "education",
+    "sourceLine": 498,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0141"
+  },
+  {
+    "farsi": "kudak",
+    "english": "child",
+    "persian": "کودک",
+    "category": "family",
+    "sourceLine": 499,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0142"
+  },
+  {
+    "farsi": "pish",
+    "english": "before/front; pre-",
+    "persian": "پیش",
+    "category": "directions",
+    "sourceLine": 500,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0143"
+  },
+  {
+    "farsi": "pas",
+    "english": "after/behind; post-",
+    "persian": "پس",
+    "category": "directions",
+    "sourceLine": 501,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0144"
+  },
+  {
+    "farsi": "pish-pardâkht",
+    "english": "advance/down payment",
+    "persian": "پیش‌پرداخت",
+    "category": "money",
+    "sourceLine": 502,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0145"
+  },
+  {
+    "farsi": "pish-ghazâ",
+    "english": "starter/appetiser",
+    "persian": "پیش‌غذا",
+    "category": "food",
+    "sourceLine": 503,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0146"
+  },
+  {
+    "farsi": "lisâns",
+    "english": "bachelor's degree",
+    "persian": "لیسانس",
+    "category": "education",
+    "sourceLine": 504,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0147"
+  },
+  {
+    "farsi": "fogh-e lisâns",
+    "english": "master's degree",
+    "persian": "فوق لیسانس",
+    "category": "education",
+    "sourceLine": 505,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0148"
+  },
+  {
+    "farsi": "doktorâ",
+    "english": "doctorate/PhD",
+    "persian": "دکترا",
+    "category": "education",
+    "sourceLine": 506,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0149"
+  },
+  {
+    "farsi": "ostâd-e tamâm",
+    "english": "full professor",
+    "persian": "استاد تمام",
+    "category": "education",
+    "sourceLine": 507,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0150"
+  },
+  {
+    "farsi": "dâneshyâr",
+    "english": "associate professor",
+    "persian": "دانشیار",
+    "category": "education",
+    "sourceLine": 508,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0151"
+  },
+  {
+    "farsi": "ostâdyâr",
+    "english": "assistant professor",
+    "persian": "استادیار",
+    "category": "education",
+    "sourceLine": 509,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0152"
+  },
+  {
+    "farsi": "yâr / yâri / komak",
+    "english": "companion or helper / assistance / help",
+    "persian": "یار / یاری / کمک",
+    "category": "family",
+    "sourceLine": 510,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0153"
+  },
+  {
+    "farsi": "darmân",
+    "english": "treatment",
+    "persian": "درمان",
+    "category": "health",
+    "sourceLine": 511,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0154"
+  },
+  {
+    "farsi": "kelinik",
+    "english": "clinic",
+    "persian": "کلینیک",
+    "category": "health",
+    "sourceLine": 512,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0155"
+  },
+  {
+    "farsi": "orzhâns",
+    "english": "emergency service/department",
+    "persian": "اورژانس",
+    "category": "health",
+    "sourceLine": 513,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0156"
+  },
+  {
+    "farsi": "soâli dâri?",
+    "english": "Do you have any questions?",
+    "persian": "سؤالی داری؟",
+    "category": "conversation",
+    "sourceLine": 514,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0157"
+  },
+  {
+    "farsi": "Toronto",
+    "english": "Toronto",
+    "persian": "تورنتو",
+    "category": "places",
+    "sourceLine": 515,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0158"
+  },
+  {
+    "farsi": "Miami",
+    "english": "Miami",
+    "persian": "میامی",
+    "category": "places",
+    "sourceLine": 516,
+    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
+    "id": "vocab-0159"
+  },
+  {
+    "farsi": "shir",
+    "english": "lion (animal context); also milk/tap in other contexts",
+    "persian": "شیر",
+    "category": "animals",
+    "sourceLine": 560,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0160"
+  },
+  {
+    "farsi": "babr",
+    "english": "tiger",
+    "persian": "ببر",
+    "category": "animals",
+    "sourceLine": 561,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0161"
+  },
+  {
+    "farsi": "palang",
+    "english": "leopard; source says panther",
+    "persian": "پلنگ",
+    "category": "animals",
+    "sourceLine": 562,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0162"
+  },
+  {
+    "farsi": "yuzpalang",
+    "english": "cheetah",
+    "persian": "یوزپلنگ",
+    "category": "animals",
+    "sourceLine": 563,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0163"
+  },
+  {
+    "farsi": "khers",
+    "english": "bear",
+    "persian": "خرس",
+    "category": "animals",
+    "sourceLine": 564,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0164"
+  },
+  {
+    "farsi": "fil",
+    "english": "elephant",
+    "persian": "فیل",
+    "category": "animals",
+    "sourceLine": 565,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0165"
+  },
+  {
+    "farsi": "zarâfe",
+    "english": "giraffe",
+    "persian": "زرافه",
+    "category": "animals",
+    "sourceLine": 566,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0166"
+  },
+  {
+    "farsi": "kargadan",
+    "english": "rhinoceros",
+    "persian": "کرگدن",
+    "category": "animals",
+    "sourceLine": 567,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0167"
+  },
+  {
+    "farsi": "gur-e khar",
+    "english": "zebra in source; also wild ass depending on species/context",
+    "persian": "گورخر",
+    "category": "animals",
+    "sourceLine": 568,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0168"
+  },
+  {
+    "farsi": "meymun",
+    "english": "monkey",
+    "persian": "میمون",
+    "category": "animals",
+    "sourceLine": 569,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0169"
+  },
+  {
+    "farsi": "tamâshâ kardan",
+    "english": "watch",
+    "persian": "تماشا کردن",
+    "category": "media",
+    "sourceLine": 570,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0170"
+  },
+  {
+    "farsi": "shoru' kardan",
+    "english": "start/begin",
+    "persian": "شروع کردن",
+    "category": "actions",
+    "sourceLine": 571,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0171"
+  },
+  {
+    "farsi": "tamâm kardan",
+    "english": "finish/end",
+    "persian": "تمام کردن",
+    "category": "actions",
+    "sourceLine": 572,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0172"
+  },
+  {
+    "farsi": "motavaghghef kardan",
+    "english": "stop something",
+    "persian": "متوقف کردن",
+    "category": "actions",
+    "sourceLine": 573,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0173"
+  },
+  {
+    "farsi": "garm kardan",
+    "english": "warm up",
+    "persian": "گرم کردن",
+    "category": "actions",
+    "sourceLine": 574,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0174"
+  },
+  {
+    "farsi": "sard kardan",
+    "english": "cool down",
+    "persian": "سرد کردن",
+    "category": "actions",
+    "sourceLine": 575,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0175"
+  },
+  {
+    "farsi": "fekr kardan",
+    "english": "think",
+    "persian": "فکر کردن",
+    "category": "actions",
+    "sourceLine": 576,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0176"
+  },
+  {
+    "farsi": "bâz kardan",
+    "english": "open",
+    "persian": "باز کردن",
+    "category": "actions",
+    "sourceLine": 577,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0177"
+  },
+  {
+    "farsi": "sardard",
+    "english": "headache",
+    "persian": "سردرد",
+    "category": "health",
+    "sourceLine": 578,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0178"
+  },
+  {
+    "farsi": "film",
+    "english": "film/movie",
+    "persian": "فیلم",
+    "category": "media",
+    "sourceLine": 579,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0179"
+  },
+  {
+    "farsi": "cheshm",
+    "english": "eye",
+    "persian": "چشم",
+    "category": "health",
+    "sourceLine": 580,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0180"
+  },
+  {
+    "farsi": "barnâme",
+    "english": "programme/plan",
+    "persian": "برنامه",
+    "category": "media",
+    "sourceLine": 581,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0181"
+  },
+  {
+    "farsi": "hâl",
+    "english": "condition/mood",
+    "persian": "حال",
+    "category": "feelings",
+    "sourceLine": 582,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0182"
+  },
+  {
+    "farsi": "hâlam khub nist",
+    "english": "I don't feel well",
+    "persian": "حالم خوب نیست",
+    "category": "health",
+    "sourceLine": 583,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0183"
+  },
+  {
+    "farsi": "hâlemun khub nist",
+    "english": "we don't feel well (spoken)",
+    "persian": "حالمون خوب نیست",
+    "category": "health",
+    "sourceLine": 584,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0184"
+  },
+  {
+    "farsi": "lebâsesh / lebâset",
+    "english": "his or her clothes / your clothes",
+    "persian": "لباسش / لباست",
+    "category": "clothing",
+    "sourceLine": 585,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0185"
+  },
+  {
+    "farsi": "lebâsam / lebâsemân",
+    "english": "my clothes / our clothes",
+    "persian": "لباسم / لباسمان",
+    "category": "clothing",
+    "sourceLine": 586,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0186"
+  },
+  {
+    "farsi": "lebâsetun / lebâseshun",
+    "english": "your (plural) clothes / their clothes (spoken)",
+    "persian": "لباس‌تون / لباس‌شون",
+    "category": "clothing",
+    "sourceLine": 587,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0187"
+  },
+  {
+    "farsi": "otâghesh",
+    "english": "his/her room",
+    "persian": "اتاقش",
+    "category": "directions",
+    "sourceLine": 588,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0188"
+  },
+  {
+    "farsi": "doost-e digar",
+    "english": "another friend",
+    "persian": "دوست دیگر",
+    "category": "family",
+    "sourceLine": 589,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0189"
+  },
+  {
+    "farsi": "biznes",
+    "english": "business (loanword)",
+    "persian": "بیزنس",
+    "category": "work",
+    "sourceLine": 590,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0190"
+  },
+  {
+    "farsi": "jashn",
+    "english": "party/celebration",
+    "persian": "جشن",
+    "category": "media",
+    "sourceLine": 591,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0191"
+  },
+  {
+    "farsi": "term",
+    "english": "term/semester",
+    "persian": "ترم",
+    "category": "education",
+    "sourceLine": 592,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0192"
+  },
+  {
+    "farsi": "hame",
+    "english": "everyone/all",
+    "persian": "همه",
+    "category": "sentence-building",
+    "sourceLine": 593,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0193"
+  },
+  {
+    "farsi": "hamishe",
+    "english": "always",
+    "persian": "همیشه",
+    "category": "time",
+    "sourceLine": 594,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0194"
+  },
+  {
+    "farsi": "kolli",
+    "english": "a lot",
+    "persian": "کلی",
+    "category": "numbers",
+    "sourceLine": 595,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0195"
+  },
+  {
+    "farsi": "chon / chonke",
+    "english": "because",
+    "persian": "چون / چونکه",
+    "category": "sentence-building",
+    "sourceLine": 596,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0196"
+  },
+  {
+    "farsi": "barâye inke",
+    "english": "because/in order that, depending on context",
+    "persian": "برای اینکه",
+    "category": "sentence-building",
+    "sourceLine": 597,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0197"
+  },
+  {
+    "farsi": "bâ ham",
+    "english": "together",
+    "persian": "با هم",
+    "category": "sentence-building",
+    "sourceLine": 598,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0198"
+  },
+  {
+    "farsi": "ke",
+    "english": "that (linking clause)",
+    "persian": "که",
+    "category": "sentence-building",
+    "sourceLine": 599,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0199"
+  },
+  {
+    "farsi": "mâmân goft",
+    "english": "Mum said",
+    "persian": "مامان گفت",
+    "category": "family",
+    "sourceLine": 600,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0200"
+  },
+  {
+    "farsi": "bâbâ goft",
+    "english": "Dad said",
+    "persian": "بابا گفت",
+    "category": "family",
+    "sourceLine": 601,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0201"
+  },
+  {
+    "farsi": "chi mige?",
+    "english": "What does he/she say?",
+    "persian": "چی می‌گه؟",
+    "category": "conversation",
+    "sourceLine": 602,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0202"
+  },
+  {
+    "farsi": "chi migam?",
+    "english": "What am I saying?",
+    "persian": "چی می‌گم؟",
+    "category": "conversation",
+    "sourceLine": 603,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0203"
+  },
+  {
+    "farsi": "miporsam bebinam",
+    "english": "I'll ask and see",
+    "persian": "می‌پرسم ببینم",
+    "category": "conversation",
+    "sourceLine": 604,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0204"
+  },
+  {
+    "farsi": "hamkelâsi",
+    "english": "classmate",
+    "persian": "همکلاسی",
+    "category": "education",
+    "sourceLine": 605,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0205"
+  },
+  {
+    "farsi": "polis",
+    "english": "police/police officer",
+    "persian": "پلیس",
+    "category": "work",
+    "sourceLine": 606,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0206"
+  },
+  {
+    "farsi": "dowlat",
+    "english": "government",
+    "persian": "دولت",
+    "category": "society",
+    "sourceLine": 607,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0207"
+  },
+  {
+    "farsi": "hâl-o pazirâyi",
+    "english": "living/sitting room and reception room",
+    "persian": "هال و پذیرایی",
+    "category": "home",
+    "sourceLine": 608,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0208"
+  },
+  {
+    "farsi": "vasâyel",
+    "english": "items/equipment/furnishings",
+    "persian": "وسایل",
+    "category": "home",
+    "sourceLine": 609,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0209"
+  },
+  {
+    "farsi": "miz-e nâhârkhori",
+    "english": "dining table",
+    "persian": "میز ناهارخوری",
+    "category": "home",
+    "sourceLine": 610,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0210"
+  },
+  {
+    "farsi": "sandali",
+    "english": "chair",
+    "persian": "صندلی",
+    "category": "home",
+    "sourceLine": 611,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0211"
+  },
+  {
+    "farsi": "servis-e ghazâkhori",
+    "english": "dinnerware set",
+    "persian": "سرویس غذاخوری",
+    "category": "kitchen",
+    "sourceLine": 612,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0212"
+  },
+  {
+    "farsi": "sofre",
+    "english": "cloth/spread on which a meal is served",
+    "persian": "سفره",
+    "category": "kitchen",
+    "sourceLine": 613,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0213"
+  },
+  {
+    "farsi": "bufe",
+    "english": "display cabinet/sideboard in this lesson",
+    "persian": "بوفه",
+    "category": "home",
+    "sourceLine": 614,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0214"
+  },
+  {
+    "farsi": "miz-e televiziyon",
+    "english": "TV stand",
+    "persian": "میز تلویزیون",
+    "category": "home",
+    "sourceLine": 615,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0215"
+  },
+  {
+    "farsi": "zarf-e mive",
+    "english": "fruit bowl/dish",
+    "persian": "ظرف میوه",
+    "category": "kitchen",
+    "sourceLine": 616,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0216"
+  },
+  {
+    "farsi": "zarf-e âjil",
+    "english": "nut bowl/dish",
+    "persian": "ظرف آجیل",
+    "category": "kitchen",
+    "sourceLine": 617,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0217"
+  },
+  {
+    "farsi": "shokolât-khori",
+    "english": "chocolate/sweet dish",
+    "persian": "شکلات‌خوری",
+    "category": "kitchen",
+    "sourceLine": 618,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0218"
+  },
+  {
+    "farsi": "ghandân / ghandun",
+    "english": "sugar bowl (formal/spoken)",
+    "persian": "قندان / قندون",
+    "category": "kitchen",
+    "sourceLine": 619,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0219"
+  },
+  {
+    "farsi": "shekarpâsh",
+    "english": "sugar shaker/dispenser",
+    "persian": "شکرپاش",
+    "category": "kitchen",
+    "sourceLine": 620,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0220"
+  },
+  {
+    "farsi": "sâ'at-e divâri",
+    "english": "wall clock",
+    "persian": "ساعت دیواری",
+    "category": "home",
+    "sourceLine": 621,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0221"
+  },
+  {
+    "farsi": "pâdari",
+    "english": "doormat",
+    "persian": "پادری",
+    "category": "home",
+    "sourceLine": 622,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0222"
+  },
+  {
+    "farsi": "farsh",
+    "english": "carpet/rug",
+    "persian": "فرش",
+    "category": "home",
+    "sourceLine": 623,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0223"
+  },
+  {
+    "farsi": "mobl",
+    "english": "sofa/armchair",
+    "persian": "مبل",
+    "category": "home",
+    "sourceLine": 624,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0224"
+  },
+  {
+    "farsi": "kusan",
+    "english": "cushion",
+    "persian": "کوسن",
+    "category": "home",
+    "sourceLine": 625,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0225"
+  },
+  {
+    "farsi": "rakht-âviz",
+    "english": "coat rack/clothes hanger",
+    "persian": "رخت‌آویز",
+    "category": "home",
+    "sourceLine": 626,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0226"
+  },
+  {
+    "farsi": "jâ-kafshi",
+    "english": "shoe rack/cabinet",
+    "persian": "جاکفشی",
+    "category": "home",
+    "sourceLine": 627,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0227"
+  },
+  {
+    "farsi": "tâblo",
+    "english": "picture/artwork; sign in other contexts",
+    "persian": "تابلو",
+    "category": "home",
+    "sourceLine": 628,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0228"
+  },
+  {
+    "farsi": "pâshne-kesh",
+    "english": "shoehorn",
+    "persian": "پاشنه‌کش",
+    "category": "home",
+    "sourceLine": 629,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0229"
+  },
+  {
+    "farsi": "shik",
+    "english": "stylish/elegant",
+    "persian": "شیک",
+    "category": "descriptions",
+    "sourceLine": 630,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0230"
+  },
+  {
+    "farsi": "sâde",
+    "english": "simple/plain",
+    "persian": "ساده",
+    "category": "descriptions",
+    "sourceLine": 631,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0231"
+  },
+  {
+    "farsi": "gerân / gerun",
+    "english": "expensive",
+    "persian": "گران / گرون",
+    "category": "money",
+    "sourceLine": 632,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0232"
+  },
+  {
+    "farsi": "kharidan",
+    "english": "buy; present stem khar, past kharid",
+    "persian": "خریدن",
+    "category": "money",
+    "sourceLine": 633,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0233"
+  },
+  {
+    "farsi": "bâzâr",
+    "english": "market/bazaar",
+    "persian": "بازار",
+    "category": "money",
+    "sourceLine": 634,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0234"
+  },
+  {
+    "farsi": "zarf / zarf-hâ",
+    "english": "dish or container / dishes",
+    "persian": "ظرف / ظرف‌ها",
+    "category": "kitchen",
+    "sourceLine": 635,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0235"
+  },
+  {
+    "farsi": "por",
+    "english": "full",
+    "persian": "پر",
+    "category": "descriptions",
+    "sourceLine": 636,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0236"
+  },
+  {
+    "farsi": "por az",
+    "english": "full of",
+    "persian": "پر از",
+    "category": "descriptions",
+    "sourceLine": 637,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0237"
+  },
+  {
+    "farsi": "por-e por",
+    "english": "completely full",
+    "persian": "پرِ پر",
+    "category": "descriptions",
+    "sourceLine": 638,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0238"
+  },
+  {
+    "farsi": "por kardan",
+    "english": "fill",
+    "persian": "پر کردن",
+    "category": "actions",
+    "sourceLine": 639,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0239"
+  },
+  {
+    "farsi": "ghand",
+    "english": "sugar cube/sugar loaf",
+    "persian": "قند",
+    "category": "food",
+    "sourceLine": 640,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0240"
+  },
+  {
+    "farsi": "shekar",
+    "english": "sugar",
+    "persian": "شکر",
+    "category": "food",
+    "sourceLine": 641,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0241"
+  },
+  {
+    "farsi": "shokolât",
+    "english": "chocolate",
+    "persian": "شکلات",
+    "category": "food",
+    "sourceLine": 642,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0242"
+  },
+  {
+    "farsi": "âjil",
+    "english": "mixed nuts (often with dried fruit)",
+    "persian": "آجیل",
+    "category": "food",
+    "sourceLine": 643,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0243"
+  },
+  {
+    "farsi": "jân",
+    "english": "dear (after a name)",
+    "persian": "جان",
+    "category": "family",
+    "sourceLine": 644,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0244"
+  },
+  {
+    "farsi": "khâb",
+    "english": "sleep; clock is khâb = stopped/not running",
+    "persian": "خواب",
+    "category": "time",
+    "sourceLine": 645,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0245"
+  },
+  {
+    "farsi": "hesâbi",
+    "english": "really/thoroughly (adverb here)",
+    "persian": "حسابی",
+    "category": "descriptions",
+    "sourceLine": 646,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0246"
+  },
+  {
+    "farsi": "kasif",
+    "english": "dirty",
+    "persian": "کثیف",
+    "category": "descriptions",
+    "sourceLine": 647,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0247"
+  },
+  {
+    "farsi": "dastbâft",
+    "english": "handwoven",
+    "persian": "دستبافت",
+    "category": "descriptions",
+    "sourceLine": 648,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0248"
+  },
+  {
+    "farsi": "neshastan",
+    "english": "sit; present stem neshin, past neshast",
+    "persian": "نشستن",
+    "category": "actions",
+    "sourceLine": 649,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0249"
+  },
+  {
+    "farsi": "tekye dâdan",
+    "english": "lean against",
+    "persian": "تکیه دادن",
+    "category": "actions",
+    "sourceLine": 650,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0250"
+  },
+  {
+    "farsi": "kot",
+    "english": "coat/jacket",
+    "persian": "کت",
+    "category": "clothing",
+    "sourceLine": 651,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0251"
+  },
+  {
+    "farsi": "kafsh",
+    "english": "shoe",
+    "persian": "کفش",
+    "category": "clothing",
+    "sourceLine": 652,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0252"
+  },
+  {
+    "farsi": "âvizân / âvizun",
+    "english": "hanging",
+    "persian": "آویزان / آویزون",
+    "category": "descriptions",
+    "sourceLine": 653,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0253"
+  },
+  {
+    "farsi": "lâzem dâram",
+    "english": "I need",
+    "persian": "لازم دارم",
+    "category": "conversation",
+    "sourceLine": 654,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0254"
+  },
+  {
+    "farsi": "âshpazkhâne",
+    "english": "kitchen",
+    "persian": "آشپزخانه",
+    "category": "home",
+    "sourceLine": 655,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0255"
+  },
+  {
+    "farsi": "kâse",
+    "english": "bowl",
+    "persian": "کاسه",
+    "category": "kitchen",
+    "sourceLine": 656,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0256"
+  },
+  {
+    "farsi": "sini",
+    "english": "tray",
+    "persian": "سینی",
+    "category": "kitchen",
+    "sourceLine": 657,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0257"
+  },
+  {
+    "farsi": "dis",
+    "english": "serving platter",
+    "persian": "دیس",
+    "category": "kitchen",
+    "sourceLine": 658,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0258"
+  },
+  {
+    "farsi": "pish-dasti",
+    "english": "small side/fruit plate",
+    "persian": "پیش‌دستی",
+    "category": "kitchen",
+    "sourceLine": 659,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0259"
+  },
+  {
+    "farsi": "estekân",
+    "english": "tea glass",
+    "persian": "استکان",
+    "category": "kitchen",
+    "sourceLine": 660,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0260"
+  },
+  {
+    "farsi": "na'lbaki",
+    "english": "saucer",
+    "persian": "نعلبکی",
+    "category": "kitchen",
+    "sourceLine": 661,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0261"
+  },
+  {
+    "farsi": "ghâblame",
+    "english": "cooking pot",
+    "persian": "قابلمه",
+    "category": "kitchen",
+    "sourceLine": 662,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0262"
+  },
+  {
+    "farsi": "mâhitâbe",
+    "english": "frying pan",
+    "persian": "ماهیتابه",
+    "category": "kitchen",
+    "sourceLine": 663,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0263"
+  },
+  {
+    "farsi": "kafgir",
+    "english": "slotted spoon/spatula/rice-serving utensil",
+    "persian": "کفگیر",
+    "category": "kitchen",
+    "sourceLine": 664,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0264"
+  },
+  {
+    "farsi": "malâghe",
+    "english": "ladle",
+    "persian": "ملاقه",
+    "category": "kitchen",
+    "sourceLine": 665,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0265"
+  },
+  {
+    "farsi": "kârd-e mivekhori",
+    "english": "fruit knife",
+    "persian": "کارد میوه‌خوری",
+    "category": "kitchen",
+    "sourceLine": 666,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0266"
+  },
+  {
+    "farsi": "polopaz",
+    "english": "rice cooker",
+    "persian": "پلوپز",
+    "category": "kitchen",
+    "sourceLine": 667,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0267"
+  },
+  {
+    "farsi": "sikh-e kabâb",
+    "english": "kebab skewer",
+    "persian": "سیخ کباب",
+    "category": "kitchen",
+    "sourceLine": 668,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0268"
+  },
+  {
+    "farsi": "turi-ye kabâb",
+    "english": "grill basket/grilling grid",
+    "persian": "توری کباب",
+    "category": "kitchen",
+    "sourceLine": 669,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0269"
+  },
+  {
+    "farsi": "manghal",
+    "english": "charcoal brazier/barbecue",
+    "persian": "منقل",
+    "category": "kitchen",
+    "sourceLine": 670,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0270"
+  },
+  {
+    "farsi": "sâlâd",
+    "english": "salad",
+    "persian": "سالاد",
+    "category": "food",
+    "sourceLine": 671,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0271"
+  },
+  {
+    "farsi": "chây / châyi",
+    "english": "tea",
+    "persian": "چای / چایی",
+    "category": "food",
+    "sourceLine": 672,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0272"
+  },
+  {
+    "farsi": "polo",
+    "english": "cooked rice/rice dish",
+    "persian": "پلو",
+    "category": "food",
+    "sourceLine": 673,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0273"
+  },
+  {
+    "farsi": "berenj",
+    "english": "rice",
+    "persian": "برنج",
+    "category": "food",
+    "sourceLine": 674,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0274"
+  },
+  {
+    "farsi": "mehmân / mehmun",
+    "english": "guest",
+    "persian": "مهمان / مهمون",
+    "category": "family",
+    "sourceLine": 675,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0275"
+  },
+  {
+    "farsi": "chini",
+    "english": "porcelain/china",
+    "persian": "چینی",
+    "category": "descriptions",
+    "sourceLine": 676,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0276"
+  },
+  {
+    "farsi": "sib-zamini",
+    "english": "potato",
+    "persian": "سیب‌زمینی",
+    "category": "food",
+    "sourceLine": 677,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0277"
+  },
+  {
+    "farsi": "kotlet",
+    "english": "fried meat-and-potato patty",
+    "persian": "کتلت",
+    "category": "food",
+    "sourceLine": 678,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0278"
+  },
+  {
+    "farsi": "âsh",
+    "english": "thick Persian soup",
+    "persian": "آش",
+    "category": "food",
+    "sourceLine": 679,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0279"
+  },
+  {
+    "farsi": "juje",
+    "english": "chick; chicken pieces in this cooking context",
+    "persian": "جوجه",
+    "category": "food",
+    "sourceLine": 680,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0280"
+  },
+  {
+    "farsi": "kubide",
+    "english": "minced-meat kebab",
+    "persian": "کوبیده",
+    "category": "food",
+    "sourceLine": 681,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0281"
+  },
+  {
+    "farsi": "ta'm",
+    "english": "taste/flavour",
+    "persian": "طعم",
+    "category": "food",
+    "sourceLine": 682,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0282"
+  },
+  {
+    "farsi": "âli",
+    "english": "excellent",
+    "persian": "عالی",
+    "category": "descriptions",
+    "sourceLine": 683,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0283"
+  },
+  {
+    "farsi": "tiz",
+    "english": "sharp",
+    "persian": "تیز",
+    "category": "descriptions",
+    "sourceLine": 684,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0284"
+  },
+  {
+    "farsi": "rob'",
+    "english": "quarter; quarter of an hour here",
+    "persian": "ربع",
+    "category": "time",
+    "sourceLine": 685,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0285"
+  },
+  {
+    "farsi": "dige",
+    "english": "other/more/later (spoken digar, context-dependent)",
+    "persian": "دیگه",
+    "category": "sentence-building",
+    "sourceLine": 686,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0286"
+  },
+  {
+    "farsi": "vâse",
+    "english": "for (spoken)",
+    "persian": "واسه",
+    "category": "sentence-building",
+    "sourceLine": 687,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0287"
+  },
+  {
+    "farsi": "tu / tu-ye",
+    "english": "in/inside (spoken; distinct from to = you)",
+    "persian": "تو / توی",
+    "category": "directions",
+    "sourceLine": 688,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0288"
+  },
+  {
+    "farsi": "dorost kardan",
+    "english": "make/prepare",
+    "persian": "درست کردن",
+    "category": "actions",
+    "sourceLine": 689,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0289"
+  },
+  {
+    "farsi": "gozâshtan",
+    "english": "put/place; present gozâr, past gozâsht",
+    "persian": "گذاشتن",
+    "category": "actions",
+    "sourceLine": 690,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0290"
+  },
+  {
+    "farsi": "bordan",
+    "english": "take/carry away; present bar, past bord",
+    "persian": "بردن",
+    "category": "travel",
+    "sourceLine": 691,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0291"
+  },
+  {
+    "farsi": "rikhtan",
+    "english": "pour; present riz, past rikht",
+    "persian": "ریختن",
+    "category": "food",
+    "sourceLine": 692,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0292"
+  },
+  {
+    "farsi": "keshidan",
+    "english": "pull/draw; serve/portion food in these examples",
+    "persian": "کشیدن",
+    "category": "actions",
+    "sourceLine": 693,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0293"
+  },
+  {
+    "farsi": "shekastan",
+    "english": "break; present shekan, past shekast",
+    "persian": "شکستن",
+    "category": "actions",
+    "sourceLine": 694,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0294"
+  },
+  {
+    "farsi": "pokhtan",
+    "english": "cook; present paz, past pokht",
+    "persian": "پختن",
+    "category": "food",
+    "sourceLine": 695,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0295"
+  },
+  {
+    "farsi": "sorkh kardan",
+    "english": "fry",
+    "persian": "سرخ کردن",
+    "category": "food",
+    "sourceLine": 696,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0296"
+  },
+  {
+    "farsi": "khâmush kardan",
+    "english": "turn off",
+    "persian": "خاموش کردن",
+    "category": "actions",
+    "sourceLine": 697,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0297"
+  },
+  {
+    "farsi": "kabâb kardan",
+    "english": "grill/barbecue",
+    "persian": "کباب کردن",
+    "category": "food",
+    "sourceLine": 698,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0298"
+  },
+  {
+    "farsi": "sikh keshidan",
+    "english": "thread onto skewers",
+    "persian": "سیخ کشیدن",
+    "category": "food",
+    "sourceLine": 699,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0299"
+  },
+  {
+    "farsi": "sofre andâkhtan",
+    "english": "lay out the meal cloth/set the meal",
+    "persian": "سفره انداختن",
+    "category": "food",
+    "sourceLine": 700,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0300"
+  },
+  {
+    "farsi": "movâzeb bâsh",
+    "english": "be careful",
+    "persian": "مواظب باش",
+    "category": "conversation",
+    "sourceLine": 701,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0301"
+  },
+  {
+    "farsi": "yâdet rafte",
+    "english": "you have forgotten",
+    "persian": "یادت رفته",
+    "category": "conversation",
+    "sourceLine": 702,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0302"
+  },
+  {
+    "farsi": "khatt-e havâyi",
+    "english": "airline/air route (Jobs handwriting)",
+    "persian": "خط هوایی",
+    "category": "travel",
+    "sourceLine": 703,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0303"
+  },
+  {
+    "farsi": "komak-khalabân",
+    "english": "co-pilot (Jobs handwriting)",
+    "persian": "کمک‌خلبان",
+    "category": "work",
+    "sourceLine": 704,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0304"
+  },
+  {
+    "farsi": "pazande",
+    "english": "one who cooks (Jobs handwriting; less common than âshpaz)",
+    "persian": "پزنده",
+    "category": "work",
+    "sourceLine": 705,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0305"
+  },
+  {
+    "farsi": "pokhte",
+    "english": "cooked",
+    "persian": "پخته",
+    "category": "food",
+    "sourceLine": 706,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0306"
+  },
+  {
+    "farsi": "neshândan",
+    "english": "seat someone; present neshân, past neshând",
+    "persian": "نشاندن",
+    "category": "actions",
+    "sourceLine": 707,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0307"
+  },
+  {
+    "farsi": "jâsh",
+    "english": "his/her/its place (spoken jâyash)",
+    "persian": "جاش",
+    "category": "directions",
+    "sourceLine": 708,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0308"
+  },
+  {
+    "farsi": "pâygâh-e nezâmi",
+    "english": "military base",
+    "persian": "پایگاه نظامی",
+    "category": "society",
+    "sourceLine": 709,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0309"
+  },
+  {
+    "farsi": "nezâmi",
+    "english": "military",
+    "persian": "نظامی",
+    "category": "society",
+    "sourceLine": 710,
+    "sourceCategory": "Vocabulary additions and reinforcement",
+    "id": "vocab-0310"
+  },
+  {
+    "farsi": "hamsar",
+    "english": "spouse",
+    "persian": "همسر",
+    "category": "family",
+    "sourceLine": 791,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0311"
+  },
+  {
+    "farsi": "pedar-o mâdar / vâledeyn",
+    "english": "parents (vâledeyn supplied as an alternative)",
+    "persian": "پدر و مادر / والدین",
+    "category": "family",
+    "sourceLine": 792,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0312"
+  },
+  {
+    "farsi": "barâdarân / barâdarhâ",
+    "english": "brothers",
+    "persian": "برادران / برادرها",
+    "category": "family",
+    "sourceLine": 793,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0313"
+  },
+  {
+    "farsi": "pesarân / pesarhâ",
+    "english": "sons/boys",
+    "persian": "پسران / پسرها",
+    "category": "family",
+    "sourceLine": 794,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0314"
+  },
+  {
+    "farsi": "amuhâ",
+    "english": "paternal uncles",
+    "persian": "عموها",
+    "category": "family",
+    "sourceLine": 795,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0315"
+  },
+  {
+    "farsi": "che kasi? / che kasâni?",
+    "english": "who? / who? (plural people)",
+    "persian": "چه کسی؟ / چه کسانی؟",
+    "category": "conversation",
+    "sourceLine": 796,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0316"
+  },
+  {
+    "farsi": "âghâ / khânom",
+    "english": "Mr / Ms; gentleman / lady",
+    "persian": "آقا / خانم",
+    "category": "family",
+    "sourceLine": 797,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0317"
+  },
+  {
+    "farsi": "dishab",
+    "english": "last night",
+    "persian": "دیشب",
+    "category": "time",
+    "sourceLine": 798,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0318"
+  },
+  {
+    "farsi": "hich vaght",
+    "english": "never (with a negative verb)",
+    "persian": "هیچ‌وقت",
+    "category": "time",
+    "sourceLine": 799,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0319"
+  },
+  {
+    "farsi": "kudaki / bachegi",
+    "english": "childhood",
+    "persian": "کودکی / بچگی",
+    "category": "time",
+    "sourceLine": 800,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0320"
+  },
+  {
+    "farsi": "dar kudaki",
+    "english": "in childhood / as a child",
+    "persian": "در کودکی",
+    "category": "time",
+    "sourceLine": 801,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0321"
+  },
+  {
+    "farsi": "tire / rowshan",
+    "english": "dark / light (colour shades here)",
+    "persian": "تیره / روشن",
+    "category": "colours",
+    "sourceLine": 802,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0322"
+  },
+  {
+    "farsi": "banafsh-e tire",
+    "english": "dark purple",
+    "persian": "بنفش تیره",
+    "category": "colours",
+    "sourceLine": 803,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0323"
+  },
+  {
+    "farsi": "âbi-ye rowshan",
+    "english": "light blue",
+    "persian": "آبی روشن",
+    "category": "colours",
+    "sourceLine": 804,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0324"
+  },
+  {
+    "farsi": "sabz-e tire",
+    "english": "dark green",
+    "persian": "سبز تیره",
+    "category": "colours",
+    "sourceLine": 805,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0325"
+  },
+  {
+    "farsi": "har sobh",
+    "english": "every morning",
+    "persian": "هر صبح",
+    "category": "time",
+    "sourceLine": 806,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0326"
+  },
+  {
+    "farsi": "diruz sobh / diruz asr",
+    "english": "yesterday morning / yesterday evening",
+    "persian": "دیروز صبح / دیروز عصر",
+    "category": "time",
+    "sourceLine": 807,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0327"
+  },
+  {
+    "farsi": "gharb-e Landan",
+    "english": "West London",
+    "persian": "غرب لندن",
+    "category": "directions",
+    "sourceLine": 808,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0328"
+  },
+  {
+    "farsi": "otâgh-e khâb",
+    "english": "bedroom",
+    "persian": "اتاق خواب",
+    "category": "home",
+    "sourceLine": 809,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0329"
+  },
+  {
+    "farsi": "birun-e khâne",
+    "english": "outside the house",
+    "persian": "بیرون خانه",
+    "category": "directions",
+    "sourceLine": 810,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0330"
+  },
+  {
+    "farsi": "Pegâh",
+    "english": "given name in exercise; dawn/daybreak",
+    "persian": "پگاه",
+    "category": "time",
+    "sourceLine": 811,
+    "sourceCategory": "Vocabulary and phrases added or reinforced",
+    "id": "vocab-0331"
+  },
+  {
+    "farsi": "vakil",
+    "english": "lawyer",
+    "persian": "وکیل",
+    "category": "work",
+    "sourceLine": 957,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0332"
+  },
+  {
+    "farsi": "mohandes",
+    "english": "engineer",
+    "persian": "مهندس",
+    "category": "work",
+    "sourceLine": 958,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0333"
+  },
+  {
+    "farsi": "khalabân",
+    "english": "pilot",
+    "persian": "خلبان",
+    "category": "work",
+    "sourceLine": 959,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0334"
+  },
+  {
+    "farsi": "mehmândâr-e havâpeymâ",
+    "english": "flight attendant",
+    "persian": "مهماندار هواپیما",
+    "category": "work",
+    "sourceLine": 960,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0335"
+  },
+  {
+    "farsi": "pezeshk",
+    "english": "doctor",
+    "persian": "پزشک",
+    "category": "work",
+    "sourceLine": 961,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0336"
+  },
+  {
+    "farsi": "parastâr",
+    "english": "nurse",
+    "persian": "پرستار",
+    "category": "work",
+    "sourceLine": 962,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0337"
+  },
+  {
+    "farsi": "ostâd",
+    "english": "professor",
+    "persian": "استاد",
+    "category": "work",
+    "sourceLine": 963,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0338"
+  },
+  {
+    "farsi": "ârâyeshgar",
+    "english": "hairdresser/barber",
+    "persian": "آرایشگر",
+    "category": "work",
+    "sourceLine": 964,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0339"
+  },
+  {
+    "farsi": "âshpaz",
+    "english": "chef/cook",
+    "persian": "آشپز",
+    "category": "work",
+    "sourceLine": 965,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0340"
+  },
+  {
+    "farsi": "âtash-neshân",
+    "english": "firefighter",
+    "persian": "آتش‌نشان",
+    "category": "work",
+    "sourceLine": 966,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0341"
+  },
+  {
+    "farsi": "bargh-kâr",
+    "english": "electrician",
+    "persian": "برق‌کار",
+    "category": "work",
+    "sourceLine": 967,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0342"
+  },
+  {
+    "farsi": "najjâr",
+    "english": "carpenter",
+    "persian": "نجار",
+    "category": "work",
+    "sourceLine": 968,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0343"
+  },
+  {
+    "farsi": "nevisande",
+    "english": "writer",
+    "persian": "نویسنده",
+    "category": "work",
+    "sourceLine": 969,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0344"
+  },
+  {
+    "farsi": "hesâbdâr",
+    "english": "accountant",
+    "persian": "حسابدار",
+    "category": "work",
+    "sourceLine": 970,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0345"
+  },
+  {
+    "farsi": "naghâsh",
+    "english": "painter",
+    "persian": "نقاش",
+    "category": "work",
+    "sourceLine": 971,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0346"
+  },
+  {
+    "farsi": "rânande",
+    "english": "driver",
+    "persian": "راننده",
+    "category": "work",
+    "sourceLine": 972,
+    "sourceCategory": "Latest lesson: Jobs, Part 1",
+    "id": "vocab-0347"
+  },
+  {
+    "farsi": "Man hastam",
+    "english": "I am",
+    "persian": "من هستم",
+    "category": "actions",
+    "sourceLine": 1097,
+    "sourceCategory": "TO BE - بودن (Boodan)",
+    "id": "vocab-0348"
+  },
+  {
+    "farsi": "To hasti",
+    "english": "You are (singular informal)",
+    "persian": "تو هستی",
+    "category": "actions",
+    "sourceLine": 1098,
+    "sourceCategory": "TO BE - بودن (Boodan)",
+    "id": "vocab-0349"
+  },
+  {
+    "farsi": "Ou hast / ast",
+    "english": "He/She/It is",
+    "persian": "او هست / است",
+    "category": "actions",
+    "sourceLine": 1099,
+    "sourceCategory": "TO BE - بودن (Boodan)",
+    "id": "vocab-0350"
+  },
+  {
+    "farsi": "Mâ hastim",
+    "english": "We are",
+    "persian": "ما هستیم",
+    "category": "actions",
+    "sourceLine": 1100,
+    "sourceCategory": "TO BE - بودن (Boodan)",
+    "id": "vocab-0351"
+  },
+  {
+    "farsi": "Shoma hastin/hastid",
+    "english": "You are (plural/formal)",
+    "persian": "شما هستید",
+    "category": "actions",
+    "sourceLine": 1101,
+    "sourceCategory": "TO BE - بودن (Boodan)",
+    "id": "vocab-0352"
+  },
+  {
+    "farsi": "Ânhâ hastan/hastand",
+    "english": "They are",
+    "persian": "آنها هستند",
+    "category": "actions",
+    "sourceLine": 1102,
+    "sourceCategory": "TO BE - بودن (Boodan)",
+    "id": "vocab-0353"
+  },
+  {
+    "farsi": "Man daaram",
+    "english": "I have",
+    "persian": "من دارم",
+    "category": "actions",
+    "sourceLine": 1113,
+    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
+    "id": "vocab-0354"
+  },
+  {
+    "farsi": "To daari",
+    "english": "You have (singular informal)",
+    "persian": "تو داری",
+    "category": "actions",
+    "sourceLine": 1114,
+    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
+    "id": "vocab-0355"
+  },
+  {
+    "farsi": "Ou daarad",
+    "english": "He/She/It has",
+    "persian": "او دارد",
+    "category": "actions",
+    "sourceLine": 1115,
+    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
+    "id": "vocab-0356"
+  },
+  {
+    "farsi": "Mâ daarim",
+    "english": "We have",
+    "persian": "ما داریم",
+    "category": "actions",
+    "sourceLine": 1116,
+    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
+    "id": "vocab-0357"
+  },
+  {
+    "farsi": "Shoma daarin/daarid",
+    "english": "You have (plural/formal)",
+    "persian": "شما دارید",
+    "category": "actions",
+    "sourceLine": 1117,
+    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
+    "id": "vocab-0358"
+  },
+  {
+    "farsi": "Ânhâ daaran/daarand",
+    "english": "They have",
+    "persian": "آنها دارند",
+    "category": "actions",
+    "sourceLine": 1118,
+    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
+    "id": "vocab-0359"
+  },
+  {
+    "farsi": "Man miravam",
+    "english": "I go",
+    "persian": "من می‌روم",
+    "category": "travel",
+    "sourceLine": 1144,
+    "sourceCategory": "TO GO - رفتن (Raftan)",
+    "id": "vocab-0360"
+  },
+  {
+    "farsi": "To miravi",
+    "english": "You go",
+    "persian": "تو می‌روی",
+    "category": "travel",
+    "sourceLine": 1145,
+    "sourceCategory": "TO GO - رفتن (Raftan)",
+    "id": "vocab-0361"
+  },
+  {
+    "farsi": "Ou miravad",
+    "english": "He/She goes",
+    "persian": "او می‌رود",
+    "category": "travel",
+    "sourceLine": 1146,
+    "sourceCategory": "TO GO - رفتن (Raftan)",
+    "id": "vocab-0362"
+  },
+  {
+    "farsi": "Mâ miravim",
+    "english": "We go",
+    "persian": "ما می‌رویم",
+    "category": "travel",
+    "sourceLine": 1147,
+    "sourceCategory": "TO GO - رفتن (Raftan)",
+    "id": "vocab-0363"
+  },
+  {
+    "farsi": "Shoma miravid",
+    "english": "You go",
+    "persian": "شما می‌روید",
+    "category": "travel",
+    "sourceLine": 1148,
+    "sourceCategory": "TO GO - رفتن (Raftan)",
+    "id": "vocab-0364"
+  },
+  {
+    "farsi": "Ânhâ miravand",
+    "english": "They go",
+    "persian": "آنها می‌روند",
+    "category": "travel",
+    "sourceLine": 1149,
+    "sourceCategory": "TO GO - رفتن (Raftan)",
+    "id": "vocab-0365"
+  },
+  {
+    "farsi": "Man mibinam",
+    "english": "I see",
+    "persian": "من می‌بینم",
+    "category": "actions",
+    "sourceLine": 1161,
+    "sourceCategory": "TO SEE - دیدن (Didan)",
+    "id": "vocab-0366"
+  },
+  {
+    "farsi": "To mibini",
+    "english": "You see",
+    "persian": "تو می‌بینی",
+    "category": "actions",
+    "sourceLine": 1162,
+    "sourceCategory": "TO SEE - دیدن (Didan)",
+    "id": "vocab-0367"
+  },
+  {
+    "farsi": "Ou mibinad",
+    "english": "He/She sees",
+    "persian": "او می‌بیند",
+    "category": "actions",
+    "sourceLine": 1163,
+    "sourceCategory": "TO SEE - دیدن (Didan)",
+    "id": "vocab-0368"
+  },
+  {
+    "farsi": "Mâ mibinim",
+    "english": "We see",
+    "persian": "ما می‌بینیم",
+    "category": "actions",
+    "sourceLine": 1164,
+    "sourceCategory": "TO SEE - دیدن (Didan)",
+    "id": "vocab-0369"
+  },
+  {
+    "farsi": "Shoma mibinid",
+    "english": "You see",
+    "persian": "شما می‌بینید",
+    "category": "actions",
+    "sourceLine": 1165,
+    "sourceCategory": "TO SEE - دیدن (Didan)",
+    "id": "vocab-0370"
+  },
+  {
+    "farsi": "Ânhâ mibinand",
+    "english": "They see",
+    "persian": "آنها می‌بینند",
+    "category": "actions",
+    "sourceLine": 1166,
+    "sourceCategory": "TO SEE - دیدن (Didan)",
+    "id": "vocab-0371"
+  },
+  {
+    "farsi": "Man mishenavam",
+    "english": "I hear",
+    "persian": "من می‌شنوم",
+    "category": "actions",
+    "sourceLine": 1178,
+    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
+    "id": "vocab-0372"
+  },
+  {
+    "farsi": "To mishenavi",
+    "english": "You hear",
+    "persian": "تو می‌شنوی",
+    "category": "actions",
+    "sourceLine": 1179,
+    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
+    "id": "vocab-0373"
+  },
+  {
+    "farsi": "Ou mishenavad",
+    "english": "He/She hears",
+    "persian": "او می‌شنود",
+    "category": "actions",
+    "sourceLine": 1180,
+    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
+    "id": "vocab-0374"
+  },
+  {
+    "farsi": "Mâ mishenavim",
+    "english": "We hear",
+    "persian": "ما می‌شنویم",
+    "category": "actions",
+    "sourceLine": 1181,
+    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
+    "id": "vocab-0375"
+  },
+  {
+    "farsi": "Shoma mishenavid",
+    "english": "You hear",
+    "persian": "شما می‌شنوید",
+    "category": "actions",
+    "sourceLine": 1182,
+    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
+    "id": "vocab-0376"
+  },
+  {
+    "farsi": "Ânhâ mishenavand",
+    "english": "They hear",
+    "persian": "آنها می‌شنوند",
+    "category": "actions",
+    "sourceLine": 1183,
+    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
+    "id": "vocab-0377"
+  },
+  {
+    "farsi": "Man mikhoram",
+    "english": "I eat",
+    "persian": "من می‌خورم",
+    "category": "food",
+    "sourceLine": 1195,
+    "sourceCategory": "TO EAT - خوردن (Khordan)",
+    "id": "vocab-0378"
+  },
+  {
+    "farsi": "To mikhori",
+    "english": "You eat",
+    "persian": "تو می‌خوری",
+    "category": "food",
+    "sourceLine": 1196,
+    "sourceCategory": "TO EAT - خوردن (Khordan)",
+    "id": "vocab-0379"
+  },
+  {
+    "farsi": "Ou mikhorad",
+    "english": "He/She eats",
+    "persian": "او می‌خورد",
+    "category": "food",
+    "sourceLine": 1197,
+    "sourceCategory": "TO EAT - خوردن (Khordan)",
+    "id": "vocab-0380"
+  },
+  {
+    "farsi": "Mâ mikhorim",
+    "english": "We eat",
+    "persian": "ما می‌خوریم",
+    "category": "food",
+    "sourceLine": 1198,
+    "sourceCategory": "TO EAT - خوردن (Khordan)",
+    "id": "vocab-0381"
+  },
+  {
+    "farsi": "Shoma mikhorid",
+    "english": "You eat",
+    "persian": "شما می‌خورید",
+    "category": "food",
+    "sourceLine": 1199,
+    "sourceCategory": "TO EAT - خوردن (Khordan)",
+    "id": "vocab-0382"
+  },
+  {
+    "farsi": "Ânhâ mikhorand",
+    "english": "They eat",
+    "persian": "آنها می‌خورند",
+    "category": "food",
+    "sourceLine": 1200,
+    "sourceCategory": "TO EAT - خوردن (Khordan)",
+    "id": "vocab-0383"
+  },
+  {
+    "farsi": "Man miâyam",
+    "english": "I come",
+    "persian": "من می‌آیم",
+    "category": "travel",
+    "sourceLine": 1212,
+    "sourceCategory": "TO COME - آمدن (Âmadan)",
+    "id": "vocab-0384"
+  },
+  {
+    "farsi": "To miâyi",
+    "english": "You come",
+    "persian": "تو می‌آیی",
+    "category": "travel",
+    "sourceLine": 1213,
+    "sourceCategory": "TO COME - آمدن (Âmadan)",
+    "id": "vocab-0385"
+  },
+  {
+    "farsi": "Ou miâyad",
+    "english": "He/She comes",
+    "persian": "او می‌آید",
+    "category": "travel",
+    "sourceLine": 1214,
+    "sourceCategory": "TO COME - آمدن (Âmadan)",
+    "id": "vocab-0386"
+  },
+  {
+    "farsi": "Mâ miâyim",
+    "english": "We come",
+    "persian": "ما می‌آییم",
+    "category": "travel",
+    "sourceLine": 1215,
+    "sourceCategory": "TO COME - آمدن (Âmadan)",
+    "id": "vocab-0387"
+  },
+  {
+    "farsi": "Shoma miâyid",
+    "english": "You come",
+    "persian": "شما می‌آیید",
+    "category": "travel",
+    "sourceLine": 1216,
+    "sourceCategory": "TO COME - آمدن (Âmadan)",
+    "id": "vocab-0388"
+  },
+  {
+    "farsi": "Ânhâ miâyand",
+    "english": "They come",
+    "persian": "آنها می‌آیند",
+    "category": "travel",
+    "sourceLine": 1217,
+    "sourceCategory": "TO COME - آمدن (Âmadan)",
+    "id": "vocab-0389"
+  },
+  {
+    "farsi": "Man miâvaram",
+    "english": "I bring",
+    "persian": "من می‌آورم",
+    "category": "actions",
+    "sourceLine": 1229,
+    "sourceCategory": "TO BRING - آوردن (Âvordan)",
+    "id": "vocab-0390"
+  },
+  {
+    "farsi": "To miâvari",
+    "english": "You bring",
+    "persian": "تو می‌آوری",
+    "category": "actions",
+    "sourceLine": 1230,
+    "sourceCategory": "TO BRING - آوردن (Âvordan)",
+    "id": "vocab-0391"
+  },
+  {
+    "farsi": "Ou miâvarad",
+    "english": "He/She brings",
+    "persian": "او می‌آورد",
+    "category": "actions",
+    "sourceLine": 1231,
+    "sourceCategory": "TO BRING - آوردن (Âvordan)",
+    "id": "vocab-0392"
+  },
+  {
+    "farsi": "Mâ miâvarim",
+    "english": "We bring",
+    "persian": "ما می‌آوریم",
+    "category": "actions",
+    "sourceLine": 1232,
+    "sourceCategory": "TO BRING - آوردن (Âvordan)",
+    "id": "vocab-0393"
+  },
+  {
+    "farsi": "Shoma miâvarid",
+    "english": "You bring",
+    "persian": "شما می‌آورید",
+    "category": "actions",
+    "sourceLine": 1233,
+    "sourceCategory": "TO BRING - آوردن (Âvordan)",
+    "id": "vocab-0394"
+  },
+  {
+    "farsi": "Ânhâ miâvarand",
+    "english": "They bring",
+    "persian": "آنها می‌آورند",
+    "category": "actions",
+    "sourceLine": 1234,
+    "sourceCategory": "TO BRING - آوردن (Âvordan)",
+    "id": "vocab-0395"
+  },
+  {
+    "farsi": "Man mibandam",
+    "english": "I close",
+    "persian": "من می‌بندم",
+    "category": "actions",
+    "sourceLine": 1246,
+    "sourceCategory": "TO CLOSE - بستن (Bastan)",
+    "id": "vocab-0396"
+  },
+  {
+    "farsi": "To mibandi",
+    "english": "You close",
+    "persian": "تو می‌بندی",
+    "category": "actions",
+    "sourceLine": 1247,
+    "sourceCategory": "TO CLOSE - بستن (Bastan)",
+    "id": "vocab-0397"
+  },
+  {
+    "farsi": "Ou mibandad",
+    "english": "He/She closes",
+    "persian": "او می‌بندد",
+    "category": "actions",
+    "sourceLine": 1248,
+    "sourceCategory": "TO CLOSE - بستن (Bastan)",
+    "id": "vocab-0398"
+  },
+  {
+    "farsi": "Mâ mibandim",
+    "english": "We close",
+    "persian": "ما می‌بندیم",
+    "category": "actions",
+    "sourceLine": 1249,
+    "sourceCategory": "TO CLOSE - بستن (Bastan)",
+    "id": "vocab-0399"
+  },
+  {
+    "farsi": "Shoma mibandid",
+    "english": "You close",
+    "persian": "شما می‌بندید",
+    "category": "actions",
+    "sourceLine": 1250,
+    "sourceCategory": "TO CLOSE - بستن (Bastan)",
+    "id": "vocab-0400"
+  },
+  {
+    "farsi": "Ânhâ mibandand",
+    "english": "They close",
+    "persian": "آنها می‌بندند",
+    "category": "actions",
+    "sourceLine": 1251,
+    "sourceCategory": "TO CLOSE - بستن (Bastan)",
+    "id": "vocab-0401"
+  },
+  {
+    "farsi": "Man miporsam",
+    "english": "I ask",
+    "persian": "من می‌پرسم",
+    "category": "actions",
+    "sourceLine": 1263,
+    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
+    "id": "vocab-0402"
+  },
+  {
+    "farsi": "To miporsi",
+    "english": "You ask",
+    "persian": "تو می‌پرسی",
+    "category": "actions",
+    "sourceLine": 1264,
+    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
+    "id": "vocab-0403"
+  },
+  {
+    "farsi": "Ou miporsad",
+    "english": "He/She asks",
+    "persian": "او می‌پرسد",
+    "category": "actions",
+    "sourceLine": 1265,
+    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
+    "id": "vocab-0404"
+  },
+  {
+    "farsi": "Mâ miporsim",
+    "english": "We ask",
+    "persian": "ما می‌پرسیم",
+    "category": "actions",
+    "sourceLine": 1266,
+    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
+    "id": "vocab-0405"
+  },
+  {
+    "farsi": "Shoma miporsid",
+    "english": "You ask",
+    "persian": "شما می‌پرسید",
+    "category": "actions",
+    "sourceLine": 1267,
+    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
+    "id": "vocab-0406"
+  },
+  {
+    "farsi": "Ânhâ miporsand",
+    "english": "They ask",
+    "persian": "آنها می‌پرسند",
+    "category": "actions",
+    "sourceLine": 1268,
+    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
+    "id": "vocab-0407"
+  },
+  {
+    "farsi": "Man misazam",
+    "english": "I build/make",
+    "persian": "من می‌سازم",
+    "category": "actions",
+    "sourceLine": 1280,
+    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
+    "id": "vocab-0408"
+  },
+  {
+    "farsi": "To misazi",
+    "english": "You build/make",
+    "persian": "تو می‌سازی",
+    "category": "actions",
+    "sourceLine": 1281,
+    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
+    "id": "vocab-0409"
+  },
+  {
+    "farsi": "Ou misazad",
+    "english": "He/She builds/makes",
+    "persian": "او می‌سازد",
+    "category": "actions",
+    "sourceLine": 1282,
+    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
+    "id": "vocab-0410"
+  },
+  {
+    "farsi": "Mâ misazim",
+    "english": "We build/make",
+    "persian": "ما می‌سازیم",
+    "category": "actions",
+    "sourceLine": 1283,
+    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
+    "id": "vocab-0411"
+  },
+  {
+    "farsi": "Shoma misazid",
+    "english": "You build/make",
+    "persian": "شما می‌سازید",
+    "category": "actions",
+    "sourceLine": 1284,
+    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
+    "id": "vocab-0412"
+  },
+  {
+    "farsi": "Ânhâ misazand",
+    "english": "They build/make",
+    "persian": "آنها می‌سازند",
+    "category": "actions",
+    "sourceLine": 1285,
+    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
+    "id": "vocab-0413"
+  },
+  {
+    "farsi": "Man",
+    "english": "I",
+    "persian": "من",
+    "category": "sentence-building",
+    "sourceLine": 1294,
+    "sourceCategory": "Personal Pronouns",
+    "id": "vocab-0414"
+  },
+  {
+    "farsi": "To",
+    "english": "You (singular informal)",
+    "persian": "تو",
+    "category": "sentence-building",
+    "sourceLine": 1295,
+    "sourceCategory": "Personal Pronouns",
+    "id": "vocab-0415"
+  },
+  {
+    "farsi": "Ou",
+    "english": "He/She/It",
+    "persian": "او",
+    "category": "sentence-building",
+    "sourceLine": 1296,
+    "sourceCategory": "Personal Pronouns",
+    "id": "vocab-0416"
+  },
+  {
+    "farsi": "Mâ",
+    "english": "We",
+    "persian": "ما",
+    "category": "sentence-building",
+    "sourceLine": 1297,
+    "sourceCategory": "Personal Pronouns",
+    "id": "vocab-0417"
+  },
+  {
+    "farsi": "Shoma",
+    "english": "You (plural/formal)",
+    "persian": "شما",
+    "category": "sentence-building",
+    "sourceLine": 1298,
+    "sourceCategory": "Personal Pronouns",
+    "id": "vocab-0418"
+  },
+  {
+    "farsi": "Ânhâ / Ouna",
+    "english": "They",
+    "persian": "آنها",
+    "category": "sentence-building",
+    "sourceLine": 1299,
+    "sourceVariants": [
+      "Those"
+    ],
+    "sourceCategory": "Personal Pronouns",
+    "id": "vocab-0419"
+  },
+  {
+    "farsi": "Een",
+    "english": "This",
+    "persian": "این",
+    "category": "sentence-building",
+    "sourceLine": 1304,
+    "sourceCategory": "Demonstratives",
+    "id": "vocab-0420"
+  },
+  {
+    "farsi": "Ân",
+    "english": "That",
+    "persian": "آن",
+    "category": "sentence-building",
+    "sourceLine": 1305,
+    "sourceCategory": "Demonstratives",
+    "id": "vocab-0421"
+  },
+  {
+    "farsi": "Eenhâ / Eena",
+    "english": "These",
+    "persian": "اینها / اینا",
+    "category": "sentence-building",
+    "sourceLine": 1306,
+    "sourceCategory": "Demonstratives",
+    "id": "vocab-0422"
+  },
+  {
+    "farsi": "Yek",
+    "english": "1",
+    "persian": "یک",
+    "category": "numbers",
+    "sourceLine": 1316,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0423"
+  },
+  {
+    "farsi": "Do",
+    "english": "2",
+    "persian": "دو",
+    "category": "numbers",
+    "sourceLine": 1317,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0424"
+  },
+  {
+    "farsi": "Sé",
+    "english": "3",
+    "persian": "سه",
+    "category": "numbers",
+    "sourceLine": 1318,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0425"
+  },
+  {
+    "farsi": "Chahâr",
+    "english": "4",
+    "persian": "چهار",
+    "category": "numbers",
+    "sourceLine": 1319,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0426"
+  },
+  {
+    "farsi": "Panj",
+    "english": "5",
+    "persian": "پنج",
+    "category": "numbers",
+    "sourceLine": 1320,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0427"
+  },
+  {
+    "farsi": "Shesh / Shish",
+    "english": "6",
+    "persian": "شش / شیش",
+    "category": "numbers",
+    "sourceLine": 1321,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0428"
+  },
+  {
+    "farsi": "Haaft",
+    "english": "7",
+    "persian": "هفت",
+    "category": "numbers",
+    "sourceLine": 1322,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0429"
+  },
+  {
+    "farsi": "Haasht",
+    "english": "8",
+    "persian": "هشت",
+    "category": "numbers",
+    "sourceLine": 1323,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0430"
+  },
+  {
+    "farsi": "Noh",
+    "english": "9",
+    "persian": "نه",
+    "category": "numbers",
+    "sourceLine": 1324,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0431"
+  },
+  {
+    "farsi": "Dah",
+    "english": "10",
+    "persian": "ده",
+    "category": "numbers",
+    "sourceLine": 1325,
+    "sourceCategory": "Cardinal Numbers (1-10)",
+    "id": "vocab-0432"
+  },
+  {
+    "farsi": "Poonzdah",
+    "english": "15",
+    "persian": "پانزده",
+    "category": "numbers",
+    "sourceLine": 1330,
+    "sourceCategory": "Additional Numbers",
+    "id": "vocab-0433"
+  },
+  {
+    "farsi": "Shoonzdah",
+    "english": "16",
+    "persian": "شانزده",
+    "category": "numbers",
+    "sourceLine": 1331,
+    "sourceCategory": "Additional Numbers",
+    "id": "vocab-0434"
+  },
+  {
+    "farsi": "Sefid",
+    "english": "White",
+    "persian": "سفید",
+    "category": "colours",
+    "sourceLine": 1339,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0435"
+  },
+  {
+    "farsi": "Siâh / Meshki",
+    "english": "Black",
+    "persian": "سیاه / مشکی",
+    "category": "colours",
+    "sourceLine": 1340,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0436"
+  },
+  {
+    "farsi": "Ghermez",
+    "english": "Red",
+    "persian": "قرمز",
+    "category": "colours",
+    "sourceLine": 1341,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0437"
+  },
+  {
+    "farsi": "Zard",
+    "english": "Yellow",
+    "persian": "زرد",
+    "category": "colours",
+    "sourceLine": 1342,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0438"
+  },
+  {
+    "farsi": "Sabz",
+    "english": "Green",
+    "persian": "سبز",
+    "category": "colours",
+    "sourceLine": 1343,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0439"
+  },
+  {
+    "farsi": "Nârenji",
+    "english": "Orange",
+    "persian": "نارنجی",
+    "category": "colours",
+    "sourceLine": 1345,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0440"
+  },
+  {
+    "farsi": "Khâkestari",
+    "english": "Grey",
+    "persian": "خاکستری",
+    "category": "colours",
+    "sourceLine": 1346,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0441"
+  },
+  {
+    "farsi": "Banafsh",
+    "english": "Purple",
+    "persian": "بنفش",
+    "category": "colours",
+    "sourceLine": 1347,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0442"
+  },
+  {
+    "farsi": "Soorati",
+    "english": "Pink",
+    "persian": "صورتی",
+    "category": "colours",
+    "sourceLine": 1348,
+    "sourceCategory": "4. COLORS",
+    "id": "vocab-0443"
+  },
+  {
+    "farsi": "Shanbé",
+    "english": "Saturday",
+    "persian": "شنبه",
+    "category": "time",
+    "sourceLine": 1357,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0444"
+  },
+  {
+    "farsi": "Yekshanbé",
+    "english": "Sunday",
+    "persian": "یکشنبه",
+    "category": "time",
+    "sourceLine": 1358,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0445"
+  },
+  {
+    "farsi": "Doshanbé",
+    "english": "Monday",
+    "persian": "دوشنبه",
+    "category": "time",
+    "sourceLine": 1359,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0446"
+  },
+  {
+    "farsi": "Seshanbé",
+    "english": "Tuesday",
+    "persian": "سه‌شنبه",
+    "category": "time",
+    "sourceLine": 1360,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0447"
+  },
+  {
+    "farsi": "Chaharshanbé",
+    "english": "Wednesday",
+    "persian": "چهارشنبه",
+    "category": "time",
+    "sourceLine": 1361,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0448"
+  },
+  {
+    "farsi": "Panjshanbé",
+    "english": "Thursday",
+    "persian": "پنج‌شنبه",
+    "category": "time",
+    "sourceLine": 1362,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0449"
+  },
+  {
+    "farsi": "Jomé",
+    "english": "Friday",
+    "persian": "جمعه",
+    "category": "time",
+    "sourceLine": 1363,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0450"
+  },
+  {
+    "farsi": "Akharé hafté",
+    "english": "Weekend",
+    "persian": "آخر هفته",
+    "category": "time",
+    "sourceLine": 1364,
+    "sourceCategory": "Days of the Week",
+    "id": "vocab-0451"
+  },
+  {
+    "farsi": "Rooz",
+    "english": "Day",
+    "persian": "روز",
+    "category": "time",
+    "sourceLine": 1369,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0452"
+  },
+  {
+    "farsi": "Emrooz",
+    "english": "Today",
+    "persian": "امروز",
+    "category": "time",
+    "sourceLine": 1370,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0453"
+  },
+  {
+    "farsi": "Dirooz",
+    "english": "Yesterday",
+    "persian": "دیروز",
+    "category": "time",
+    "sourceLine": 1371,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0454"
+  },
+  {
+    "farsi": "Farda",
+    "english": "Tomorrow",
+    "persian": "فردا",
+    "category": "time",
+    "sourceLine": 1372,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0455"
+  },
+  {
+    "farsi": "Sâàté",
+    "english": "Hour/O'clock",
+    "persian": "ساعت",
+    "category": "time",
+    "sourceLine": 1373,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0456"
+  },
+  {
+    "farsi": "Sobh",
+    "english": "Morning",
+    "persian": "صبح",
+    "category": "time",
+    "sourceLine": 1374,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0457"
+  },
+  {
+    "farsi": "Sobhâné",
+    "english": "Breakfast",
+    "persian": "صبحانه",
+    "category": "food",
+    "sourceLine": 1375,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0458"
+  },
+  {
+    "farsi": "Zohr",
+    "english": "Noon",
+    "persian": "ظهر",
+    "category": "time",
+    "sourceLine": 1376,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0459"
+  },
+  {
+    "farsi": "Bààd àz zohr",
+    "english": "Afternoon",
+    "persian": "بعد از ظهر",
+    "category": "time",
+    "sourceLine": 1377,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0460"
+  },
+  {
+    "farsi": "Àsr",
+    "english": "Evening",
+    "persian": "عصر",
+    "category": "time",
+    "sourceLine": 1378,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0461"
+  },
+  {
+    "farsi": "Shâm",
+    "english": "Dinner",
+    "persian": "شام",
+    "category": "food",
+    "sourceLine": 1379,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0462"
+  },
+  {
+    "farsi": "Nâhâr",
+    "english": "Lunch",
+    "persian": "ناهار",
+    "category": "food",
+    "sourceLine": 1380,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0463"
+  },
+  {
+    "farsi": "Shab",
+    "english": "Night",
+    "persian": "شب",
+    "category": "time",
+    "sourceLine": 1381,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0464"
+  },
+  {
+    "farsi": "Hafté",
+    "english": "Week",
+    "persian": "هفته",
+    "category": "time",
+    "sourceLine": 1382,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0465"
+  },
+  {
+    "farsi": "Mâh",
+    "english": "Month",
+    "persian": "ماه",
+    "category": "time",
+    "sourceLine": 1383,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0466"
+  },
+  {
+    "farsi": "Sâl",
+    "english": "Year",
+    "persian": "سال",
+    "category": "time",
+    "sourceLine": 1384,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0467"
+  },
+  {
+    "farsi": "Ghàbl",
+    "english": "Before",
+    "persian": "قبل",
+    "category": "time",
+    "sourceLine": 1385,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0468"
+  },
+  {
+    "farsi": "Bààd",
+    "english": "After",
+    "persian": "بعد",
+    "category": "time",
+    "sourceLine": 1386,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0469"
+  },
+  {
+    "farsi": "Alân / Hâlâ",
+    "english": "Now",
+    "persian": "الان / حالا",
+    "category": "time",
+    "sourceLine": 1387,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0470"
+  },
+  {
+    "farsi": "Dir",
+    "english": "Late",
+    "persian": "دیر",
+    "category": "time",
+    "sourceLine": 1388,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0471"
+  },
+  {
+    "farsi": "Har rooz",
+    "english": "Every day",
+    "persian": "هر روز",
+    "category": "time",
+    "sourceLine": 1389,
+    "sourceCategory": "Time Words",
+    "id": "vocab-0472"
+  },
+  {
+    "farsi": "Bahâr",
+    "english": "Spring",
+    "persian": "بهار",
+    "category": "weather",
+    "sourceLine": 1398,
+    "sourceCategory": "Seasons",
+    "id": "vocab-0473"
+  },
+  {
+    "farsi": "Tâbestân",
+    "english": "Summer",
+    "persian": "تابستان",
+    "category": "weather",
+    "sourceLine": 1399,
+    "sourceCategory": "Seasons",
+    "id": "vocab-0474"
+  },
+  {
+    "farsi": "Pâeez",
+    "english": "Autumn/Fall",
+    "persian": "پاییز",
+    "category": "weather",
+    "sourceLine": 1400,
+    "sourceCategory": "Seasons",
+    "id": "vocab-0475"
+  },
+  {
+    "farsi": "Zemestân",
+    "english": "Winter",
+    "persian": "زمستان",
+    "category": "weather",
+    "sourceLine": 1401,
+    "sourceCategory": "Seasons",
+    "id": "vocab-0476"
+  },
+  {
+    "farsi": "Mâdar / Mâmân",
+    "english": "Mother / Mom",
+    "persian": "مادر / مامان",
+    "category": "family",
+    "sourceLine": 1425,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0477"
+  },
+  {
+    "farsi": "Pedar / Bâbâ",
+    "english": "Father / Dad",
+    "persian": "پدر / بابا",
+    "category": "family",
+    "sourceLine": 1426,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0478"
+  },
+  {
+    "farsi": "Barâdar",
+    "english": "Brother",
+    "persian": "برادر",
+    "category": "family",
+    "sourceLine": 1427,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0479"
+  },
+  {
+    "farsi": "Khâhar",
+    "english": "Sister",
+    "persian": "خواهر",
+    "category": "family",
+    "sourceLine": 1428,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0480"
+  },
+  {
+    "farsi": "Amoo",
+    "english": "Uncle (father's brother)",
+    "persian": "عمو",
+    "category": "family",
+    "sourceLine": 1429,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0481"
+  },
+  {
+    "farsi": "Ammé",
+    "english": "Aunt (father's sister)",
+    "persian": "عمه",
+    "category": "family",
+    "sourceLine": 1430,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0482"
+  },
+  {
+    "farsi": "Dâee",
+    "english": "Uncle (mother's brother)",
+    "persian": "دایی",
+    "category": "family",
+    "sourceLine": 1431,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0483"
+  },
+  {
+    "farsi": "Khâlé",
+    "english": "Aunt (mother's sister)",
+    "persian": "خاله",
+    "category": "family",
+    "sourceLine": 1432,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0484"
+  },
+  {
+    "farsi": "Pedar bozorg / Bâbâ bozorg",
+    "english": "Grandfather / Grandpa",
+    "persian": "پدربزرگ / بابابزرگ",
+    "category": "family",
+    "sourceLine": 1433,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0485"
+  },
+  {
+    "farsi": "Mâdar bozorg / Mâmân bozorg",
+    "english": "Grandmother / Grandma",
+    "persian": "مادربزرگ / مامان بزرگ",
+    "category": "family",
+    "sourceLine": 1434,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0486"
+  },
+  {
+    "farsi": "Doost",
+    "english": "Friend",
+    "persian": "دوست",
+    "category": "family",
+    "sourceLine": 1435,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0487"
+  },
+  {
+    "farsi": "Doostàm",
+    "english": "My friend",
+    "persian": "دوستم",
+    "category": "family",
+    "sourceLine": 1436,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0488"
+  },
+  {
+    "farsi": "Doostàt",
+    "english": "Your friend",
+    "persian": "دوستت",
+    "category": "family",
+    "sourceLine": 1437,
+    "sourceCategory": "7. FAMILY MEMBERS",
+    "id": "vocab-0489"
+  },
+  {
+    "farsi": "Khoob",
+    "english": "Good",
+    "persian": "خوب",
+    "category": "descriptions",
+    "sourceLine": 1446,
+    "sourceVariants": [
+      "Good/Well"
+    ],
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0490"
+  },
+  {
+    "farsi": "Bad",
+    "english": "Bad",
+    "persian": "بد",
+    "category": "descriptions",
+    "sourceLine": 1447,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0491"
+  },
+  {
+    "farsi": "Pir",
+    "english": "Old (person)",
+    "persian": "پیر",
+    "category": "descriptions",
+    "sourceLine": 1448,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0492"
+  },
+  {
+    "farsi": "Javân / Javoon",
+    "english": "Young",
+    "persian": "جوان",
+    "category": "descriptions",
+    "sourceLine": 1449,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0493"
+  },
+  {
+    "farsi": "Khosh hâl",
+    "english": "Happy",
+    "persian": "خوشحال",
+    "category": "feelings",
+    "sourceLine": 1450,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0494"
+  },
+  {
+    "farsi": "Asabâni",
+    "english": "Angry",
+    "persian": "عصبانی",
+    "category": "feelings",
+    "sourceLine": 1451,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0495"
+  },
+  {
+    "farsi": "Mehrabân / Mehraboon",
+    "english": "Kind",
+    "persian": "مهربان",
+    "category": "feelings",
+    "sourceLine": 1452,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0496"
+  },
+  {
+    "farsi": "Nârâhat",
+    "english": "Sad/Upset",
+    "persian": "ناراحت",
+    "category": "feelings",
+    "sourceLine": 1453,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0497"
+  },
+  {
+    "farsi": "Sard",
+    "english": "Cold",
+    "persian": "سرد",
+    "category": "weather",
+    "sourceLine": 1454,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0498"
+  },
+  {
+    "farsi": "Garm",
+    "english": "Warm/Hot",
+    "persian": "گرم",
+    "category": "weather",
+    "sourceLine": 1455,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0499"
+  },
+  {
+    "farsi": "Kheili",
+    "english": "Very / A lot",
+    "persian": "خیلی",
+    "category": "numbers",
+    "sourceLine": 1456,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0500"
+  },
+  {
+    "farsi": "Ziâd",
+    "english": "Too many / A lot",
+    "persian": "زیاد",
+    "category": "numbers",
+    "sourceLine": 1457,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0501"
+  },
+  {
+    "farsi": "Kàm",
+    "english": "Rarely / Little",
+    "persian": "کم",
+    "category": "numbers",
+    "sourceLine": 1458,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0502"
+  },
+  {
+    "farsi": "Choobi",
+    "english": "Wooden",
+    "persian": "چوبی",
+    "category": "descriptions",
+    "sourceLine": 1459,
+    "sourceCategory": "Qualities & Descriptions",
+    "id": "vocab-0503"
+  },
+  {
+    "farsi": "Ketâb",
+    "english": "Book",
+    "persian": "کتاب",
+    "category": "education",
+    "sourceLine": 1468,
+    "sourceCategory": "School & Office Items",
+    "id": "vocab-0504"
+  },
+  {
+    "farsi": "Daftar",
+    "english": "Notebook",
+    "persian": "دفتر",
+    "category": "education",
+    "sourceLine": 1469,
+    "sourceCategory": "School & Office Items",
+    "id": "vocab-0505"
+  },
+  {
+    "farsi": "Medâd",
+    "english": "Pencil",
+    "persian": "مداد",
+    "category": "education",
+    "sourceLine": 1470,
+    "sourceCategory": "School & Office Items",
+    "id": "vocab-0506"
+  },
+  {
+    "farsi": "Khodkâr",
+    "english": "Pen",
+    "persian": "خودکار",
+    "category": "education",
+    "sourceLine": 1471,
+    "sourceCategory": "School & Office Items",
+    "id": "vocab-0507"
+  },
+  {
+    "farsi": "Soâl",
+    "english": "Question",
+    "persian": "سوال",
+    "category": "education",
+    "sourceLine": 1472,
+    "sourceCategory": "School & Office Items",
+    "id": "vocab-0508"
+  },
+  {
+    "farsi": "Soâlât",
+    "english": "Questions",
+    "persian": "سوالات",
+    "category": "education",
+    "sourceLine": 1473,
+    "sourceCategory": "School & Office Items",
+    "id": "vocab-0509"
+  },
+  {
+    "farsi": "List",
+    "english": "List",
+    "persian": "لیست",
+    "category": "education",
+    "sourceLine": 1474,
+    "sourceCategory": "School & Office Items",
+    "id": "vocab-0510"
+  },
+  {
+    "farsi": "Dar / Darb",
+    "english": "Door",
+    "persian": "در / درب",
+    "category": "home",
+    "sourceLine": 1479,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0511"
+  },
+  {
+    "farsi": "Panjéré",
+    "english": "Window",
+    "persian": "پنجره",
+    "category": "home",
+    "sourceLine": 1480,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0512"
+  },
+  {
+    "farsi": "Meez",
+    "english": "Table",
+    "persian": "میز",
+    "category": "home",
+    "sourceLine": 1481,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0513"
+  },
+  {
+    "farsi": "Kolâh",
+    "english": "Hat",
+    "persian": "کلاه",
+    "category": "clothing",
+    "sourceLine": 1482,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0514"
+  },
+  {
+    "farsi": "Jààbé",
+    "english": "Box",
+    "persian": "جعبه",
+    "category": "home",
+    "sourceLine": 1483,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0515"
+  },
+  {
+    "farsi": "Jààbé hâ",
+    "english": "Boxes",
+    "persian": "جعبه‌ها",
+    "category": "home",
+    "sourceLine": 1484,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0516"
+  },
+  {
+    "farsi": "Chàmédân",
+    "english": "Suitcase",
+    "persian": "چمدان",
+    "category": "travel",
+    "sourceLine": 1485,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0517"
+  },
+  {
+    "farsi": "Chàmédân hâ",
+    "english": "Suitcases",
+    "persian": "چمدان‌ها",
+    "category": "travel",
+    "sourceLine": 1486,
+    "sourceCategory": "Household Items",
+    "id": "vocab-0518"
+  },
+  {
+    "farsi": "Mivé",
+    "english": "Fruit",
+    "persian": "میوه",
+    "category": "food",
+    "sourceLine": 1491,
+    "sourceCategory": "Food & Drink",
+    "id": "vocab-0519"
+  },
+  {
+    "farsi": "Mivé hâ",
+    "english": "Fruits",
+    "persian": "میوه‌ها",
+    "category": "food",
+    "sourceLine": 1492,
+    "sourceCategory": "Food & Drink",
+    "id": "vocab-0520"
+  },
+  {
+    "farsi": "Sândwich",
+    "english": "Sandwich",
+    "persian": "ساندویچ",
+    "category": "food",
+    "sourceLine": 1493,
+    "sourceCategory": "Food & Drink",
+    "id": "vocab-0521"
+  },
+  {
+    "farsi": "Chélokàbâb",
+    "english": "Rice with kebab",
+    "persian": "چلوکباب",
+    "category": "food",
+    "sourceLine": 1494,
+    "sourceCategory": "Food & Drink",
+    "id": "vocab-0522"
+  },
+  {
+    "farsi": "Gorbé",
+    "english": "Cat",
+    "persian": "گربه",
+    "category": "animals",
+    "sourceLine": 1499,
+    "sourceCategory": "Animals",
+    "id": "vocab-0523"
+  },
+  {
+    "farsi": "Mâshin",
+    "english": "Car",
+    "persian": "ماشین",
+    "category": "travel",
+    "sourceLine": 1504,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0524"
+  },
+  {
+    "farsi": "Dâroo",
+    "english": "Medication",
+    "persian": "دارو",
+    "category": "health",
+    "sourceLine": 1505,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0525"
+  },
+  {
+    "farsi": "Dâroo hâ",
+    "english": "Medications",
+    "persian": "داروها",
+    "category": "health",
+    "sourceLine": 1506,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0526"
+  },
+  {
+    "farsi": "Sedâ",
+    "english": "Voice/Sound",
+    "persian": "صدا",
+    "category": "media",
+    "sourceLine": 1507,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0527"
+  },
+  {
+    "farsi": "Sedâyé",
+    "english": "Sound of",
+    "persian": "صدای",
+    "category": "media",
+    "sourceLine": 1508,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0528"
+  },
+  {
+    "farsi": "Hésâb",
+    "english": "Account",
+    "persian": "حساب",
+    "category": "money",
+    "sourceLine": 1509,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0529"
+  },
+  {
+    "farsi": "Hésâbàsh",
+    "english": "His/Her account",
+    "persian": "حسابش",
+    "category": "money",
+    "sourceLine": 1510,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0530"
+  },
+  {
+    "farsi": "Âdàm bàrfi",
+    "english": "Snowman",
+    "persian": "آدم برفی",
+    "category": "weather",
+    "sourceLine": 1511,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0531"
+  },
+  {
+    "farsi": "Barf",
+    "english": "Snow",
+    "persian": "برف",
+    "category": "weather",
+    "sourceLine": 1512,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0532"
+  },
+  {
+    "farsi": "Âyàndé",
+    "english": "Future",
+    "persian": "آینده",
+    "category": "time",
+    "sourceLine": 1513,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0533"
+  },
+  {
+    "farsi": "Kârdàsti",
+    "english": "Crafts",
+    "persian": "کاردستی",
+    "category": "media",
+    "sourceLine": 1514,
+    "sourceCategory": "Miscellaneous",
+    "id": "vocab-0534"
+  },
+  {
+    "farsi": "Madresé",
+    "english": "School",
+    "persian": "مدرسه",
+    "category": "education",
+    "sourceLine": 1522,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0535"
+  },
+  {
+    "farsi": "Dâneshgâh",
+    "english": "University",
+    "persian": "دانشگاه",
+    "category": "education",
+    "sourceLine": 1523,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0536"
+  },
+  {
+    "farsi": "Kélâs",
+    "english": "Class",
+    "persian": "کلاس",
+    "category": "education",
+    "sourceLine": 1524,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0537"
+  },
+  {
+    "farsi": "Cinemâ",
+    "english": "Cinema",
+    "persian": "سینما",
+    "category": "media",
+    "sourceLine": 1525,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0538"
+  },
+  {
+    "farsi": "Sherkat",
+    "english": "Company/Office",
+    "persian": "شرکت",
+    "category": "work",
+    "sourceLine": 1526,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0539"
+  },
+  {
+    "farsi": "Réstoorân",
+    "english": "Restaurant",
+    "persian": "رستوران",
+    "category": "food",
+    "sourceLine": 1527,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0540"
+  },
+  {
+    "farsi": "Jang",
+    "english": "War",
+    "persian": "جنگ",
+    "category": "society",
+    "sourceLine": 1528,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0541"
+  },
+  {
+    "farsi": "Khâné",
+    "english": "House/Home",
+    "persian": "خانه",
+    "category": "home",
+    "sourceLine": 1529,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0542"
+  },
+  {
+    "farsi": "Kooché",
+    "english": "Alley",
+    "persian": "کوچه",
+    "category": "travel",
+    "sourceLine": 1530,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0543"
+  },
+  {
+    "farsi": "Jâddé",
+    "english": "Road",
+    "persian": "جاده",
+    "category": "travel",
+    "sourceLine": 1531,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0544"
+  },
+  {
+    "farsi": "Kârkhâné",
+    "english": "Factory",
+    "persian": "کارخانه",
+    "category": "work",
+    "sourceLine": 1532,
+    "sourceCategory": "10. NOUNS - PLACES",
+    "id": "vocab-0545"
+  },
+  {
+    "farsi": "Và / Vâ",
+    "english": "And",
+    "persian": "و",
+    "category": "sentence-building",
+    "sourceLine": 1540,
+    "sourceCategory": "11. CONJUNCTIONS & PREPOSITIONS",
+    "id": "vocab-0546"
+  },
+  {
+    "farsi": "Yâ",
+    "english": "Or",
+    "persian": "یا",
+    "category": "sentence-building",
+    "sourceLine": 1541,
+    "sourceCategory": "11. CONJUNCTIONS & PREPOSITIONS",
+    "id": "vocab-0547"
+  },
+  {
+    "farsi": "Dar",
+    "english": "In",
+    "persian": "در",
+    "category": "directions",
+    "sourceLine": 1542,
+    "sourceCategory": "11. CONJUNCTIONS & PREPOSITIONS",
+    "id": "vocab-0548"
+  },
+  {
+    "farsi": "Bé",
+    "english": "To",
+    "persian": "به",
+    "category": "directions",
+    "sourceLine": 1543,
+    "sourceCategory": "11. CONJUNCTIONS & PREPOSITIONS",
+    "id": "vocab-0549"
+  },
+  {
+    "farsi": "Az",
+    "english": "From",
+    "persian": "از",
+    "category": "directions",
+    "sourceLine": 1544,
+    "sourceCategory": "11. CONJUNCTIONS & PREPOSITIONS",
+    "id": "vocab-0550"
+  },
+  {
+    "farsi": "Râ / Ro",
+    "english": "Object marker",
+    "persian": "را / رو",
+    "category": "sentence-building",
+    "sourceLine": 1545,
+    "sourceCategory": "11. CONJUNCTIONS & PREPOSITIONS",
+    "id": "vocab-0551"
+  },
+  {
+    "farsi": "Bâ",
+    "english": "With",
+    "persian": "با",
+    "category": "sentence-building",
+    "sourceLine": 1546,
+    "sourceCategory": "11. CONJUNCTIONS & PREPOSITIONS",
+    "id": "vocab-0552"
+  },
+  {
+    "farsi": "Ché",
+    "english": "What",
+    "persian": "چه",
+    "category": "conversation",
+    "sourceLine": 1554,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0553"
+  },
+  {
+    "farsi": "Chi",
+    "english": "What (informal)",
+    "persian": "چی",
+    "category": "conversation",
+    "sourceLine": 1555,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0554"
+  },
+  {
+    "farsi": "Ché chizi",
+    "english": "What thing",
+    "persian": "چه چیزی",
+    "category": "conversation",
+    "sourceLine": 1556,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0555"
+  },
+  {
+    "farsi": "Ché roozi",
+    "english": "What day",
+    "persian": "چه روزی",
+    "category": "conversation",
+    "sourceLine": 1557,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0556"
+  },
+  {
+    "farsi": "Ché sâàti",
+    "english": "What time",
+    "persian": "چه ساعتی",
+    "category": "conversation",
+    "sourceLine": 1558,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0557"
+  },
+  {
+    "farsi": "Ché rangié",
+    "english": "What color",
+    "persian": "چه رنگی",
+    "category": "conversation",
+    "sourceLine": 1559,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0558"
+  },
+  {
+    "farsi": "Chanta",
+    "english": "How many",
+    "persian": "چند تا",
+    "category": "conversation",
+    "sourceLine": 1560,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0559"
+  },
+  {
+    "farsi": "Chand",
+    "english": "How many",
+    "persian": "چند",
+    "category": "conversation",
+    "sourceLine": 1561,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0560"
+  },
+  {
+    "farsi": "Chand sâlésh",
+    "english": "How old is he/she",
+    "persian": "چند سالش",
+    "category": "conversation",
+    "sourceLine": 1562,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0561"
+  },
+  {
+    "farsi": "Cherâ",
+    "english": "Why",
+    "persian": "چرا",
+    "category": "conversation",
+    "sourceLine": 1563,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0562"
+  },
+  {
+    "farsi": "Kojâ",
+    "english": "Where",
+    "persian": "کجا",
+    "category": "conversation",
+    "sourceLine": 1564,
+    "sourceCategory": "12. QUESTION WORDS",
+    "id": "vocab-0563"
+  },
+  {
+    "farsi": "Alo",
+    "english": "Hello (phone)",
+    "persian": "الو",
+    "category": "conversation",
+    "sourceLine": 1573,
+    "sourceCategory": "Greetings & Basics",
+    "id": "vocab-0564"
+  },
+  {
+    "farsi": "Salâm",
+    "english": "Hello",
+    "persian": "سلام",
+    "category": "conversation",
+    "sourceLine": 1574,
+    "sourceCategory": "Greetings & Basics",
+    "id": "vocab-0565"
+  },
+  {
+    "farsi": "Khodâhâfez / Khodafez",
+    "english": "Goodbye",
+    "persian": "خداحافظ / خدافظ",
+    "category": "conversation",
+    "sourceLine": 1575,
+    "sourceCategory": "Greetings & Basics",
+    "id": "vocab-0566"
+  },
+  {
+    "farsi": "Chetori? / Ché tori?",
+    "english": "How are you?",
+    "persian": "چطوری؟ / چه طوری؟",
+    "category": "conversation",
+    "sourceLine": 1576,
+    "sourceCategory": "Greetings & Basics",
+    "id": "vocab-0567"
+  },
+  {
+    "farsi": "Chetoré? / Ché toré?",
+    "english": "How is...?",
+    "persian": "چطوره؟ / چه طوره؟",
+    "category": "conversation",
+    "sourceLine": 1577,
+    "sourceCategory": "Greetings & Basics",
+    "id": "vocab-0568"
+  },
+  {
+    "farsi": "Khodâro shokr",
+    "english": "Thank God",
+    "persian": "خدارو شکر",
+    "category": "conversation",
+    "sourceLine": 1579,
+    "sourceCategory": "Greetings & Basics",
+    "id": "vocab-0569"
+  },
+  {
+    "farsi": "Mànam bad nistam",
+    "english": "I'm not bad either",
+    "persian": "منم بد نیستم",
+    "category": "conversation",
+    "sourceLine": 1580,
+    "sourceCategory": "Greetings & Basics",
+    "id": "vocab-0570"
+  },
+  {
+    "farsi": "Màmoolàn",
+    "english": "Usually",
+    "persian": "معمولا",
+    "category": "time",
+    "sourceLine": 1585,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0571"
+  },
+  {
+    "farsi": "Màsalàn",
+    "english": "For example",
+    "persian": "مثلا",
+    "category": "conversation",
+    "sourceLine": 1586,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0572"
+  },
+  {
+    "farsi": "Mesâl",
+    "english": "Example",
+    "persian": "مثال",
+    "category": "conversation",
+    "sourceLine": 1587,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0573"
+  },
+  {
+    "farsi": "Mesâl hâee",
+    "english": "Examples",
+    "persian": "مثال‌هایی",
+    "category": "conversation",
+    "sourceLine": 1588,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0574"
+  },
+  {
+    "farsi": "Barâye",
+    "english": "For",
+    "persian": "برای",
+    "category": "sentence-building",
+    "sourceLine": 1589,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0575"
+  },
+  {
+    "farsi": "Lotfàn",
+    "english": "Please",
+    "persian": "لطفا",
+    "category": "conversation",
+    "sourceLine": 1590,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0576"
+  },
+  {
+    "farsi": "Kheili khoob",
+    "english": "Very good",
+    "persian": "خیلی خوب",
+    "category": "conversation",
+    "sourceLine": 1591,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0577"
+  },
+  {
+    "farsi": "Eii bâbâ",
+    "english": "Oh no / Oh come on",
+    "persian": "ای بابا",
+    "category": "conversation",
+    "sourceLine": 1592,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0578"
+  },
+  {
+    "farsi": "Âhân",
+    "english": "Ah, I see",
+    "persian": "آهان",
+    "category": "conversation",
+    "sourceLine": 1594,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0579"
+  },
+  {
+    "farsi": "Bé khâteré",
+    "english": "Because of",
+    "persian": "به خاطر",
+    "category": "sentence-building",
+    "sourceLine": 1595,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0580"
+  },
+  {
+    "farsi": "Sharâyeté",
+    "english": "Situation/Conditions",
+    "persian": "شرایط",
+    "category": "conversation",
+    "sourceLine": 1596,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0581"
+  },
+  {
+    "farsi": "Ozâà",
+    "english": "Situation/State of affairs",
+    "persian": "اوضاع",
+    "category": "conversation",
+    "sourceLine": 1597,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0582"
+  },
+  {
+    "farsi": "Khosh hâl shodam",
+    "english": "I was happy/pleased",
+    "persian": "خوش حال شدم",
+    "category": "feelings",
+    "sourceLine": 1598,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0583"
+  },
+  {
+    "farsi": "Dâshté bâshi",
+    "english": "May you have",
+    "persian": "داشته باشی",
+    "category": "conversation",
+    "sourceLine": 1599,
+    "sourceCategory": "Common Expressions",
+    "id": "vocab-0584"
+  },
+  {
+    "farsi": "Havâ chetoré?",
+    "english": "How's the weather?",
+    "persian": "هوا چطوره؟",
+    "category": "weather",
+    "sourceLine": 1604,
+    "sourceCategory": "Weather & Temperature",
+    "id": "vocab-0585"
+  },
+  {
+    "farsi": "Barf oomadé?",
+    "english": "Has it snowed?",
+    "persian": "برف آمده؟",
+    "category": "weather",
+    "sourceLine": 1605,
+    "sourceCategory": "Weather & Temperature",
+    "id": "vocab-0586"
+  },
+  {
+    "farsi": "Damâ",
+    "english": "Temperature",
+    "persian": "دما",
+    "category": "weather",
+    "sourceLine": 1606,
+    "sourceCategory": "Weather & Temperature",
+    "id": "vocab-0587"
+  },
+  {
+    "farsi": "Darajé",
+    "english": "Degree",
+    "persian": "درجه",
+    "category": "weather",
+    "sourceLine": 1607,
+    "sourceCategory": "Weather & Temperature",
+    "id": "vocab-0588"
+  },
+  {
+    "farsi": "Ziré sefr",
+    "english": "Below zero",
+    "persian": "زیر صفر",
+    "category": "weather",
+    "sourceLine": 1608,
+    "sourceCategory": "Weather & Temperature",
+    "id": "vocab-0589"
+  },
+  {
+    "farsi": "Eenjâ kheili sardé",
+    "english": "It's very cold here",
+    "persian": "اینجا خیلی سرده",
+    "category": "weather",
+    "sourceLine": 1609,
+    "sourceCategory": "Weather & Temperature",
+    "id": "vocab-0590"
+  },
+  {
+    "farsi": "Yé sedâyee mishnavam",
+    "english": "I hear a sound",
+    "persian": "یه صدایی می‌شنوم",
+    "category": "actions",
+    "sourceLine": 1614,
+    "sourceCategory": "Other Useful Phrases",
+    "id": "vocab-0591"
+  },
+  {
+    "farsi": "Ché khoob!",
+    "english": "How nice!",
+    "persian": "چه خوب!",
+    "category": "conversation",
+    "sourceLine": 1615,
+    "sourceCategory": "Other Useful Phrases",
+    "id": "vocab-0592"
+  },
+  {
+    "farsi": "Mibini",
+    "english": "You see",
+    "persian": "می‌بینی",
+    "category": "actions",
+    "sourceLine": 1616,
+    "sourceCategory": "Other Useful Phrases",
+    "id": "vocab-0593"
+  },
+  {
+    "farsi": "Miram saré kâr",
+    "english": "I'm going to work",
+    "persian": "می‌رم سر کار",
+    "category": "work",
+    "sourceLine": 1617,
+    "sourceCategory": "Other Useful Phrases",
+    "id": "vocab-0594"
+  },
+  {
+    "farsi": "Barnaméyé jâlébi dâré",
+    "english": "It has an interesting program",
+    "persian": "برنامه جالبی داره",
+    "category": "media",
+    "sourceLine": 1619,
+    "sourceCategory": "Other Useful Phrases",
+    "id": "vocab-0595"
+  },
+  {
+    "farsi": "Àkharé haftéyé khoobi",
+    "english": "A good weekend",
+    "persian": "آخر هفته خوبی",
+    "category": "time",
+    "sourceLine": 1620,
+    "sourceCategory": "Other Useful Phrases",
+    "id": "vocab-0596"
+  }
+]

@@ -1,0 +1,4570 @@
+[
+  {
+    "id": "sentence-001",
+    "prompt": "I must go.",
+    "tiles": [
+      "beram",
+      "bâyad"
+    ],
+    "acceptedAnswers": [
+      [
+        "bâyad",
+        "beram"
+      ]
+    ],
+    "explanation": "Bâyad means must. Beram is the form of go used here after bâyad. The ending -am tells us the subject is I.",
+    "topic": "actions",
+    "grammar": "modals",
+    "register": "spoken",
+    "source": "Original three exercises; modal and reflexive examples in Core Farsi Memory",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-002",
+    "prompt": "We can see.",
+    "tiles": [
+      "bebinim",
+      "mitunim"
+    ],
+    "acceptedAnswers": [
+      [
+        "mitunim",
+        "bebinim"
+      ]
+    ],
+    "explanation": "Mitunim means we can in spoken Farsi. Bebinim is the form of see used after it. Both verbs have the we ending, -im.",
+    "topic": "actions",
+    "grammar": "modals",
+    "register": "spoken",
+    "source": "Original three exercises; modal and reflexive examples in Core Farsi Memory",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-159",
+    "prompt": "We must go.",
+    "tiles": [
+      "berim",
+      "bâyad"
+    ],
+    "acceptedAnswers": [
+      [
+        "bâyad",
+        "berim"
+      ]
+    ],
+    "explanation": "Berim is the spoken first-person plural form used after bâyad.",
+    "topic": "travel",
+    "grammar": "modals",
+    "register": "spoken",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-160",
+    "prompt": "You must go. (one person)",
+    "tiles": [
+      "beri",
+      "bâyad"
+    ],
+    "acceptedAnswers": [
+      [
+        "bâyad",
+        "beri"
+      ]
+    ],
+    "explanation": "Beri is the second-person singular form used after bâyad.",
+    "topic": "travel",
+    "grammar": "modals",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-161",
+    "prompt": "I can see.",
+    "tiles": [
+      "bebinam",
+      "mitunam"
+    ],
+    "acceptedAnswers": [
+      [
+        "mitunam",
+        "bebinam"
+      ]
+    ],
+    "explanation": "In spoken Farsi, mitunam means I can; bebinam is the following subjunctive.",
+    "topic": "actions",
+    "grammar": "modals",
+    "register": "spoken",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-162",
+    "prompt": "They must go.",
+    "tiles": [
+      "beran",
+      "bâyad"
+    ],
+    "acceptedAnswers": [
+      [
+        "bâyad",
+        "beran"
+      ]
+    ],
+    "explanation": "Beran is the spoken third-person plural form used after bâyad.",
+    "topic": "travel",
+    "grammar": "modals",
+    "register": "spoken",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-004",
+    "prompt": "I am happy.",
+    "tiles": [
+      "hastam",
+      "man",
+      "khoshhâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "khoshhâl",
+        "hastam"
+      ]
+    ],
+    "explanation": "Khoshhâl means happy. The final form of be agrees with the subject.",
+    "topic": "feelings",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-005",
+    "prompt": "I have a book.",
+    "tiles": [
+      "yek ketâb",
+      "dâram",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "yek ketâb",
+        "dâram"
+      ]
+    ],
+    "explanation": "Dâshtan (have) uses dâr plus a person ending in the present; it does not take mi-.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-007",
+    "prompt": "I see the book.",
+    "tiles": [
+      "mibinam",
+      "man",
+      "ketâb râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "ketâb râ",
+        "mibinam"
+      ]
+    ],
+    "explanation": "Râ follows the identified direct object, ketâb. Bin is the present stem of see.",
+    "topic": "education",
+    "grammar": "object-marker",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-008",
+    "prompt": "I ask a question.",
+    "tiles": [
+      "miporsam",
+      "man",
+      "yek soâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "yek soâl",
+        "miporsam"
+      ]
+    ],
+    "explanation": "Pors is the present stem of ask. Yek soâl is an indefinite question, so no râ is needed here.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-009",
+    "prompt": "I close the door.",
+    "tiles": [
+      "mibandam",
+      "man",
+      "dar râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "dar râ",
+        "mibandam"
+      ]
+    ],
+    "explanation": "Dar means door here. Band is the present stem of bastan, to close.",
+    "topic": "home",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-021",
+    "prompt": "I do not have a book.",
+    "tiles": [
+      "ketâb",
+      "man",
+      "nadâram"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "ketâb",
+        "nadâram"
+      ]
+    ],
+    "explanation": "The negative present of have is nadâr- plus the person ending, not nemidâr-.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-022",
+    "prompt": "I am not upset.",
+    "tiles": [
+      "nârâhat",
+      "nistam",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "nârâhat",
+        "nistam"
+      ]
+    ],
+    "explanation": "The negative form of be is nist- plus the appropriate person ending.",
+    "topic": "feelings",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-024",
+    "prompt": "You (one person) are happy.",
+    "tiles": [
+      "to",
+      "hasti",
+      "khoshhâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "khoshhâl",
+        "hasti"
+      ]
+    ],
+    "explanation": "Khoshhâl means happy. The final form of be agrees with the subject.",
+    "topic": "feelings",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-025",
+    "prompt": "You (one person) have a book.",
+    "tiles": [
+      "yek ketâb",
+      "to",
+      "dâri"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "yek ketâb",
+        "dâri"
+      ]
+    ],
+    "explanation": "Dâshtan (have) uses dâr plus a person ending in the present; it does not take mi-.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-027",
+    "prompt": "You (one person) see the book.",
+    "tiles": [
+      "to",
+      "mibini",
+      "ketâb râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "ketâb râ",
+        "mibini"
+      ]
+    ],
+    "explanation": "Râ follows the identified direct object, ketâb. Bin is the present stem of see.",
+    "topic": "education",
+    "grammar": "object-marker",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-028",
+    "prompt": "You (one person) ask a question.",
+    "tiles": [
+      "to",
+      "miporsi",
+      "yek soâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "yek soâl",
+        "miporsi"
+      ]
+    ],
+    "explanation": "Pors is the present stem of ask. Yek soâl is an indefinite question, so no râ is needed here.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-029",
+    "prompt": "You (one person) close the door.",
+    "tiles": [
+      "dar râ",
+      "to",
+      "mibandi"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "dar râ",
+        "mibandi"
+      ]
+    ],
+    "explanation": "Dar means door here. Band is the present stem of bastan, to close.",
+    "topic": "home",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-041",
+    "prompt": "You (one person) do not have a book.",
+    "tiles": [
+      "nadâri",
+      "to",
+      "ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "ketâb",
+        "nadâri"
+      ]
+    ],
+    "explanation": "The negative present of have is nadâr- plus the person ending, not nemidâr-.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-042",
+    "prompt": "You (one person) are not upset.",
+    "tiles": [
+      "nisti",
+      "nârâhat",
+      "to"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "nârâhat",
+        "nisti"
+      ]
+    ],
+    "explanation": "The negative form of be is nist- plus the appropriate person ending.",
+    "topic": "feelings",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-044",
+    "prompt": "He/she is happy.",
+    "tiles": [
+      "ast",
+      "u",
+      "khoshhâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "khoshhâl",
+        "ast"
+      ]
+    ],
+    "explanation": "Khoshhâl means happy. The final form of be agrees with the subject.",
+    "topic": "feelings",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-045",
+    "prompt": "He/she has a book.",
+    "tiles": [
+      "yek ketâb",
+      "u",
+      "dârad"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "yek ketâb",
+        "dârad"
+      ]
+    ],
+    "explanation": "Dâshtan (have) uses dâr plus a person ending in the present; it does not take mi-.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-047",
+    "prompt": "He/she sees the book.",
+    "tiles": [
+      "ketâb râ",
+      "mibinad",
+      "u"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "ketâb râ",
+        "mibinad"
+      ]
+    ],
+    "explanation": "Râ follows the identified direct object, ketâb. Bin is the present stem of see.",
+    "topic": "education",
+    "grammar": "object-marker",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-048",
+    "prompt": "He/she asks a question.",
+    "tiles": [
+      "miporsad",
+      "u",
+      "yek soâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "yek soâl",
+        "miporsad"
+      ]
+    ],
+    "explanation": "Pors is the present stem of ask. Yek soâl is an indefinite question, so no râ is needed here.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-049",
+    "prompt": "He/she closes the door.",
+    "tiles": [
+      "mibandad",
+      "dar râ",
+      "u"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "dar râ",
+        "mibandad"
+      ]
+    ],
+    "explanation": "Dar means door here. Band is the present stem of bastan, to close.",
+    "topic": "home",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-061",
+    "prompt": "He/she does not have a book.",
+    "tiles": [
+      "ketâb",
+      "nadârad",
+      "u"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "ketâb",
+        "nadârad"
+      ]
+    ],
+    "explanation": "The negative present of have is nadâr- plus the person ending, not nemidâr-.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-062",
+    "prompt": "He/she is not upset.",
+    "tiles": [
+      "nârâhat",
+      "u",
+      "nist"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "nârâhat",
+        "nist"
+      ]
+    ],
+    "explanation": "The negative form of be is nist- plus the appropriate person ending.",
+    "topic": "feelings",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-064",
+    "prompt": "We are happy.",
+    "tiles": [
+      "hastim",
+      "khoshhâl",
+      "mâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "khoshhâl",
+        "hastim"
+      ]
+    ],
+    "explanation": "Khoshhâl means happy. The final form of be agrees with the subject.",
+    "topic": "feelings",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-065",
+    "prompt": "We have a book.",
+    "tiles": [
+      "yek ketâb",
+      "mâ",
+      "dârim"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "yek ketâb",
+        "dârim"
+      ]
+    ],
+    "explanation": "Dâshtan (have) uses dâr plus a person ending in the present; it does not take mi-.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-067",
+    "prompt": "We see the book.",
+    "tiles": [
+      "mâ",
+      "mibinim",
+      "ketâb râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "ketâb râ",
+        "mibinim"
+      ]
+    ],
+    "explanation": "Râ follows the identified direct object, ketâb. Bin is the present stem of see.",
+    "topic": "education",
+    "grammar": "object-marker",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-068",
+    "prompt": "We ask a question.",
+    "tiles": [
+      "miporsim",
+      "mâ",
+      "yek soâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "yek soâl",
+        "miporsim"
+      ]
+    ],
+    "explanation": "Pors is the present stem of ask. Yek soâl is an indefinite question, so no râ is needed here.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-069",
+    "prompt": "We close the door.",
+    "tiles": [
+      "mâ",
+      "mibandim",
+      "dar râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "dar râ",
+        "mibandim"
+      ]
+    ],
+    "explanation": "Dar means door here. Band is the present stem of bastan, to close.",
+    "topic": "home",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-081",
+    "prompt": "We do not have a book.",
+    "tiles": [
+      "mâ",
+      "nadârim",
+      "ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "ketâb",
+        "nadârim"
+      ]
+    ],
+    "explanation": "The negative present of have is nadâr- plus the person ending, not nemidâr-.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-082",
+    "prompt": "We are not upset.",
+    "tiles": [
+      "nistim",
+      "mâ",
+      "nârâhat"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "nârâhat",
+        "nistim"
+      ]
+    ],
+    "explanation": "The negative form of be is nist- plus the appropriate person ending.",
+    "topic": "feelings",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-084",
+    "prompt": "You (plural or formal) are happy.",
+    "tiles": [
+      "hastid",
+      "shomâ",
+      "khoshhâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "khoshhâl",
+        "hastid"
+      ]
+    ],
+    "explanation": "Khoshhâl means happy. The final form of be agrees with the subject.",
+    "topic": "feelings",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-085",
+    "prompt": "You (plural or formal) have a book.",
+    "tiles": [
+      "yek ketâb",
+      "dârid",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "yek ketâb",
+        "dârid"
+      ]
+    ],
+    "explanation": "Dâshtan (have) uses dâr plus a person ending in the present; it does not take mi-.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-087",
+    "prompt": "You (plural or formal) see the book.",
+    "tiles": [
+      "ketâb râ",
+      "mibinid",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "ketâb râ",
+        "mibinid"
+      ]
+    ],
+    "explanation": "Râ follows the identified direct object, ketâb. Bin is the present stem of see.",
+    "topic": "education",
+    "grammar": "object-marker",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-088",
+    "prompt": "You (plural or formal) ask a question.",
+    "tiles": [
+      "yek soâl",
+      "shomâ",
+      "miporsid"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "yek soâl",
+        "miporsid"
+      ]
+    ],
+    "explanation": "Pors is the present stem of ask. Yek soâl is an indefinite question, so no râ is needed here.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-089",
+    "prompt": "You (plural or formal) close the door.",
+    "tiles": [
+      "mibandid",
+      "dar râ",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "dar râ",
+        "mibandid"
+      ]
+    ],
+    "explanation": "Dar means door here. Band is the present stem of bastan, to close.",
+    "topic": "home",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-101",
+    "prompt": "You (plural or formal) do not have a book.",
+    "tiles": [
+      "shomâ",
+      "nadârid",
+      "ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "ketâb",
+        "nadârid"
+      ]
+    ],
+    "explanation": "The negative present of have is nadâr- plus the person ending, not nemidâr-.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-102",
+    "prompt": "You (plural or formal) are not upset.",
+    "tiles": [
+      "nistid",
+      "shomâ",
+      "nârâhat"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "nârâhat",
+        "nistid"
+      ]
+    ],
+    "explanation": "The negative form of be is nist- plus the appropriate person ending.",
+    "topic": "feelings",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-104",
+    "prompt": "They are happy.",
+    "tiles": [
+      "khoshhâl",
+      "hastand",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "khoshhâl",
+        "hastand"
+      ]
+    ],
+    "explanation": "Khoshhâl means happy. The final form of be agrees with the subject.",
+    "topic": "feelings",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-105",
+    "prompt": "They have a book.",
+    "tiles": [
+      "ânhâ",
+      "dârand",
+      "yek ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "yek ketâb",
+        "dârand"
+      ]
+    ],
+    "explanation": "Dâshtan (have) uses dâr plus a person ending in the present; it does not take mi-.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-107",
+    "prompt": "They see the book.",
+    "tiles": [
+      "ânhâ",
+      "mibinand",
+      "ketâb râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "ketâb râ",
+        "mibinand"
+      ]
+    ],
+    "explanation": "Râ follows the identified direct object, ketâb. Bin is the present stem of see.",
+    "topic": "education",
+    "grammar": "object-marker",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-108",
+    "prompt": "They ask a question.",
+    "tiles": [
+      "yek soâl",
+      "miporsand",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "yek soâl",
+        "miporsand"
+      ]
+    ],
+    "explanation": "Pors is the present stem of ask. Yek soâl is an indefinite question, so no râ is needed here.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-109",
+    "prompt": "They close the door.",
+    "tiles": [
+      "mibandand",
+      "dar râ",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "dar râ",
+        "mibandand"
+      ]
+    ],
+    "explanation": "Dar means door here. Band is the present stem of bastan, to close.",
+    "topic": "home",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-121",
+    "prompt": "They do not have a book.",
+    "tiles": [
+      "nadârand",
+      "ketâb",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "ketâb",
+        "nadârand"
+      ]
+    ],
+    "explanation": "The negative present of have is nadâr- plus the person ending, not nemidâr-.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-122",
+    "prompt": "They are not upset.",
+    "tiles": [
+      "nârâhat",
+      "nistand",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "nârâhat",
+        "nistand"
+      ]
+    ],
+    "explanation": "The negative form of be is nist- plus the appropriate person ending.",
+    "topic": "feelings",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-124",
+    "prompt": "The book is on the table.",
+    "tiles": [
+      "ru-ye miz",
+      "ast",
+      "ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "ketâb",
+        "ru-ye miz",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-125",
+    "prompt": "The cat is under the table.",
+    "tiles": [
+      "ast",
+      "zir-e miz",
+      "gorbe"
+    ],
+    "acceptedAnswers": [
+      [
+        "gorbe",
+        "zir-e miz",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-126",
+    "prompt": "The chair is behind the table.",
+    "tiles": [
+      "sandali",
+      "ast",
+      "posht-e miz"
+    ],
+    "acceptedAnswers": [
+      [
+        "sandali",
+        "posht-e miz",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-127",
+    "prompt": "The school is near the house.",
+    "tiles": [
+      "ast",
+      "nazdik-e khâne",
+      "madrese"
+    ],
+    "acceptedAnswers": [
+      [
+        "madrese",
+        "nazdik-e khâne",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-128",
+    "prompt": "The car is outside the house.",
+    "tiles": [
+      "mâshin",
+      "ast",
+      "birun-e khâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâshin",
+        "birun-e khâne",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-129",
+    "prompt": "The book is inside the bag.",
+    "tiles": [
+      "dâkhel-e sâk",
+      "ketâb",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "ketâb",
+        "dâkhel-e sâk",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-130",
+    "prompt": "The bank is opposite the school.",
+    "tiles": [
+      "ast",
+      "ruberu-ye madrese",
+      "bânk"
+    ],
+    "acceptedAnswers": [
+      [
+        "bânk",
+        "ruberu-ye madrese",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-131",
+    "prompt": "The cat is in front of the door.",
+    "tiles": [
+      "ast",
+      "gorbe",
+      "jelo-ye dar"
+    ],
+    "acceptedAnswers": [
+      [
+        "gorbe",
+        "jelo-ye dar",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-132",
+    "prompt": "The hat is in the bedroom.",
+    "tiles": [
+      "dar otâgh-e khâb",
+      "kolâh",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "kolâh",
+        "dar otâgh-e khâb",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-133",
+    "prompt": "The bowl is in the kitchen.",
+    "tiles": [
+      "dar âshpazkhâne",
+      "ast",
+      "kâse"
+    ],
+    "acceptedAnswers": [
+      [
+        "kâse",
+        "dar âshpazkhâne",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-134",
+    "prompt": "His/her book is at home.",
+    "tiles": [
+      "ketâbash",
+      "ast",
+      "dar khâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "ketâbash",
+        "dar khâne",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-135",
+    "prompt": "His/her book is at the office.",
+    "tiles": [
+      "ketâbash",
+      "ast",
+      "dar sherkat"
+    ],
+    "acceptedAnswers": [
+      [
+        "ketâbash",
+        "dar sherkat",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-136",
+    "prompt": "Our class is at university.",
+    "tiles": [
+      "ast",
+      "kelâs-e mâ",
+      "dar dâneshgâh"
+    ],
+    "acceptedAnswers": [
+      [
+        "kelâs-e mâ",
+        "dar dâneshgâh",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-137",
+    "prompt": "Their class is at the library.",
+    "tiles": [
+      "ast",
+      "kelâs-e ânhâ",
+      "dar ketâbkhâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "kelâs-e ânhâ",
+        "dar ketâbkhâne",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-138",
+    "prompt": "Your car is outside the house.",
+    "tiles": [
+      "ast",
+      "birun-e khâne",
+      "mâshin-e to"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâshin-e to",
+        "birun-e khâne",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-139",
+    "prompt": "Our home is in West London.",
+    "tiles": [
+      "khâne-ye mâ",
+      "ast",
+      "dar gharb-e Landan"
+    ],
+    "acceptedAnswers": [
+      [
+        "khâne-ye mâ",
+        "dar gharb-e Landan",
+        "ast"
+      ]
+    ],
+    "explanation": "The location phrase comes before ast (is). Linked phrases are kept together as one tile.",
+    "topic": "directions",
+    "grammar": "location",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-140",
+    "prompt": "My hat is light blue.",
+    "tiles": [
+      "âbi-ye rowshan",
+      "kolâham",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "kolâham",
+        "âbi-ye rowshan",
+        "ast"
+      ]
+    ],
+    "explanation": "The possessive ending -am means my. Âbi-ye rowshan means light blue.",
+    "topic": "colours",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-141",
+    "prompt": "Your hat is red.",
+    "tiles": [
+      "ghermez",
+      "kolâhat",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "kolâhat",
+        "ghermez",
+        "ast"
+      ]
+    ],
+    "explanation": "The possessive ending -at means your, addressing one person.",
+    "topic": "colours",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-142",
+    "prompt": "His/her hat was dark green.",
+    "tiles": [
+      "sabz-e tire",
+      "kolâhash",
+      "bud"
+    ],
+    "acceptedAnswers": [
+      [
+        "kolâhash",
+        "sabz-e tire",
+        "bud"
+      ]
+    ],
+    "explanation": "-ash means his or her; bud means was. Persian does not mark the owner’s gender here.",
+    "topic": "colours",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-143",
+    "prompt": "My car is dark purple.",
+    "tiles": [
+      "ast",
+      "mâshinam",
+      "banafsh-e tire"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâshinam",
+        "banafsh-e tire",
+        "ast"
+      ]
+    ],
+    "explanation": "Mâshinam means my car; banafsh-e tire means dark purple.",
+    "topic": "colours",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-144",
+    "prompt": "Our friend is happy.",
+    "tiles": [
+      "khoshhâl",
+      "ast",
+      "doostemân"
+    ],
+    "acceptedAnswers": [
+      [
+        "doostemân",
+        "khoshhâl",
+        "ast"
+      ]
+    ],
+    "explanation": "The suffix -emân marks our. The subject is one friend, so the verb is singular.",
+    "topic": "family",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-145",
+    "prompt": "Your friend is upset. (plural/formal your)",
+    "tiles": [
+      "doostetân",
+      "ast",
+      "nârâhat"
+    ],
+    "acceptedAnswers": [
+      [
+        "doostetân",
+        "nârâhat",
+        "ast"
+      ]
+    ],
+    "explanation": "-etân refers to your in the plural or formal sense; the friend is singular.",
+    "topic": "family",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-146",
+    "prompt": "Their friend is angry.",
+    "tiles": [
+      "ast",
+      "doosteshân",
+      "asabâni"
+    ],
+    "acceptedAnswers": [
+      [
+        "doosteshân",
+        "asabâni",
+        "ast"
+      ]
+    ],
+    "explanation": "-eshân means their; asabâni means angry.",
+    "topic": "family",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-147",
+    "prompt": "Ali has two brothers.",
+    "tiles": [
+      "dârad",
+      "Ali",
+      "do barâdar"
+    ],
+    "acceptedAnswers": [
+      [
+        "Ali",
+        "do barâdar",
+        "dârad"
+      ]
+    ],
+    "explanation": "A counted noun normally stays singular after a number: do barâdar.",
+    "topic": "family",
+    "grammar": "numbers",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-149",
+    "prompt": "My brother is Mani.",
+    "tiles": [
+      "Mâni",
+      "barâdaram",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "barâdaram",
+        "Mâni",
+        "ast"
+      ]
+    ],
+    "explanation": "Barâdar plus -am means my brother. Mani is a lesson character.",
+    "topic": "family",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-150",
+    "prompt": "Our mother is Sara.",
+    "tiles": [
+      "Sârâ",
+      "mâdaremân",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâdaremân",
+        "Sârâ",
+        "ast"
+      ]
+    ],
+    "explanation": "-emân means our. Sara is a lesson character.",
+    "topic": "family",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-151",
+    "prompt": "Please close the door.",
+    "tiles": [
+      "beband",
+      "lotfan",
+      "dar râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "lotfan",
+        "dar râ",
+        "beband"
+      ]
+    ],
+    "explanation": "Beband is the singular imperative of close; râ marks the door as the object.",
+    "topic": "home",
+    "grammar": "imperative",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-152",
+    "prompt": "I have no question.",
+    "tiles": [
+      "nadâram",
+      "man",
+      "soâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "soâl",
+        "nadâram"
+      ]
+    ],
+    "explanation": "Nadâram is the negative of dâram: I do not have.",
+    "topic": "conversation",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-153",
+    "prompt": "He/she does not see his/her friend.",
+    "tiles": [
+      "nemibinad",
+      "u",
+      "doostash râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "doostash râ",
+        "nemibinad"
+      ]
+    ],
+    "explanation": "Nemi- negates this present verb; doostash means his/her friend.",
+    "topic": "family",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-154",
+    "prompt": "You did not ask a question.",
+    "tiles": [
+      "naporsidi",
+      "soâl",
+      "to"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "soâl",
+        "naporsidi"
+      ]
+    ],
+    "explanation": "Na- negates the simple past porsidi. To addresses one person.",
+    "topic": "conversation",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-155",
+    "prompt": "Maryam did not make a snowman.",
+    "tiles": [
+      "âdam-barfi",
+      "nasâkht",
+      "Maryam"
+    ],
+    "acceptedAnswers": [
+      [
+        "Maryam",
+        "âdam-barfi",
+        "nasâkht"
+      ]
+    ],
+    "explanation": "Nasâkht is the third-person singular negative past of build/make.",
+    "topic": "weather",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-156",
+    "prompt": "He/she does not eat breakfast.",
+    "tiles": [
+      "nemikhorad",
+      "u",
+      "sobhâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "sobhâne",
+        "nemikhorad"
+      ]
+    ],
+    "explanation": "Nemikhorad is the negative present form: does not eat.",
+    "topic": "food",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-157",
+    "prompt": "I must have a ticket.",
+    "tiles": [
+      "belit",
+      "dâshte bâsham",
+      "bâyad"
+    ],
+    "acceptedAnswers": [
+      [
+        "bâyad",
+        "belit",
+        "dâshte bâsham"
+      ]
+    ],
+    "explanation": "After bâyad, have uses dâshte bâsham rather than ordinary dâram.",
+    "topic": "travel",
+    "grammar": "modals",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-158",
+    "prompt": "He/she might be at home.",
+    "tiles": [
+      "bâshad",
+      "shâyad",
+      "dar khâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "shâyad",
+        "dar khâne",
+        "bâshad"
+      ]
+    ],
+    "explanation": "Shâyad expresses possibility; bâshad is the third-person subjunctive of be.",
+    "topic": "home",
+    "grammar": "modals",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-166",
+    "prompt": "The weather is cold.",
+    "tiles": [
+      "ast",
+      "sard",
+      "havâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "havâ",
+        "sard",
+        "ast"
+      ]
+    ],
+    "explanation": "Havâ means weather or air; sard means cold.",
+    "topic": "weather",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-167",
+    "prompt": "Where is the book?",
+    "tiles": [
+      "ast",
+      "kojâ",
+      "ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "ketâb",
+        "kojâ",
+        "ast"
+      ]
+    ],
+    "explanation": "Kojâ asks where. This is a formal full form of the question.",
+    "topic": "directions",
+    "grammar": "questions",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-168",
+    "prompt": "What colour is your hat?",
+    "tiles": [
+      "ast",
+      "kolâhat",
+      "che rangi"
+    ],
+    "acceptedAnswers": [
+      [
+        "kolâhat",
+        "che rangi",
+        "ast"
+      ]
+    ],
+    "explanation": "Che rangi asks what colour; -at means your, addressing one person.",
+    "topic": "colours",
+    "grammar": "questions",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-169",
+    "prompt": "I am an accountant.",
+    "tiles": [
+      "hesâbdâr",
+      "man",
+      "hastam"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "hesâbdâr",
+        "hastam"
+      ]
+    ],
+    "explanation": "Hesâbdâr means accountant; hastam means I am.",
+    "topic": "work",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-170",
+    "prompt": "He/she is a nurse.",
+    "tiles": [
+      "ast",
+      "u",
+      "parastâr"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "parastâr",
+        "ast"
+      ]
+    ],
+    "explanation": "Parastâr means nurse. U can mean he or she.",
+    "topic": "work",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-171",
+    "prompt": "My father is an engineer.",
+    "tiles": [
+      "mohandes",
+      "pedaram",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "pedaram",
+        "mohandes",
+        "ast"
+      ]
+    ],
+    "explanation": "Pedaram means my father; mohandes means engineer.",
+    "topic": "work",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-172",
+    "prompt": "My mother is a doctor.",
+    "tiles": [
+      "ast",
+      "mâdaram",
+      "pezeshk"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâdaram",
+        "pezeshk",
+        "ast"
+      ]
+    ],
+    "explanation": "Mâdaram means my mother; pezeshk means doctor.",
+    "topic": "work",
+    "grammar": "possession",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-173",
+    "prompt": "We live in London.",
+    "tiles": [
+      "zendegi mikonim",
+      "dar Landan",
+      "mâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "dar Landan",
+        "zendegi mikonim"
+      ]
+    ],
+    "explanation": "Zendegi kardan is a compound verb meaning live. Mikonim agrees with mâ.",
+    "topic": "places",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-174",
+    "prompt": "I speak Farsi.",
+    "tiles": [
+      "man",
+      "sohbat mikonam",
+      "Fârsi"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "Fârsi",
+        "sohbat mikonam"
+      ]
+    ],
+    "explanation": "Sohbat kardan means speak or talk; mikonam agrees with man.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-175",
+    "prompt": "The tea is hot.",
+    "tiles": [
+      "garm",
+      "ast",
+      "chây"
+    ],
+    "acceptedAnswers": [
+      [
+        "chây",
+        "garm",
+        "ast"
+      ]
+    ],
+    "explanation": "Garm means warm or hot, depending on context.",
+    "topic": "food",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-176",
+    "prompt": "The bowl is full of fruit.",
+    "tiles": [
+      "por az mive",
+      "ast",
+      "kâse"
+    ],
+    "acceptedAnswers": [
+      [
+        "kâse",
+        "por az mive",
+        "ast"
+      ]
+    ],
+    "explanation": "Por az means full of; mive means fruit.",
+    "topic": "food",
+    "grammar": "description",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-177",
+    "prompt": "The carpet is handwoven.",
+    "tiles": [
+      "dastbâft",
+      "farsh",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "farsh",
+        "dastbâft",
+        "ast"
+      ]
+    ],
+    "explanation": "Farsh means carpet; dastbâft means handwoven.",
+    "topic": "home",
+    "grammar": "description",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-178",
+    "prompt": "The shoes are dirty.",
+    "tiles": [
+      "kasif",
+      "hastand",
+      "kafsh-hâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "kafsh-hâ",
+        "kasif",
+        "hastand"
+      ]
+    ],
+    "explanation": "-hâ makes shoes plural; hastand supplies the plural form of be.",
+    "topic": "clothing",
+    "grammar": "present-be",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-179",
+    "prompt": "I need a book.",
+    "tiles": [
+      "yek ketâb",
+      "man",
+      "lâzem dâram"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "yek ketâb",
+        "lâzem dâram"
+      ]
+    ],
+    "explanation": "Lâzem dâram expresses I need.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "sentence-006",
+    "prompt": "I go to school every day.",
+    "tiles": [
+      "har ruz",
+      "be madrese",
+      "man",
+      "miravam"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "har ruz",
+        "be madrese",
+        "miravam"
+      ],
+      [
+        "har ruz",
+        "man",
+        "be madrese",
+        "miravam"
+      ]
+    ],
+    "explanation": "Har ruz means every day; be madrese means to school. The present form agrees with the subject.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-010",
+    "prompt": "I read a book every day.",
+    "tiles": [
+      "har ruz",
+      "man",
+      "mikhânam",
+      "yek ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "har ruz",
+        "yek ketâb",
+        "mikhânam"
+      ],
+      [
+        "har ruz",
+        "man",
+        "yek ketâb",
+        "mikhânam"
+      ]
+    ],
+    "explanation": "Khân is the formal present stem of read; har ruz makes the action habitual.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-011",
+    "prompt": "I eat breakfast every morning.",
+    "tiles": [
+      "sobhâne",
+      "mikhoram",
+      "man",
+      "har sobh"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "har sobh",
+        "sobhâne",
+        "mikhoram"
+      ],
+      [
+        "har sobh",
+        "man",
+        "sobhâne",
+        "mikhoram"
+      ]
+    ],
+    "explanation": "Har sobh means every morning. Khor is the present stem of eat.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-012",
+    "prompt": "I went home yesterday.",
+    "tiles": [
+      "diruz",
+      "man",
+      "raftam",
+      "be khâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "diruz",
+        "be khâne",
+        "raftam"
+      ],
+      [
+        "diruz",
+        "man",
+        "be khâne",
+        "raftam"
+      ]
+    ],
+    "explanation": "Diruz means yesterday. Raft is the past stem of go; the third-person singular has no added ending.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-013",
+    "prompt": "I ate breakfast yesterday.",
+    "tiles": [
+      "sobhâne",
+      "diruz",
+      "khordam",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "diruz",
+        "sobhâne",
+        "khordam"
+      ],
+      [
+        "diruz",
+        "man",
+        "sobhâne",
+        "khordam"
+      ]
+    ],
+    "explanation": "Khord is the past stem of eat. Use past endings rather than the present stem khor.",
+    "topic": "food",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-014",
+    "prompt": "I closed the window yesterday.",
+    "tiles": [
+      "panjere râ",
+      "man",
+      "bastam",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "diruz",
+        "panjere râ",
+        "bastam"
+      ],
+      [
+        "diruz",
+        "man",
+        "panjere râ",
+        "bastam"
+      ]
+    ],
+    "explanation": "Bast is the past stem of close. Panjere râ identifies the window as the direct object.",
+    "topic": "home",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-015",
+    "prompt": "I saw the cat yesterday.",
+    "tiles": [
+      "didam",
+      "man",
+      "gorbe râ",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "diruz",
+        "gorbe râ",
+        "didam"
+      ],
+      [
+        "diruz",
+        "man",
+        "gorbe râ",
+        "didam"
+      ]
+    ],
+    "explanation": "Did is the past stem of see. The present stem is different: bin.",
+    "topic": "animals",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-019",
+    "prompt": "I was reading a book.",
+    "tiles": [
+      "mikhândam",
+      "dâshtam",
+      "man",
+      "yek ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "dâshtam",
+        "yek ketâb",
+        "mikhândam"
+      ]
+    ],
+    "explanation": "Past continuous uses dâsht- plus mi- and the past verb. Both verbs agree with the subject.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-020",
+    "prompt": "I was going to university.",
+    "tiles": [
+      "dâshtam",
+      "man",
+      "miraftam",
+      "be dâneshgâh"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "dâshtam",
+        "be dâneshgâh",
+        "miraftam"
+      ]
+    ],
+    "explanation": "Dâsht- and miraft- both take the matching person ending in this past-continuous sentence.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-023",
+    "prompt": "I did not go to school yesterday.",
+    "tiles": [
+      "naraftam",
+      "diruz",
+      "man",
+      "be madrese"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "diruz",
+        "be madrese",
+        "naraftam"
+      ],
+      [
+        "diruz",
+        "man",
+        "be madrese",
+        "naraftam"
+      ]
+    ],
+    "explanation": "For this simple-past negative, na- goes before raft and the person ending.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-026",
+    "prompt": "You (one person) go to school every day.",
+    "tiles": [
+      "miravi",
+      "to",
+      "har ruz",
+      "be madrese"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "har ruz",
+        "be madrese",
+        "miravi"
+      ],
+      [
+        "har ruz",
+        "to",
+        "be madrese",
+        "miravi"
+      ]
+    ],
+    "explanation": "Har ruz means every day; be madrese means to school. The present form agrees with the subject.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-030",
+    "prompt": "You (one person) read a book every day.",
+    "tiles": [
+      "yek ketâb",
+      "mikhâni",
+      "har ruz",
+      "to"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "har ruz",
+        "yek ketâb",
+        "mikhâni"
+      ],
+      [
+        "har ruz",
+        "to",
+        "yek ketâb",
+        "mikhâni"
+      ]
+    ],
+    "explanation": "Khân is the formal present stem of read; har ruz makes the action habitual.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-031",
+    "prompt": "You (one person) eat breakfast every morning.",
+    "tiles": [
+      "to",
+      "mikhori",
+      "sobhâne",
+      "har sobh"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "har sobh",
+        "sobhâne",
+        "mikhori"
+      ],
+      [
+        "har sobh",
+        "to",
+        "sobhâne",
+        "mikhori"
+      ]
+    ],
+    "explanation": "Har sobh means every morning. Khor is the present stem of eat.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-032",
+    "prompt": "You (one person) went home yesterday.",
+    "tiles": [
+      "rafti",
+      "diruz",
+      "to",
+      "be khâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "diruz",
+        "be khâne",
+        "rafti"
+      ],
+      [
+        "diruz",
+        "to",
+        "be khâne",
+        "rafti"
+      ]
+    ],
+    "explanation": "Diruz means yesterday. Raft is the past stem of go; the third-person singular has no added ending.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-033",
+    "prompt": "You (one person) ate breakfast yesterday.",
+    "tiles": [
+      "sobhâne",
+      "diruz",
+      "khordi",
+      "to"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "diruz",
+        "sobhâne",
+        "khordi"
+      ],
+      [
+        "diruz",
+        "to",
+        "sobhâne",
+        "khordi"
+      ]
+    ],
+    "explanation": "Khord is the past stem of eat. Use past endings rather than the present stem khor.",
+    "topic": "food",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-034",
+    "prompt": "You (one person) closed the window yesterday.",
+    "tiles": [
+      "panjere râ",
+      "diruz",
+      "basti",
+      "to"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "diruz",
+        "panjere râ",
+        "basti"
+      ],
+      [
+        "diruz",
+        "to",
+        "panjere râ",
+        "basti"
+      ]
+    ],
+    "explanation": "Bast is the past stem of close. Panjere râ identifies the window as the direct object.",
+    "topic": "home",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-035",
+    "prompt": "You (one person) saw the cat yesterday.",
+    "tiles": [
+      "diruz",
+      "didi",
+      "gorbe râ",
+      "to"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "diruz",
+        "gorbe râ",
+        "didi"
+      ],
+      [
+        "diruz",
+        "to",
+        "gorbe râ",
+        "didi"
+      ]
+    ],
+    "explanation": "Did is the past stem of see. The present stem is different: bin.",
+    "topic": "animals",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-039",
+    "prompt": "You (one person) were reading a book.",
+    "tiles": [
+      "yek ketâb",
+      "mikhândi",
+      "to",
+      "dâshti"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "dâshti",
+        "yek ketâb",
+        "mikhândi"
+      ]
+    ],
+    "explanation": "Past continuous uses dâsht- plus mi- and the past verb. Both verbs agree with the subject.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-040",
+    "prompt": "You (one person) were going to university.",
+    "tiles": [
+      "dâshti",
+      "be dâneshgâh",
+      "to",
+      "mirafti"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "dâshti",
+        "be dâneshgâh",
+        "mirafti"
+      ]
+    ],
+    "explanation": "Dâsht- and miraft- both take the matching person ending in this past-continuous sentence.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-043",
+    "prompt": "You (one person) did not go to school yesterday.",
+    "tiles": [
+      "be madrese",
+      "diruz",
+      "to",
+      "narafti"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "diruz",
+        "be madrese",
+        "narafti"
+      ],
+      [
+        "diruz",
+        "to",
+        "be madrese",
+        "narafti"
+      ]
+    ],
+    "explanation": "For this simple-past negative, na- goes before raft and the person ending.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-046",
+    "prompt": "He/she goes to school every day.",
+    "tiles": [
+      "har ruz",
+      "u",
+      "miravad",
+      "be madrese"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "har ruz",
+        "be madrese",
+        "miravad"
+      ],
+      [
+        "har ruz",
+        "u",
+        "be madrese",
+        "miravad"
+      ]
+    ],
+    "explanation": "Har ruz means every day; be madrese means to school. The present form agrees with the subject.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-050",
+    "prompt": "He/she reads a book every day.",
+    "tiles": [
+      "mikhânad",
+      "u",
+      "har ruz",
+      "yek ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "har ruz",
+        "yek ketâb",
+        "mikhânad"
+      ],
+      [
+        "har ruz",
+        "u",
+        "yek ketâb",
+        "mikhânad"
+      ]
+    ],
+    "explanation": "Khân is the formal present stem of read; har ruz makes the action habitual.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-051",
+    "prompt": "He/she eats breakfast every morning.",
+    "tiles": [
+      "sobhâne",
+      "mikhorad",
+      "u",
+      "har sobh"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "har sobh",
+        "sobhâne",
+        "mikhorad"
+      ],
+      [
+        "har sobh",
+        "u",
+        "sobhâne",
+        "mikhorad"
+      ]
+    ],
+    "explanation": "Har sobh means every morning. Khor is the present stem of eat.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-052",
+    "prompt": "He/she went home yesterday.",
+    "tiles": [
+      "be khâne",
+      "raft",
+      "diruz",
+      "u"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "diruz",
+        "be khâne",
+        "raft"
+      ],
+      [
+        "diruz",
+        "u",
+        "be khâne",
+        "raft"
+      ]
+    ],
+    "explanation": "Diruz means yesterday. Raft is the past stem of go; the third-person singular has no added ending.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-053",
+    "prompt": "He/she ate breakfast yesterday.",
+    "tiles": [
+      "khord",
+      "u",
+      "sobhâne",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "diruz",
+        "sobhâne",
+        "khord"
+      ],
+      [
+        "diruz",
+        "u",
+        "sobhâne",
+        "khord"
+      ]
+    ],
+    "explanation": "Khord is the past stem of eat. Use past endings rather than the present stem khor.",
+    "topic": "food",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-054",
+    "prompt": "He/she closed the window yesterday.",
+    "tiles": [
+      "panjere râ",
+      "u",
+      "bast",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "diruz",
+        "panjere râ",
+        "bast"
+      ],
+      [
+        "diruz",
+        "u",
+        "panjere râ",
+        "bast"
+      ]
+    ],
+    "explanation": "Bast is the past stem of close. Panjere râ identifies the window as the direct object.",
+    "topic": "home",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-055",
+    "prompt": "He/she saw the cat yesterday.",
+    "tiles": [
+      "gorbe râ",
+      "diruz",
+      "did",
+      "u"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "diruz",
+        "gorbe râ",
+        "did"
+      ],
+      [
+        "diruz",
+        "u",
+        "gorbe râ",
+        "did"
+      ]
+    ],
+    "explanation": "Did is the past stem of see. The present stem is different: bin.",
+    "topic": "animals",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-059",
+    "prompt": "He/she was reading a book.",
+    "tiles": [
+      "u",
+      "mikhând",
+      "yek ketâb",
+      "dâsht"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "dâsht",
+        "yek ketâb",
+        "mikhând"
+      ]
+    ],
+    "explanation": "Past continuous uses dâsht- plus mi- and the past verb. Both verbs agree with the subject.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-060",
+    "prompt": "He/she was going to university.",
+    "tiles": [
+      "u",
+      "be dâneshgâh",
+      "dâsht",
+      "miraft"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "dâsht",
+        "be dâneshgâh",
+        "miraft"
+      ]
+    ],
+    "explanation": "Dâsht- and miraft- both take the matching person ending in this past-continuous sentence.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-063",
+    "prompt": "He/she did not go to school yesterday.",
+    "tiles": [
+      "diruz",
+      "naraft",
+      "be madrese",
+      "u"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "diruz",
+        "be madrese",
+        "naraft"
+      ],
+      [
+        "diruz",
+        "u",
+        "be madrese",
+        "naraft"
+      ]
+    ],
+    "explanation": "For this simple-past negative, na- goes before raft and the person ending.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-066",
+    "prompt": "We go to school every day.",
+    "tiles": [
+      "har ruz",
+      "be madrese",
+      "mâ",
+      "miravim"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "har ruz",
+        "be madrese",
+        "miravim"
+      ],
+      [
+        "har ruz",
+        "mâ",
+        "be madrese",
+        "miravim"
+      ]
+    ],
+    "explanation": "Har ruz means every day; be madrese means to school. The present form agrees with the subject.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-070",
+    "prompt": "We read a book every day.",
+    "tiles": [
+      "mâ",
+      "har ruz",
+      "mikhânim",
+      "yek ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "har ruz",
+        "yek ketâb",
+        "mikhânim"
+      ],
+      [
+        "har ruz",
+        "mâ",
+        "yek ketâb",
+        "mikhânim"
+      ]
+    ],
+    "explanation": "Khân is the formal present stem of read; har ruz makes the action habitual.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-071",
+    "prompt": "We eat breakfast every morning.",
+    "tiles": [
+      "mikhorim",
+      "mâ",
+      "har sobh",
+      "sobhâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "har sobh",
+        "sobhâne",
+        "mikhorim"
+      ],
+      [
+        "har sobh",
+        "mâ",
+        "sobhâne",
+        "mikhorim"
+      ]
+    ],
+    "explanation": "Har sobh means every morning. Khor is the present stem of eat.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-072",
+    "prompt": "We went home yesterday.",
+    "tiles": [
+      "raftim",
+      "mâ",
+      "be khâne",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "diruz",
+        "be khâne",
+        "raftim"
+      ],
+      [
+        "diruz",
+        "mâ",
+        "be khâne",
+        "raftim"
+      ]
+    ],
+    "explanation": "Diruz means yesterday. Raft is the past stem of go; the third-person singular has no added ending.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-073",
+    "prompt": "We ate breakfast yesterday.",
+    "tiles": [
+      "mâ",
+      "khordim",
+      "sobhâne",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "diruz",
+        "sobhâne",
+        "khordim"
+      ],
+      [
+        "diruz",
+        "mâ",
+        "sobhâne",
+        "khordim"
+      ]
+    ],
+    "explanation": "Khord is the past stem of eat. Use past endings rather than the present stem khor.",
+    "topic": "food",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-074",
+    "prompt": "We closed the window yesterday.",
+    "tiles": [
+      "bastim",
+      "panjere râ",
+      "diruz",
+      "mâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "diruz",
+        "panjere râ",
+        "bastim"
+      ],
+      [
+        "diruz",
+        "mâ",
+        "panjere râ",
+        "bastim"
+      ]
+    ],
+    "explanation": "Bast is the past stem of close. Panjere râ identifies the window as the direct object.",
+    "topic": "home",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-075",
+    "prompt": "We saw the cat yesterday.",
+    "tiles": [
+      "mâ",
+      "gorbe râ",
+      "didim",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "diruz",
+        "gorbe râ",
+        "didim"
+      ],
+      [
+        "diruz",
+        "mâ",
+        "gorbe râ",
+        "didim"
+      ]
+    ],
+    "explanation": "Did is the past stem of see. The present stem is different: bin.",
+    "topic": "animals",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-079",
+    "prompt": "We were reading a book.",
+    "tiles": [
+      "yek ketâb",
+      "mâ",
+      "mikhândim",
+      "dâshtim"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "dâshtim",
+        "yek ketâb",
+        "mikhândim"
+      ]
+    ],
+    "explanation": "Past continuous uses dâsht- plus mi- and the past verb. Both verbs agree with the subject.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-080",
+    "prompt": "We were going to university.",
+    "tiles": [
+      "dâshtim",
+      "be dâneshgâh",
+      "miraftim",
+      "mâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "dâshtim",
+        "be dâneshgâh",
+        "miraftim"
+      ]
+    ],
+    "explanation": "Dâsht- and miraft- both take the matching person ending in this past-continuous sentence.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-083",
+    "prompt": "We did not go to school yesterday.",
+    "tiles": [
+      "naraftim",
+      "mâ",
+      "be madrese",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "diruz",
+        "be madrese",
+        "naraftim"
+      ],
+      [
+        "diruz",
+        "mâ",
+        "be madrese",
+        "naraftim"
+      ]
+    ],
+    "explanation": "For this simple-past negative, na- goes before raft and the person ending.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-086",
+    "prompt": "You (plural or formal) go to school every day.",
+    "tiles": [
+      "har ruz",
+      "shomâ",
+      "miravid",
+      "be madrese"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "har ruz",
+        "be madrese",
+        "miravid"
+      ],
+      [
+        "har ruz",
+        "shomâ",
+        "be madrese",
+        "miravid"
+      ]
+    ],
+    "explanation": "Har ruz means every day; be madrese means to school. The present form agrees with the subject.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-090",
+    "prompt": "You (plural or formal) read a book every day.",
+    "tiles": [
+      "yek ketâb",
+      "shomâ",
+      "har ruz",
+      "mikhânid"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "har ruz",
+        "yek ketâb",
+        "mikhânid"
+      ],
+      [
+        "har ruz",
+        "shomâ",
+        "yek ketâb",
+        "mikhânid"
+      ]
+    ],
+    "explanation": "Khân is the formal present stem of read; har ruz makes the action habitual.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-091",
+    "prompt": "You (plural or formal) eat breakfast every morning.",
+    "tiles": [
+      "mikhorid",
+      "sobhâne",
+      "shomâ",
+      "har sobh"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "har sobh",
+        "sobhâne",
+        "mikhorid"
+      ],
+      [
+        "har sobh",
+        "shomâ",
+        "sobhâne",
+        "mikhorid"
+      ]
+    ],
+    "explanation": "Har sobh means every morning. Khor is the present stem of eat.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-092",
+    "prompt": "You (plural or formal) went home yesterday.",
+    "tiles": [
+      "diruz",
+      "be khâne",
+      "raftid",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "diruz",
+        "be khâne",
+        "raftid"
+      ],
+      [
+        "diruz",
+        "shomâ",
+        "be khâne",
+        "raftid"
+      ]
+    ],
+    "explanation": "Diruz means yesterday. Raft is the past stem of go; the third-person singular has no added ending.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-093",
+    "prompt": "You (plural or formal) ate breakfast yesterday.",
+    "tiles": [
+      "khordid",
+      "sobhâne",
+      "shomâ",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "diruz",
+        "sobhâne",
+        "khordid"
+      ],
+      [
+        "diruz",
+        "shomâ",
+        "sobhâne",
+        "khordid"
+      ]
+    ],
+    "explanation": "Khord is the past stem of eat. Use past endings rather than the present stem khor.",
+    "topic": "food",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-094",
+    "prompt": "You (plural or formal) closed the window yesterday.",
+    "tiles": [
+      "bastid",
+      "shomâ",
+      "diruz",
+      "panjere râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "diruz",
+        "panjere râ",
+        "bastid"
+      ],
+      [
+        "diruz",
+        "shomâ",
+        "panjere râ",
+        "bastid"
+      ]
+    ],
+    "explanation": "Bast is the past stem of close. Panjere râ identifies the window as the direct object.",
+    "topic": "home",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-095",
+    "prompt": "You (plural or formal) saw the cat yesterday.",
+    "tiles": [
+      "diruz",
+      "shomâ",
+      "didid",
+      "gorbe râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "diruz",
+        "gorbe râ",
+        "didid"
+      ],
+      [
+        "diruz",
+        "shomâ",
+        "gorbe râ",
+        "didid"
+      ]
+    ],
+    "explanation": "Did is the past stem of see. The present stem is different: bin.",
+    "topic": "animals",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-099",
+    "prompt": "You (plural or formal) were reading a book.",
+    "tiles": [
+      "yek ketâb",
+      "mikhândid",
+      "shomâ",
+      "dâshtid"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "dâshtid",
+        "yek ketâb",
+        "mikhândid"
+      ]
+    ],
+    "explanation": "Past continuous uses dâsht- plus mi- and the past verb. Both verbs agree with the subject.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-100",
+    "prompt": "You (plural or formal) were going to university.",
+    "tiles": [
+      "shomâ",
+      "be dâneshgâh",
+      "dâshtid",
+      "miraftid"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "dâshtid",
+        "be dâneshgâh",
+        "miraftid"
+      ]
+    ],
+    "explanation": "Dâsht- and miraft- both take the matching person ending in this past-continuous sentence.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-103",
+    "prompt": "You (plural or formal) did not go to school yesterday.",
+    "tiles": [
+      "diruz",
+      "be madrese",
+      "naraftid",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "diruz",
+        "be madrese",
+        "naraftid"
+      ],
+      [
+        "diruz",
+        "shomâ",
+        "be madrese",
+        "naraftid"
+      ]
+    ],
+    "explanation": "For this simple-past negative, na- goes before raft and the person ending.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-106",
+    "prompt": "They go to school every day.",
+    "tiles": [
+      "be madrese",
+      "ânhâ",
+      "har ruz",
+      "miravand"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "har ruz",
+        "be madrese",
+        "miravand"
+      ],
+      [
+        "har ruz",
+        "ânhâ",
+        "be madrese",
+        "miravand"
+      ]
+    ],
+    "explanation": "Har ruz means every day; be madrese means to school. The present form agrees with the subject.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-110",
+    "prompt": "They read a book every day.",
+    "tiles": [
+      "yek ketâb",
+      "ânhâ",
+      "mikhânand",
+      "har ruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "har ruz",
+        "yek ketâb",
+        "mikhânand"
+      ],
+      [
+        "har ruz",
+        "ânhâ",
+        "yek ketâb",
+        "mikhânand"
+      ]
+    ],
+    "explanation": "Khân is the formal present stem of read; har ruz makes the action habitual.",
+    "topic": "education",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-111",
+    "prompt": "They eat breakfast every morning.",
+    "tiles": [
+      "har sobh",
+      "sobhâne",
+      "mikhorand",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "har sobh",
+        "sobhâne",
+        "mikhorand"
+      ],
+      [
+        "har sobh",
+        "ânhâ",
+        "sobhâne",
+        "mikhorand"
+      ]
+    ],
+    "explanation": "Har sobh means every morning. Khor is the present stem of eat.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-112",
+    "prompt": "They went home yesterday.",
+    "tiles": [
+      "ânhâ",
+      "diruz",
+      "raftand",
+      "be khâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "diruz",
+        "be khâne",
+        "raftand"
+      ],
+      [
+        "diruz",
+        "ânhâ",
+        "be khâne",
+        "raftand"
+      ]
+    ],
+    "explanation": "Diruz means yesterday. Raft is the past stem of go; the third-person singular has no added ending.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-113",
+    "prompt": "They ate breakfast yesterday.",
+    "tiles": [
+      "khordand",
+      "sobhâne",
+      "diruz",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "diruz",
+        "sobhâne",
+        "khordand"
+      ],
+      [
+        "diruz",
+        "ânhâ",
+        "sobhâne",
+        "khordand"
+      ]
+    ],
+    "explanation": "Khord is the past stem of eat. Use past endings rather than the present stem khor.",
+    "topic": "food",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-114",
+    "prompt": "They closed the window yesterday.",
+    "tiles": [
+      "bastand",
+      "panjere râ",
+      "diruz",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "diruz",
+        "panjere râ",
+        "bastand"
+      ],
+      [
+        "diruz",
+        "ânhâ",
+        "panjere râ",
+        "bastand"
+      ]
+    ],
+    "explanation": "Bast is the past stem of close. Panjere râ identifies the window as the direct object.",
+    "topic": "home",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-115",
+    "prompt": "They saw the cat yesterday.",
+    "tiles": [
+      "didand",
+      "ânhâ",
+      "diruz",
+      "gorbe râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "diruz",
+        "gorbe râ",
+        "didand"
+      ],
+      [
+        "diruz",
+        "ânhâ",
+        "gorbe râ",
+        "didand"
+      ]
+    ],
+    "explanation": "Did is the past stem of see. The present stem is different: bin.",
+    "topic": "animals",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-119",
+    "prompt": "They were reading a book.",
+    "tiles": [
+      "mikhândand",
+      "dâshtand",
+      "yek ketâb",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "dâshtand",
+        "yek ketâb",
+        "mikhândand"
+      ]
+    ],
+    "explanation": "Past continuous uses dâsht- plus mi- and the past verb. Both verbs agree with the subject.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-120",
+    "prompt": "They were going to university.",
+    "tiles": [
+      "miraftand",
+      "ânhâ",
+      "be dâneshgâh",
+      "dâshtand"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "dâshtand",
+        "be dâneshgâh",
+        "miraftand"
+      ]
+    ],
+    "explanation": "Dâsht- and miraft- both take the matching person ending in this past-continuous sentence.",
+    "topic": "education",
+    "grammar": "past-continuous",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-123",
+    "prompt": "They did not go to school yesterday.",
+    "tiles": [
+      "diruz",
+      "be madrese",
+      "ânhâ",
+      "naraftand"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "diruz",
+        "be madrese",
+        "naraftand"
+      ],
+      [
+        "diruz",
+        "ânhâ",
+        "be madrese",
+        "naraftand"
+      ]
+    ],
+    "explanation": "For this simple-past negative, na- goes before raft and the person ending.",
+    "topic": "education",
+    "grammar": "negation",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-163",
+    "prompt": "I myself closed the window.",
+    "tiles": [
+      "panjere ro",
+      "khodam",
+      "bastam",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "khodam",
+        "panjere ro",
+        "bastam"
+      ]
+    ],
+    "explanation": "Khodam emphasises I myself. Ro marks the window, not the reflexive pronoun, as the object.",
+    "topic": "home",
+    "grammar": "reflexives",
+    "register": "spoken",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-164",
+    "prompt": "This house is bigger than that house.",
+    "tiles": [
+      "in khâne",
+      "ast",
+      "az ân khâne",
+      "bozorgtar"
+    ],
+    "acceptedAnswers": [
+      [
+        "in khâne",
+        "az ân khâne",
+        "bozorgtar",
+        "ast"
+      ],
+      [
+        "in khâne",
+        "bozorgtar",
+        "az ân khâne",
+        "ast"
+      ]
+    ],
+    "explanation": "Bozorgtar means bigger; az introduces the comparison.",
+    "topic": "home",
+    "grammar": "comparisons",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-165",
+    "prompt": "This book is better than that book.",
+    "tiles": [
+      "az ân ketâb",
+      "in ketâb",
+      "behtar",
+      "ast"
+    ],
+    "acceptedAnswers": [
+      [
+        "in ketâb",
+        "az ân ketâb",
+        "behtar",
+        "ast"
+      ],
+      [
+        "in ketâb",
+        "behtar",
+        "az ân ketâb",
+        "ast"
+      ]
+    ],
+    "explanation": "Behtar is the comparative better; az means than in this construction.",
+    "topic": "education",
+    "grammar": "comparisons",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-016",
+    "prompt": "I will read a book tomorrow.",
+    "tiles": [
+      "man",
+      "yek ketâb",
+      "khând",
+      "fardâ",
+      "khâham"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "fardâ",
+        "yek ketâb",
+        "khâham",
+        "khând"
+      ],
+      [
+        "fardâ",
+        "man",
+        "yek ketâb",
+        "khâham",
+        "khând"
+      ]
+    ],
+    "explanation": "In the formal future, the auxiliary agrees with the subject and khând stays unchanged.",
+    "topic": "education",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-017",
+    "prompt": "I will wash the clothes tomorrow.",
+    "tiles": [
+      "shost",
+      "khâham",
+      "fardâ",
+      "lebâs-hâ râ",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "fardâ",
+        "lebâs-hâ râ",
+        "khâham",
+        "shost"
+      ],
+      [
+        "fardâ",
+        "man",
+        "lebâs-hâ râ",
+        "khâham",
+        "shost"
+      ]
+    ],
+    "explanation": "The formal future uses a form of khâstan followed by the unchanged past stem shost.",
+    "topic": "clothing",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-018",
+    "prompt": "I will ask a question tomorrow.",
+    "tiles": [
+      "porsid",
+      "khâham",
+      "fardâ",
+      "man",
+      "yek soâl"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "fardâ",
+        "yek soâl",
+        "khâham",
+        "porsid"
+      ],
+      [
+        "fardâ",
+        "man",
+        "yek soâl",
+        "khâham",
+        "porsid"
+      ]
+    ],
+    "explanation": "Only the future auxiliary changes with the person; porsid remains the same.",
+    "topic": "conversation",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-036",
+    "prompt": "You (one person) will read a book tomorrow.",
+    "tiles": [
+      "yek ketâb",
+      "khând",
+      "to",
+      "khâhi",
+      "fardâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "fardâ",
+        "yek ketâb",
+        "khâhi",
+        "khând"
+      ],
+      [
+        "fardâ",
+        "to",
+        "yek ketâb",
+        "khâhi",
+        "khând"
+      ]
+    ],
+    "explanation": "In the formal future, the auxiliary agrees with the subject and khând stays unchanged.",
+    "topic": "education",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-037",
+    "prompt": "You (one person) will wash the clothes tomorrow.",
+    "tiles": [
+      "lebâs-hâ râ",
+      "shost",
+      "fardâ",
+      "to",
+      "khâhi"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "fardâ",
+        "lebâs-hâ râ",
+        "khâhi",
+        "shost"
+      ],
+      [
+        "fardâ",
+        "to",
+        "lebâs-hâ râ",
+        "khâhi",
+        "shost"
+      ]
+    ],
+    "explanation": "The formal future uses a form of khâstan followed by the unchanged past stem shost.",
+    "topic": "clothing",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-038",
+    "prompt": "You (one person) will ask a question tomorrow.",
+    "tiles": [
+      "yek soâl",
+      "porsid",
+      "khâhi",
+      "to",
+      "fardâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "fardâ",
+        "yek soâl",
+        "khâhi",
+        "porsid"
+      ],
+      [
+        "fardâ",
+        "to",
+        "yek soâl",
+        "khâhi",
+        "porsid"
+      ]
+    ],
+    "explanation": "Only the future auxiliary changes with the person; porsid remains the same.",
+    "topic": "conversation",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-056",
+    "prompt": "He/she will read a book tomorrow.",
+    "tiles": [
+      "khând",
+      "yek ketâb",
+      "fardâ",
+      "khâhad",
+      "u"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "fardâ",
+        "yek ketâb",
+        "khâhad",
+        "khând"
+      ],
+      [
+        "fardâ",
+        "u",
+        "yek ketâb",
+        "khâhad",
+        "khând"
+      ]
+    ],
+    "explanation": "In the formal future, the auxiliary agrees with the subject and khând stays unchanged.",
+    "topic": "education",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-057",
+    "prompt": "He/she will wash the clothes tomorrow.",
+    "tiles": [
+      "lebâs-hâ râ",
+      "u",
+      "khâhad",
+      "fardâ",
+      "shost"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "fardâ",
+        "lebâs-hâ râ",
+        "khâhad",
+        "shost"
+      ],
+      [
+        "fardâ",
+        "u",
+        "lebâs-hâ râ",
+        "khâhad",
+        "shost"
+      ]
+    ],
+    "explanation": "The formal future uses a form of khâstan followed by the unchanged past stem shost.",
+    "topic": "clothing",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-058",
+    "prompt": "He/she will ask a question tomorrow.",
+    "tiles": [
+      "yek soâl",
+      "khâhad",
+      "porsid",
+      "u",
+      "fardâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "u",
+        "fardâ",
+        "yek soâl",
+        "khâhad",
+        "porsid"
+      ],
+      [
+        "fardâ",
+        "u",
+        "yek soâl",
+        "khâhad",
+        "porsid"
+      ]
+    ],
+    "explanation": "Only the future auxiliary changes with the person; porsid remains the same.",
+    "topic": "conversation",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-076",
+    "prompt": "We will read a book tomorrow.",
+    "tiles": [
+      "khând",
+      "mâ",
+      "fardâ",
+      "khâhim",
+      "yek ketâb"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "fardâ",
+        "yek ketâb",
+        "khâhim",
+        "khând"
+      ],
+      [
+        "fardâ",
+        "mâ",
+        "yek ketâb",
+        "khâhim",
+        "khând"
+      ]
+    ],
+    "explanation": "In the formal future, the auxiliary agrees with the subject and khând stays unchanged.",
+    "topic": "education",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-077",
+    "prompt": "We will wash the clothes tomorrow.",
+    "tiles": [
+      "khâhim",
+      "shost",
+      "lebâs-hâ râ",
+      "mâ",
+      "fardâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "fardâ",
+        "lebâs-hâ râ",
+        "khâhim",
+        "shost"
+      ],
+      [
+        "fardâ",
+        "mâ",
+        "lebâs-hâ râ",
+        "khâhim",
+        "shost"
+      ]
+    ],
+    "explanation": "The formal future uses a form of khâstan followed by the unchanged past stem shost.",
+    "topic": "clothing",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-078",
+    "prompt": "We will ask a question tomorrow.",
+    "tiles": [
+      "yek soâl",
+      "fardâ",
+      "khâhim",
+      "mâ",
+      "porsid"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "fardâ",
+        "yek soâl",
+        "khâhim",
+        "porsid"
+      ],
+      [
+        "fardâ",
+        "mâ",
+        "yek soâl",
+        "khâhim",
+        "porsid"
+      ]
+    ],
+    "explanation": "Only the future auxiliary changes with the person; porsid remains the same.",
+    "topic": "conversation",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-096",
+    "prompt": "You (plural or formal) will read a book tomorrow.",
+    "tiles": [
+      "shomâ",
+      "yek ketâb",
+      "khând",
+      "fardâ",
+      "khâhid"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "fardâ",
+        "yek ketâb",
+        "khâhid",
+        "khând"
+      ],
+      [
+        "fardâ",
+        "shomâ",
+        "yek ketâb",
+        "khâhid",
+        "khând"
+      ]
+    ],
+    "explanation": "In the formal future, the auxiliary agrees with the subject and khând stays unchanged.",
+    "topic": "education",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-097",
+    "prompt": "You (plural or formal) will wash the clothes tomorrow.",
+    "tiles": [
+      "fardâ",
+      "shomâ",
+      "khâhid",
+      "shost",
+      "lebâs-hâ râ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "fardâ",
+        "lebâs-hâ râ",
+        "khâhid",
+        "shost"
+      ],
+      [
+        "fardâ",
+        "shomâ",
+        "lebâs-hâ râ",
+        "khâhid",
+        "shost"
+      ]
+    ],
+    "explanation": "The formal future uses a form of khâstan followed by the unchanged past stem shost.",
+    "topic": "clothing",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-098",
+    "prompt": "You (plural or formal) will ask a question tomorrow.",
+    "tiles": [
+      "khâhid",
+      "shomâ",
+      "fardâ",
+      "yek soâl",
+      "porsid"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "fardâ",
+        "yek soâl",
+        "khâhid",
+        "porsid"
+      ],
+      [
+        "fardâ",
+        "shomâ",
+        "yek soâl",
+        "khâhid",
+        "porsid"
+      ]
+    ],
+    "explanation": "Only the future auxiliary changes with the person; porsid remains the same.",
+    "topic": "conversation",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-116",
+    "prompt": "They will read a book tomorrow.",
+    "tiles": [
+      "khâhand",
+      "fardâ",
+      "khând",
+      "yek ketâb",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "fardâ",
+        "yek ketâb",
+        "khâhand",
+        "khând"
+      ],
+      [
+        "fardâ",
+        "ânhâ",
+        "yek ketâb",
+        "khâhand",
+        "khând"
+      ]
+    ],
+    "explanation": "In the formal future, the auxiliary agrees with the subject and khând stays unchanged.",
+    "topic": "education",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-117",
+    "prompt": "They will wash the clothes tomorrow.",
+    "tiles": [
+      "lebâs-hâ râ",
+      "fardâ",
+      "shost",
+      "khâhand",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "fardâ",
+        "lebâs-hâ râ",
+        "khâhand",
+        "shost"
+      ],
+      [
+        "fardâ",
+        "ânhâ",
+        "lebâs-hâ râ",
+        "khâhand",
+        "shost"
+      ]
+    ],
+    "explanation": "The formal future uses a form of khâstan followed by the unchanged past stem shost.",
+    "topic": "clothing",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-118",
+    "prompt": "They will ask a question tomorrow.",
+    "tiles": [
+      "porsid",
+      "khâhand",
+      "yek soâl",
+      "fardâ",
+      "ânhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "ânhâ",
+        "fardâ",
+        "yek soâl",
+        "khâhand",
+        "porsid"
+      ],
+      [
+        "fardâ",
+        "ânhâ",
+        "yek soâl",
+        "khâhand",
+        "porsid"
+      ]
+    ],
+    "explanation": "Only the future auxiliary changes with the person; porsid remains the same.",
+    "topic": "conversation",
+    "grammar": "future",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-148",
+    "prompt": "Maryam has one brother and two sisters.",
+    "tiles": [
+      "va",
+      "dârad",
+      "yek barâdar",
+      "Maryam",
+      "do khâhar"
+    ],
+    "acceptedAnswers": [
+      [
+        "Maryam",
+        "yek barâdar",
+        "va",
+        "do khâhar",
+        "dârad"
+      ]
+    ],
+    "explanation": "Va means and. The counted nouns remain singular after yek and do.",
+    "topic": "family",
+    "grammar": "numbers",
+    "register": "formal",
+    "source": "Adapted from Core Farsi Memory grammar and vocabulary",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "sentence-003",
+    "prompt": "I saw myself in the mirror.",
+    "tiles": [
+      "didam",
+      "dar",
+      "khodam",
+      "âyene",
+      "ro",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "khodam",
+        "ro",
+        "dar",
+        "âyene",
+        "didam"
+      ],
+      [
+        "man",
+        "dar",
+        "âyene",
+        "khodam",
+        "ro",
+        "didam"
+      ]
+    ],
+    "explanation": "Khodam means myself. Ro marks myself as the direct object. Dar âyene means in the mirror, and didam means I saw.",
+    "topic": "actions",
+    "grammar": "reflexives",
+    "register": "spoken",
+    "source": "Original three exercises; modal and reflexive examples in Core Farsi Memory",
+    "difficulty": "intermediate"
+  }
+]

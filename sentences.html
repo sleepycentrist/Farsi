@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sentence Practice</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <main>
+      <a href="index.html">← Home</a>
+
+      <h1>Sentence practice</h1>
+      <p id="sentence-progress"></p>
+      <h2 id="sentence-prompt">Loading exercises…</h2>
+
+      <p>Click the tiles in order. Use every tile.</p>
+      <div id="word-bank" class="word-tiles"></div>
+
+      <h2>Your sentence</h2>
+      <p>Click a selected word to put it back.</p>
+      <div id="sentence-answer" class="sentence-box"></div>
+
+      <div class="sentence-controls">
+        <button id="check-sentence" disabled>Check answer</button>
+        <button id="reset-sentence" disabled>Start again</button>
+        <button id="next-sentence" disabled>Next sentence</button>
+      </div>
+
+      <p id="sentence-feedback" aria-live="polite"></p>
+    </main>
+
+    <script src="sentences.js"></script>
+  </body>
+</html>
