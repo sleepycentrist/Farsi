@@ -114,3 +114,19 @@ h2 {
 #sentence-feedback {
   line-height: 1.6;
 }
+.display-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 16px 0 24px;
+}
+
+.display-controls button {
+  padding: 10px 14px;
+}
+
+.display-controls button.active {
+  background-color: #dca630;
+  color: #17324d;
+  border-color: #17324d;
+}

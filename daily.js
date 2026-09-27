@@ -1,12 +1,14 @@
-let vocabulary = [];
-let currentIndex = 0;
+const DAILY_QUESTION_COUNT = 20;
 
-const parameters = new URLSearchParams(window.location.search);
-const selectedTopic = parameters.get('category');
+let dailyVocabulary = [];
+let currentIndex = 0;
+let displayMode = 'finglish';
+
 
 const question = document.getElementById('question');
 const answer = document.getElementById('answer');
 const progress = document.getElementById('progress');
+
 const revealButton = document.getElementById('reveal');
 const nextButton = document.getElementById('next');
 
@@ -14,7 +16,6 @@ const finglishButton = document.getElementById('show-finglish');
 const persianButton = document.getElementById('show-persian');
 const bothButton = document.getElementById('show-both');
 
-let displayMode = 'finglish';
 
 finglishButton.classList.add('active');
 
@@ -32,6 +33,7 @@ persianButton.addEventListener('click', function () {
 bothButton.addEventListener('click', function () {
   changeDisplayMode('both');
 });
+
 
 function changeDisplayMode(newMode) {
   displayMode = newMode;
@@ -51,18 +53,13 @@ function changeDisplayMode(newMode) {
     displayMode === 'both'
   );
 
-  showQuestion();
+  if (dailyVocabulary.length > 0) {
+    showQuestion();
+  }
 }
 
-async function loadVocabulary() {
-  if (!Object.hasOwn(topicNames, selectedTopic)) {
-    question.textContent = 'Choose a topic from the homepage first.';
-    return;
-  }
 
-  document.getElementById('topic-title').textContent =
-    topicNames[selectedTopic];
-
+async function loadDailyVocabulary() {
   try {
     const response = await fetch('questions.json');
 
@@ -72,58 +69,77 @@ async function loadVocabulary() {
 
     const allVocabulary = await response.json();
 
-    vocabulary = allVocabulary.filter(function (entry) {
-      return entry.category === selectedTopic;
-    });
+    const mixedVocabulary = shuffle(allVocabulary);
 
-    if (vocabulary.length === 0) {
-      question.textContent =
-        'No words in this topic yet. Check the category labels in your JSON.';
-      return;
-    }
+    dailyVocabulary = mixedVocabulary.slice(
+      0,
+      DAILY_QUESTION_COUNT
+    );
 
     showQuestion();
   } catch (error) {
-    question.textContent = 'Could not load vocabulary: ' + error.message;
+    question.textContent =
+      'Could not load vocabulary: ' + error.message;
   }
 }
 
+
 function showQuestion() {
-  const current = vocabulary[currentIndex];
+  const current = dailyVocabulary[currentIndex];
   let displayedWord;
 
   if (displayMode === 'persian') {
     displayedWord = current.persian || current.farsi;
   } else if (displayMode === 'both' && current.persian) {
-    displayedWord = current.persian + ' — ' + current.farsi;
+    displayedWord =
+      current.persian + ' — ' + current.farsi;
   } else {
     displayedWord = current.farsi;
   }
 
-  question.textContent = 'What does ' + displayedWord + ' mean?';
+  question.textContent =
+    'What does ' + displayedWord + ' mean?';
 
   progress.textContent =
-    'Card ' + (currentIndex + 1) + ' of ' + vocabulary.length;
+    'Question ' +
+    (currentIndex + 1) +
+    ' of ' +
+    dailyVocabulary.length;
 
   answer.textContent = '';
+
   revealButton.disabled = false;
   nextButton.disabled = false;
 }
 
+
 function revealAnswer() {
-  answer.textContent = vocabulary[currentIndex].english;
-  revealButton.disabled = false;
-  nextButton.disabled = false;
+  const current = dailyVocabulary[currentIndex];
+
+  answer.textContent = current.english;
 }
+
 
 function nextQuestion() {
   currentIndex = currentIndex + 1;
 
-  if (currentIndex >= vocabulary.length) {
-    currentIndex = 0;
+  if (currentIndex >= dailyVocabulary.length) {
+    finishPractice();
+    return;
   }
 
   showQuestion();
 }
 
-loadVocabulary();
+
+function finishPractice() {
+  progress.textContent = '20 of 20 complete';
+  question.textContent = 'Daily practice complete!';
+  answer.textContent = 'آفرین! Âfarin!';
+
+  revealButton.disabled = true;
+  nextButton.disabled = true;
+}
+
+
+loadDailyVocabulary();

@@ -2,7 +2,7 @@
   {
     "farsi": "pasfardâ",
     "english": "The day after tomorrow",
-    "persian": "",
+    "persian": "پس‌فردا",
     "category": "time",
     "sourceLine": 31,
     "sourceCategory": "Time",
@@ -11,7 +11,7 @@
   {
     "farsi": "emruz",
     "english": "Today",
-    "persian": "",
+    "persian": "امروز",
     "category": "time",
     "sourceLine": 31,
     "sourceCategory": "Time",
@@ -20,7 +20,7 @@
   {
     "farsi": "diruz",
     "english": "Yesterday",
-    "persian": "",
+    "persian": "دیروز",
     "category": "time",
     "sourceLine": 31,
     "sourceCategory": "Time",
@@ -29,7 +29,7 @@
   {
     "farsi": "bâlâ-ye",
     "english": "above",
-    "persian": "",
+    "persian": "بالای",
     "category": "directions",
     "sourceLine": 54,
     "sourceCategory": "Place and direction words",
@@ -38,7 +38,7 @@
   {
     "farsi": "ru-ye",
     "english": "on",
-    "persian": "",
+    "persian": "روی",
     "category": "directions",
     "sourceLine": 55,
     "sourceCategory": "Place and direction words",
@@ -47,7 +47,7 @@
   {
     "farsi": "zir-e",
     "english": "under",
-    "persian": "",
+    "persian": "زیر",
     "category": "directions",
     "sourceLine": 56,
     "sourceCategory": "Place and direction words",
@@ -56,7 +56,7 @@
   {
     "farsi": "pâyin-e",
     "english": "below",
-    "persian": "",
+    "persian": "پایین",
     "category": "directions",
     "sourceLine": 57,
     "sourceCategory": "Place and direction words",
@@ -65,7 +65,7 @@
   {
     "farsi": "jelo-ye",
     "english": "in front of",
-    "persian": "",
+    "persian": "جلوی",
     "category": "directions",
     "sourceLine": 58,
     "sourceCategory": "Place and direction words",
@@ -74,7 +74,7 @@
   {
     "farsi": "ruberu-ye",
     "english": "opposite/facing",
-    "persian": "",
+    "persian": "روبه‌روی",
     "category": "directions",
     "sourceLine": 59,
     "sourceCategory": "Place and direction words",
@@ -83,7 +83,7 @@
   {
     "farsi": "posht-e",
     "english": "behind",
-    "persian": "",
+    "persian": "پشت",
     "category": "directions",
     "sourceLine": 60,
     "sourceCategory": "Place and direction words",
@@ -92,7 +92,7 @@
   {
     "farsi": "dâkhel-e / darun-e",
     "english": "inside",
-    "persian": "",
+    "persian": "داخل / درون",
     "category": "directions",
     "sourceLine": 61,
     "sourceCategory": "Place and direction words",
@@ -101,7 +101,7 @@
   {
     "farsi": "birun-e",
     "english": "outside",
-    "persian": "",
+    "persian": "بیرون",
     "category": "directions",
     "sourceLine": 62,
     "sourceCategory": "Place and direction words",
@@ -110,7 +110,7 @@
   {
     "farsi": "beyn-e",
     "english": "between",
-    "persian": "",
+    "persian": "بین",
     "category": "directions",
     "sourceLine": 63,
     "sourceCategory": "Place and direction words",
@@ -119,7 +119,7 @@
   {
     "farsi": "nazdik-e",
     "english": "near",
-    "persian": "",
+    "persian": "نزدیک",
     "category": "directions",
     "sourceLine": 64,
     "sourceCategory": "Place and direction words",
@@ -128,7 +128,7 @@
   {
     "farsi": "dur az",
     "english": "far from",
-    "persian": "",
+    "persian": "دور از",
     "category": "directions",
     "sourceLine": 65,
     "sourceCategory": "Place and direction words",
@@ -137,7 +137,7 @@
   {
     "farsi": "shomâl / shomâli",
     "english": "north / northern",
-    "persian": "",
+    "persian": "شمال / شمالی",
     "category": "directions",
     "sourceLine": 66,
     "sourceCategory": "Place and direction words",
@@ -146,7 +146,7 @@
   {
     "farsi": "jonub / jonubi",
     "english": "south / southern",
-    "persian": "",
+    "persian": "جنوب / جنوبی",
     "category": "directions",
     "sourceLine": 67,
     "sourceCategory": "Place and direction words",
@@ -155,7 +155,7 @@
   {
     "farsi": "gharb / gharbi",
     "english": "west / western",
-    "persian": "",
+    "persian": "غرب / غربی",
     "category": "directions",
     "sourceLine": 68,
     "sourceCategory": "Place and direction words",
@@ -164,7 +164,7 @@
   {
     "farsi": "shargh / sharghi",
     "english": "east / eastern",
-    "persian": "",
+    "persian": "شرق / شرقی",
     "category": "directions",
     "sourceLine": 69,
     "sourceCategory": "Place and direction words",
@@ -173,7 +173,7 @@
   {
     "farsi": "shomâl-e gharb / shomâl-e shargh",
     "english": "northwest / northeast",
-    "persian": "",
+    "persian": "شمال غرب / شمال شرق",
     "category": "directions",
     "sourceLine": 70,
     "sourceCategory": "Place and direction words",
@@ -182,7 +182,7 @@
   {
     "farsi": "jonub-e gharb / jonub-e shargh",
     "english": "southwest / southeast",
-    "persian": "",
+    "persian": "جنوب غرب / جنوب شرق",
     "category": "directions",
     "sourceLine": 71,
     "sourceCategory": "Place and direction words",
@@ -191,7 +191,7 @@
   {
     "farsi": "râst / chap",
     "english": "right / left",
-    "persian": "",
+    "persian": "راست / چپ",
     "category": "directions",
     "sourceLine": 72,
     "sourceCategory": "Place and direction words",
@@ -200,7 +200,7 @@
   {
     "farsi": "markaz / samt",
     "english": "centre / side or direction",
-    "persian": "",
+    "persian": "مرکز / سمت",
     "category": "directions",
     "sourceLine": 73,
     "sourceCategory": "Place and direction words",
@@ -209,7 +209,7 @@
   {
     "farsi": "injâ / ânjâ",
     "english": "here / there",
-    "persian": "",
+    "persian": "اینجا / آنجا",
     "category": "directions",
     "sourceLine": 74,
     "sourceCategory": "Place and direction words",
@@ -5377,7 +5377,7 @@
     "farsi": "khoshmaze",
     "english": "Tasty / delicious",
     "category": "food",
-    "persian": "",
+    "persian": "خوشمزه",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5385,7 +5385,7 @@
     "farsi": "mipazam",
     "english": "I cook",
     "category": "food",
-    "persian": "",
+    "persian": "می‌پزم",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5393,7 +5393,7 @@
     "farsi": "kutâh",
     "english": "Short",
     "category": "descriptions",
-    "persian": "",
+    "persian": "کوتاه",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5401,7 +5401,7 @@
     "farsi": "kutâh kardan",
     "english": "To shorten / cut short",
     "category": "actions",
-    "persian": "",
+    "persian": "کوتاه کردن",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5409,7 +5409,7 @@
     "farsi": "boland",
     "english": "Long / tall",
     "category": "descriptions",
-    "persian": "",
+    "persian": "بلند",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5417,7 +5417,7 @@
     "farsi": "mu",
     "english": "Hair",
     "category": "health",
-    "persian": "",
+    "persian": "مو",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5425,7 +5425,7 @@
     "farsi": "muhâm",
     "english": "My hair (spoken)",
     "category": "health",
-    "persian": "",
+    "persian": "موهام",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5433,7 +5433,7 @@
     "farsi": "muhâmo",
     "english": "My hair as the object (spoken)",
     "category": "health",
-    "persian": "",
+    "persian": "موهامو",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5441,7 +5441,7 @@
     "farsi": "me’mâr",
     "english": "Architect",
     "category": "work",
-    "persian": "",
+    "persian": "معمار",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5449,7 +5449,7 @@
     "farsi": "tarrâhi kardan",
     "english": "To design",
     "category": "work",
-    "persian": "",
+    "persian": "طراحی کردن",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5457,7 +5457,7 @@
     "farsi": "kâmion",
     "english": "Truck",
     "category": "travel",
-    "persian": "",
+    "persian": "کامیون",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5465,7 +5465,7 @@
     "farsi": "rânande-ye kâmion",
     "english": "Truck driver",
     "category": "work",
-    "persian": "",
+    "persian": "رانندهٔ کامیون",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5473,7 +5473,7 @@
     "farsi": "bannâ",
     "english": "Builder / mason",
     "category": "work",
-    "persian": "",
+    "persian": "بنا",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5481,7 +5481,7 @@
     "farsi": "rânandegi kardan",
     "english": "To drive",
     "category": "travel",
-    "persian": "",
+    "persian": "رانندگی کردن",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5489,7 +5489,7 @@
     "farsi": "komak kardan",
     "english": "To help",
     "category": "actions",
-    "persian": "",
+    "persian": "کمک کردن",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5497,7 +5497,7 @@
     "farsi": "parastâr-e bache",
     "english": "Babysitter / nanny",
     "category": "work",
-    "persian": "",
+    "persian": "پرستار بچه",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5505,7 +5505,7 @@
     "farsi": "negahdâri",
     "english": "Care / looking after",
     "category": "actions",
-    "persian": "",
+    "persian": "نگهداری",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5513,7 +5513,7 @@
     "farsi": "dustam",
     "english": "My friend",
     "category": "family",
-    "persian": "",
+    "persian": "دوستم",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5521,7 +5521,7 @@
     "farsi": "dustâm",
     "english": "My friends (spoken)",
     "category": "family",
-    "persian": "",
+    "persian": "دوستام",
     "source": "Lesson 2026-09-27"
   }
 ]
