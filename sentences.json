@@ -4566,5 +4566,163 @@
     "register": "spoken",
     "source": "Original three exercises; modal and reflexive examples in Core Farsi Memory",
     "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-09-27-s01",
+    "prompt": "I cook tasty dishes.",
+    "tiles": [
+      "mipazam",
+      "ghazâhâ-ye khoshmaze",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "ghazâhâ-ye khoshmaze",
+        "mipazam"
+      ]
+    ],
+    "explanation": "Mipazam means I cook; ghazâhâ-ye khoshmaze means tasty dishes.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-09-27",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-09-27-s02",
+    "prompt": "I have long hair.",
+    "tiles": [
+      "dâram",
+      "muhâ-ye bolandi",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "muhâ-ye bolandi",
+        "dâram"
+      ]
+    ],
+    "explanation": "Boland means long; dâram means I have.",
+    "topic": "health",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-09-27",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-09-27-s03",
+    "prompt": "I never cut my hair.",
+    "tiles": [
+      "kutâh nemikonam",
+      "muhâmo",
+      "hich vaght",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "hich vaght",
+        "muhâmo",
+        "kutâh nemikonam"
+      ]
+    ],
+    "explanation": "Hich vaght with a negative verb means never. Muhâmo is my hair plus the object marker.",
+    "topic": "health",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-09-27",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-09-27-s04",
+    "prompt": "I drive every day.",
+    "tiles": [
+      "rânandegi mikonam",
+      "har ruz",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "har ruz",
+        "rânandegi mikonam"
+      ]
+    ],
+    "explanation": "Rânandegi kardan is to drive; mikonam gives the I form.",
+    "topic": "travel",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-09-27",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-09-27-s05",
+    "prompt": "I help my friend.",
+    "tiles": [
+      "komak mikonam",
+      "be dustam",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "be dustam",
+        "komak mikonam"
+      ]
+    ],
+    "explanation": "Be marks the person receiving help. Dustam means my friend.",
+    "topic": "family",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-09-27",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-09-27-s06",
+    "prompt": "I design buildings.",
+    "tiles": [
+      "tarrâhi mikonam",
+      "sâkhtemân",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "sâkhtemân",
+        "tarrâhi mikonam"
+      ]
+    ],
+    "explanation": "Tarrâhi mikonam means I design. Sâkhtemân has a general meaning here.",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-09-27",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-09-27-s07",
+    "prompt": "I help mothers look after children.",
+    "tiles": [
+      "komak mikonam",
+      "tu negahdâri-ye bachehâ",
+      "be mâdarâ",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "be mâdarâ",
+        "tu negahdâri-ye bachehâ",
+        "komak mikonam"
+      ]
+    ],
+    "explanation": "Be mâdarâ identifies the people helped; tu negahdâri-ye bachehâ means in looking after children.",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-09-27",
+    "difficulty": "beginner"
   }
 ]
