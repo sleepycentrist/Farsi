@@ -4724,5 +4724,235 @@
     "register": "spoken",
     "source": "Lesson 2026-09-27",
     "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s01",
+    "prompt": "I prepare tasty dishes.",
+    "tiles": [
+      "dorost mikonam",
+      "ghazâhâ-ye khoshmaze",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "ghazâhâ-ye khoshmaze",
+        "dorost mikonam"
+      ]
+    ],
+    "explanation": "Dorost kardan means to make or prepare; it overlaps with cooking in this food example.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s02",
+    "prompt": "I cut people’s hair.",
+    "tiles": [
+      "kutâh mikonam",
+      "ro",
+      "muhâ-ye mardom",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "muhâ-ye mardom",
+        "ro",
+        "kutâh mikonam"
+      ]
+    ],
+    "explanation": "Muhâ-ye mardom means people’s hair. Ro marks that direct object; kutâh kardan means to shorten or cut.",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s03",
+    "prompt": "Hanna has grown her hair long.",
+    "tiles": [
+      "boland karde",
+      "ro",
+      "muhâsh",
+      "Hanâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "Hanâ",
+        "muhâsh",
+        "ro",
+        "boland karde"
+      ]
+    ],
+    "explanation": "Boland karde expresses has made longer / grown out here. This is a lesson example, not a biographical claim.",
+    "topic": "health",
+    "grammar": "present-perfect",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s04",
+    "prompt": "Hanna has had her hair cut.",
+    "tiles": [
+      "kutâh karde",
+      "ro",
+      "muhâsh",
+      "Hanâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "Hanâ",
+        "muhâsh",
+        "ro",
+        "kutâh karde"
+      ]
+    ],
+    "explanation": "Kutâh karde expresses has cut / had cut; muhâsh means her hair.",
+    "topic": "health",
+    "grammar": "present-perfect",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s05",
+    "prompt": "My job is controlling an aircraft in the sky.",
+    "tiles": [
+      "tu âsemune",
+      "kontrol kardan-e havâpeymâ",
+      "kâr-e man"
+    ],
+    "acceptedAnswers": [
+      [
+        "kâr-e man",
+        "kontrol kardan-e havâpeymâ",
+        "tu âsemune"
+      ]
+    ],
+    "explanation": "Kâr-e man means my job. Tu âsemune combines in the sky with the spoken is ending.",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s06",
+    "prompt": "I work with a truck every day.",
+    "tiles": [
+      "kâr mikonam",
+      "bâ kâmion",
+      "har ruz",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "har ruz",
+        "bâ kâmion",
+        "kâr mikonam"
+      ]
+    ],
+    "explanation": "Bâ means with. Kâr mikonam means I work.",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s07",
+    "prompt": "I help doctors treat patients.",
+    "tiles": [
+      "komak mikonam",
+      "be pezeshkâ",
+      "tu darmân-e bimârâ",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "tu darmân-e bimârâ",
+        "be pezeshkâ",
+        "komak mikonam"
+      ]
+    ],
+    "explanation": "Be marks the doctors receiving help; tu darmân-e bimârâ means in the treatment of patients.",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s08",
+    "prompt": "I help my dad.",
+    "tiles": [
+      "komak mikonam",
+      "be bâbâm",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "be bâbâm",
+        "komak mikonam"
+      ]
+    ],
+    "explanation": "Helping someone uses be plus the person; bâbâm means my dad.",
+    "topic": "family",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s09",
+    "prompt": "I cooked.",
+    "tiles": [
+      "pokhtam",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "pokhtam"
+      ]
+    ],
+    "explanation": "Pokht is the past stem of pokhtan. Add -am for I.",
+    "topic": "food",
+    "grammar": "past",
+    "register": "spoken",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-04-s10",
+    "prompt": "I cut my hair. (formal)",
+    "tiles": [
+      "kutâh mikonam",
+      "râ",
+      "muhâyam",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "muhâyam",
+        "râ",
+        "kutâh mikonam"
+      ]
+    ],
+    "explanation": "Muhâyam is the formal possessive form my hair; râ marks the direct object.",
+    "topic": "health",
+    "grammar": "present",
+    "register": "formal",
+    "source": "Teacher notes 2026-10-04",
+    "difficulty": "beginner"
   }
 ]

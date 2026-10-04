@@ -7506,5 +7506,924 @@
       "Continuous forms are excluded for this state/ability meaning. Do not generate a quiz question for an empty form object.",
       "The imperative betavân is rare/literary and is not a useful everyday command. Prefer the infinitive as this verb’s cue. Ability normally introduces another verb."
     ]
+  },
+  {
+    "id": "cut-short",
+    "meaning": "shorten / cut short",
+    "infinitive": "kutâh kardan",
+    "imperative": "kutâh kon",
+    "presentStem": "kutâh kon",
+    "pastStem": "kutâh kard",
+    "forms": {
+      "present": {
+        "i": [
+          "kutâh mikonam"
+        ],
+        "you": [
+          "kutâh mikoni"
+        ],
+        "heShe": [
+          "kutâh mikonad",
+          "kutâh mikone"
+        ],
+        "we": [
+          "kutâh mikonim"
+        ],
+        "youPlural": [
+          "kutâh mikonid",
+          "kutâh mikonin"
+        ],
+        "they": [
+          "kutâh mikonand",
+          "kutâh mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram kutâh mikonam"
+        ],
+        "you": [
+          "dâri kutâh mikoni"
+        ],
+        "heShe": [
+          "dârad kutâh mikonad",
+          "dâre kutâh mikone"
+        ],
+        "we": [
+          "dârim kutâh mikonim"
+        ],
+        "youPlural": [
+          "dârid kutâh mikonid",
+          "dârin kutâh mikonin"
+        ],
+        "they": [
+          "dârand kutâh mikonand",
+          "dâran kutâh mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "kutâh kardam"
+        ],
+        "you": [
+          "kutâh kardi"
+        ],
+        "heShe": [
+          "kutâh kard"
+        ],
+        "we": [
+          "kutâh kardim"
+        ],
+        "youPlural": [
+          "kutâh kardid",
+          "kutâh kardin"
+        ],
+        "they": [
+          "kutâh kardand",
+          "kutâh kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam kutâh mikardam"
+        ],
+        "you": [
+          "dâshti kutâh mikardi"
+        ],
+        "heShe": [
+          "dâsht kutâh mikard"
+        ],
+        "we": [
+          "dâshtim kutâh mikardim"
+        ],
+        "youPlural": [
+          "dâshtid kutâh mikardid",
+          "dâshtin kutâh mikardin"
+        ],
+        "they": [
+          "dâshtand kutâh mikardand",
+          "dâshtan kutâh mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "kutâh khâham kard"
+        ],
+        "you": [
+          "kutâh khâhi kard"
+        ],
+        "heShe": [
+          "kutâh khâhad kard"
+        ],
+        "we": [
+          "kutâh khâhim kard"
+        ],
+        "youPlural": [
+          "kutâh khâhid kard"
+        ],
+        "they": [
+          "kutâh khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad kutâh konam",
+          "bâyad kutâh bekonam"
+        ],
+        "you": [
+          "bâyad kutâh koni",
+          "bâyad kutâh bekoni"
+        ],
+        "heShe": [
+          "bâyad kutâh konad",
+          "bâyad kutâh kone",
+          "bâyad kutâh bekonad"
+        ],
+        "we": [
+          "bâyad kutâh konim",
+          "bâyad kutâh bekonim"
+        ],
+        "youPlural": [
+          "bâyad kutâh konid",
+          "bâyad kutâh konin",
+          "bâyad kutâh bekonid"
+        ],
+        "they": [
+          "bâyad kutâh konand",
+          "bâyad kutâh konan",
+          "bâyad kutâh bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Teacher notes 2026-10-04. Compound verb: conjugate kardan; keep the preceding word fixed."
+    ]
+  },
+  {
+    "id": "grow-long",
+    "meaning": "lengthen / grow out (hair)",
+    "infinitive": "boland kardan",
+    "imperative": "boland kon",
+    "presentStem": "boland kon",
+    "pastStem": "boland kard",
+    "forms": {
+      "present": {
+        "i": [
+          "boland mikonam"
+        ],
+        "you": [
+          "boland mikoni"
+        ],
+        "heShe": [
+          "boland mikonad",
+          "boland mikone"
+        ],
+        "we": [
+          "boland mikonim"
+        ],
+        "youPlural": [
+          "boland mikonid",
+          "boland mikonin"
+        ],
+        "they": [
+          "boland mikonand",
+          "boland mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram boland mikonam"
+        ],
+        "you": [
+          "dâri boland mikoni"
+        ],
+        "heShe": [
+          "dârad boland mikonad",
+          "dâre boland mikone"
+        ],
+        "we": [
+          "dârim boland mikonim"
+        ],
+        "youPlural": [
+          "dârid boland mikonid",
+          "dârin boland mikonin"
+        ],
+        "they": [
+          "dârand boland mikonand",
+          "dâran boland mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "boland kardam"
+        ],
+        "you": [
+          "boland kardi"
+        ],
+        "heShe": [
+          "boland kard"
+        ],
+        "we": [
+          "boland kardim"
+        ],
+        "youPlural": [
+          "boland kardid",
+          "boland kardin"
+        ],
+        "they": [
+          "boland kardand",
+          "boland kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam boland mikardam"
+        ],
+        "you": [
+          "dâshti boland mikardi"
+        ],
+        "heShe": [
+          "dâsht boland mikard"
+        ],
+        "we": [
+          "dâshtim boland mikardim"
+        ],
+        "youPlural": [
+          "dâshtid boland mikardid",
+          "dâshtin boland mikardin"
+        ],
+        "they": [
+          "dâshtand boland mikardand",
+          "dâshtan boland mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "boland khâham kard"
+        ],
+        "you": [
+          "boland khâhi kard"
+        ],
+        "heShe": [
+          "boland khâhad kard"
+        ],
+        "we": [
+          "boland khâhim kard"
+        ],
+        "youPlural": [
+          "boland khâhid kard"
+        ],
+        "they": [
+          "boland khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad boland konam",
+          "bâyad boland bekonam"
+        ],
+        "you": [
+          "bâyad boland koni",
+          "bâyad boland bekoni"
+        ],
+        "heShe": [
+          "bâyad boland konad",
+          "bâyad boland kone",
+          "bâyad boland bekonad"
+        ],
+        "we": [
+          "bâyad boland konim",
+          "bâyad boland bekonim"
+        ],
+        "youPlural": [
+          "bâyad boland konid",
+          "bâyad boland konin",
+          "bâyad boland bekonid"
+        ],
+        "they": [
+          "bâyad boland konand",
+          "bâyad boland konan",
+          "bâyad boland bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Teacher notes 2026-10-04. Compound verb: conjugate kardan; keep the preceding word fixed."
+    ]
+  },
+  {
+    "id": "design",
+    "meaning": "design",
+    "infinitive": "tarrâhi kardan",
+    "imperative": "tarrâhi kon",
+    "presentStem": "tarrâhi kon",
+    "pastStem": "tarrâhi kard",
+    "forms": {
+      "present": {
+        "i": [
+          "tarrâhi mikonam"
+        ],
+        "you": [
+          "tarrâhi mikoni"
+        ],
+        "heShe": [
+          "tarrâhi mikonad",
+          "tarrâhi mikone"
+        ],
+        "we": [
+          "tarrâhi mikonim"
+        ],
+        "youPlural": [
+          "tarrâhi mikonid",
+          "tarrâhi mikonin"
+        ],
+        "they": [
+          "tarrâhi mikonand",
+          "tarrâhi mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram tarrâhi mikonam"
+        ],
+        "you": [
+          "dâri tarrâhi mikoni"
+        ],
+        "heShe": [
+          "dârad tarrâhi mikonad",
+          "dâre tarrâhi mikone"
+        ],
+        "we": [
+          "dârim tarrâhi mikonim"
+        ],
+        "youPlural": [
+          "dârid tarrâhi mikonid",
+          "dârin tarrâhi mikonin"
+        ],
+        "they": [
+          "dârand tarrâhi mikonand",
+          "dâran tarrâhi mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "tarrâhi kardam"
+        ],
+        "you": [
+          "tarrâhi kardi"
+        ],
+        "heShe": [
+          "tarrâhi kard"
+        ],
+        "we": [
+          "tarrâhi kardim"
+        ],
+        "youPlural": [
+          "tarrâhi kardid",
+          "tarrâhi kardin"
+        ],
+        "they": [
+          "tarrâhi kardand",
+          "tarrâhi kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam tarrâhi mikardam"
+        ],
+        "you": [
+          "dâshti tarrâhi mikardi"
+        ],
+        "heShe": [
+          "dâsht tarrâhi mikard"
+        ],
+        "we": [
+          "dâshtim tarrâhi mikardim"
+        ],
+        "youPlural": [
+          "dâshtid tarrâhi mikardid",
+          "dâshtin tarrâhi mikardin"
+        ],
+        "they": [
+          "dâshtand tarrâhi mikardand",
+          "dâshtan tarrâhi mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "tarrâhi khâham kard"
+        ],
+        "you": [
+          "tarrâhi khâhi kard"
+        ],
+        "heShe": [
+          "tarrâhi khâhad kard"
+        ],
+        "we": [
+          "tarrâhi khâhim kard"
+        ],
+        "youPlural": [
+          "tarrâhi khâhid kard"
+        ],
+        "they": [
+          "tarrâhi khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad tarrâhi konam",
+          "bâyad tarrâhi bekonam"
+        ],
+        "you": [
+          "bâyad tarrâhi koni",
+          "bâyad tarrâhi bekoni"
+        ],
+        "heShe": [
+          "bâyad tarrâhi konad",
+          "bâyad tarrâhi kone",
+          "bâyad tarrâhi bekonad"
+        ],
+        "we": [
+          "bâyad tarrâhi konim",
+          "bâyad tarrâhi bekonim"
+        ],
+        "youPlural": [
+          "bâyad tarrâhi konid",
+          "bâyad tarrâhi konin",
+          "bâyad tarrâhi bekonid"
+        ],
+        "they": [
+          "bâyad tarrâhi konand",
+          "bâyad tarrâhi konan",
+          "bâyad tarrâhi bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Teacher notes 2026-10-04. Compound verb: conjugate kardan; keep the preceding word fixed."
+    ]
+  },
+  {
+    "id": "control",
+    "meaning": "control",
+    "infinitive": "kontrol kardan",
+    "imperative": "kontrol kon",
+    "presentStem": "kontrol kon",
+    "pastStem": "kontrol kard",
+    "forms": {
+      "present": {
+        "i": [
+          "kontrol mikonam"
+        ],
+        "you": [
+          "kontrol mikoni"
+        ],
+        "heShe": [
+          "kontrol mikonad",
+          "kontrol mikone"
+        ],
+        "we": [
+          "kontrol mikonim"
+        ],
+        "youPlural": [
+          "kontrol mikonid",
+          "kontrol mikonin"
+        ],
+        "they": [
+          "kontrol mikonand",
+          "kontrol mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram kontrol mikonam"
+        ],
+        "you": [
+          "dâri kontrol mikoni"
+        ],
+        "heShe": [
+          "dârad kontrol mikonad",
+          "dâre kontrol mikone"
+        ],
+        "we": [
+          "dârim kontrol mikonim"
+        ],
+        "youPlural": [
+          "dârid kontrol mikonid",
+          "dârin kontrol mikonin"
+        ],
+        "they": [
+          "dârand kontrol mikonand",
+          "dâran kontrol mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "kontrol kardam"
+        ],
+        "you": [
+          "kontrol kardi"
+        ],
+        "heShe": [
+          "kontrol kard"
+        ],
+        "we": [
+          "kontrol kardim"
+        ],
+        "youPlural": [
+          "kontrol kardid",
+          "kontrol kardin"
+        ],
+        "they": [
+          "kontrol kardand",
+          "kontrol kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam kontrol mikardam"
+        ],
+        "you": [
+          "dâshti kontrol mikardi"
+        ],
+        "heShe": [
+          "dâsht kontrol mikard"
+        ],
+        "we": [
+          "dâshtim kontrol mikardim"
+        ],
+        "youPlural": [
+          "dâshtid kontrol mikardid",
+          "dâshtin kontrol mikardin"
+        ],
+        "they": [
+          "dâshtand kontrol mikardand",
+          "dâshtan kontrol mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "kontrol khâham kard"
+        ],
+        "you": [
+          "kontrol khâhi kard"
+        ],
+        "heShe": [
+          "kontrol khâhad kard"
+        ],
+        "we": [
+          "kontrol khâhim kard"
+        ],
+        "youPlural": [
+          "kontrol khâhid kard"
+        ],
+        "they": [
+          "kontrol khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad kontrol konam",
+          "bâyad kontrol bekonam"
+        ],
+        "you": [
+          "bâyad kontrol koni",
+          "bâyad kontrol bekoni"
+        ],
+        "heShe": [
+          "bâyad kontrol konad",
+          "bâyad kontrol kone",
+          "bâyad kontrol bekonad"
+        ],
+        "we": [
+          "bâyad kontrol konim",
+          "bâyad kontrol bekonim"
+        ],
+        "youPlural": [
+          "bâyad kontrol konid",
+          "bâyad kontrol konin",
+          "bâyad kontrol bekonid"
+        ],
+        "they": [
+          "bâyad kontrol konand",
+          "bâyad kontrol konan",
+          "bâyad kontrol bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Teacher notes 2026-10-04. Compound verb: conjugate kardan; keep the preceding word fixed."
+    ]
+  },
+  {
+    "id": "drive",
+    "meaning": "drive",
+    "infinitive": "rânandegi kardan",
+    "imperative": "rânandegi kon",
+    "presentStem": "rânandegi kon",
+    "pastStem": "rânandegi kard",
+    "forms": {
+      "present": {
+        "i": [
+          "rânandegi mikonam"
+        ],
+        "you": [
+          "rânandegi mikoni"
+        ],
+        "heShe": [
+          "rânandegi mikonad",
+          "rânandegi mikone"
+        ],
+        "we": [
+          "rânandegi mikonim"
+        ],
+        "youPlural": [
+          "rânandegi mikonid",
+          "rânandegi mikonin"
+        ],
+        "they": [
+          "rânandegi mikonand",
+          "rânandegi mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram rânandegi mikonam"
+        ],
+        "you": [
+          "dâri rânandegi mikoni"
+        ],
+        "heShe": [
+          "dârad rânandegi mikonad",
+          "dâre rânandegi mikone"
+        ],
+        "we": [
+          "dârim rânandegi mikonim"
+        ],
+        "youPlural": [
+          "dârid rânandegi mikonid",
+          "dârin rânandegi mikonin"
+        ],
+        "they": [
+          "dârand rânandegi mikonand",
+          "dâran rânandegi mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "rânandegi kardam"
+        ],
+        "you": [
+          "rânandegi kardi"
+        ],
+        "heShe": [
+          "rânandegi kard"
+        ],
+        "we": [
+          "rânandegi kardim"
+        ],
+        "youPlural": [
+          "rânandegi kardid",
+          "rânandegi kardin"
+        ],
+        "they": [
+          "rânandegi kardand",
+          "rânandegi kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam rânandegi mikardam"
+        ],
+        "you": [
+          "dâshti rânandegi mikardi"
+        ],
+        "heShe": [
+          "dâsht rânandegi mikard"
+        ],
+        "we": [
+          "dâshtim rânandegi mikardim"
+        ],
+        "youPlural": [
+          "dâshtid rânandegi mikardid",
+          "dâshtin rânandegi mikardin"
+        ],
+        "they": [
+          "dâshtand rânandegi mikardand",
+          "dâshtan rânandegi mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "rânandegi khâham kard"
+        ],
+        "you": [
+          "rânandegi khâhi kard"
+        ],
+        "heShe": [
+          "rânandegi khâhad kard"
+        ],
+        "we": [
+          "rânandegi khâhim kard"
+        ],
+        "youPlural": [
+          "rânandegi khâhid kard"
+        ],
+        "they": [
+          "rânandegi khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad rânandegi konam",
+          "bâyad rânandegi bekonam"
+        ],
+        "you": [
+          "bâyad rânandegi koni",
+          "bâyad rânandegi bekoni"
+        ],
+        "heShe": [
+          "bâyad rânandegi konad",
+          "bâyad rânandegi kone",
+          "bâyad rânandegi bekonad"
+        ],
+        "we": [
+          "bâyad rânandegi konim",
+          "bâyad rânandegi bekonim"
+        ],
+        "youPlural": [
+          "bâyad rânandegi konid",
+          "bâyad rânandegi konin",
+          "bâyad rânandegi bekonid"
+        ],
+        "they": [
+          "bâyad rânandegi konand",
+          "bâyad rânandegi konan",
+          "bâyad rânandegi bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Teacher notes 2026-10-04. Compound verb: conjugate kardan; keep the preceding word fixed."
+    ]
+  },
+  {
+    "id": "help",
+    "meaning": "help",
+    "infinitive": "komak kardan",
+    "imperative": "komak kon",
+    "presentStem": "komak kon",
+    "pastStem": "komak kard",
+    "forms": {
+      "present": {
+        "i": [
+          "komak mikonam"
+        ],
+        "you": [
+          "komak mikoni"
+        ],
+        "heShe": [
+          "komak mikonad",
+          "komak mikone"
+        ],
+        "we": [
+          "komak mikonim"
+        ],
+        "youPlural": [
+          "komak mikonid",
+          "komak mikonin"
+        ],
+        "they": [
+          "komak mikonand",
+          "komak mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram komak mikonam"
+        ],
+        "you": [
+          "dâri komak mikoni"
+        ],
+        "heShe": [
+          "dârad komak mikonad",
+          "dâre komak mikone"
+        ],
+        "we": [
+          "dârim komak mikonim"
+        ],
+        "youPlural": [
+          "dârid komak mikonid",
+          "dârin komak mikonin"
+        ],
+        "they": [
+          "dârand komak mikonand",
+          "dâran komak mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "komak kardam"
+        ],
+        "you": [
+          "komak kardi"
+        ],
+        "heShe": [
+          "komak kard"
+        ],
+        "we": [
+          "komak kardim"
+        ],
+        "youPlural": [
+          "komak kardid",
+          "komak kardin"
+        ],
+        "they": [
+          "komak kardand",
+          "komak kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam komak mikardam"
+        ],
+        "you": [
+          "dâshti komak mikardi"
+        ],
+        "heShe": [
+          "dâsht komak mikard"
+        ],
+        "we": [
+          "dâshtim komak mikardim"
+        ],
+        "youPlural": [
+          "dâshtid komak mikardid",
+          "dâshtin komak mikardin"
+        ],
+        "they": [
+          "dâshtand komak mikardand",
+          "dâshtan komak mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "komak khâham kard"
+        ],
+        "you": [
+          "komak khâhi kard"
+        ],
+        "heShe": [
+          "komak khâhad kard"
+        ],
+        "we": [
+          "komak khâhim kard"
+        ],
+        "youPlural": [
+          "komak khâhid kard"
+        ],
+        "they": [
+          "komak khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad komak konam",
+          "bâyad komak bekonam"
+        ],
+        "you": [
+          "bâyad komak koni",
+          "bâyad komak bekoni"
+        ],
+        "heShe": [
+          "bâyad komak konad",
+          "bâyad komak kone",
+          "bâyad komak bekonad"
+        ],
+        "we": [
+          "bâyad komak konim",
+          "bâyad komak bekonim"
+        ],
+        "youPlural": [
+          "bâyad komak konid",
+          "bâyad komak konin",
+          "bâyad komak bekonid"
+        ],
+        "they": [
+          "bâyad komak konand",
+          "bâyad komak konan",
+          "bâyad komak bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Teacher notes 2026-10-04. Compound verb: conjugate kardan; keep the preceding word fixed.",
+      "Use be + person for the recipient of help."
+    ]
   }
 ]

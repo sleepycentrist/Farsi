@@ -5523,5 +5523,77 @@
     "category": "family",
     "persian": "دوستام",
     "source": "Lesson 2026-09-27"
+  },
+  {
+    "id": "lesson-2026-10-04-v01",
+    "farsi": "muhât",
+    "english": "Your hair (singular, spoken)",
+    "persian": "موهات",
+    "category": "health",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v02",
+    "farsi": "muhâsh",
+    "english": "His/her hair (spoken)",
+    "persian": "موهاش",
+    "category": "health",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v03",
+    "farsi": "muhâmun",
+    "english": "Our hair (spoken)",
+    "persian": "موهامون",
+    "category": "health",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v04",
+    "farsi": "muhâtun",
+    "english": "Your hair (plural/polite, spoken)",
+    "persian": "موهاتون",
+    "category": "health",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v05",
+    "farsi": "muhâshun",
+    "english": "Their hair (spoken)",
+    "persian": "موهاشون",
+    "category": "health",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v06",
+    "farsi": "boland kardan",
+    "english": "To lengthen / grow out (hair)",
+    "persian": "بلند کردن",
+    "category": "actions",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v07",
+    "farsi": "tarrâhi",
+    "english": "Design / designing",
+    "persian": "طراحی",
+    "category": "work",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v08",
+    "farsi": "kontrol kardan",
+    "english": "To control",
+    "persian": "کنترل کردن",
+    "category": "actions",
+    "source": "Teacher notes 2026-10-04"
+  },
+  {
+    "id": "lesson-2026-10-04-v09",
+    "farsi": "pokhtam",
+    "english": "I cooked",
+    "persian": "پختم",
+    "category": "food",
+    "source": "Teacher notes 2026-10-04"
   }
 ]

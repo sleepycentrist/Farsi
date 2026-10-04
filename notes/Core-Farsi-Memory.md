@@ -1719,3 +1719,65 @@ Example: دوست (doost - friend) → دوستم (doostam - my friend)
 - Omit a repeated subject when it stays clear: Ali mohandese. Dar sherkat kâr mikone. Repeating it is allowed for emphasis or clarity.
 - Conversational رفتن raftan can omit destination به be: miram khune, miram dâneshgâh. Be remains correct and is usual in formal usage.
 - Miraftam dâneshgâh is a conversational word order; dâneshgâh miraftam is also possible. Absence of a direct object does not require verb-first order. The university is a destination, not a direct object.
+
+## Jobs and their actions — teacher notes, 4 October 2026
+
+Source: lesson notes pasted by the user, attributed to Reza D., 15:23–15:43. Chat labels and timestamps are provenance, not vocabulary. These are example sentences, not verified facts about the user. This section adds job descriptions, hair possession, and helping someone.
+
+### Chef: cooking and preparing food
+- من غذاهای خوشمزه می‌پزم. — Man ghazâhâ-ye khoshmaze mipazam. — I cook tasty food/dishes. Job: آشپز âshpaz, chef/cook.
+- خوشمزه khoshmaze = tasty/delicious; غذا ghazâ = food; غذاها ghazâhâ = foods/dishes. Ezâfe links the plural to the adjective: ghazâhâ-ye khoshmaze.
+- پختن pokhtan = to cook; present stem پز paz; past stem پخت pokht. می‌پزم mipazam = I cook; پختم pokhtam = I cooked.
+- من غذاهای خوشمزه درست می‌کنم. — Man ghazâhâ-ye khoshmaze dorost mikonam. — I make/prepare tasty food.
+- غذا درست کردن ghazâ dorost kardan = prepare/make food; غذا پختن ghazâ pokhtan = cook food. They overlap in this lesson, but preparation need not always involve cooking.
+- Teacher's word-building cue: آشپز = آش + پزنده. For study, recognise آش âsh (a thick soup/food word) + پز paz (cooking stem); پزنده pazande means one who cooks. Treat the cue as a memory aid, not a literal suffix formula.
+
+### Hairdresser: hair, length and possession
+- من موهای مردم رو کوتاه می‌کنم. — Man muhâ-ye mardom ro kutâh mikonam. — I cut people's hair. Job: آرایشگر ârâyeshgar.
+- The pasted spoken مردمُ represents mardom-o, with the object marker attached. Formal: من موهای مردم را کوتاه می‌کنم.
+- مو mu = hair; موها muhâ = hair/hairs; کوتاه kutâh = short; بلند boland = long (hair), tall/high in other contexts.
+- کوتاه کردن kutâh kardan = shorten/cut; مو کوتاه کردن = cut hair. بلند کردن boland kardan = make longer/grow out (hair context); it has other meanings in other contexts.
+- من موهای بلندی دارم. — Man muhâ-ye bolandi dâram. — I have long hair.
+- حنا موهاش رو بلند کرده. — Hanâ muhâsh ro boland karde. — Hanna has grown her hair long.
+- حنا موهاش رو کوتاه کرده. — Hanâ muhâsh ro kutâh karde. — Hanna has cut her hair/had it cut. These are lesson examples, not claims about Hanna's actual hairstyle.
+- من هیچ‌وقت موهام رو کوتاه نمی‌کنم. — Man hich vaght muhâm ro kutâh nemikonam. — I never cut my hair. Hich vaght pairs with the negative verb.
+
+| Owner | Formal | Spoken |
+|---|---|---|
+| my hair | موهایم muhâyam | موهام muhâm |
+| your hair (singular) | موهایت muhâyat | موهات muhât |
+| his/her hair | موهایش muhâyash | موهاش muhâsh |
+| our hair | موهایمان muhâyemân | موهامون muhâmun |
+| your hair (plural/polite) | موهایتان muhâyetân | موهاتون muhâtun |
+| their hair | موهایشان muhâyeshân | موهاشون muhâshun |
+
+Formal: من موهایم را کوتاه می‌کنم — Man muhâyam râ kutâh mikonam. Spoken: من موهامو کوتاه می‌کنم — Man muhâmo kutâh mikonam. The final -o is the spoken object marker after the possessive form muhâm.
+
+### Engineer / architect: design
+- من ساختمان طراحی می‌کنم. — Man sâkhtemân tarrâhi mikonam. — I design buildings.
+- مهندس mohandes = engineer; معمار me'mâr = architect; ساختمان sâkhtemân = building.
+- طراحی tarrâhi = design/designing; طراحی کردن tarrâhi kardan = to design. Example roles are those named in the lesson; architect is the more specific building-design term.
+
+### Pilot and truck driver
+- کار من کنترل کردن هواپیما تو آسمونه. — Kâr-e man kontrol kardan-e havâpeymâ tu âsemune. — My job is controlling an aircraft in the sky. Job: خلبان khalabân.
+- هواپیما havâpeymâ = aircraft/airplane; کنترل کردن kontrol kardan = control; آسمان âsemân, spoken آسمون âsemun = sky. آسمونه âsemune includes the spoken “is” ending.
+- من هر روز با کامیون کار می‌کنم. — Man har ruz bâ kâmiyun kâr mikonam. — I work with a truck every day. Job: رانندهٔ کامیون rânande-ye kâmiyun = truck driver.
+- رانندگی کردن rânandegi kardan = drive. من هر روز رانندگی می‌کنم — Man har ruz rânandegi mikonam — I drive every day.
+
+### Nurse: helping someone with something
+- Spoken: من تو درمان بیمارا به پزشکا کمک می‌کنم. — Man tu darmân-e bimârâ be pezeshkâ komak mikonam.
+- Formal: من در درمان بیماران به پزشکان کمک می‌کنم. — Man dar darmân-e bimârân be pezeshkân komak mikonam.
+- Meaning: I help doctors treat patients / I help the doctors with the treatment of patients. Job: پرستار parastâr = nurse.
+- درمان darmân = treatment; بیمار bimâr = patient/ill person; بیماران bimârân = patients; پزشکان pezeshkân = doctors. The spoken bimârâ/pezeshkâ in this sentence are colloquial plurals.
+- **به کسی کمک کردن — be kasi komak kardan = help someone.** The person helped follows be, not râ in this construction.
+- من به بابام کمک می‌کنم. — Man be bâbâm komak mikonam. — I help my dad.
+- من به دوستم کمک می‌کنم. — Man be doostam komak mikonam. — I help my friend.
+- Expanded pattern: در کاری به کسی کمک کردن — dar kâri be kasi komak kardan — help someone with/in an activity. Dar marks the activity/context; be marks the recipient of help.
+
+### Recall prompts from this lesson
+1. What job cooks tasty food? → âshpaz.
+2. Say “I cooked.” → pokhtam.
+3. Say “I never cut my hair.” → Hich vaght muhâmo kutâh nemikonam.
+4. Say “I design buildings.” → Sâkhtemân tarrâhi mikonam.
+5. Say “I help my friend.” → Be doostam komak mikonam.
+6. Contrast their hair / her hair → muhâshun / muhâsh.
