@@ -1,6 +1,7 @@
 let exercises = [];
 let exerciseIndex = 0;
 let selectedTiles = [];
+let tileOrder = [];
 
 const prompt = document.getElementById('sentence-prompt');
 const progress = document.getElementById('sentence-progress');
@@ -14,6 +15,14 @@ const nextButton = document.getElementById('next-sentence');
 
 checkButton.addEventListener('click', checkSentence);
 resetButton.addEventListener('click', showExercise);
+const shuffleButton = document.getElementById('shuffle-sentences');
+shuffleButton.addEventListener('click', shuffleExercises);
+function shuffleExercises() {
+  if (!exercises.length) return;
+  exercises = shuffle(exercises);
+  exerciseIndex = 0;
+  showExercise();
+}
 nextButton.addEventListener('click', nextExercise);
 
 async function loadExercises() {
@@ -30,7 +39,8 @@ async function loadExercises() {
       throw new Error('No exercises found');
     }
 
-    showExercise();
+    shuffleButton.disabled = false;
+    shuffleExercises();
   } catch (error) {
     prompt.textContent = 'Could not load exercises: ' + error.message;
   }
@@ -41,6 +51,7 @@ function showExercise() {
 
   const exercise = exercises[exerciseIndex];
 
+  tileOrder = shuffle(exercise.tiles.map((_, i) => i));
   prompt.textContent = exercise.prompt;
   progress.textContent =
     'Sentence ' + (exerciseIndex + 1) + ' of ' + exercises.length;
@@ -57,7 +68,8 @@ function renderTiles() {
   feedback.textContent = '';
   nextButton.disabled = false;
 
-  exercise.tiles.forEach(function (word, tileIndex) {
+  tileOrder.forEach(function (tileIndex) {
+    const word = exercise.tiles[tileIndex];
     if (!selectedTiles.includes(tileIndex)) {
       const button = document.createElement('button');
       button.textContent = word;
@@ -117,7 +129,8 @@ function nextExercise() {
   exerciseIndex = exerciseIndex + 1;
 
   if (exerciseIndex >= exercises.length) {
-    exerciseIndex = 0;
+    shuffleExercises();
+    return;
   }
 
   showExercise();

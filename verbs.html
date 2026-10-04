@@ -14,21 +14,35 @@
 
       <h1>Verb practice</h1>
 
-      <h2>Command: boro! — go!</h2>
-      <p>The command is your cue, not the answer.</p>
-
-      <p><strong>Person:</strong> he/she — u</p>
-      <p><strong>Form:</strong> future — will go</p>
-
-      <div class="word-tiles">
-        <button onclick="checkVerb('miravad')">miravad</button>
-        <button onclick="checkVerb('raft')">raft</button>
-        <button onclick="checkVerb('khâhad raft')">khâhad raft</button>
+      <div class="sentence-controls">
+        <label for="verb-select">Verb</label>
+        <select id="verb-select" disabled><option value="all">All verbs</option></select>
+        <label for="tense-select">Form</label>
+        <select id="tense-select" disabled>
+          <option value="all">All forms</option>
+          <option value="present">Present</option>
+          <option value="presentContinuous">Present continuous</option>
+          <option value="past">Simple past</option>
+          <option value="pastContinuous">Past continuous</option>
+          <option value="future">Future</option>
+          <option value="must">Must / have to</option>
+        </select>
+      </div>
+      <p id="verb-progress" aria-live="polite"></p>
+      <h2 id="verb-cue">Loading verbs…</h2>
+      <p id="verb-person"></p>
+      <p id="verb-form"></p>
+      <p>Choose the matching verb form.</p>
+      <div id="verb-options" class="word-tiles"></div>
+      <div class="sentence-controls">
+        <button id="next-verb" disabled>Next question</button>
+        <button id="shuffle-verbs" disabled>Shuffle practice</button>
       </div>
 
       <p id="verb-feedback" aria-live="polite"></p>
     </main>
 
-    <script src="verbs.js"></script>
+    <script src="utils.js"></script>
+    <script src="verbs.js?v=20261004"></script>
   </body>
 </html>
