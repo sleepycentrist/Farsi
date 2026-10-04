@@ -5222,5 +5222,259 @@
     "register": "spoken",
     "source": "Jobs lesson notes 2026-10-04",
     "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s01",
+    "prompt": "Today I studied Farsi.",
+    "tiles": [
+      "khundam",
+      "fârsi",
+      "Emruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "Emruz",
+        "fârsi",
+        "khundam"
+      ]
+    ],
+    "explanation": "Emruz fârsi khundam. — Today I studied Farsi.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s02",
+    "prompt": "Tonight I’m seeing my friend for dinner.",
+    "tiles": [
+      "mibinam",
+      "shâm",
+      "barâye",
+      "dustam-o",
+      "Emshab"
+    ],
+    "acceptedAnswers": [
+      [
+        "Emshab",
+        "dustam-o",
+        "barâye",
+        "shâm",
+        "mibinam"
+      ]
+    ],
+    "explanation": "Emshab dustam-o barâye shâm mibinam. — Tonight I’m seeing my friend for dinner.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s03",
+    "prompt": "The company’s called Tangram.",
+    "tiles": [
+      "Tangram-e",
+      "sherkat",
+      "Esm-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "Esm-e",
+        "sherkat",
+        "Tangram-e"
+      ]
+    ],
+    "explanation": "Esm-e sherkat Tangram-e. — The company’s called Tangram.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s04",
+    "prompt": "Maybe I’ll have ice cream too.",
+    "tiles": [
+      "bokhoram",
+      "bastani",
+      "ham",
+      "Shâyad"
+    ],
+    "acceptedAnswers": [
+      [
+        "Shâyad",
+        "ham",
+        "bastani",
+        "bokhoram"
+      ]
+    ],
+    "explanation": "Shâyad ham bastani bokhoram. — Maybe I’ll have ice cream too.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s05",
+    "prompt": "I’ve known him/her for nearly a year.",
+    "tiles": [
+      "mishenâsamesh",
+      "ke",
+      "sâle",
+      "yek",
+      "Nazdik-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "Nazdik-e",
+        "yek",
+        "sâle",
+        "ke",
+        "mishenâsamesh"
+      ]
+    ],
+    "explanation": "Nazdik-e yek sâle ke mishenâsamesh. — I’ve known him/her for nearly a year.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s06",
+    "prompt": "I met him/her through Dad.",
+    "tiles": [
+      "shodam",
+      "âshenâ",
+      "bâhâsh",
+      "bâbâ",
+      "tarigh-e",
+      "Az"
+    ],
+    "acceptedAnswers": [
+      [
+        "Az",
+        "tarigh-e",
+        "bâbâ",
+        "bâhâsh",
+        "âshenâ",
+        "shodam"
+      ]
+    ],
+    "explanation": "Az tarigh-e bâbâ bâhâsh âshenâ shodam. — I met him/her through Dad.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s07",
+    "prompt": "These days I’m mostly busy with work.",
+    "tiles": [
+      "kâram",
+      "mashghul-e",
+      "bishtar",
+      "ruzâ",
+      "In"
+    ],
+    "acceptedAnswers": [
+      [
+        "In",
+        "ruzâ",
+        "bishtar",
+        "mashghul-e",
+        "kâram"
+      ]
+    ],
+    "explanation": "In ruzâ bishtar mashghul-e kâram. — These days I’m mostly busy with work.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s08",
+    "prompt": "I’m learning Farsi and coding.",
+    "tiles": [
+      "migiram",
+      "yâd",
+      "barnâmenevisi",
+      "va",
+      "Fârsi"
+    ],
+    "acceptedAnswers": [
+      [
+        "Fârsi",
+        "va",
+        "barnâmenevisi",
+        "yâd",
+        "migiram"
+      ]
+    ],
+    "explanation": "Fârsi va barnâmenevisi yâd migiram. — I’m learning Farsi and coding.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s09",
+    "prompt": "I do yoga once a week.",
+    "tiles": [
+      "mikonam",
+      "yogâ",
+      "bâr",
+      "yek",
+      "Hafte-i"
+    ],
+    "acceptedAnswers": [
+      [
+        "Hafte-i",
+        "yek",
+        "bâr",
+        "yogâ",
+        "mikonam"
+      ]
+    ],
+    "explanation": "Hafte-i yek bâr yogâ mikonam. — I do yoga once a week.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "grandma-2026-10-04-s10",
+    "prompt": "I go on my own. I prefer it this way.",
+    "tiles": [
+      "dâram",
+      "dust",
+      "bishtar",
+      "Injuri",
+      "miram.",
+      "Tanhâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "Tanhâ",
+        "miram.",
+        "Injuri",
+        "bishtar",
+        "dust",
+        "dâram"
+      ]
+    ],
+    "explanation": "Tanhâ miram. Injuri bishtar dust dâram. — I go on my own. I prefer it this way.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Grandma conversation practice 2026-10-04",
+    "difficulty": "beginner"
   }
 ]

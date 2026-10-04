@@ -2,6 +2,37 @@
 
 Updated: 4 October 2026
 
+## Conversation practice — 4 October 2026: chatting with Grandma
+
+These are role-play examples, not verified personal facts.
+
+- **Emruz fârsi khundam.** — Today I studied Farsi.
+- **Emshab dustam-o barâye shâm mibinam.** — Tonight I’m seeing my friend for dinner.
+- **Esm-e sherkat Tangram-e.** — The company’s called Tangram.
+- **Shâyad ham bastani bokhoram.** — Maybe I’ll have ice cream too.
+- **Nazdik-e yek sâle ke mishenâsamesh.** — I’ve known him/her for nearly a year.
+- **Az tarigh-e bâbâ bâhâsh âshenâ shodam.** — I met him/her through Dad.
+- **In ruzâ bishtar mashghul-e kâram.** — These days I’m mostly busy with work.
+- **Fârsi va barnâmenevisi yâd migiram.** — I’m learning Farsi and coding.
+- **Hafte-i yek bâr yogâ mikonam.** — I do yoga once a week.
+- **Tanhâ miram. Injuri bishtar dust dâram.** — I go on my own. I prefer it this way.
+
+### Corrections and useful words
+- **Emshab** = tonight; **shâm** = dinner; **mâhi** = fish; **berenj** = rice; **bastani** = ice cream; **zhâponi** = Japanese; **shâyad** = maybe.
+- **Dustam** = my friend; **dustâm** = my friends (spoken). **Dustam-o / dustâm-o** add the object marker. **Mibinam** = I see; **mibinim** = we see. A time word such as emshab lets the present form express a future arrangement.
+- **Dust dâram** = I like / want, not I will. After it: **bebinam** (see), **bokhoram** (eat), **dorost konam** (make). **Khâham khord** is a correct formal future; **mikhoram** with future context is more conversational.
+- **Dârim mirim restorân** = we're going to a restaurant; **miravim** is formal. **Esmesh** = its name / his or her name. **Ghazâ-ye zhâponi dâre** = it serves Japanese food (literally has Japanese food).
+- **Nazdik-e yek sâl** = nearly a year; **mishenâsamesh** = I know him/her; infinitive **shenâkhtan** = to know / recognise a person.
+- **Az tarigh-e** = through / via; **bâhâsh** = with him/her; **âshenâ shodan** = to meet / become acquainted.
+- **Sherkat-e bâbâsh** = his/her dad's company; noun before owner. **Tu** = in/at; **bâ** = with.
+- **In ruzâ** = these days; **bishtar** = more / mostly; **mashghul-e kâram** = I'm busy with work; **kheyli** = very / a lot.
+- **Barnâmenevisi** = coding / programming; **yâd migiram** = I am learning (infinitive **yâd gereftan**). **Khundam** = I read / studied, past tense.
+- **Gâhi** = sometimes; **varzesh mikonam** = I exercise.
+- **Hafte-i yek bâr** = once a week; **yek bâr** = once. **Yogâ mikonam** = I do yoga. The earlier assistant phrase “yogâ kâram?” was an accidental insertion, not the learner's error or a valid example.
+- **Gharb-e Landan** = west London; **nazdik-e sherkatam** = near my workplace. **Yâ** = or; **ke nazdik-e sherkatame** = which is near my workplace.
+- **Tanhâ** = alone / on my own; **injuri** = this way; **injuri bishtar dust dâram** = I prefer it this way.
+- **Nush-e jun!** = enjoy your food; **ba'd az kelâs** = after class; **khune** = home (spoken).
+
 ## Lesson notes — 4 October 2026: jobs and what people do
 
 ### Vocabulary and clarifications
