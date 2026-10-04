@@ -8425,5 +8425,571 @@
       "Teacher notes 2026-10-04. Compound verb: conjugate kardan; keep the preceding word fixed.",
       "Use be + person for the recipient of help."
     ]
+  },
+  {
+    "id": "treat",
+    "meaning": "treat",
+    "infinitive": "darmân kardan",
+    "imperative": "darmân kon",
+    "presentStem": "darmân kon",
+    "pastStem": "darmân kard",
+    "forms": {
+      "present": {
+        "i": [
+          "darmân mikonam"
+        ],
+        "you": [
+          "darmân mikoni"
+        ],
+        "heShe": [
+          "darmân mikonad",
+          "darmân mikone"
+        ],
+        "we": [
+          "darmân mikonim"
+        ],
+        "youPlural": [
+          "darmân mikonid",
+          "darmân mikonin"
+        ],
+        "they": [
+          "darmân mikonand",
+          "darmân mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram darmân mikonam"
+        ],
+        "you": [
+          "dâri darmân mikoni"
+        ],
+        "heShe": [
+          "dârad darmân mikonad",
+          "dâre darmân mikone"
+        ],
+        "we": [
+          "dârim darmân mikonim"
+        ],
+        "youPlural": [
+          "dârid darmân mikonid",
+          "dârin darmân mikonin"
+        ],
+        "they": [
+          "dârand darmân mikonand",
+          "dâran darmân mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "darmân kardam"
+        ],
+        "you": [
+          "darmân kardi"
+        ],
+        "heShe": [
+          "darmân kard"
+        ],
+        "we": [
+          "darmân kardim"
+        ],
+        "youPlural": [
+          "darmân kardid",
+          "darmân kardin"
+        ],
+        "they": [
+          "darmân kardand",
+          "darmân kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam darmân mikardam"
+        ],
+        "you": [
+          "dâshti darmân mikardi"
+        ],
+        "heShe": [
+          "dâsht darmân mikard"
+        ],
+        "we": [
+          "dâshtim darmân mikardim"
+        ],
+        "youPlural": [
+          "dâshtid darmân mikardid",
+          "dâshtin darmân mikardin"
+        ],
+        "they": [
+          "dâshtand darmân mikardand",
+          "dâshtan darmân mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "darmân khâham kard"
+        ],
+        "you": [
+          "darmân khâhi kard"
+        ],
+        "heShe": [
+          "darmân khâhad kard"
+        ],
+        "we": [
+          "darmân khâhim kard"
+        ],
+        "youPlural": [
+          "darmân khâhid kard"
+        ],
+        "they": [
+          "darmân khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad darmân konam",
+          "bâyad darmân bekonam"
+        ],
+        "you": [
+          "bâyad darmân koni",
+          "bâyad darmân bekoni"
+        ],
+        "heShe": [
+          "bâyad darmân konad",
+          "bâyad darmân kone",
+          "bâyad darmân bekonad"
+        ],
+        "we": [
+          "bâyad darmân konim",
+          "bâyad darmân bekonim"
+        ],
+        "youPlural": [
+          "bâyad darmân konid",
+          "bâyad darmân konin",
+          "bâyad darmân bekonid"
+        ],
+        "they": [
+          "bâyad darmân konand",
+          "bâyad darmân konan",
+          "bâyad darmân bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Jobs lesson notes 2026-10-04",
+      "Darmân kardan means to treat a patient; the patient is the direct object."
+    ]
+  },
+  {
+    "id": "defend",
+    "meaning": "defend",
+    "infinitive": "defâ' kardan",
+    "imperative": "defâ' kon",
+    "presentStem": "defâ' kon",
+    "pastStem": "defâ' kard",
+    "forms": {
+      "present": {
+        "i": [
+          "defâ' mikonam"
+        ],
+        "you": [
+          "defâ' mikoni"
+        ],
+        "heShe": [
+          "defâ' mikonad",
+          "defâ' mikone"
+        ],
+        "we": [
+          "defâ' mikonim"
+        ],
+        "youPlural": [
+          "defâ' mikonid",
+          "defâ' mikonin"
+        ],
+        "they": [
+          "defâ' mikonand",
+          "defâ' mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram defâ' mikonam"
+        ],
+        "you": [
+          "dâri defâ' mikoni"
+        ],
+        "heShe": [
+          "dârad defâ' mikonad",
+          "dâre defâ' mikone"
+        ],
+        "we": [
+          "dârim defâ' mikonim"
+        ],
+        "youPlural": [
+          "dârid defâ' mikonid",
+          "dârin defâ' mikonin"
+        ],
+        "they": [
+          "dârand defâ' mikonand",
+          "dâran defâ' mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "defâ' kardam"
+        ],
+        "you": [
+          "defâ' kardi"
+        ],
+        "heShe": [
+          "defâ' kard"
+        ],
+        "we": [
+          "defâ' kardim"
+        ],
+        "youPlural": [
+          "defâ' kardid",
+          "defâ' kardin"
+        ],
+        "they": [
+          "defâ' kardand",
+          "defâ' kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam defâ' mikardam"
+        ],
+        "you": [
+          "dâshti defâ' mikardi"
+        ],
+        "heShe": [
+          "dâsht defâ' mikard"
+        ],
+        "we": [
+          "dâshtim defâ' mikardim"
+        ],
+        "youPlural": [
+          "dâshtid defâ' mikardid",
+          "dâshtin defâ' mikardin"
+        ],
+        "they": [
+          "dâshtand defâ' mikardand",
+          "dâshtan defâ' mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "defâ' khâham kard"
+        ],
+        "you": [
+          "defâ' khâhi kard"
+        ],
+        "heShe": [
+          "defâ' khâhad kard"
+        ],
+        "we": [
+          "defâ' khâhim kard"
+        ],
+        "youPlural": [
+          "defâ' khâhid kard"
+        ],
+        "they": [
+          "defâ' khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad defâ' konam",
+          "bâyad defâ' bekonam"
+        ],
+        "you": [
+          "bâyad defâ' koni",
+          "bâyad defâ' bekoni"
+        ],
+        "heShe": [
+          "bâyad defâ' konad",
+          "bâyad defâ' kone",
+          "bâyad defâ' bekonad"
+        ],
+        "we": [
+          "bâyad defâ' konim",
+          "bâyad defâ' bekonim"
+        ],
+        "youPlural": [
+          "bâyad defâ' konid",
+          "bâyad defâ' konin",
+          "bâyad defâ' bekonid"
+        ],
+        "they": [
+          "bâyad defâ' konand",
+          "bâyad defâ' konan",
+          "bâyad defâ' bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Jobs lesson notes 2026-10-04",
+      "Defâ' kardan az + person/thing means to defend that person/thing."
+    ]
+  },
+  {
+    "id": "teach",
+    "meaning": "teach / give lessons",
+    "infinitive": "dars dâdan",
+    "imperative": "dars bedeh",
+    "presentStem": "dars deh",
+    "pastStem": "dars dâd",
+    "forms": {
+      "present": {
+        "i": [
+          "dars mideham",
+          "dars midam"
+        ],
+        "you": [
+          "dars midehi",
+          "dars midi"
+        ],
+        "heShe": [
+          "dars midehad",
+          "dars mide"
+        ],
+        "we": [
+          "dars midehim",
+          "dars midim"
+        ],
+        "youPlural": [
+          "dars midehid",
+          "dars midin"
+        ],
+        "they": [
+          "dars midehand",
+          "dars midan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram dars mideham",
+          "dâram dars midam"
+        ],
+        "you": [
+          "dâri dars midehi",
+          "dâri dars midi"
+        ],
+        "heShe": [
+          "dârad dars midehad",
+          "dâre dars mide"
+        ],
+        "we": [
+          "dârim dars midehim",
+          "dârim dars midim"
+        ],
+        "youPlural": [
+          "dârid dars midehid",
+          "dârin dars midin"
+        ],
+        "they": [
+          "dârand dars midehand",
+          "dâran dars midan"
+        ]
+      },
+      "past": {
+        "i": [
+          "dars dâdam"
+        ],
+        "you": [
+          "dars dâdi"
+        ],
+        "heShe": [
+          "dars dâd"
+        ],
+        "we": [
+          "dars dâdim"
+        ],
+        "youPlural": [
+          "dars dâdid",
+          "dars dâdin"
+        ],
+        "they": [
+          "dars dâdand",
+          "dars dâdan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam dars midâdam"
+        ],
+        "you": [
+          "dâshti dars midâdi"
+        ],
+        "heShe": [
+          "dâsht dars midâd"
+        ],
+        "we": [
+          "dâshtim dars midâdim"
+        ],
+        "youPlural": [
+          "dâshtid dars midâdid",
+          "dâshtin dars midâdin"
+        ],
+        "they": [
+          "dâshtand dars midâdand",
+          "dâshtan dars midâdan"
+        ]
+      },
+      "future": {
+        "i": [
+          "dars khâham dâd"
+        ],
+        "you": [
+          "dars khâhi dâd"
+        ],
+        "heShe": [
+          "dars khâhad dâd"
+        ],
+        "we": [
+          "dars khâhim dâd"
+        ],
+        "youPlural": [
+          "dars khâhid dâd"
+        ],
+        "they": [
+          "dars khâhand dâd"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad dars bedeham",
+          "bâyad dars bedam"
+        ],
+        "you": [
+          "bâyad dars bedehi",
+          "bâyad dars bedi"
+        ],
+        "heShe": [
+          "bâyad dars bedehad",
+          "bâyad dars bede"
+        ],
+        "we": [
+          "bâyad dars bedehim",
+          "bâyad dars bedim"
+        ],
+        "youPlural": [
+          "bâyad dars bedehid",
+          "bâyad dars bedin"
+        ],
+        "they": [
+          "bâyad dars bedehand",
+          "bâyad dars bedan"
+        ]
+      }
+    },
+    "notes": [
+      "Jobs lesson notes 2026-10-04",
+      "Dars dâdan means teach; dars khândan means study. Spoken first-person present: dars midam."
+    ]
+  },
+  {
+    "id": "deal-with",
+    "meaning": "deal with",
+    "infinitive": "sar-o-kâr dâshtan",
+    "imperative": "sar-o-kâr dâshte bâsh",
+    "presentStem": "sar-o-kâr dâr",
+    "pastStem": "sar-o-kâr dâsht",
+    "forms": {
+      "present": {
+        "i": [
+          "sar-o-kâr dâram"
+        ],
+        "you": [
+          "sar-o-kâr dâri"
+        ],
+        "heShe": [
+          "sar-o-kâr dârad",
+          "sar-o-kâr dâre"
+        ],
+        "we": [
+          "sar-o-kâr dârim"
+        ],
+        "youPlural": [
+          "sar-o-kâr dârid",
+          "sar-o-kâr dârin"
+        ],
+        "they": [
+          "sar-o-kâr dârand",
+          "sar-o-kâr dâran"
+        ]
+      },
+      "presentContinuous": {},
+      "past": {
+        "i": [
+          "sar-o-kâr dâshtam"
+        ],
+        "you": [
+          "sar-o-kâr dâshti"
+        ],
+        "heShe": [
+          "sar-o-kâr dâsht"
+        ],
+        "we": [
+          "sar-o-kâr dâshtim"
+        ],
+        "youPlural": [
+          "sar-o-kâr dâshtid",
+          "sar-o-kâr dâshtin"
+        ],
+        "they": [
+          "sar-o-kâr dâshtand",
+          "sar-o-kâr dâshtan"
+        ]
+      },
+      "pastContinuous": {},
+      "future": {
+        "i": [
+          "sar-o-kâr khâham dâsht"
+        ],
+        "you": [
+          "sar-o-kâr khâhi dâsht"
+        ],
+        "heShe": [
+          "sar-o-kâr khâhad dâsht"
+        ],
+        "we": [
+          "sar-o-kâr khâhim dâsht"
+        ],
+        "youPlural": [
+          "sar-o-kâr khâhid dâsht"
+        ],
+        "they": [
+          "sar-o-kâr khâhand dâsht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad sar-o-kâr dâshte bâsham"
+        ],
+        "you": [
+          "bâyad sar-o-kâr dâshte bâshi"
+        ],
+        "heShe": [
+          "bâyad sar-o-kâr dâshte bâshad",
+          "bâyad sar-o-kâr dâshte bâshe"
+        ],
+        "we": [
+          "bâyad sar-o-kâr dâshte bâshim"
+        ],
+        "youPlural": [
+          "bâyad sar-o-kâr dâshte bâshid",
+          "bâyad sar-o-kâr dâshte bâshin"
+        ],
+        "they": [
+          "bâyad sar-o-kâr dâshte bâshand",
+          "bâyad sar-o-kâr dâshte bâshan"
+        ]
+      }
+    },
+    "notes": [
+      "Jobs lesson notes 2026-10-04",
+      "Use bâ + person/thing. Like dâshtan, this state expression does not use the continuous forms in this bank."
+    ]
   }
 ]

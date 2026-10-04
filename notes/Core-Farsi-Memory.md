@@ -1,6 +1,51 @@
 # Core Farsi Memory
 
-Updated: 27 September 2026
+Updated: 4 October 2026
+
+## Lesson notes — 4 October 2026: jobs and what people do
+
+### Vocabulary and clarifications
+- **kudak / koodak** (کودک) = child, another word for **bache**. **Nevisande-ye ketâb-e kudak** = children's book writer; **nevisande-ye ketâbhâ-ye kudakân** = writer of children's books.
+- **sakht** (سخت) = difficult / hard.
+- **khosusi** (خصوصی) = private (not “ghoosoosi”).
+- **tu / tu-ye** (تو / توی) = in / inside, spoken; formal **dar**.
+- **bakhsh-e mâli** (بخش مالی) = finance / financial department.
+- **adad** (عدد) = number; **a'dâd** (اعداد) = numbers. **Âdat** (عادت) means habit, so “adat = number” needs this spelling distinction.
+- **Bâ ... sar-o-kâr dâram** (با ... سر و کار دارم) = I deal with ... . Infinitive: **sar-o-kâr dâshtan**; use **bâ** for what/who you deal with.
+- **marizhâ** (مریض‌ها) = patients / sick people, like **bimârhâ** (بیمارها).
+- **mardom** (مردم) = people; **moshtari** (مشتری) = customer.
+- **vakil** (وکیل) = lawyer; **vekâlat** (وکالت) = legal representation / practising law. **Daftar-e vekâlat** (دفتر وکالت) is the usual term for a law office. **Daftar-e vakil** can also literally mean a lawyer's office; it is not forbidden.
+- **dâd** (داد) = justice in this context; **dâdgâh** (دادگاه) = court.
+- **defâ' mikonam** (دفاع می‌کنم) = I defend. **Defâ' kardan az ...** = to defend ...; use **az** for the person/thing defended.
+- **mosâfer** (مسافر) = passenger / traveller; **mosâferhâ** = passengers / travellers.
+- **darmân** (درمان) = treatment; **darmân mikonam** = I treat; **bimârâ-ro** (بیمارا رو) = the patients as the object (spoken **bimârhâ râ**). **Ro** marks the object, rather than simply meaning “the.”
+- **shoghl** (شغل) = job / occupation.
+- **dars midam** (درس می‌دم) = I teach / give lessons; formal **dars midaham**, infinitive **dars dâdan**. **Dars mikhunam** = I study; **khândan** = to read (infinitive), **mikhânad / mikhune** = he/she reads.
+- **honarmand** (هنرمند) = artist; **naqqâsh / naghâsh** (نقاش) = painter (a kind of artist).
+- **maze** (مزه) = taste / flavour; **khoshmaze** = tasty; **badmaze** = bad-tasting / unpleasant-tasting; **bimaze** = tasteless / bland. **Bad** alone = bad.
+- **khosh** (خوش) = pleasant / happy / good, used in many compounds. It is still a current word, not merely an ancient replacement for **khub** (good).
+- **dorost** = correct; **dorost kardan** = to make / prepare (also fix in context).
+- **chub** (چوب) = wood; **ketâbkhâne** = library, or bookcase in this furniture context.
+- **khâmush kardan** (خاموش کردن) = to turn off / extinguish; correction of “harmoosh kardan.”
+- **âtash**, spoken **âtish** (آتش), = fire. **Atash** (عطش), with a short initial vowel and different spelling, = thirst. **Teshne** = thirsty; **teshnegi** = thirst. These are distinct words, not one word derived from the other.
+- **dânesh** (دانش) = knowledge / learning; **dâneshâmuz** (دانش‌آموز) = school pupil / student; **dâneshju** (دانشجو) = university student. The components suggest “knowledge learner” and “knowledge seeker”; dâneshju does not normally mean science researcher.
+
+### Job questions, corrected into spoken Farsi
+With **ki** (who), use the third-person verb: **mide / mikone**, rather than **midam / mikonam** (I).
+
+| Question | Meaning | Answer |
+|---|---|---|
+| Ki tu madrese dars mide? | Who teaches at school? | Mo'allem — teacher |
+| Ki tu dâneshgâh dars mide? | Who teaches at university? | Ostâd — professor / lecturer |
+| Ki tu gâleri-ye honari kâr mikone? | Who works in an art gallery? | Honarmand / naqqâsh — artist / painter (lesson answer) |
+| Ki bâ kâmion kâr mikone? | Who works with a truck? | Rânande-ye kâmion — truck driver |
+| Ki pârk-hâ-ro tarrâhi mikone? | Who designs parks? | Me'mâr / mohandes — architect / engineer (lesson answers; landscape architect is more specific) |
+| Ki ghazâhâ-ye khoshmaze dorost mikone? | Who makes tasty food? | Âshpaz — cook / chef |
+| Ki az chub mitune ketâbkhâne besâze? | Who can build a bookcase out of wood? | Najjâr — carpenter |
+| Ki âtish-o khâmush mikone? | Who puts out the fire? | Âtashneshân — firefighter |
+| Ki tu dâneshgâh dars mikhune? | Who studies at university? | Dâneshju — university student |
+
+The original numbered items 1–4 were blank; no missing questions have been invented. Job answers reflect the lesson, not exclusive claims about who can perform each activity.
 
 ## Lesson notes — 27 September 2026: cooking
 

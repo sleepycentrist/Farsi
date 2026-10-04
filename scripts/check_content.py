@@ -29,7 +29,7 @@ for verb in verbs:
         assert isinstance(verb[key], str) and verb[key].strip(), (verb['id'], key)
     assert set(verb['forms']) == {'present', 'presentContinuous', 'past', 'pastContinuous', 'future', 'must'}, verb['id']
     for tense, forms in verb['forms'].items():
-        if not forms and verb['id'] in {'be', 'have', 'be-located', 'can'} and tense in {'presentContinuous', 'pastContinuous'}:
+        if not forms and verb['id'] in {'be', 'have', 'be-located', 'can', 'deal-with'} and tense in {'presentContinuous', 'pastContinuous'}:
             continue  # Existing bank intentionally omits these continuous forms.
         assert set(forms) == {'i', 'you', 'heShe', 'we', 'youPlural', 'they'}, verb['id']
         for variants in forms.values():

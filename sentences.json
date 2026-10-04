@@ -4954,5 +4954,273 @@
     "register": "formal",
     "source": "Teacher notes 2026-10-04",
     "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s01",
+    "prompt": "Who teaches at school?",
+    "tiles": [
+      "dars mide",
+      "tu madrese",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "tu madrese",
+        "dars mide"
+      ]
+    ],
+    "explanation": "Mo'allem (teacher). Mide is third person; midam means I give/teach.",
+    "topic": "education",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s02",
+    "prompt": "Who teaches at university?",
+    "tiles": [
+      "dars mide",
+      "tu dâneshgâh",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "tu dâneshgâh",
+        "dars mide"
+      ]
+    ],
+    "explanation": "Ostâd (professor / lecturer). Dars dâdan means to teach.",
+    "topic": "education",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s03",
+    "prompt": "Who works in an art gallery?",
+    "tiles": [
+      "kâr mikone",
+      "tu gâleri-ye honari",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "tu gâleri-ye honari",
+        "kâr mikone"
+      ]
+    ],
+    "explanation": "Lesson answer: honarmand (artist) or naqqâsh (painter).",
+    "topic": "work",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s04",
+    "prompt": "Who works with a truck?",
+    "tiles": [
+      "kâr mikone",
+      "bâ kâmion",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "bâ kâmion",
+        "kâr mikone"
+      ]
+    ],
+    "explanation": "Rânande-ye kâmion means truck driver. Bâ means with.",
+    "topic": "work",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s05",
+    "prompt": "Who designs parks?",
+    "tiles": [
+      "tarrâhi mikone",
+      "pârk-hâ-ro",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "pârk-hâ-ro",
+        "tarrâhi mikone"
+      ]
+    ],
+    "explanation": "Lesson answers: me'mâr / mohandes (architect / engineer). Ro marks the object.",
+    "topic": "work",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s06",
+    "prompt": "Who makes tasty food?",
+    "tiles": [
+      "dorost mikone",
+      "ghazâhâ-ye khoshmaze",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "ghazâhâ-ye khoshmaze",
+        "dorost mikone"
+      ]
+    ],
+    "explanation": "Âshpaz means cook / chef; khoshmaze means tasty.",
+    "topic": "food",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s07",
+    "prompt": "Who can build a bookcase out of wood?",
+    "tiles": [
+      "besâze",
+      "ketâbkhâne",
+      "mitune",
+      "az chub",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "az chub",
+        "mitune",
+        "ketâbkhâne",
+        "besâze"
+      ]
+    ],
+    "explanation": "Najjâr means carpenter. Az chub means out of wood; besâze follows mitune (can).",
+    "topic": "work",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s08",
+    "prompt": "Who puts out the fire?",
+    "tiles": [
+      "khâmush mikone",
+      "âtish-o",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "âtish-o",
+        "khâmush mikone"
+      ]
+    ],
+    "explanation": "Âtashneshân means firefighter. Âtish is spoken fire; -o marks the object.",
+    "topic": "work",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s09",
+    "prompt": "Who studies at university?",
+    "tiles": [
+      "dars mikhune",
+      "tu dâneshgâh",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "tu dâneshgâh",
+        "dars mikhune"
+      ]
+    ],
+    "explanation": "Dâneshju is a university student. Dars mikhune means studies, while dars mide means teaches.",
+    "topic": "education",
+    "grammar": "present questions",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s10",
+    "prompt": "I treat the patients.",
+    "tiles": [
+      "darmân mikonam",
+      "bimârâ-ro",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "bimârâ-ro",
+        "darmân mikonam"
+      ]
+    ],
+    "explanation": "Darmân kardan means to treat. Bimârâ-ro is the spoken object form for patients.",
+    "topic": "health",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s11",
+    "prompt": "I deal with customers.",
+    "tiles": [
+      "sar-o-kâr dâram",
+      "bâ moshtarihâ",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "bâ moshtarihâ",
+        "sar-o-kâr dâram"
+      ]
+    ],
+    "explanation": "Use bâ with sar-o-kâr dâshtan (to deal with).",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "jobs-2026-10-04-s12",
+    "prompt": "I defend the people.",
+    "tiles": [
+      "defâ' mikonam",
+      "az mardom",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "az mardom",
+        "defâ' mikonam"
+      ]
+    ],
+    "explanation": "Defâ' kardan takes az before the person or thing defended.",
+    "topic": "work",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Jobs lesson notes 2026-10-04",
+    "difficulty": "beginner"
   }
 ]
