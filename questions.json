@@ -351,19 +351,10 @@
     "id": "vocab-0039"
   },
   {
-    "farsi": "be to eftekhâr mikonam",
-    "english": "I am proud of you",
-    "persian": "به تو افتخار می‌کنم",
-    "category": "feelings",
-    "sourceLine": 397,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0040"
-  },
-  {
     "farsi": "Esfahân nesf-e jahân",
     "english": "Isfahan is half the world (saying)",
     "persian": "اصفهان نصف جهان",
-    "category": "places",
+    "category": "directions",
     "sourceLine": 398,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0041"
@@ -405,9 +396,9 @@
     "id": "vocab-0045"
   },
   {
-    "farsi": "digar",
-    "english": "other/another",
-    "persian": "دیگر",
+    "farsi": "digar / dige",
+    "english": "Other / another; spoken dige can also mean more / later",
+    "persian": "دیگر / دیگه",
     "category": "sentence-building",
     "sourceLine": 403,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
@@ -552,15 +543,6 @@
     "id": "vocab-0061"
   },
   {
-    "farsi": "Rezâ Shâh",
-    "english": "Reza Shah (name in reading)",
-    "persian": "رضا شاه",
-    "category": "society",
-    "sourceLine": 419,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0062"
-  },
-  {
     "farsi": "motenavve'",
     "english": "varied/diverse",
     "persian": "متنوع",
@@ -642,15 +624,6 @@
     "id": "vocab-0071"
   },
   {
-    "farsi": "vojud dârad",
-    "english": "exists/there is",
-    "persian": "وجود دارد",
-    "category": "actions",
-    "sourceLine": 429,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0072"
-  },
-  {
     "farsi": "dar asar-e",
     "english": "as a result of",
     "persian": "در اثر",
@@ -685,24 +658,6 @@
     "sourceLine": 433,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0076"
-  },
-  {
-    "farsi": "khoshk shode-and",
-    "english": "have dried up",
-    "persian": "خشک شده‌اند",
-    "category": "weather",
-    "sourceLine": 434,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0077"
-  },
-  {
-    "farsi": "sâkhte shod",
-    "english": "was built",
-    "persian": "ساخته شد",
-    "category": "home",
-    "sourceLine": 435,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0078"
   },
   {
     "farsi": "besyâr",
@@ -750,13 +705,17 @@
     "id": "vocab-0083"
   },
   {
-    "farsi": "manâtegh",
-    "english": "regions/areas",
-    "persian": "مناطق",
-    "category": "places",
+    "farsi": "mantaghe",
+    "english": "Region / area",
+    "persian": "منطقه",
+    "category": "directions",
     "sourceLine": 441,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0084"
+    "id": "vocab-0084",
+    "plural": {
+      "farsi": "manâtegh",
+      "persian": "مناطق"
+    }
   },
   {
     "farsi": "dark-e matlab",
@@ -766,15 +725,6 @@
     "sourceLine": 442,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0085"
-  },
-  {
-    "farsi": "lotfan pâsokh dahid",
-    "english": "please answer (exercise wording)",
-    "persian": "لطفاً پاسخ دهید",
-    "category": "conversation",
-    "sourceLine": 443,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0086"
   },
   {
     "farsi": "agar",
@@ -837,13 +787,17 @@
     "category": "numbers",
     "sourceLine": 450,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0093"
+    "id": "vocab-0093",
+    "plural": {
+      "farsi": "a’dâd / adadhâ",
+      "persian": "اعداد / عددها"
+    }
   },
   {
     "farsi": "ahl-e",
     "english": "from/of (a place)",
     "persian": "اهل",
-    "category": "places",
+    "category": "directions",
     "sourceLine": 451,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0094"
@@ -852,7 +806,7 @@
     "farsi": "orupâyi",
     "english": "European",
     "persian": "اروپایی",
-    "category": "places",
+    "category": "directions",
     "sourceLine": 452,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0095"
@@ -864,7 +818,11 @@
     "category": "family",
     "sourceLine": 453,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0096"
+    "id": "vocab-0096",
+    "plural": {
+      "farsi": "pesarhâ / pesarân",
+      "persian": "پسرها / پسران"
+    }
   },
   {
     "farsi": "otâgh",
@@ -939,15 +897,6 @@
     "id": "vocab-0104"
   },
   {
-    "farsi": "pul dâdan",
-    "english": "pay/give money",
-    "persian": "پول دادن",
-    "category": "money",
-    "sourceLine": 462,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0105"
-  },
-  {
     "farsi": "amal",
     "english": "operation/surgery in hospital context; action elsewhere",
     "persian": "عمل",
@@ -982,24 +931,6 @@
     "sourceLine": 466,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0109"
-  },
-  {
-    "farsi": "mellat",
-    "english": "nation",
-    "persian": "ملت",
-    "category": "society",
-    "sourceLine": 467,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0110"
-  },
-  {
-    "farsi": "melli",
-    "english": "national",
-    "persian": "ملی",
-    "category": "society",
-    "sourceLine": 468,
-    "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
-    "id": "vocab-0111"
   },
   {
     "farsi": "râh",
@@ -1101,28 +1032,28 @@
     "id": "vocab-0122"
   },
   {
-    "farsi": "azizam",
-    "english": "my dear",
-    "persian": "عزیزم",
+    "farsi": "aziz",
+    "english": "Dear / beloved",
+    "persian": "عزیز",
     "category": "family",
     "sourceLine": 480,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0123"
   },
   {
-    "farsi": "azizakam",
-    "english": "my little dear (affectionate diminutive)",
-    "persian": "عزیزکم",
+    "farsi": "azizak",
+    "english": "Little dear (affectionate diminutive)",
+    "persian": "عزیزک",
     "category": "family",
     "sourceLine": 481,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0124"
   },
   {
-    "farsi": "khoshgelam",
-    "english": "my lovely/beautiful one (affectionate)",
-    "persian": "خوشگلم",
-    "category": "family",
+    "farsi": "khoshgel",
+    "english": "Beautiful / pretty",
+    "persian": "خوشگل",
+    "category": "descriptions",
     "sourceLine": 482,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0125"
@@ -1419,7 +1350,7 @@
     "farsi": "Toronto",
     "english": "Toronto",
     "persian": "تورنتو",
-    "category": "places",
+    "category": "directions",
     "sourceLine": 515,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0158"
@@ -1428,7 +1359,7 @@
     "farsi": "Miami",
     "english": "Miami",
     "persian": "میامی",
-    "category": "places",
+    "category": "directions",
     "sourceLine": 516,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
     "id": "vocab-0159"
@@ -1524,78 +1455,6 @@
     "id": "vocab-0169"
   },
   {
-    "farsi": "tamâshâ kardan",
-    "english": "watch",
-    "persian": "تماشا کردن",
-    "category": "media",
-    "sourceLine": 570,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0170"
-  },
-  {
-    "farsi": "shoru' kardan",
-    "english": "start/begin",
-    "persian": "شروع کردن",
-    "category": "actions",
-    "sourceLine": 571,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0171"
-  },
-  {
-    "farsi": "tamâm kardan",
-    "english": "finish/end",
-    "persian": "تمام کردن",
-    "category": "actions",
-    "sourceLine": 572,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0172"
-  },
-  {
-    "farsi": "motavaghghef kardan",
-    "english": "stop something",
-    "persian": "متوقف کردن",
-    "category": "actions",
-    "sourceLine": 573,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0173"
-  },
-  {
-    "farsi": "garm kardan",
-    "english": "warm up",
-    "persian": "گرم کردن",
-    "category": "actions",
-    "sourceLine": 574,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0174"
-  },
-  {
-    "farsi": "sard kardan",
-    "english": "cool down",
-    "persian": "سرد کردن",
-    "category": "actions",
-    "sourceLine": 575,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0175"
-  },
-  {
-    "farsi": "fekr kardan",
-    "english": "think",
-    "persian": "فکر کردن",
-    "category": "actions",
-    "sourceLine": 576,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0176"
-  },
-  {
-    "farsi": "bâz kardan",
-    "english": "open",
-    "persian": "باز کردن",
-    "category": "actions",
-    "sourceLine": 577,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0177"
-  },
-  {
     "farsi": "sardard",
     "english": "headache",
     "persian": "سردرد",
@@ -1641,58 +1500,17 @@
     "id": "vocab-0182"
   },
   {
-    "farsi": "hâlam khub nist",
-    "english": "I don't feel well",
-    "persian": "حالم خوب نیست",
-    "category": "health",
-    "sourceLine": 583,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0183"
-  },
-  {
-    "farsi": "hâlemun khub nist",
-    "english": "we don't feel well (spoken)",
-    "persian": "حالمون خوب نیست",
-    "category": "health",
-    "sourceLine": 584,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0184"
-  },
-  {
-    "farsi": "lebâsesh / lebâset",
-    "english": "his or her clothes / your clothes",
-    "persian": "لباسش / لباست",
+    "farsi": "lebâs",
+    "english": "Clothes / clothing",
+    "persian": "لباس",
     "category": "clothing",
     "sourceLine": 585,
     "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0185"
-  },
-  {
-    "farsi": "lebâsam / lebâsemân",
-    "english": "my clothes / our clothes",
-    "persian": "لباسم / لباسمان",
-    "category": "clothing",
-    "sourceLine": 586,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0186"
-  },
-  {
-    "farsi": "lebâsetun / lebâseshun",
-    "english": "your (plural) clothes / their clothes (spoken)",
-    "persian": "لباس‌تون / لباس‌شون",
-    "category": "clothing",
-    "sourceLine": 587,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0187"
-  },
-  {
-    "farsi": "otâghesh",
-    "english": "his/her room",
-    "persian": "اتاقش",
-    "category": "directions",
-    "sourceLine": 588,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0188"
+    "id": "vocab-0185",
+    "plural": {
+      "farsi": "lebâshâ",
+      "persian": "لباس‌ها"
+    }
   },
   {
     "farsi": "doost-e digar",
@@ -1794,24 +1612,6 @@
     "id": "vocab-0199"
   },
   {
-    "farsi": "mâmân goft",
-    "english": "Mum said",
-    "persian": "مامان گفت",
-    "category": "family",
-    "sourceLine": 600,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0200"
-  },
-  {
-    "farsi": "bâbâ goft",
-    "english": "Dad said",
-    "persian": "بابا گفت",
-    "category": "family",
-    "sourceLine": 601,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0201"
-  },
-  {
     "farsi": "chi mige?",
     "english": "What does he/she say?",
     "persian": "چی می‌گه؟",
@@ -1857,15 +1657,6 @@
     "id": "vocab-0206"
   },
   {
-    "farsi": "dowlat",
-    "english": "government",
-    "persian": "دولت",
-    "category": "society",
-    "sourceLine": 607,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0207"
-  },
-  {
     "farsi": "hâl-o pazirâyi",
     "english": "living/sitting room and reception room",
     "persian": "هال و پذیرایی",
@@ -1905,7 +1696,7 @@
     "farsi": "servis-e ghazâkhori",
     "english": "dinnerware set",
     "persian": "سرویس غذاخوری",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 612,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0212"
@@ -1914,7 +1705,7 @@
     "farsi": "sofre",
     "english": "cloth/spread on which a meal is served",
     "persian": "سفره",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 613,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0213"
@@ -1941,7 +1732,7 @@
     "farsi": "zarf-e mive",
     "english": "fruit bowl/dish",
     "persian": "ظرف میوه",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 616,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0216"
@@ -1950,7 +1741,7 @@
     "farsi": "zarf-e âjil",
     "english": "nut bowl/dish",
     "persian": "ظرف آجیل",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 617,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0217"
@@ -1959,7 +1750,7 @@
     "farsi": "shokolât-khori",
     "english": "chocolate/sweet dish",
     "persian": "شکلات‌خوری",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 618,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0218"
@@ -1968,7 +1759,7 @@
     "farsi": "ghandân / ghandun",
     "english": "sugar bowl (formal/spoken)",
     "persian": "قندان / قندون",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 619,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0219"
@@ -1977,7 +1768,7 @@
     "farsi": "shekarpâsh",
     "english": "sugar shaker/dispenser",
     "persian": "شکرپاش",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 620,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0220"
@@ -2091,15 +1882,6 @@
     "id": "vocab-0232"
   },
   {
-    "farsi": "kharidan",
-    "english": "buy; present stem khar, past kharid",
-    "persian": "خریدن",
-    "category": "money",
-    "sourceLine": 633,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0233"
-  },
-  {
     "farsi": "bâzâr",
     "english": "market/bazaar",
     "persian": "بازار",
@@ -2109,13 +1891,17 @@
     "id": "vocab-0234"
   },
   {
-    "farsi": "zarf / zarf-hâ",
-    "english": "dish or container / dishes",
-    "persian": "ظرف / ظرف‌ها",
-    "category": "kitchen",
+    "farsi": "zarf",
+    "english": "Dish / container",
+    "persian": "ظرف",
+    "category": "home",
     "sourceLine": 635,
     "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0235"
+    "id": "vocab-0235",
+    "plural": {
+      "farsi": "zarfhâ",
+      "persian": "ظرف‌ها"
+    }
   },
   {
     "farsi": "por",
@@ -2143,15 +1929,6 @@
     "sourceLine": 638,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0238"
-  },
-  {
-    "farsi": "por kardan",
-    "english": "fill",
-    "persian": "پر کردن",
-    "category": "actions",
-    "sourceLine": 639,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0239"
   },
   {
     "farsi": "ghand",
@@ -2235,24 +2012,6 @@
     "id": "vocab-0248"
   },
   {
-    "farsi": "neshastan",
-    "english": "sit; present stem neshin, past neshast",
-    "persian": "نشستن",
-    "category": "actions",
-    "sourceLine": 649,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0249"
-  },
-  {
-    "farsi": "tekye dâdan",
-    "english": "lean against",
-    "persian": "تکیه دادن",
-    "category": "actions",
-    "sourceLine": 650,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0250"
-  },
-  {
     "farsi": "kot",
     "english": "coat/jacket",
     "persian": "کت",
@@ -2280,15 +2039,6 @@
     "id": "vocab-0253"
   },
   {
-    "farsi": "lâzem dâram",
-    "english": "I need",
-    "persian": "لازم دارم",
-    "category": "conversation",
-    "sourceLine": 654,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0254"
-  },
-  {
     "farsi": "âshpazkhâne",
     "english": "kitchen",
     "persian": "آشپزخانه",
@@ -2301,7 +2051,7 @@
     "farsi": "kâse",
     "english": "bowl",
     "persian": "کاسه",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 656,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0256"
@@ -2310,7 +2060,7 @@
     "farsi": "sini",
     "english": "tray",
     "persian": "سینی",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 657,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0257"
@@ -2319,7 +2069,7 @@
     "farsi": "dis",
     "english": "serving platter",
     "persian": "دیس",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 658,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0258"
@@ -2328,7 +2078,7 @@
     "farsi": "pish-dasti",
     "english": "small side/fruit plate",
     "persian": "پیش‌دستی",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 659,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0259"
@@ -2337,7 +2087,7 @@
     "farsi": "estekân",
     "english": "tea glass",
     "persian": "استکان",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 660,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0260"
@@ -2346,7 +2096,7 @@
     "farsi": "na'lbaki",
     "english": "saucer",
     "persian": "نعلبکی",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 661,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0261"
@@ -2355,7 +2105,7 @@
     "farsi": "ghâblame",
     "english": "cooking pot",
     "persian": "قابلمه",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 662,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0262"
@@ -2364,7 +2114,7 @@
     "farsi": "mâhitâbe",
     "english": "frying pan",
     "persian": "ماهیتابه",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 663,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0263"
@@ -2373,7 +2123,7 @@
     "farsi": "kafgir",
     "english": "slotted spoon/spatula/rice-serving utensil",
     "persian": "کفگیر",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 664,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0264"
@@ -2382,7 +2132,7 @@
     "farsi": "malâghe",
     "english": "ladle",
     "persian": "ملاقه",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 665,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0265"
@@ -2391,7 +2141,7 @@
     "farsi": "kârd-e mivekhori",
     "english": "fruit knife",
     "persian": "کارد میوه‌خوری",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 666,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0266"
@@ -2400,7 +2150,7 @@
     "farsi": "polopaz",
     "english": "rice cooker",
     "persian": "پلوپز",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 667,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0267"
@@ -2409,7 +2159,7 @@
     "farsi": "sikh-e kabâb",
     "english": "kebab skewer",
     "persian": "سیخ کباب",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 668,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0268"
@@ -2418,7 +2168,7 @@
     "farsi": "turi-ye kabâb",
     "english": "grill basket/grilling grid",
     "persian": "توری کباب",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 669,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0269"
@@ -2427,7 +2177,7 @@
     "farsi": "manghal",
     "english": "charcoal brazier/barbecue",
     "persian": "منقل",
-    "category": "kitchen",
+    "category": "home",
     "sourceLine": 670,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0270"
@@ -2568,15 +2318,6 @@
     "id": "vocab-0285"
   },
   {
-    "farsi": "dige",
-    "english": "other/more/later (spoken digar, context-dependent)",
-    "persian": "دیگه",
-    "category": "sentence-building",
-    "sourceLine": 686,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0286"
-  },
-  {
     "farsi": "vâse",
     "english": "for (spoken)",
     "persian": "واسه",
@@ -2593,114 +2334,6 @@
     "sourceLine": 688,
     "sourceCategory": "Vocabulary additions and reinforcement",
     "id": "vocab-0288"
-  },
-  {
-    "farsi": "dorost kardan",
-    "english": "make/prepare",
-    "persian": "درست کردن",
-    "category": "actions",
-    "sourceLine": 689,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0289"
-  },
-  {
-    "farsi": "gozâshtan",
-    "english": "put/place; present gozâr, past gozâsht",
-    "persian": "گذاشتن",
-    "category": "actions",
-    "sourceLine": 690,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0290"
-  },
-  {
-    "farsi": "bordan",
-    "english": "take/carry away; present bar, past bord",
-    "persian": "بردن",
-    "category": "travel",
-    "sourceLine": 691,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0291"
-  },
-  {
-    "farsi": "rikhtan",
-    "english": "pour; present riz, past rikht",
-    "persian": "ریختن",
-    "category": "food",
-    "sourceLine": 692,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0292"
-  },
-  {
-    "farsi": "keshidan",
-    "english": "pull/draw; serve/portion food in these examples",
-    "persian": "کشیدن",
-    "category": "actions",
-    "sourceLine": 693,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0293"
-  },
-  {
-    "farsi": "shekastan",
-    "english": "break; present shekan, past shekast",
-    "persian": "شکستن",
-    "category": "actions",
-    "sourceLine": 694,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0294"
-  },
-  {
-    "farsi": "pokhtan",
-    "english": "cook; present paz, past pokht",
-    "persian": "پختن",
-    "category": "food",
-    "sourceLine": 695,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0295"
-  },
-  {
-    "farsi": "sorkh kardan",
-    "english": "fry",
-    "persian": "سرخ کردن",
-    "category": "food",
-    "sourceLine": 696,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0296"
-  },
-  {
-    "farsi": "khâmush kardan",
-    "english": "turn off",
-    "persian": "خاموش کردن",
-    "category": "actions",
-    "sourceLine": 697,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0297"
-  },
-  {
-    "farsi": "kabâb kardan",
-    "english": "grill/barbecue",
-    "persian": "کباب کردن",
-    "category": "food",
-    "sourceLine": 698,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0298"
-  },
-  {
-    "farsi": "sikh keshidan",
-    "english": "thread onto skewers",
-    "persian": "سیخ کشیدن",
-    "category": "food",
-    "sourceLine": 699,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0299"
-  },
-  {
-    "farsi": "sofre andâkhtan",
-    "english": "lay out the meal cloth/set the meal",
-    "persian": "سفره انداختن",
-    "category": "food",
-    "sourceLine": 700,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0300"
   },
   {
     "farsi": "movâzeb bâsh",
@@ -2757,42 +2390,6 @@
     "id": "vocab-0306"
   },
   {
-    "farsi": "neshândan",
-    "english": "seat someone; present neshân, past neshând",
-    "persian": "نشاندن",
-    "category": "actions",
-    "sourceLine": 707,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0307"
-  },
-  {
-    "farsi": "jâsh",
-    "english": "his/her/its place (spoken jâyash)",
-    "persian": "جاش",
-    "category": "directions",
-    "sourceLine": 708,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0308"
-  },
-  {
-    "farsi": "pâygâh-e nezâmi",
-    "english": "military base",
-    "persian": "پایگاه نظامی",
-    "category": "society",
-    "sourceLine": 709,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0309"
-  },
-  {
-    "farsi": "nezâmi",
-    "english": "military",
-    "persian": "نظامی",
-    "category": "society",
-    "sourceLine": 710,
-    "sourceCategory": "Vocabulary additions and reinforcement",
-    "id": "vocab-0310"
-  },
-  {
     "farsi": "hamsar",
     "english": "spouse",
     "persian": "همسر",
@@ -2809,33 +2406,6 @@
     "sourceLine": 792,
     "sourceCategory": "Vocabulary and phrases added or reinforced",
     "id": "vocab-0312"
-  },
-  {
-    "farsi": "barâdarân / barâdarhâ",
-    "english": "brothers",
-    "persian": "برادران / برادرها",
-    "category": "family",
-    "sourceLine": 793,
-    "sourceCategory": "Vocabulary and phrases added or reinforced",
-    "id": "vocab-0313"
-  },
-  {
-    "farsi": "pesarân / pesarhâ",
-    "english": "sons/boys",
-    "persian": "پسران / پسرها",
-    "category": "family",
-    "sourceLine": 794,
-    "sourceCategory": "Vocabulary and phrases added or reinforced",
-    "id": "vocab-0314"
-  },
-  {
-    "farsi": "amuhâ",
-    "english": "paternal uncles",
-    "persian": "عموها",
-    "category": "family",
-    "sourceLine": 795,
-    "sourceCategory": "Vocabulary and phrases added or reinforced",
-    "id": "vocab-0315"
   },
   {
     "farsi": "che kasi? / che kasâni?",
@@ -3126,664 +2696,17 @@
     "id": "vocab-0347"
   },
   {
-    "farsi": "Man hastam",
-    "english": "I am",
-    "persian": "من هستم",
-    "category": "actions",
-    "sourceLine": 1097,
-    "sourceCategory": "TO BE - بودن (Boodan)",
-    "id": "vocab-0348"
-  },
-  {
-    "farsi": "To hasti",
-    "english": "You are (singular informal)",
-    "persian": "تو هستی",
-    "category": "actions",
-    "sourceLine": 1098,
-    "sourceCategory": "TO BE - بودن (Boodan)",
-    "id": "vocab-0349"
-  },
-  {
-    "farsi": "Ou hast / ast",
-    "english": "He/She/It is",
-    "persian": "او هست / است",
-    "category": "actions",
-    "sourceLine": 1099,
-    "sourceCategory": "TO BE - بودن (Boodan)",
-    "id": "vocab-0350"
-  },
-  {
-    "farsi": "Mâ hastim",
-    "english": "We are",
-    "persian": "ما هستیم",
-    "category": "actions",
-    "sourceLine": 1100,
-    "sourceCategory": "TO BE - بودن (Boodan)",
-    "id": "vocab-0351"
-  },
-  {
-    "farsi": "Shoma hastin/hastid",
-    "english": "You are (plural/formal)",
-    "persian": "شما هستید",
-    "category": "actions",
-    "sourceLine": 1101,
-    "sourceCategory": "TO BE - بودن (Boodan)",
-    "id": "vocab-0352"
-  },
-  {
-    "farsi": "Ânhâ hastan/hastand",
-    "english": "They are",
-    "persian": "آنها هستند",
-    "category": "actions",
-    "sourceLine": 1102,
-    "sourceCategory": "TO BE - بودن (Boodan)",
-    "id": "vocab-0353"
-  },
-  {
-    "farsi": "Man daaram",
-    "english": "I have",
-    "persian": "من دارم",
-    "category": "actions",
-    "sourceLine": 1113,
-    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
-    "id": "vocab-0354"
-  },
-  {
-    "farsi": "To daari",
-    "english": "You have (singular informal)",
-    "persian": "تو داری",
-    "category": "actions",
-    "sourceLine": 1114,
-    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
-    "id": "vocab-0355"
-  },
-  {
-    "farsi": "Ou daarad",
-    "english": "He/She/It has",
-    "persian": "او دارد",
-    "category": "actions",
-    "sourceLine": 1115,
-    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
-    "id": "vocab-0356"
-  },
-  {
-    "farsi": "Mâ daarim",
-    "english": "We have",
-    "persian": "ما داریم",
-    "category": "actions",
-    "sourceLine": 1116,
-    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
-    "id": "vocab-0357"
-  },
-  {
-    "farsi": "Shoma daarin/daarid",
-    "english": "You have (plural/formal)",
-    "persian": "شما دارید",
-    "category": "actions",
-    "sourceLine": 1117,
-    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
-    "id": "vocab-0358"
-  },
-  {
-    "farsi": "Ânhâ daaran/daarand",
-    "english": "They have",
-    "persian": "آنها دارند",
-    "category": "actions",
-    "sourceLine": 1118,
-    "sourceCategory": "TO HAVE - داشتن (Dashtan)",
-    "id": "vocab-0359"
-  },
-  {
-    "farsi": "Man miravam",
-    "english": "I go",
-    "persian": "من می‌روم",
-    "category": "travel",
-    "sourceLine": 1144,
-    "sourceCategory": "TO GO - رفتن (Raftan)",
-    "id": "vocab-0360"
-  },
-  {
-    "farsi": "To miravi",
-    "english": "You go",
-    "persian": "تو می‌روی",
-    "category": "travel",
-    "sourceLine": 1145,
-    "sourceCategory": "TO GO - رفتن (Raftan)",
-    "id": "vocab-0361"
-  },
-  {
-    "farsi": "Ou miravad",
-    "english": "He/She goes",
-    "persian": "او می‌رود",
-    "category": "travel",
-    "sourceLine": 1146,
-    "sourceCategory": "TO GO - رفتن (Raftan)",
-    "id": "vocab-0362"
-  },
-  {
-    "farsi": "Mâ miravim",
-    "english": "We go",
-    "persian": "ما می‌رویم",
-    "category": "travel",
-    "sourceLine": 1147,
-    "sourceCategory": "TO GO - رفتن (Raftan)",
-    "id": "vocab-0363"
-  },
-  {
-    "farsi": "Shoma miravid",
-    "english": "You go",
-    "persian": "شما می‌روید",
-    "category": "travel",
-    "sourceLine": 1148,
-    "sourceCategory": "TO GO - رفتن (Raftan)",
-    "id": "vocab-0364"
-  },
-  {
-    "farsi": "Ânhâ miravand",
-    "english": "They go",
-    "persian": "آنها می‌روند",
-    "category": "travel",
-    "sourceLine": 1149,
-    "sourceCategory": "TO GO - رفتن (Raftan)",
-    "id": "vocab-0365"
-  },
-  {
-    "farsi": "Man mibinam",
-    "english": "I see",
-    "persian": "من می‌بینم",
-    "category": "actions",
-    "sourceLine": 1161,
-    "sourceCategory": "TO SEE - دیدن (Didan)",
-    "id": "vocab-0366"
-  },
-  {
-    "farsi": "To mibini",
-    "english": "You see",
-    "persian": "تو می‌بینی",
-    "category": "actions",
-    "sourceLine": 1162,
-    "sourceCategory": "TO SEE - دیدن (Didan)",
-    "id": "vocab-0367"
-  },
-  {
-    "farsi": "Ou mibinad",
-    "english": "He/She sees",
-    "persian": "او می‌بیند",
-    "category": "actions",
-    "sourceLine": 1163,
-    "sourceCategory": "TO SEE - دیدن (Didan)",
-    "id": "vocab-0368"
-  },
-  {
-    "farsi": "Mâ mibinim",
-    "english": "We see",
-    "persian": "ما می‌بینیم",
-    "category": "actions",
-    "sourceLine": 1164,
-    "sourceCategory": "TO SEE - دیدن (Didan)",
-    "id": "vocab-0369"
-  },
-  {
-    "farsi": "Shoma mibinid",
-    "english": "You see",
-    "persian": "شما می‌بینید",
-    "category": "actions",
-    "sourceLine": 1165,
-    "sourceCategory": "TO SEE - دیدن (Didan)",
-    "id": "vocab-0370"
-  },
-  {
-    "farsi": "Ânhâ mibinand",
-    "english": "They see",
-    "persian": "آنها می‌بینند",
-    "category": "actions",
-    "sourceLine": 1166,
-    "sourceCategory": "TO SEE - دیدن (Didan)",
-    "id": "vocab-0371"
-  },
-  {
-    "farsi": "Man mishenavam",
-    "english": "I hear",
-    "persian": "من می‌شنوم",
-    "category": "actions",
-    "sourceLine": 1178,
-    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
-    "id": "vocab-0372"
-  },
-  {
-    "farsi": "To mishenavi",
-    "english": "You hear",
-    "persian": "تو می‌شنوی",
-    "category": "actions",
-    "sourceLine": 1179,
-    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
-    "id": "vocab-0373"
-  },
-  {
-    "farsi": "Ou mishenavad",
-    "english": "He/She hears",
-    "persian": "او می‌شنود",
-    "category": "actions",
-    "sourceLine": 1180,
-    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
-    "id": "vocab-0374"
-  },
-  {
-    "farsi": "Mâ mishenavim",
-    "english": "We hear",
-    "persian": "ما می‌شنویم",
-    "category": "actions",
-    "sourceLine": 1181,
-    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
-    "id": "vocab-0375"
-  },
-  {
-    "farsi": "Shoma mishenavid",
-    "english": "You hear",
-    "persian": "شما می‌شنوید",
-    "category": "actions",
-    "sourceLine": 1182,
-    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
-    "id": "vocab-0376"
-  },
-  {
-    "farsi": "Ânhâ mishenavand",
-    "english": "They hear",
-    "persian": "آنها می‌شنوند",
-    "category": "actions",
-    "sourceLine": 1183,
-    "sourceCategory": "TO HEAR - شنیدن (Shenidan)",
-    "id": "vocab-0377"
-  },
-  {
-    "farsi": "Man mikhoram",
-    "english": "I eat",
-    "persian": "من می‌خورم",
-    "category": "food",
-    "sourceLine": 1195,
-    "sourceCategory": "TO EAT - خوردن (Khordan)",
-    "id": "vocab-0378"
-  },
-  {
-    "farsi": "To mikhori",
-    "english": "You eat",
-    "persian": "تو می‌خوری",
-    "category": "food",
-    "sourceLine": 1196,
-    "sourceCategory": "TO EAT - خوردن (Khordan)",
-    "id": "vocab-0379"
-  },
-  {
-    "farsi": "Ou mikhorad",
-    "english": "He/She eats",
-    "persian": "او می‌خورد",
-    "category": "food",
-    "sourceLine": 1197,
-    "sourceCategory": "TO EAT - خوردن (Khordan)",
-    "id": "vocab-0380"
-  },
-  {
-    "farsi": "Mâ mikhorim",
-    "english": "We eat",
-    "persian": "ما می‌خوریم",
-    "category": "food",
-    "sourceLine": 1198,
-    "sourceCategory": "TO EAT - خوردن (Khordan)",
-    "id": "vocab-0381"
-  },
-  {
-    "farsi": "Shoma mikhorid",
-    "english": "You eat",
-    "persian": "شما می‌خورید",
-    "category": "food",
-    "sourceLine": 1199,
-    "sourceCategory": "TO EAT - خوردن (Khordan)",
-    "id": "vocab-0382"
-  },
-  {
-    "farsi": "Ânhâ mikhorand",
-    "english": "They eat",
-    "persian": "آنها می‌خورند",
-    "category": "food",
-    "sourceLine": 1200,
-    "sourceCategory": "TO EAT - خوردن (Khordan)",
-    "id": "vocab-0383"
-  },
-  {
-    "farsi": "Man miâyam",
-    "english": "I come",
-    "persian": "من می‌آیم",
-    "category": "travel",
-    "sourceLine": 1212,
-    "sourceCategory": "TO COME - آمدن (Âmadan)",
-    "id": "vocab-0384"
-  },
-  {
-    "farsi": "To miâyi",
-    "english": "You come",
-    "persian": "تو می‌آیی",
-    "category": "travel",
-    "sourceLine": 1213,
-    "sourceCategory": "TO COME - آمدن (Âmadan)",
-    "id": "vocab-0385"
-  },
-  {
-    "farsi": "Ou miâyad",
-    "english": "He/She comes",
-    "persian": "او می‌آید",
-    "category": "travel",
-    "sourceLine": 1214,
-    "sourceCategory": "TO COME - آمدن (Âmadan)",
-    "id": "vocab-0386"
-  },
-  {
-    "farsi": "Mâ miâyim",
-    "english": "We come",
-    "persian": "ما می‌آییم",
-    "category": "travel",
-    "sourceLine": 1215,
-    "sourceCategory": "TO COME - آمدن (Âmadan)",
-    "id": "vocab-0387"
-  },
-  {
-    "farsi": "Shoma miâyid",
-    "english": "You come",
-    "persian": "شما می‌آیید",
-    "category": "travel",
-    "sourceLine": 1216,
-    "sourceCategory": "TO COME - آمدن (Âmadan)",
-    "id": "vocab-0388"
-  },
-  {
-    "farsi": "Ânhâ miâyand",
-    "english": "They come",
-    "persian": "آنها می‌آیند",
-    "category": "travel",
-    "sourceLine": 1217,
-    "sourceCategory": "TO COME - آمدن (Âmadan)",
-    "id": "vocab-0389"
-  },
-  {
-    "farsi": "Man miâvaram",
-    "english": "I bring",
-    "persian": "من می‌آورم",
-    "category": "actions",
-    "sourceLine": 1229,
-    "sourceCategory": "TO BRING - آوردن (Âvordan)",
-    "id": "vocab-0390"
-  },
-  {
-    "farsi": "To miâvari",
-    "english": "You bring",
-    "persian": "تو می‌آوری",
-    "category": "actions",
-    "sourceLine": 1230,
-    "sourceCategory": "TO BRING - آوردن (Âvordan)",
-    "id": "vocab-0391"
-  },
-  {
-    "farsi": "Ou miâvarad",
-    "english": "He/She brings",
-    "persian": "او می‌آورد",
-    "category": "actions",
-    "sourceLine": 1231,
-    "sourceCategory": "TO BRING - آوردن (Âvordan)",
-    "id": "vocab-0392"
-  },
-  {
-    "farsi": "Mâ miâvarim",
-    "english": "We bring",
-    "persian": "ما می‌آوریم",
-    "category": "actions",
-    "sourceLine": 1232,
-    "sourceCategory": "TO BRING - آوردن (Âvordan)",
-    "id": "vocab-0393"
-  },
-  {
-    "farsi": "Shoma miâvarid",
-    "english": "You bring",
-    "persian": "شما می‌آورید",
-    "category": "actions",
-    "sourceLine": 1233,
-    "sourceCategory": "TO BRING - آوردن (Âvordan)",
-    "id": "vocab-0394"
-  },
-  {
-    "farsi": "Ânhâ miâvarand",
-    "english": "They bring",
-    "persian": "آنها می‌آورند",
-    "category": "actions",
-    "sourceLine": 1234,
-    "sourceCategory": "TO BRING - آوردن (Âvordan)",
-    "id": "vocab-0395"
-  },
-  {
-    "farsi": "Man mibandam",
-    "english": "I close",
-    "persian": "من می‌بندم",
-    "category": "actions",
-    "sourceLine": 1246,
-    "sourceCategory": "TO CLOSE - بستن (Bastan)",
-    "id": "vocab-0396"
-  },
-  {
-    "farsi": "To mibandi",
-    "english": "You close",
-    "persian": "تو می‌بندی",
-    "category": "actions",
-    "sourceLine": 1247,
-    "sourceCategory": "TO CLOSE - بستن (Bastan)",
-    "id": "vocab-0397"
-  },
-  {
-    "farsi": "Ou mibandad",
-    "english": "He/She closes",
-    "persian": "او می‌بندد",
-    "category": "actions",
-    "sourceLine": 1248,
-    "sourceCategory": "TO CLOSE - بستن (Bastan)",
-    "id": "vocab-0398"
-  },
-  {
-    "farsi": "Mâ mibandim",
-    "english": "We close",
-    "persian": "ما می‌بندیم",
-    "category": "actions",
-    "sourceLine": 1249,
-    "sourceCategory": "TO CLOSE - بستن (Bastan)",
-    "id": "vocab-0399"
-  },
-  {
-    "farsi": "Shoma mibandid",
-    "english": "You close",
-    "persian": "شما می‌بندید",
-    "category": "actions",
-    "sourceLine": 1250,
-    "sourceCategory": "TO CLOSE - بستن (Bastan)",
-    "id": "vocab-0400"
-  },
-  {
-    "farsi": "Ânhâ mibandand",
-    "english": "They close",
-    "persian": "آنها می‌بندند",
-    "category": "actions",
-    "sourceLine": 1251,
-    "sourceCategory": "TO CLOSE - بستن (Bastan)",
-    "id": "vocab-0401"
-  },
-  {
-    "farsi": "Man miporsam",
-    "english": "I ask",
-    "persian": "من می‌پرسم",
-    "category": "actions",
-    "sourceLine": 1263,
-    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
-    "id": "vocab-0402"
-  },
-  {
-    "farsi": "To miporsi",
-    "english": "You ask",
-    "persian": "تو می‌پرسی",
-    "category": "actions",
-    "sourceLine": 1264,
-    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
-    "id": "vocab-0403"
-  },
-  {
-    "farsi": "Ou miporsad",
-    "english": "He/She asks",
-    "persian": "او می‌پرسد",
-    "category": "actions",
-    "sourceLine": 1265,
-    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
-    "id": "vocab-0404"
-  },
-  {
-    "farsi": "Mâ miporsim",
-    "english": "We ask",
-    "persian": "ما می‌پرسیم",
-    "category": "actions",
-    "sourceLine": 1266,
-    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
-    "id": "vocab-0405"
-  },
-  {
-    "farsi": "Shoma miporsid",
-    "english": "You ask",
-    "persian": "شما می‌پرسید",
-    "category": "actions",
-    "sourceLine": 1267,
-    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
-    "id": "vocab-0406"
-  },
-  {
-    "farsi": "Ânhâ miporsand",
-    "english": "They ask",
-    "persian": "آنها می‌پرسند",
-    "category": "actions",
-    "sourceLine": 1268,
-    "sourceCategory": "TO ASK - پرسیدن (Porsidan)",
-    "id": "vocab-0407"
-  },
-  {
-    "farsi": "Man misazam",
-    "english": "I build/make",
-    "persian": "من می‌سازم",
-    "category": "actions",
-    "sourceLine": 1280,
-    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
-    "id": "vocab-0408"
-  },
-  {
-    "farsi": "To misazi",
-    "english": "You build/make",
-    "persian": "تو می‌سازی",
-    "category": "actions",
-    "sourceLine": 1281,
-    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
-    "id": "vocab-0409"
-  },
-  {
-    "farsi": "Ou misazad",
-    "english": "He/She builds/makes",
-    "persian": "او می‌سازد",
-    "category": "actions",
-    "sourceLine": 1282,
-    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
-    "id": "vocab-0410"
-  },
-  {
-    "farsi": "Mâ misazim",
-    "english": "We build/make",
-    "persian": "ما می‌سازیم",
-    "category": "actions",
-    "sourceLine": 1283,
-    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
-    "id": "vocab-0411"
-  },
-  {
-    "farsi": "Shoma misazid",
-    "english": "You build/make",
-    "persian": "شما می‌سازید",
-    "category": "actions",
-    "sourceLine": 1284,
-    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
-    "id": "vocab-0412"
-  },
-  {
-    "farsi": "Ânhâ misazand",
-    "english": "They build/make",
-    "persian": "آنها می‌سازند",
-    "category": "actions",
-    "sourceLine": 1285,
-    "sourceCategory": "TO BUILD/MAKE - ساختن (Sâkhtan)",
-    "id": "vocab-0413"
-  },
-  {
-    "farsi": "Man",
-    "english": "I",
-    "persian": "من",
-    "category": "sentence-building",
-    "sourceLine": 1294,
-    "sourceCategory": "Personal Pronouns",
-    "id": "vocab-0414"
-  },
-  {
-    "farsi": "To",
-    "english": "You (singular informal)",
-    "persian": "تو",
-    "category": "sentence-building",
-    "sourceLine": 1295,
-    "sourceCategory": "Personal Pronouns",
-    "id": "vocab-0415"
-  },
-  {
-    "farsi": "Ou",
-    "english": "He/She/It",
-    "persian": "او",
-    "category": "sentence-building",
-    "sourceLine": 1296,
-    "sourceCategory": "Personal Pronouns",
-    "id": "vocab-0416"
-  },
-  {
-    "farsi": "Mâ",
-    "english": "We",
-    "persian": "ما",
-    "category": "sentence-building",
-    "sourceLine": 1297,
-    "sourceCategory": "Personal Pronouns",
-    "id": "vocab-0417"
-  },
-  {
-    "farsi": "Shoma",
-    "english": "You (plural/formal)",
-    "persian": "شما",
-    "category": "sentence-building",
-    "sourceLine": 1298,
-    "sourceCategory": "Personal Pronouns",
-    "id": "vocab-0418"
-  },
-  {
-    "farsi": "Ânhâ / Ouna",
-    "english": "They",
-    "persian": "آنها",
-    "category": "sentence-building",
-    "sourceLine": 1299,
-    "sourceVariants": [
-      "Those"
-    ],
-    "sourceCategory": "Personal Pronouns",
-    "id": "vocab-0419"
-  },
-  {
     "farsi": "Een",
     "english": "This",
     "persian": "این",
     "category": "sentence-building",
     "sourceLine": 1304,
     "sourceCategory": "Demonstratives",
-    "id": "vocab-0420"
+    "id": "vocab-0420",
+    "plural": {
+      "farsi": "inhâ; spoken inâ",
+      "persian": "این‌ها / اینا"
+    }
   },
   {
     "farsi": "Ân",
@@ -3793,15 +2716,6 @@
     "sourceLine": 1305,
     "sourceCategory": "Demonstratives",
     "id": "vocab-0421"
-  },
-  {
-    "farsi": "Eenhâ / Eena",
-    "english": "These",
-    "persian": "اینها / اینا",
-    "category": "sentence-building",
-    "sourceLine": 1306,
-    "sourceCategory": "Demonstratives",
-    "id": "vocab-0422"
   },
   {
     "farsi": "Yek",
@@ -4074,24 +2988,6 @@
     "id": "vocab-0452"
   },
   {
-    "farsi": "Emrooz",
-    "english": "Today",
-    "persian": "امروز",
-    "category": "time",
-    "sourceLine": 1370,
-    "sourceCategory": "Time Words",
-    "id": "vocab-0453"
-  },
-  {
-    "farsi": "Dirooz",
-    "english": "Yesterday",
-    "persian": "دیروز",
-    "category": "time",
-    "sourceLine": 1371,
-    "sourceCategory": "Time Words",
-    "id": "vocab-0454"
-  },
-  {
     "farsi": "Farda",
     "english": "Tomorrow",
     "persian": "فردا",
@@ -4314,7 +3210,11 @@
     "category": "family",
     "sourceLine": 1427,
     "sourceCategory": "7. FAMILY MEMBERS",
-    "id": "vocab-0479"
+    "id": "vocab-0479",
+    "plural": {
+      "farsi": "barâdarhâ / barâdarân",
+      "persian": "برادرها / برادران"
+    }
   },
   {
     "farsi": "Khâhar",
@@ -4332,7 +3232,11 @@
     "category": "family",
     "sourceLine": 1429,
     "sourceCategory": "7. FAMILY MEMBERS",
-    "id": "vocab-0481"
+    "id": "vocab-0481",
+    "plural": {
+      "farsi": "amuhâ",
+      "persian": "عموها"
+    }
   },
   {
     "farsi": "Ammé",
@@ -4386,25 +3290,11 @@
     "category": "family",
     "sourceLine": 1435,
     "sourceCategory": "7. FAMILY MEMBERS",
-    "id": "vocab-0487"
-  },
-  {
-    "farsi": "Doostàm",
-    "english": "My friend",
-    "persian": "دوستم",
-    "category": "family",
-    "sourceLine": 1436,
-    "sourceCategory": "7. FAMILY MEMBERS",
-    "id": "vocab-0488"
-  },
-  {
-    "farsi": "Doostàt",
-    "english": "Your friend",
-    "persian": "دوستت",
-    "category": "family",
-    "sourceLine": 1437,
-    "sourceCategory": "7. FAMILY MEMBERS",
-    "id": "vocab-0489"
+    "id": "vocab-0487",
+    "plural": {
+      "farsi": "dusthâ; spoken dustâ",
+      "persian": "دوست‌ها / دوستا"
+    }
   },
   {
     "farsi": "Khoob",
@@ -4578,16 +3468,11 @@
     "category": "education",
     "sourceLine": 1472,
     "sourceCategory": "School & Office Items",
-    "id": "vocab-0508"
-  },
-  {
-    "farsi": "Soâlât",
-    "english": "Questions",
-    "persian": "سوالات",
-    "category": "education",
-    "sourceLine": 1473,
-    "sourceCategory": "School & Office Items",
-    "id": "vocab-0509"
+    "id": "vocab-0508",
+    "plural": {
+      "farsi": "soâlhâ / soâlât",
+      "persian": "سؤال‌ها / سؤالات"
+    }
   },
   {
     "farsi": "List",
@@ -4641,16 +3526,11 @@
     "category": "home",
     "sourceLine": 1483,
     "sourceCategory": "Household Items",
-    "id": "vocab-0515"
-  },
-  {
-    "farsi": "Jààbé hâ",
-    "english": "Boxes",
-    "persian": "جعبه‌ها",
-    "category": "home",
-    "sourceLine": 1484,
-    "sourceCategory": "Household Items",
-    "id": "vocab-0516"
+    "id": "vocab-0515",
+    "plural": {
+      "farsi": "ja’behâ",
+      "persian": "جعبه‌ها"
+    }
   },
   {
     "farsi": "Chàmédân",
@@ -4659,16 +3539,11 @@
     "category": "travel",
     "sourceLine": 1485,
     "sourceCategory": "Household Items",
-    "id": "vocab-0517"
-  },
-  {
-    "farsi": "Chàmédân hâ",
-    "english": "Suitcases",
-    "persian": "چمدان‌ها",
-    "category": "travel",
-    "sourceLine": 1486,
-    "sourceCategory": "Household Items",
-    "id": "vocab-0518"
+    "id": "vocab-0517",
+    "plural": {
+      "farsi": "chamedânhâ",
+      "persian": "چمدان‌ها"
+    }
   },
   {
     "farsi": "Mivé",
@@ -4677,16 +3552,11 @@
     "category": "food",
     "sourceLine": 1491,
     "sourceCategory": "Food & Drink",
-    "id": "vocab-0519"
-  },
-  {
-    "farsi": "Mivé hâ",
-    "english": "Fruits",
-    "persian": "میوه‌ها",
-    "category": "food",
-    "sourceLine": 1492,
-    "sourceCategory": "Food & Drink",
-    "id": "vocab-0520"
+    "id": "vocab-0519",
+    "plural": {
+      "farsi": "mivehâ",
+      "persian": "میوه‌ها"
+    }
   },
   {
     "farsi": "Sândwich",
@@ -4731,16 +3601,11 @@
     "category": "health",
     "sourceLine": 1505,
     "sourceCategory": "Miscellaneous",
-    "id": "vocab-0525"
-  },
-  {
-    "farsi": "Dâroo hâ",
-    "english": "Medications",
-    "persian": "داروها",
-    "category": "health",
-    "sourceLine": 1506,
-    "sourceCategory": "Miscellaneous",
-    "id": "vocab-0526"
+    "id": "vocab-0525",
+    "plural": {
+      "farsi": "dâruhâ",
+      "persian": "داروها"
+    }
   },
   {
     "farsi": "Sedâ",
@@ -4752,15 +3617,6 @@
     "id": "vocab-0527"
   },
   {
-    "farsi": "Sedâyé",
-    "english": "Sound of",
-    "persian": "صدای",
-    "category": "media",
-    "sourceLine": 1508,
-    "sourceCategory": "Miscellaneous",
-    "id": "vocab-0528"
-  },
-  {
     "farsi": "Hésâb",
     "english": "Account",
     "persian": "حساب",
@@ -4768,15 +3624,6 @@
     "sourceLine": 1509,
     "sourceCategory": "Miscellaneous",
     "id": "vocab-0529"
-  },
-  {
-    "farsi": "Hésâbàsh",
-    "english": "His/Her account",
-    "persian": "حسابش",
-    "category": "money",
-    "sourceLine": 1510,
-    "sourceCategory": "Miscellaneous",
-    "id": "vocab-0530"
   },
   {
     "farsi": "Âdàm bàrfi",
@@ -4867,15 +3714,6 @@
     "sourceLine": 1527,
     "sourceCategory": "10. NOUNS - PLACES",
     "id": "vocab-0540"
-  },
-  {
-    "farsi": "Jang",
-    "english": "War",
-    "persian": "جنگ",
-    "category": "society",
-    "sourceLine": 1528,
-    "sourceCategory": "10. NOUNS - PLACES",
-    "id": "vocab-0541"
   },
   {
     "farsi": "Khâné",
@@ -5163,16 +4001,11 @@
     "category": "conversation",
     "sourceLine": 1587,
     "sourceCategory": "Common Expressions",
-    "id": "vocab-0573"
-  },
-  {
-    "farsi": "Mesâl hâee",
-    "english": "Examples",
-    "persian": "مثال‌هایی",
-    "category": "conversation",
-    "sourceLine": 1588,
-    "sourceCategory": "Common Expressions",
-    "id": "vocab-0574"
+    "id": "vocab-0573",
+    "plural": {
+      "farsi": "mesâlhâ",
+      "persian": "مثال‌ها"
+    }
   },
   {
     "farsi": "Barâye",
@@ -5247,15 +4080,6 @@
     "id": "vocab-0582"
   },
   {
-    "farsi": "Khosh hâl shodam",
-    "english": "I was happy/pleased",
-    "persian": "خوش حال شدم",
-    "category": "feelings",
-    "sourceLine": 1598,
-    "sourceCategory": "Common Expressions",
-    "id": "vocab-0583"
-  },
-  {
     "farsi": "Dâshté bâshi",
     "english": "May you have",
     "persian": "داشته باشی",
@@ -5268,7 +4092,7 @@
     "farsi": "Havâ chetoré?",
     "english": "How's the weather?",
     "persian": "هوا چطوره؟",
-    "category": "weather",
+    "category": "conversation",
     "sourceLine": 1604,
     "sourceCategory": "Weather & Temperature",
     "id": "vocab-0585"
@@ -5277,7 +4101,7 @@
     "farsi": "Barf oomadé?",
     "english": "Has it snowed?",
     "persian": "برف آمده؟",
-    "category": "weather",
+    "category": "conversation",
     "sourceLine": 1605,
     "sourceCategory": "Weather & Temperature",
     "id": "vocab-0586"
@@ -5313,19 +4137,10 @@
     "farsi": "Eenjâ kheili sardé",
     "english": "It's very cold here",
     "persian": "اینجا خیلی سرده",
-    "category": "weather",
+    "category": "conversation",
     "sourceLine": 1609,
     "sourceCategory": "Weather & Temperature",
     "id": "vocab-0590"
-  },
-  {
-    "farsi": "Yé sedâyee mishnavam",
-    "english": "I hear a sound",
-    "persian": "یه صدایی می‌شنوم",
-    "category": "actions",
-    "sourceLine": 1614,
-    "sourceCategory": "Other Useful Phrases",
-    "id": "vocab-0591"
   },
   {
     "farsi": "Ché khoob!",
@@ -5335,33 +4150,6 @@
     "sourceLine": 1615,
     "sourceCategory": "Other Useful Phrases",
     "id": "vocab-0592"
-  },
-  {
-    "farsi": "Mibini",
-    "english": "You see",
-    "persian": "می‌بینی",
-    "category": "actions",
-    "sourceLine": 1616,
-    "sourceCategory": "Other Useful Phrases",
-    "id": "vocab-0593"
-  },
-  {
-    "farsi": "Miram saré kâr",
-    "english": "I'm going to work",
-    "persian": "می‌رم سر کار",
-    "category": "work",
-    "sourceLine": 1617,
-    "sourceCategory": "Other Useful Phrases",
-    "id": "vocab-0594"
-  },
-  {
-    "farsi": "Barnaméyé jâlébi dâré",
-    "english": "It has an interesting program",
-    "persian": "برنامه جالبی داره",
-    "category": "media",
-    "sourceLine": 1619,
-    "sourceCategory": "Other Useful Phrases",
-    "id": "vocab-0595"
   },
   {
     "farsi": "Àkharé haftéyé khoobi",
@@ -5381,27 +4169,11 @@
     "source": "Lesson 2026-09-27"
   },
   {
-    "id": "lesson-2026-09-27-v03",
-    "farsi": "mipazam",
-    "english": "I cook",
-    "category": "food",
-    "persian": "می‌پزم",
-    "source": "Lesson 2026-09-27"
-  },
-  {
     "id": "lesson-2026-09-27-v05",
     "farsi": "kutâh",
     "english": "Short",
     "category": "descriptions",
     "persian": "کوتاه",
-    "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-09-27-v06",
-    "farsi": "kutâh kardan",
-    "english": "To shorten / cut short",
-    "category": "actions",
-    "persian": "کوتاه کردن",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5418,23 +4190,11 @@
     "english": "Hair",
     "category": "health",
     "persian": "مو",
-    "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-09-27-v09",
-    "farsi": "muhâm",
-    "english": "My hair (spoken)",
-    "category": "health",
-    "persian": "موهام",
-    "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-09-27-v10",
-    "farsi": "muhâmo",
-    "english": "My hair as the object (spoken)",
-    "category": "health",
-    "persian": "موهامو",
-    "source": "Lesson 2026-09-27"
+    "source": "Lesson 2026-09-27",
+    "plural": {
+      "farsi": "muhâ",
+      "persian": "موها"
+    }
   },
   {
     "id": "lesson-2026-09-27-v11",
@@ -5442,14 +4202,6 @@
     "english": "Architect",
     "category": "work",
     "persian": "معمار",
-    "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-09-27-v12",
-    "farsi": "tarrâhi kardan",
-    "english": "To design",
-    "category": "work",
-    "persian": "طراحی کردن",
     "source": "Lesson 2026-09-27"
   },
   {
@@ -5477,22 +4229,6 @@
     "source": "Lesson 2026-09-27"
   },
   {
-    "id": "lesson-2026-09-27-v16",
-    "farsi": "rânandegi kardan",
-    "english": "To drive",
-    "category": "travel",
-    "persian": "رانندگی کردن",
-    "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-09-27-v18",
-    "farsi": "komak kardan",
-    "english": "To help",
-    "category": "actions",
-    "persian": "کمک کردن",
-    "source": "Lesson 2026-09-27"
-  },
-  {
     "id": "lesson-2026-09-27-v19",
     "farsi": "parastâr-e bache",
     "english": "Babysitter / nanny",
@@ -5504,73 +4240,9 @@
     "id": "lesson-2026-09-27-v20",
     "farsi": "negahdâri",
     "english": "Care / looking after",
-    "category": "actions",
+    "category": "health",
     "persian": "نگهداری",
     "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-09-27-v21",
-    "farsi": "dustam",
-    "english": "My friend",
-    "category": "family",
-    "persian": "دوستم",
-    "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-09-27-v22",
-    "farsi": "dustâm",
-    "english": "My friends (spoken)",
-    "category": "family",
-    "persian": "دوستام",
-    "source": "Lesson 2026-09-27"
-  },
-  {
-    "id": "lesson-2026-10-04-v01",
-    "farsi": "muhât",
-    "english": "Your hair (singular, spoken)",
-    "persian": "موهات",
-    "category": "health",
-    "source": "Teacher notes 2026-10-04"
-  },
-  {
-    "id": "lesson-2026-10-04-v02",
-    "farsi": "muhâsh",
-    "english": "His/her hair (spoken)",
-    "persian": "موهاش",
-    "category": "health",
-    "source": "Teacher notes 2026-10-04"
-  },
-  {
-    "id": "lesson-2026-10-04-v03",
-    "farsi": "muhâmun",
-    "english": "Our hair (spoken)",
-    "persian": "موهامون",
-    "category": "health",
-    "source": "Teacher notes 2026-10-04"
-  },
-  {
-    "id": "lesson-2026-10-04-v04",
-    "farsi": "muhâtun",
-    "english": "Your hair (plural/polite, spoken)",
-    "persian": "موهاتون",
-    "category": "health",
-    "source": "Teacher notes 2026-10-04"
-  },
-  {
-    "id": "lesson-2026-10-04-v05",
-    "farsi": "muhâshun",
-    "english": "Their hair (spoken)",
-    "persian": "موهاشون",
-    "category": "health",
-    "source": "Teacher notes 2026-10-04"
-  },
-  {
-    "id": "lesson-2026-10-04-v06",
-    "farsi": "boland kardan",
-    "english": "To lengthen / grow out (hair)",
-    "persian": "بلند کردن",
-    "category": "actions",
-    "source": "Teacher notes 2026-10-04"
   },
   {
     "id": "lesson-2026-10-04-v07",
@@ -5578,22 +4250,6 @@
     "english": "Design / designing",
     "persian": "طراحی",
     "category": "work",
-    "source": "Teacher notes 2026-10-04"
-  },
-  {
-    "id": "lesson-2026-10-04-v08",
-    "farsi": "kontrol kardan",
-    "english": "To control",
-    "persian": "کنترل کردن",
-    "category": "actions",
-    "source": "Teacher notes 2026-10-04"
-  },
-  {
-    "id": "lesson-2026-10-04-v09",
-    "farsi": "pokhtam",
-    "english": "I cooked",
-    "persian": "پختم",
-    "category": "food",
     "source": "Teacher notes 2026-10-04"
   },
   {
@@ -5613,14 +4269,6 @@
     "source": "Jobs lesson notes 2026-10-04"
   },
   {
-    "id": "jobs-2026-10-04-v05",
-    "farsi": "tu-ye",
-    "english": "In / inside (spoken)",
-    "persian": "توی",
-    "category": "directions",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
     "id": "jobs-2026-10-04-v06",
     "farsi": "bakhsh-e mâli",
     "english": "Finance department",
@@ -5629,36 +4277,24 @@
     "source": "Jobs lesson notes 2026-10-04"
   },
   {
-    "id": "jobs-2026-10-04-v08",
-    "farsi": "a'dâd",
-    "english": "Numbers",
-    "persian": "اعداد",
-    "category": "numbers",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
     "id": "jobs-2026-10-04-v09",
     "farsi": "âdat",
     "english": "Habit",
     "persian": "عادت",
-    "category": "actions",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
-    "id": "jobs-2026-10-04-v10",
-    "farsi": "sar-o-kâr dâram",
-    "english": "I deal with (bâ + person/thing)",
-    "persian": "سر و کار دارم",
-    "category": "work",
+    "category": "time",
     "source": "Jobs lesson notes 2026-10-04"
   },
   {
     "id": "jobs-2026-10-04-v11",
-    "farsi": "marizhâ",
-    "english": "Patients / sick people",
-    "persian": "مریض‌ها",
+    "farsi": "bimâr / mariz",
+    "english": "Patient / sick person",
+    "persian": "بیمار / مریض",
     "category": "health",
-    "source": "Jobs lesson notes 2026-10-04"
+    "source": "Jobs lesson notes 2026-10-04",
+    "plural": {
+      "farsi": "bimârhâ / marizhâ",
+      "persian": "بیمارها / مریض‌ها"
+    }
   },
   {
     "id": "jobs-2026-10-04-v13",
@@ -5685,27 +4321,11 @@
     "source": "Jobs lesson notes 2026-10-04"
   },
   {
-    "id": "jobs-2026-10-04-v16",
-    "farsi": "dâd",
-    "english": "Justice",
-    "persian": "داد",
-    "category": "society",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
     "id": "jobs-2026-10-04-v17",
     "farsi": "dâdgâh",
     "english": "Court",
     "persian": "دادگاه",
-    "category": "places",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
-    "id": "jobs-2026-10-04-v18",
-    "farsi": "defâ' mikonam",
-    "english": "I defend",
-    "persian": "دفاع می‌کنم",
-    "category": "work",
+    "category": "directions",
     "source": "Jobs lesson notes 2026-10-04"
   },
   {
@@ -5714,31 +4334,11 @@
     "english": "Passenger / traveller",
     "persian": "مسافر",
     "category": "travel",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
-    "id": "jobs-2026-10-04-v20",
-    "farsi": "mosâferhâ",
-    "english": "Passengers / travellers",
-    "persian": "مسافرها",
-    "category": "travel",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
-    "id": "jobs-2026-10-04-v21",
-    "farsi": "darmân mikonam",
-    "english": "I treat",
-    "persian": "درمان می‌کنم",
-    "category": "health",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
-    "id": "jobs-2026-10-04-v23",
-    "farsi": "bimârâ-ro",
-    "english": "The patients, as the object (spoken)",
-    "persian": "بیمارا رو",
-    "category": "health",
-    "source": "Jobs lesson notes 2026-10-04"
+    "source": "Jobs lesson notes 2026-10-04",
+    "plural": {
+      "farsi": "mosâferhâ",
+      "persian": "مسافرها"
+    }
   },
   {
     "id": "jobs-2026-10-04-v24",
@@ -5746,14 +4346,6 @@
     "english": "Job / occupation",
     "persian": "شغل",
     "category": "work",
-    "source": "Jobs lesson notes 2026-10-04"
-  },
-  {
-    "id": "jobs-2026-10-04-v25",
-    "farsi": "dars midam",
-    "english": "I teach / give lessons (spoken)",
-    "persian": "درس می‌دم",
-    "category": "education",
     "source": "Jobs lesson notes 2026-10-04"
   },
   {
@@ -5870,18 +4462,10 @@
   },
   {
     "id": "grandma-2026-10-04-v07",
-    "farsi": "esmesh",
-    "english": "Its name / his or her name",
+    "farsi": "esm",
+    "english": "Name",
     "category": "conversation",
-    "persian": "",
-    "source": "Grandma conversation practice 2026-10-04"
-  },
-  {
-    "id": "grandma-2026-10-04-v08",
-    "farsi": "mishenâsamesh",
-    "english": "I know him/her",
-    "category": "conversation",
-    "persian": "",
+    "persian": "اسم",
     "source": "Grandma conversation practice 2026-10-04"
   },
   {
@@ -5889,22 +4473,6 @@
     "farsi": "az tarigh-e",
     "english": "Through / via",
     "category": "conversation",
-    "persian": "",
-    "source": "Grandma conversation practice 2026-10-04"
-  },
-  {
-    "id": "grandma-2026-10-04-v10",
-    "farsi": "bâhâsh",
-    "english": "With him/her",
-    "category": "sentence-building",
-    "persian": "",
-    "source": "Grandma conversation practice 2026-10-04"
-  },
-  {
-    "id": "grandma-2026-10-04-v11",
-    "farsi": "âshenâ shodan",
-    "english": "To meet / become acquainted",
-    "category": "actions",
     "persian": "",
     "source": "Grandma conversation practice 2026-10-04"
   },
@@ -5917,14 +4485,6 @@
     "source": "Grandma conversation practice 2026-10-04"
   },
   {
-    "id": "grandma-2026-10-04-v14",
-    "farsi": "mashghul-e kâram",
-    "english": "I am busy with work",
-    "category": "work",
-    "persian": "",
-    "source": "Grandma conversation practice 2026-10-04"
-  },
-  {
     "id": "grandma-2026-10-04-v15",
     "farsi": "barnâmenevisi",
     "english": "Coding / programming",
@@ -5933,26 +4493,10 @@
     "source": "Grandma conversation practice 2026-10-04"
   },
   {
-    "id": "grandma-2026-10-04-v16",
-    "farsi": "yâd migiram",
-    "english": "I am learning",
-    "category": "education",
-    "persian": "",
-    "source": "Grandma conversation practice 2026-10-04"
-  },
-  {
     "id": "grandma-2026-10-04-v17",
     "farsi": "gâhi",
     "english": "Sometimes",
     "category": "time",
-    "persian": "",
-    "source": "Grandma conversation practice 2026-10-04"
-  },
-  {
-    "id": "grandma-2026-10-04-v18",
-    "farsi": "varzesh mikonam",
-    "english": "I exercise",
-    "category": "health",
     "persian": "",
     "source": "Grandma conversation practice 2026-10-04"
   },
@@ -5995,5 +4539,356 @@
     "category": "education",
     "persian": "",
     "source": "Grandma conversation practice 2026-10-04"
+  },
+  {
+    "id": "base-place",
+    "farsi": "jâ",
+    "english": "Place",
+    "persian": "جا",
+    "category": "directions",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-01",
+    "farsi": "pirâhan",
+    "english": "Shirt / dress (depending on context)",
+    "persian": "پیراهن",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-02",
+    "farsi": "shalvâr",
+    "english": "Trousers",
+    "persian": "شلوار",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-03",
+    "farsi": "dâman",
+    "english": "Skirt",
+    "persian": "دامن",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-04",
+    "farsi": "tishert",
+    "english": "T-shirt",
+    "persian": "تی‌شرت",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-05",
+    "farsi": "poliver",
+    "english": "Jumper / sweater",
+    "persian": "پلیور",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-06",
+    "farsi": "kâpshan",
+    "english": "Jacket / anorak",
+    "persian": "کاپشن",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-07",
+    "farsi": "pâlto",
+    "english": "Overcoat",
+    "persian": "پالتو",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-08",
+    "farsi": "jurâb",
+    "english": "Sock",
+    "persian": "جوراب",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-09",
+    "farsi": "shalvârak",
+    "english": "Shorts",
+    "persian": "شلوارک",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-10",
+    "farsi": "shal-gardan",
+    "english": "Scarf",
+    "persian": "شال‌گردن",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-11",
+    "farsi": "dastkesh",
+    "english": "Glove",
+    "persian": "دستکش",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-12",
+    "farsi": "kamarband",
+    "english": "Belt",
+    "persian": "کمربند",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-13",
+    "farsi": "chakme",
+    "english": "Boot",
+    "persian": "چکمه",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-14",
+    "farsi": "sandâl",
+    "english": "Sandal",
+    "persian": "صندل",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "clothing-basic-15",
+    "farsi": "lebâs-e zir",
+    "english": "Underwear",
+    "persian": "لباس زیر",
+    "category": "clothing",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-01",
+    "farsi": "-am",
+    "english": "My: dustam = my friend. After a vowel, often -yam: pâ-yam = my foot.",
+    "persian": "ـم",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-02",
+    "farsi": "-at / -et",
+    "english": "Your (one person): dustat; spoken dustet = your friend.",
+    "persian": "ـت",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-03",
+    "farsi": "-ash / -esh",
+    "english": "His/her/its: dustash; spoken dustesh = his/her friend.",
+    "persian": "ـش",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-04",
+    "farsi": "-emân / -emun",
+    "english": "Our: dustemân; spoken dustemun = our friend.",
+    "persian": "ـمان / ـمون",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-05",
+    "farsi": "-etân / -etun",
+    "english": "Your (plural/polite): dustetân; spoken dustetun = your friend.",
+    "persian": "ـتان / ـتون",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-06",
+    "farsi": "-eshân / -eshun",
+    "english": "Their: dusteshân; spoken dusteshun = their friend.",
+    "persian": "ـشان / ـشون",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-07",
+    "farsi": "-hâ + possessive ending",
+    "english": "Plural comes before possession: dust-hâ-yam = my friends; spoken dustâm. Compare dustam = my friend.",
+    "persian": "دوست‌هایم / دوستام",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-08",
+    "farsi": "Attached object endings",
+    "english": "After a verb these endings can mean me/you/him/her/us/them: mishenâsam-esh = I know him/her.",
+    "persian": "می‌شناسمش",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-09",
+    "farsi": "Possession + râ / ro",
+    "english": "The object marker is separate from possession: dustam ro (spoken dustam-o) = my friend as the object.",
+    "persian": "دوستم را / دوستم رو",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "endings-10",
+    "farsi": "Ezâfe: -e / -ye",
+    "english": "Links nouns: dust-e man = my friend; esm-e sherkat = the company’s name. After a vowel use -ye: mu-ye man.",
+    "persian": "ـِ / یِ",
+    "category": "endings",
+    "source": "Vocabulary review — 4 October 2026"
+  },
+  {
+    "id": "recall-say",
+    "farsi": "goftan",
+    "english": "Say",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "gu",
+    "pastStem": "goft",
+    "imperative": "begu",
+    "present": "miguyam / migam"
+  },
+  {
+    "id": "recall-know",
+    "farsi": "shenâkhtan",
+    "english": "Know / recognise",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "shenâs",
+    "pastStem": "shenâkht",
+    "imperative": "beshenâs",
+    "present": "mishenâsam"
+  },
+  {
+    "id": "recall-learn",
+    "farsi": "yâd gereftan",
+    "english": "Learn",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "yâd gir",
+    "pastStem": "yâd gereft",
+    "imperative": "yâd begir",
+    "present": "yâd migiram"
+  },
+  {
+    "id": "recall-exercise",
+    "farsi": "varzesh kardan",
+    "english": "Exercise",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "varzesh kon",
+    "pastStem": "varzesh kard",
+    "imperative": "varzesh kon",
+    "present": "varzesh mikonam"
+  },
+  {
+    "id": "recall-meet",
+    "farsi": "âshenâ shodan",
+    "english": "Become acquainted",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "âshenâ shav",
+    "pastStem": "âshenâ shod",
+    "imperative": "âshenâ sho",
+    "present": "âshenâ mishavam / âshenâ misham"
+  },
+  {
+    "id": "recall-dry",
+    "farsi": "khoshk shodan",
+    "english": "Dry up",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "khoshk shav",
+    "pastStem": "khoshk shod",
+    "imperative": "khoshk sho",
+    "present": "khoshk mishavam / khoshk misham"
+  },
+  {
+    "id": "recall-become",
+    "farsi": "shodan",
+    "english": "Become",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "shav",
+    "pastStem": "shod",
+    "imperative": "sho",
+    "present": "mishavam / misham"
+  },
+  {
+    "id": "recall-forget",
+    "farsi": "farâmush kardan",
+    "english": "Forget",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "farâmush kon",
+    "pastStem": "farâmush kard",
+    "imperative": "farâmush kon",
+    "present": "farâmush mikonam"
+  },
+  {
+    "id": "recall-like",
+    "farsi": "dust dâshtan",
+    "english": "Like / love",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "dust dâr",
+    "pastStem": "dust dâsht",
+    "imperative": "dust dâshte bâsh",
+    "present": "dust dâram"
+  },
+  {
+    "id": "recall-need",
+    "farsi": "lâzem dâshtan",
+    "english": "Need",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "lâzem dâr",
+    "pastStem": "lâzem dâsht",
+    "imperative": "— (not normally used as a command)",
+    "present": "lâzem dâram"
+  },
+  {
+    "id": "recall-exist",
+    "farsi": "vojud dâshtan",
+    "english": "Exist",
+    "persian": "",
+    "category": "verbs",
+    "source": "Vocabulary review — 4 October 2026",
+    "kind": "verb",
+    "presentStem": "vojud dâr",
+    "pastStem": "vojud dâsht",
+    "imperative": "— (not normally used as a command)",
+    "present": "vojud dâram"
   }
 ]

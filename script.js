@@ -2,7 +2,8 @@ let vocabulary = [];
 let currentIndex = 0;
 
 const parameters = new URLSearchParams(window.location.search);
-const selectedTopic = parameters.get('category');
+const requestedTopic = parameters.get('category');
+const selectedTopic = ({kitchen: 'home', places: 'directions', actions: 'verbs'})[requestedTopic] || requestedTopic;
 
 const question = document.getElementById('question');
 const answer = document.getElementById('answer');
@@ -51,7 +52,7 @@ function changeDisplayMode(newMode) {
     displayMode === 'both'
   );
 
-  showQuestion();
+  if (vocabulary.length) showQuestion();
 }
 
 async function loadVocabulary() {
@@ -64,13 +65,7 @@ async function loadVocabulary() {
     topicNames[selectedTopic];
 
   try {
-    const response = await fetch('questions.json');
-
-    if (!response.ok) {
-      throw new Error('File request failed: ' + response.status);
-    }
-
-    const allVocabulary = await response.json();
+    const allVocabulary = await loadPracticeCards();
 
     vocabulary = allVocabulary.filter(function (entry) {
       return entry.category === selectedTopic;
@@ -82,6 +77,7 @@ async function loadVocabulary() {
       return;
     }
 
+    document.querySelector('.display-controls').hidden = selectedTopic === 'verbs';
     showQuestion();
   } catch (error) {
     question.textContent = 'Could not load vocabulary: ' + error.message;
@@ -90,17 +86,7 @@ async function loadVocabulary() {
 
 function showQuestion() {
   const current = vocabulary[currentIndex];
-  let displayedWord;
-
-  if (displayMode === 'persian') {
-    displayedWord = current.persian || current.farsi;
-  } else if (displayMode === 'both' && current.persian) {
-    displayedWord = current.persian + ' — ' + current.farsi;
-  } else {
-    displayedWord = current.farsi;
-  }
-
-  question.textContent = 'What does ' + displayedWord + ' mean?';
+  question.textContent = cardQuestion(current, displayMode);
 
   progress.textContent =
     'Card ' + (currentIndex + 1) + ' of ' + vocabulary.length;
@@ -111,7 +97,7 @@ function showQuestion() {
 }
 
 function revealAnswer() {
-  answer.textContent = vocabulary[currentIndex].english;
+  answer.textContent = cardAnswer(vocabulary[currentIndex], displayMode);
   revealButton.disabled = false;
   nextButton.disabled = false;
 }

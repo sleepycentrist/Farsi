@@ -1,13 +1,11 @@
 const topicNames = {
   "time": "Time & routines",
   "family": "Family & people",
-  "home": "Home & furniture",
-  "kitchen": "Kitchen & tableware",
+  "home": "Home, furniture & kitchen",
   "food": "Food, drink & cooking",
   "clothing": "Clothing & accessories",
-  "directions": "Directions & location",
+  "directions": "Places, directions & location",
   "travel": "Travel & transport",
-  "places": "Places & geography",
   "weather": "Weather & nature",
   "animals": "Animals",
   "work": "Jobs & work",
@@ -20,7 +18,7 @@ const topicNames = {
   "numbers": "Numbers & quantities",
   "media": "Media, technology & leisure",
   "conversation": "Conversation & questions",
-  "society": "Society & history",
-  "actions": "Everyday actions",
-  "sentence-building": "Pronouns & linking words"
+  "verbs": "Verbs: roots & present",
+  "endings": "Possessive & object endings",
+  "sentence-building": "Linking words"
 };

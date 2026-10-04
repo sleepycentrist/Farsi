@@ -20,3 +20,8 @@ Inspect the latest saved schemas before edits. Route standalone vocabulary to qu
 The user actively edits this folder. Check changes before and after edits. Never stage or publish their unfinished app edits automatically. If lesson changes overlap uncommitted user changes, defer publication and explain the conflict. Never overwrite on-disk edits or assume unsaved editor buffers are available.
 
 When adding lessons, refresh weekly-phrases.json with exactly ten useful recent phrases, translations and Persian script; update the matching static weekly-phrases section in index.html and its visible date. Keep them identical so the box works without JavaScript and always reflects the curated latest lesson. Preserve layout and other sections.
+
+## Vocabulary organisation
+Keep one base-word card; put plurals in a `plural` object with `farsi` and `persian`. Teach possessive/object endings in `endings`, not as separate possessed-word cards. Do not re-add basic personal pronouns or the removed society category. Kitchen belongs to home; places belongs to directions.
+`cards.js` derives root/command/present recall from verbs.json automatically. Additional reviewed root-only entries in questions.json use category `verbs`, kind `verb`, and presentStem, pastStem, imperative, present. Never duplicate a verb already supplied by verbs.json or add individual conjugations to noun topics. Full conjugation exercises remain separate.
+Run `node scripts/test_cards.cjs` as well as the content check. Keep the weekly phrases inside the compact native details disclosure, closed by default.

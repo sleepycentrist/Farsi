@@ -35,3 +35,13 @@ for verb in verbs:
         for variants in forms.values():
             assert isinstance(variants, list) and variants and all(isinstance(v,str) and v.strip() for v in variants), verb['id']
 print(f'verbs.json: {len(verbs)} verbs checked')
+
+words = json.loads((root / 'questions.json').read_text())
+for word in words:
+    if 'plural' in word:
+        assert word['plural']['farsi'] and word['plural']['persian'], word['id']
+    if word.get('kind') == 'verb':
+        assert word['category'] == 'verbs', word['id']
+        for key in ('presentStem', 'pastStem', 'imperative', 'present'):
+            assert word[key].strip(), (word['id'], key)
+        assert word['farsi'] not in {v['infinitive'] for v in verbs}, word['id']

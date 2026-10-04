@@ -1857,3 +1857,39 @@ Formal: من موهایم را کوتاه می‌کنم — Man muhâyam râ kut
 4. Say “I design buildings.” → Sâkhtemân tarrâhi mikonam.
 5. Say “I help my friend.” → Be doostam komak mikonam.
 6. Contrast their hair / her hair → muhâshun / muhâsh.
+
+
+## Vocabulary review — 4 October 2026
+
+One card per base word; plurals now appear on the answer. Possessive and object endings have a separate category. Verb recall covers infinitives, past/present stems, commands and one present example; full conjugation practice remains separate. Kitchen is grouped with home, places with directions, and Society & history is removed from practice.
+
+### Clothing additions
+
+- pirâhan (پیراهن) — Shirt / dress (depending on context)
+- shalvâr (شلوار) — Trousers
+- dâman (دامن) — Skirt
+- tishert (تی‌شرت) — T-shirt
+- poliver (پلیور) — Jumper / sweater
+- kâpshan (کاپشن) — Jacket / anorak
+- pâlto (پالتو) — Overcoat
+- jurâb (جوراب) — Sock
+- shalvârak (شلوارک) — Shorts
+- shal-gardan (شال‌گردن) — Scarf
+- dastkesh (دستکش) — Glove
+- kamarband (کمربند) — Belt
+- chakme (چکمه) — Boot
+- sandâl (صندل) — Sandal
+- lebâs-e zir (لباس زیر) — Underwear
+
+### Possessive and object endings
+
+- -am — My: dustam = my friend. After a vowel, often -yam: pâ-yam = my foot.
+- -at / -et — Your (one person): dustat; spoken dustet = your friend.
+- -ash / -esh — His/her/its: dustash; spoken dustesh = his/her friend.
+- -emân / -emun — Our: dustemân; spoken dustemun = our friend.
+- -etân / -etun — Your (plural/polite): dustetân; spoken dustetun = your friend.
+- -eshân / -eshun — Their: dusteshân; spoken dusteshun = their friend.
+- -hâ + possessive ending — Plural comes before possession: dust-hâ-yam = my friends; spoken dustâm. Compare dustam = my friend.
+- Attached object endings — After a verb these endings can mean me/you/him/her/us/them: mishenâsam-esh = I know him/her.
+- Possession + râ / ro — The object marker is separate from possession: dustam ro (spoken dustam-o) = my friend as the object.
+- Ezâfe: -e / -ye — Links nouns: dust-e man = my friend; esm-e sherkat = the company’s name. After a vowel use -ye: mu-ye man.

@@ -288,15 +288,17 @@ h3 {
   }
 }
 
-/* Latest lesson phrases */
-.weekly-phrases { background: #fffdf7; border: 1px solid #dfd4bd; border-top: 5px solid #dca630; border-radius: 16px; padding: 24px; }
-.weekly-phrases h2 { margin-top: 0; }
-.weekly-phrases > p { color: #626675; line-height: 1.5; }
-.weekly-phrases ol { padding-left: 24px; margin-bottom: 0; }
-.weekly-phrases li { padding: 14px 0 14px 6px; border-bottom: 1px solid #eae1d1; line-height: 1.6; }
-.weekly-phrases li:last-child { border-bottom: 0; }
-.weekly-phrases li::marker { color: #176b70; font-weight: bold; }
+/* Compact latest-lesson disclosure. */
+.weekly-phrases { margin-top: 18px; border: 1px solid #dfd4bd; border-radius: 10px; background: #fffdf7; font-size: 14px; }
+.weekly-phrases:not([open]) { width: fit-content; max-width: 100%; }
+.weekly-phrases summary { cursor: pointer; padding: 8px 12px; color: #176b70; font-weight: bold; }
+.weekly-phrases small { font-weight: normal; font-size: 11px; margin-left: 6px; }
+.weekly-phrases summary:focus-visible { outline: 3px solid #176b70; outline-offset: 3px; }
+.weekly-phrases > p { padding: 0 14px; color: #626675; }
+.weekly-phrases ol { padding: 0 16px 8px 36px; }
+.weekly-phrases li { padding: 8px 0; border-bottom: 1px solid #eae1d1; line-height: 1.5; }
+.weekly-phrases li:last-child { border: 0; }
 .weekly-phrases strong, .weekly-phrases span { display: block; overflow-wrap: anywhere; }
-.weekly-phrases strong { color: #176b70; }
-.weekly-phrases [lang="fa"] { font-size: 1.15rem; margin: 5px 0; }
-@media (max-width: 480px) { .weekly-phrases { padding: 16px; } }
+.weekly-phrases [lang="fa"] { margin: 4px 0; }
+#answer { white-space: pre-line; line-height: 1.6; }
+.display-controls[hidden] { display: none; }

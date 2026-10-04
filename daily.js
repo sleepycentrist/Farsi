@@ -61,13 +61,7 @@ function changeDisplayMode(newMode) {
 
 async function loadDailyVocabulary() {
   try {
-    const response = await fetch('questions.json');
-
-    if (!response.ok) {
-      throw new Error('File request failed: ' + response.status);
-    }
-
-    const allVocabulary = await response.json();
+    const allVocabulary = await loadPracticeCards();
 
     const mixedVocabulary = shuffle(allVocabulary);
 
@@ -86,19 +80,7 @@ async function loadDailyVocabulary() {
 
 function showQuestion() {
   const current = dailyVocabulary[currentIndex];
-  let displayedWord;
-
-  if (displayMode === 'persian') {
-    displayedWord = current.persian || current.farsi;
-  } else if (displayMode === 'both' && current.persian) {
-    displayedWord =
-      current.persian + ' — ' + current.farsi;
-  } else {
-    displayedWord = current.farsi;
-  }
-
-  question.textContent =
-    'What does ' + displayedWord + ' mean?';
+  question.textContent = cardQuestion(current, displayMode);
 
   progress.textContent =
     'Question ' +
@@ -116,7 +98,7 @@ function showQuestion() {
 function revealAnswer() {
   const current = dailyVocabulary[currentIndex];
 
-  answer.textContent = current.english;
+  answer.textContent = cardAnswer(current, displayMode);
 }
 
 
