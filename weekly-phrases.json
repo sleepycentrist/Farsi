@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "phrases": [
     {
-      "farsi": "Hâzeri?",
-      "english": "Are you ready?",
-      "persian": "حاضری؟"
+      "farsi": "Havâ târik shod.",
+      "persian": "هوا تاریک شد.",
+      "english": "It got dark."
     },
     {
-      "farsi": "Nemifahmam.",
-      "english": "I don’t understand.",
-      "persian": "نمی‌فهمم."
+      "farsi": "Dâshtan miraftan sinemâ.",
+      "persian": "داشتن می‌رفتن سینما.",
+      "english": "They were going to the cinema."
     },
     {
-      "farsi": "Mâ mamulan sobhune chi mikhorim?",
-      "english": "What do we usually eat for breakfast?",
-      "persian": "ما معمولاً صبحونه چی می‌خوریم؟"
+      "farsi": "Az didan-e un khoshhâl shodim.",
+      "persian": "از دیدن اون خوشحال شدیم.",
+      "english": "We became happy from seeing him/her."
     },
     {
-      "farsi": "Man se tâ medâd dâram.",
-      "english": "I have three pencils.",
-      "persian": "من سه تا مداد دارم."
+      "farsi": "Shomâ khoshhâl shodid.",
+      "persian": "شما خوشحال شدید.",
+      "english": "You became happy. (plural/formal)"
     },
     {
-      "farsi": "Dustam shish tâ medâd dâre.",
-      "english": "My friend has six pencils.",
-      "persian": "دوستم شیش تا مداد داره."
+      "farsi": "Barâdaresho didim.",
+      "persian": "برادرش رو دیدیم.",
+      "english": "We saw his/her brother."
     },
     {
-      "farsi": "Mâ chand tâ medâd dârim?",
-      "english": "How many pencils do we have?",
-      "persian": "ما چند تا مداد داریم؟"
+      "farsi": "Raftim sinemâ tâ film bebinim.",
+      "persian": "رفتیم سینما تا فیلم ببینیم.",
+      "english": "We went to the cinema to watch a film."
     },
     {
-      "farsi": "Man asabâni shodam.",
-      "english": "I became angry.",
-      "persian": "من عصبانی شدم."
+      "farsi": "Film tamum shod.",
+      "persian": "فیلم تموم شد.",
+      "english": "The film ended."
     },
     {
-      "farsi": "Diruz asr sâ’at hodud-e haft bud.",
-      "english": "Yesterday evening, it was around seven o’clock.",
-      "persian": "دیروز عصر ساعت حدود هفت بود."
+      "farsi": "Film tamum shode.",
+      "persian": "فیلم تموم شده.",
+      "english": "The film has finished."
     },
     {
-      "farsi": "Havâ dâsht kam kam târik mishod.",
-      "english": "It was gradually getting dark.",
-      "persian": "هوا داشت کم‌کم تاریک می‌شد."
+      "farsi": "Hamegi bâ ham bargashtim.",
+      "persian": "همگی با هم برگشتیم.",
+      "english": "We all returned together."
     },
     {
-      "farsi": "Man o dustam dâshtim miraftim sinemâ.",
-      "english": "My friend and I were going to the cinema.",
-      "persian": "من و دوستم داشتیم می‌رفتیم سینما."
+      "farsi": "Raftim hamun sinemâ.",
+      "persian": "رفتیم همون سینما.",
+      "english": "We went to that same cinema."
     }
   ]
 }

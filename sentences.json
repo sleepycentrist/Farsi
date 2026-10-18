@@ -5784,5 +5784,277 @@
     "register": "spoken",
     "source": "Lesson 2026-10-11; reviewed examples",
     "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s01",
+    "prompt": "It got dark.",
+    "tiles": [
+      "shod",
+      "târik",
+      "havâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "havâ",
+        "târik",
+        "shod"
+      ]
+    ],
+    "explanation": "Shod is the third-person singular past of shodan; it marks a change of state.",
+    "topic": "weather",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s02",
+    "prompt": "It was getting dark.",
+    "tiles": [
+      "mishod",
+      "târik",
+      "havâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "havâ",
+        "târik",
+        "mishod"
+      ]
+    ],
+    "explanation": "Mi- + past stem can describe an ongoing or habitual past event. Dâsht mishod explicitly focuses on becoming in progress.",
+    "topic": "weather",
+    "grammar": "past-continuous",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s03",
+    "prompt": "They were going to the cinema.",
+    "tiles": [
+      "sinemâ",
+      "miraftan",
+      "dâshtan"
+    ],
+    "acceptedAnswers": [
+      [
+        "dâshtan",
+        "miraftan",
+        "sinemâ"
+      ]
+    ],
+    "explanation": "Spoken dâshtan miraftan corresponds to formal dâshtand miraftand. Both verbs agree with they; dâshtan here is a finite spoken form, not the infinitive to have.",
+    "topic": "media",
+    "grammar": "past-continuous",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s04",
+    "prompt": "We became happy from seeing him/her.",
+    "tiles": [
+      "shodim",
+      "khoshhâl",
+      "un",
+      "didan-e",
+      "az"
+    ],
+    "acceptedAnswers": [
+      [
+        "az",
+        "didan-e",
+        "un",
+        "khoshhâl",
+        "shodim"
+      ]
+    ],
+    "explanation": "Az didan-e un = from seeing him/her. Shodim = we became; khoshhâl shodim is became happy / were delighted, whereas khoshhâl budim describes being happy.",
+    "topic": "feelings",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s05",
+    "prompt": "You became happy. (plural/formal)",
+    "tiles": [
+      "shodid",
+      "khoshhâl",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "khoshhâl",
+        "shodid"
+      ]
+    ],
+    "explanation": "Shod + -id = you became (plural or polite); shod + -im = we became.",
+    "topic": "feelings",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s06",
+    "prompt": "We saw his/her brother.",
+    "tiles": [
+      "didim",
+      "barâdaresho"
+    ],
+    "acceptedAnswers": [
+      [
+        "barâdaresho",
+        "didim"
+      ]
+    ],
+    "explanation": "Barâdar + -esh = his/her brother; spoken ro contracts to -o. Did + -im = we saw.",
+    "topic": "family",
+    "grammar": "possession",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s07",
+    "prompt": "You saw his/her brother. (plural/formal)",
+    "tiles": [
+      "didid",
+      "râ",
+      "barâdaresh"
+    ],
+    "acceptedAnswers": [
+      [
+        "barâdaresh",
+        "râ",
+        "didid"
+      ]
+    ],
+    "explanation": "Did + -id = you saw (plural or polite). Râ marks the direct object; -esh marks his/her.",
+    "topic": "family",
+    "grammar": "simple-past",
+    "register": "formal",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s08",
+    "prompt": "We went to the cinema to watch a film.",
+    "tiles": [
+      "bebinim",
+      "film",
+      "tâ",
+      "sinemâ",
+      "raftim"
+    ],
+    "acceptedAnswers": [
+      [
+        "raftim",
+        "sinemâ",
+        "tâ",
+        "film",
+        "bebinim"
+      ]
+    ],
+    "explanation": "Tâ + subjunctive expresses purpose: so that / in order to. Bebinim is the we subjunctive of didan. Raft + -im = we went. This tâ is not the counting word tâ.",
+    "topic": "media",
+    "grammar": "purpose",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s09",
+    "prompt": "The film ended.",
+    "tiles": [
+      "shod",
+      "tamum",
+      "film"
+    ],
+    "acceptedAnswers": [
+      [
+        "film",
+        "tamum",
+        "shod"
+      ]
+    ],
+    "explanation": "Tamum shod = ended / finished (formal tamâm shod). Tamâm shodan is intransitive; tamâm kardan means to finish something.",
+    "topic": "media",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s10",
+    "prompt": "The film has finished.",
+    "tiles": [
+      "shode",
+      "tamum",
+      "film"
+    ],
+    "acceptedAnswers": [
+      [
+        "film",
+        "tamum",
+        "shode"
+      ]
+    ],
+    "explanation": "Tamum shode is spoken tamâm shode ast: has finished. Shode is the past participle; shod is simple past.",
+    "topic": "media",
+    "grammar": "present-perfect",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s11",
+    "prompt": "We all returned together.",
+    "tiles": [
+      "bargashtim",
+      "ham",
+      "bâ",
+      "hamegi"
+    ],
+    "acceptedAnswers": [
+      [
+        "hamegi",
+        "bâ",
+        "ham",
+        "bargashtim"
+      ]
+    ],
+    "explanation": "Bargasht + -im = we returned. Hamegi means all/everyone; -im establishes all of us. Bâ ham means together.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-s12",
+    "prompt": "We went to that same cinema.",
+    "tiles": [
+      "sinemâ",
+      "hamun",
+      "raftim"
+    ],
+    "acceptedAnswers": [
+      [
+        "raftim",
+        "hamun",
+        "sinemâ"
+      ]
+    ],
+    "explanation": "Hamun is spoken hamân: that same / the very same. Spoken Persian may omit be before the destination.",
+    "topic": "media",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026",
+    "difficulty": "intermediate"
   }
 ]

@@ -1954,3 +1954,50 @@ Grammar and practice (examples, not personal facts):
   Babr means tiger. Ya’ni chi asks what a word means; ya’ni can also introduce a clarification, that is / I mean.
 - in be fârsi chi mishe. — این به فارسی چی می‌شه؟ — What is this called in Farsi?
   Mishe is spoken mishavad, from shodan. Here chi mishe asks what something is called or translates to. Ki mishe instead asks when, depending on context.
+
+
+### 11 October 2026 lesson supplement — added 18 October 2026
+
+- sohbat — صحبت — Conversation / talking.
+- tarigh — طریق — Way / method; az tarigh-e = through / via.
+- jâleb — جالب — Interesting.
+- hamegi — همگی — Everyone / all (all of us with a first-person plural verb).
+- tamâm / tamum — تمام / تموم — Finished / complete; all / whole, depending on context.
+- az in tarigh — از این طریق — In this way / by this means.
+- az che tarighi? — از چه طریقی؟ — By what means? / How?.
+- hamân / hamun = that same; existing card expanded. Reused târik (dark), bâ ham (together), râh (way/road), and az tarigh-e (through/via).
+- Correct spelling: همگی (hamegi). Blank rows and the isolated ه were not treated as vocabulary.
+- dâsht mishod = it was becoming; dâshtim miraftim = we were going; dâshtan miraftan = they were going (spoken).
+- didim = we saw; didid = you saw (plural/polite); shodim = we became; shodid = you became (plural/polite); raftim = we went; bargashtim = we returned.
+- Past tense: past stem + person ending; -im marks we, -id marks plural/polite you. Third-person singular has no added person ending.
+- tâ + subjunctive marks purpose; bebinim = (that) we see/watch, with bin as the present stem.
+- khoshhâl shodim means became happy / were delighted; khoshhâl budim describes a state, we were happy.
+- tamum shod = it ended; tamum shode = it has ended (spoken form of tamâm shode ast).
+- barâdaresho = barâdar + -esh + -o, his/her brother as the object.
+
+Reviewed practice examples (not personal facts):
+
+- havâ târik shod. — هوا تاریک شد. — It got dark.
+  Shod is the third-person singular past of shodan; it marks a change of state.
+- havâ târik mishod. — هوا تاریک می‌شد. — It was getting dark.
+  Mi- + past stem can describe an ongoing or habitual past event. Dâsht mishod explicitly focuses on becoming in progress.
+- dâshtan miraftan sinemâ. — داشتن می‌رفتن سینما. — They were going to the cinema.
+  Spoken dâshtan miraftan corresponds to formal dâshtand miraftand. Both verbs agree with they; dâshtan here is a finite spoken form, not the infinitive to have.
+- az didan-e un khoshhâl shodim. — از دیدن اون خوشحال شدیم. — We became happy from seeing him/her.
+  Az didan-e un = from seeing him/her. Shodim = we became; khoshhâl shodim is became happy / were delighted, whereas khoshhâl budim describes being happy.
+- shomâ khoshhâl shodid. — شما خوشحال شدید. — You became happy. (plural/formal)
+  Shod + -id = you became (plural or polite); shod + -im = we became.
+- barâdaresho didim. — برادرش رو دیدیم. — We saw his/her brother.
+  Barâdar + -esh = his/her brother; spoken ro contracts to -o. Did + -im = we saw.
+- barâdaresh râ didid. — برادرش را دیدید. — You saw his/her brother. (plural/formal)
+  Did + -id = you saw (plural or polite). Râ marks the direct object; -esh marks his/her.
+- raftim sinemâ tâ film bebinim. — رفتیم سینما تا فیلم ببینیم. — We went to the cinema to watch a film.
+  Tâ + subjunctive expresses purpose: so that / in order to. Bebinim is the we subjunctive of didan. Raft + -im = we went. This tâ is not the counting word tâ.
+- film tamum shod. — فیلم تموم شد. — The film ended.
+  Tamum shod = ended / finished (formal tamâm shod). Tamâm shodan is intransitive; tamâm kardan means to finish something.
+- film tamum shode. — فیلم تموم شده. — The film has finished.
+  Tamum shode is spoken tamâm shode ast: has finished. Shode is the past participle; shod is simple past.
+- hamegi bâ ham bargashtim. — همگی با هم برگشتیم. — We all returned together.
+  Bargasht + -im = we returned. Hamegi means all/everyone; -im establishes all of us. Bâ ham means together.
+- raftim hamun sinemâ. — رفتیم همون سینما. — We went to that same cinema.
+  Hamun is spoken hamân: that same / the very same. Spoken Persian may omit be before the destination.

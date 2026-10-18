@@ -763,9 +763,9 @@
     "id": "vocab-0090"
   },
   {
-    "farsi": "hamân",
-    "english": "that same",
-    "persian": "همان",
+    "farsi": "hamân / hamun",
+    "english": "That same / the very same (formal / spoken)",
+    "persian": "همان / همون",
     "category": "sentence-building",
     "sourceLine": 448,
     "sourceCategory": "Additional vocabulary from readings, exercises and handwriting",
@@ -4473,7 +4473,7 @@
     "farsi": "az tarigh-e",
     "english": "Through / via",
     "category": "conversation",
-    "persian": "",
+    "persian": "از طریقِ",
     "source": "Grandma conversation practice 2026-10-04"
   },
   {
@@ -4735,7 +4735,7 @@
   {
     "id": "endings-09",
     "farsi": "Possession + râ / ro",
-    "english": "The object marker is separate from possession: dustam ro (spoken dustam-o) = my friend as the object.",
+    "english": "The object marker is separate from possession: dustam ro (spoken dustam-o) = my friend as the object. Barâdaresh ro / barâdaresho = his/her brother as the object; -esh marks possession and ro / -o marks the object.",
     "persian": "دوستم را / دوستم رو",
     "category": "endings",
     "source": "Vocabulary review — 4 October 2026"
@@ -5058,5 +5058,74 @@
     "persian": "تا",
     "category": "numbers",
     "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-v01",
+    "farsi": "sohbat",
+    "persian": "صحبت",
+    "english": "Conversation / talking",
+    "category": "conversation",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-v02",
+    "farsi": "tarigh",
+    "persian": "طریق",
+    "english": "Way / method; az tarigh-e = through / via",
+    "category": "directions",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-v03",
+    "farsi": "jâleb",
+    "persian": "جالب",
+    "english": "Interesting",
+    "category": "descriptions",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-v04",
+    "farsi": "hamegi",
+    "persian": "همگی",
+    "english": "Everyone / all (all of us with a first-person plural verb)",
+    "category": "numbers",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-v05",
+    "farsi": "tamâm / tamum",
+    "persian": "تمام / تموم",
+    "english": "Finished / complete; all / whole, depending on context",
+    "category": "descriptions",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-v06",
+    "farsi": "az in tarigh",
+    "persian": "از این طریق",
+    "english": "In this way / by this means",
+    "category": "conversation",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "lesson-2026-10-11-extra-v07",
+    "farsi": "az che tarighi?",
+    "persian": "از چه طریقی؟",
+    "english": "By what means? / How?",
+    "category": "conversation",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "recall-end",
+    "farsi": "tamâm shodan",
+    "persian": "تمام شدن",
+    "english": "End / be finished (intransitive)",
+    "category": "verbs",
+    "kind": "verb",
+    "presentStem": "tamâm shav",
+    "pastStem": "tamâm shod",
+    "imperative": "tamâm sho",
+    "present": "tamâm mishavam / tamum misham",
+    "source": "11 October 2026 lesson supplement; added 18 October 2026"
   }
 ]

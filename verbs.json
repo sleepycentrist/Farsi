@@ -8991,5 +8991,152 @@
       "Jobs lesson notes 2026-10-04",
       "Use bâ + person/thing. Like dâshtan, this state expression does not use the continuous forms in this bank."
     ]
+  },
+  {
+    "id": "return",
+    "meaning": "return / go back",
+    "infinitive": "bargashtan",
+    "imperative": "bargard",
+    "presentStem": "bargard",
+    "pastStem": "bargasht",
+    "forms": {
+      "present": {
+        "i": [
+          "barmigardam"
+        ],
+        "you": [
+          "barmigardi"
+        ],
+        "heShe": [
+          "barmigardad",
+          "barmigarde"
+        ],
+        "we": [
+          "barmigardim"
+        ],
+        "youPlural": [
+          "barmigardid",
+          "barmigardin"
+        ],
+        "they": [
+          "barmigardand",
+          "barmigardan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram barmigardam"
+        ],
+        "you": [
+          "dâri barmigardi"
+        ],
+        "heShe": [
+          "dârad barmigardad",
+          "dâre barmigarde"
+        ],
+        "we": [
+          "dârim barmigardim"
+        ],
+        "youPlural": [
+          "dârid barmigardid",
+          "dârin barmigardin"
+        ],
+        "they": [
+          "dârand barmigardand",
+          "dâran barmigardan"
+        ]
+      },
+      "past": {
+        "i": [
+          "bargashtam"
+        ],
+        "you": [
+          "bargashti"
+        ],
+        "heShe": [
+          "bargasht"
+        ],
+        "we": [
+          "bargashtim"
+        ],
+        "youPlural": [
+          "bargashtid",
+          "bargashtin"
+        ],
+        "they": [
+          "bargashtand",
+          "bargashtan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam barmigashtam"
+        ],
+        "you": [
+          "dâshti barmigashti"
+        ],
+        "heShe": [
+          "dâsht barmigasht"
+        ],
+        "we": [
+          "dâshtim barmigashtim"
+        ],
+        "youPlural": [
+          "dâshtid barmigashtid",
+          "dâshtin barmigashtin"
+        ],
+        "they": [
+          "dâshtand barmigashtand",
+          "dâshtan barmigashtan"
+        ]
+      },
+      "future": {
+        "i": [
+          "bar khâham gasht"
+        ],
+        "you": [
+          "bar khâhi gasht"
+        ],
+        "heShe": [
+          "bar khâhad gasht"
+        ],
+        "we": [
+          "bar khâhim gasht"
+        ],
+        "youPlural": [
+          "bar khâhid gasht"
+        ],
+        "they": [
+          "bar khâhand gasht"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bargardam"
+        ],
+        "you": [
+          "bâyad bargardi"
+        ],
+        "heShe": [
+          "bâyad bargardad",
+          "bâyad bargarde"
+        ],
+        "we": [
+          "bâyad bargardim"
+        ],
+        "youPlural": [
+          "bâyad bargardid",
+          "bâyad bargardin"
+        ],
+        "they": [
+          "bâyad bargardand",
+          "bâyad bargardan"
+        ]
+      }
+    },
+    "notes": [
+      "Lesson supplement: bargashtim = we returned. The prefix bar precedes mi- in barmigardam / barmigashtam; the command is bargard.",
+      "Formal future: bar khâham gasht. Spoken Persian commonly uses the present form with a future time expression."
+    ]
   }
 ]
