@@ -5476,5 +5476,313 @@
     "register": "spoken",
     "source": "Grandma conversation practice 2026-10-04",
     "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-11-s01",
+    "prompt": "What do we usually eat for breakfast?",
+    "tiles": [
+      "mikhorim",
+      "chi",
+      "sobhune",
+      "mamulan",
+      "mâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "mamulan",
+        "sobhune",
+        "chi",
+        "mikhorim"
+      ]
+    ],
+    "explanation": "Mikhorim means we eat; sobhune is spoken sobhâne.",
+    "topic": "food",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-11-s02",
+    "prompt": "I have three pencils.",
+    "tiles": [
+      "dâram",
+      "medâd",
+      "tâ",
+      "se",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "se",
+        "tâ",
+        "medâd",
+        "dâram"
+      ]
+    ],
+    "explanation": "Number + tâ + singular noun: se tâ medâd, not medâdhâ. Tâ is common in speech and optional; counted nouns normally stay singular in formal Persian too.",
+    "topic": "numbers",
+    "grammar": "numbers",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-11-s03",
+    "prompt": "My friend has six pencils.",
+    "tiles": [
+      "dâre",
+      "medâd",
+      "tâ",
+      "shish",
+      "dustam"
+    ],
+    "acceptedAnswers": [
+      [
+        "dustam",
+        "shish",
+        "tâ",
+        "medâd",
+        "dâre"
+      ]
+    ],
+    "explanation": "Dustam means my friend; shish and dâre are spoken shesh and dârad. Keep medâd singular after the count.",
+    "topic": "numbers",
+    "grammar": "numbers",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-11-s04",
+    "prompt": "How many pencils do we have?",
+    "tiles": [
+      "dârim",
+      "medâd",
+      "tâ",
+      "chand",
+      "mâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "chand",
+        "tâ",
+        "medâd",
+        "dârim"
+      ]
+    ],
+    "explanation": "Chand tâ asks how many objects. The noun remains singular.",
+    "topic": "numbers",
+    "grammar": "numbers",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-11-s05",
+    "prompt": "I became angry.",
+    "tiles": [
+      "shodam",
+      "asabâni",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "asabâni",
+        "shodam"
+      ]
+    ],
+    "explanation": "Shodan expresses becoming or a change of state. Shodam means I became; adjectives and emotions do not always take shodan.",
+    "topic": "feelings",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-11-s06",
+    "prompt": "I was angry.",
+    "tiles": [
+      "budam",
+      "asabâni",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "asabâni",
+        "budam"
+      ]
+    ],
+    "explanation": "Budan describes a state: budam = I was. Compare asabâni shodam = I became angry.",
+    "topic": "feelings",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-10-11-s07",
+    "prompt": "Yesterday evening, it was around seven o’clock.",
+    "tiles": [
+      "bud",
+      "haft",
+      "hodud-e",
+      "sâ’at",
+      "asr",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "diruz",
+        "asr",
+        "sâ’at",
+        "hodud-e",
+        "haft",
+        "bud"
+      ]
+    ],
+    "explanation": "Hodud-e means around. This sets the background time; bud is simple past, not past continuous.",
+    "topic": "time",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-s08",
+    "prompt": "It was gradually getting dark.",
+    "tiles": [
+      "mishod",
+      "târik",
+      "kam",
+      "kam",
+      "dâsht",
+      "havâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "havâ",
+        "dâsht",
+        "kam",
+        "kam",
+        "târik",
+        "mishod"
+      ]
+    ],
+    "explanation": "Dâsht + mi- + past stem expresses an action or change in progress in the past. Havâ here refers to the surroundings; natural English is it was getting dark.",
+    "topic": "weather",
+    "grammar": "past-continuous",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-s09",
+    "prompt": "My friend and I were going to the cinema.",
+    "tiles": [
+      "sinemâ",
+      "miraftim",
+      "dâshtim",
+      "dustam",
+      "o",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "o",
+        "dustam",
+        "dâshtim",
+        "miraftim",
+        "sinemâ"
+      ]
+    ],
+    "explanation": "Dâshtim and miraftim both take the we ending -im. Dustam is my friend (singular). Spoken Persian can omit be before the destination.",
+    "topic": "media",
+    "grammar": "past-continuous",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-s10",
+    "prompt": "My friends and I were going to the cinema.",
+    "tiles": [
+      "sinemâ",
+      "miraftim",
+      "dâshtim",
+      "dustâm",
+      "o",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "o",
+        "dustâm",
+        "dâshtim",
+        "miraftim",
+        "sinemâ"
+      ]
+    ],
+    "explanation": "Dustâm is spoken dusthâyam, my friends (plural). Contrast dustam, my friend. Dâshtim miraftim means we were going.",
+    "topic": "media",
+    "grammar": "past-continuous",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-s11",
+    "prompt": "What does tiger mean?",
+    "tiles": [
+      "chi",
+      "ya’ni",
+      "babr"
+    ],
+    "acceptedAnswers": [
+      [
+        "babr",
+        "ya’ni",
+        "chi"
+      ]
+    ],
+    "explanation": "Babr means tiger. Ya’ni chi asks what a word means; ya’ni can also introduce a clarification, that is / I mean.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-11-s12",
+    "prompt": "What is this called in Farsi?",
+    "tiles": [
+      "mishe",
+      "chi",
+      "fârsi",
+      "be",
+      "in"
+    ],
+    "acceptedAnswers": [
+      [
+        "in",
+        "be",
+        "fârsi",
+        "chi",
+        "mishe"
+      ]
+    ],
+    "explanation": "Mishe is spoken mishavad, from shodan. Here chi mishe asks what something is called or translates to. Ki mishe instead asks when, depending on context.",
+    "topic": "conversation",
+    "grammar": "conversation",
+    "register": "spoken",
+    "source": "Lesson 2026-10-11; reviewed examples",
+    "difficulty": "intermediate"
   }
 ]

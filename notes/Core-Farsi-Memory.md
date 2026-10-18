@@ -1893,3 +1893,64 @@ One card per base word; plurals now appear on the answer. Possessive and object 
 - Attached object endings — After a verb these endings can mean me/you/him/her/us/them: mishenâsam-esh = I know him/her.
 - Possession + râ / ro — The object marker is separate from possession: dustam ro (spoken dustam-o) = my friend as the object.
 - Ezâfe: -e / -ye — Links nouns: dust-e man = my friend; esm-e sherkat = the company’s name. After a vowel use -ye: mu-ye man.
+
+
+## Lesson — 11 October 2026
+
+Reviewed lesson vocabulary (existing cards reused where present):
+
+- jalase — جلسه — Session / meeting.
+- chi migi? — چی می‌گی؟ — What are you saying?.
+- hâzeri? — حاضری؟ — Are you ready?.
+- motavasset — متوسط — Medium / intermediate / average.
+- âsân / âsun — آسان / آسون — Easy (formal / spoken).
+- yeki yeki / dune dune — یکی‌یکی / دونه‌دونه — One by one.
+- ya’ni chi? — یعنی چی؟ — What does it mean?.
+- nemifahmam / motevajjeh nemisham — نمی‌فهمم / متوجه نمی‌شم — I don’t understand.
+- kare — کره — Butter.
+- mârmâlâd — مارمالاد — Marmalade.
+- hendevâne / hendune — هندوانه / هندونه — Watermelon (formal / spoken).
+- tâlebi — طالبی — Cantaloupe / melon.
+- morabbâ — مربا — Jam.
+- nabât — نبات — Rock sugar.
+- tokhm-e morgh — تخم‌مرغ — Egg.
+- sham’ — شمع — Candle (distinct from shâm = dinner).
+- âsemân / âsemun — آسمان / آسمون — Sky (formal / spoken).
+- âbi-ye âsemâni / âbi-ye âsemuni — آبی آسمانی / آبی آسمونی — Sky blue.
+- kam kam — کم‌کم — Gradually / little by little.
+- târik — تاریک — Dark (without light).
+- tâ — تا — Counting word after a number: se tâ medâd = three pencils.
+- pish = before / in front of / ago, not session; jalase = session.
+- chi migi = what are you saying; chi mige = what is he/she saying.
+- Existing vocabulary reviewed: sakht (hard), shir (milk/lion/tap), zohr (noon), nâhâr (lunch), shâm (dinner), khâle (mother’s sister), babr (tiger), medâd (pencil), hodud-e (around).
+- sobhâne / sobhune = breakfast (formal / spoken).
+- “kimi mean” remains unclear and is not made into a guessed vocabulary card.
+- mishavad → mishe = becomes; chi mishe asks what it becomes / is called in context. “Ki mishe” is not itself the informal form of mishavad; ki can mean when (or who in other contexts).
+- ya’ni (Arabic origin) means “means / that is / I mean”; ya’ni chi asks “what does it mean?”.
+
+Grammar and practice (examples, not personal facts):
+
+- mâ mamulan sobhune chi mikhorim. — ما معمولاً صبحونه چی می‌خوریم؟ — What do we usually eat for breakfast?
+  Mikhorim means we eat; sobhune is spoken sobhâne.
+- man se tâ medâd dâram. — من سه تا مداد دارم. — I have three pencils.
+  Number + tâ + singular noun: se tâ medâd, not medâdhâ. Tâ is common in speech and optional; counted nouns normally stay singular in formal Persian too.
+- dustam shish tâ medâd dâre. — دوستم شیش تا مداد داره. — My friend has six pencils.
+  Dustam means my friend; shish and dâre are spoken shesh and dârad. Keep medâd singular after the count.
+- mâ chand tâ medâd dârim. — ما چند تا مداد داریم؟ — How many pencils do we have?
+  Chand tâ asks how many objects. The noun remains singular.
+- man asabâni shodam. — من عصبانی شدم. — I became angry.
+  Shodan expresses becoming or a change of state. Shodam means I became; adjectives and emotions do not always take shodan.
+- man asabâni budam. — من عصبانی بودم. — I was angry.
+  Budan describes a state: budam = I was. Compare asabâni shodam = I became angry.
+- diruz asr sâ’at hodud-e haft bud. — دیروز عصر ساعت حدود هفت بود. — Yesterday evening, it was around seven o’clock.
+  Hodud-e means around. This sets the background time; bud is simple past, not past continuous.
+- havâ dâsht kam kam târik mishod. — هوا داشت کم‌کم تاریک می‌شد. — It was gradually getting dark.
+  Dâsht + mi- + past stem expresses an action or change in progress in the past. Havâ here refers to the surroundings; natural English is it was getting dark.
+- man o dustam dâshtim miraftim sinemâ. — من و دوستم داشتیم می‌رفتیم سینما. — My friend and I were going to the cinema.
+  Dâshtim and miraftim both take the we ending -im. Dustam is my friend (singular). Spoken Persian can omit be before the destination.
+- man o dustâm dâshtim miraftim sinemâ. — من و دوستام داشتیم می‌رفتیم سینما. — My friends and I were going to the cinema.
+  Dustâm is spoken dusthâyam, my friends (plural). Contrast dustam, my friend. Dâshtim miraftim means we were going.
+- babr ya’ni chi. — ببر یعنی چی؟ — What does tiger mean?
+  Babr means tiger. Ya’ni chi asks what a word means; ya’ni can also introduce a clarification, that is / I mean.
+- in be fârsi chi mishe. — این به فارسی چی می‌شه؟ — What is this called in Farsi?
+  Mishe is spoken mishavad, from shodan. Here chi mishe asks what something is called or translates to. Ki mishe instead asks when, depending on context.

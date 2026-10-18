@@ -1213,7 +1213,7 @@
   },
   {
     "farsi": "pish",
-    "english": "before/front; pre-",
+    "english": "Before / in front of / ago; pre- (not session)",
     "persian": "پیش",
     "category": "directions",
     "sourceLine": 500,
@@ -1366,7 +1366,7 @@
   },
   {
     "farsi": "shir",
-    "english": "lion (animal context); also milk/tap in other contexts",
+    "english": "Lion / milk / tap (meaning depends on context)",
     "persian": "شیر",
     "category": "animals",
     "sourceLine": 560,
@@ -1613,7 +1613,7 @@
   },
   {
     "farsi": "chi mige?",
-    "english": "What does he/she say?",
+    "english": "What is he/she saying? / What does he/she say?",
     "persian": "چی می‌گه؟",
     "category": "conversation",
     "sourceLine": 602,
@@ -3015,9 +3015,9 @@
     "id": "vocab-0457"
   },
   {
-    "farsi": "Sobhâné",
+    "farsi": "sobhâne / sobhune",
     "english": "Breakfast",
-    "persian": "صبحانه",
+    "persian": "صبحانه / صبحونه",
     "category": "food",
     "sourceLine": 1375,
     "sourceCategory": "Time Words",
@@ -3869,8 +3869,8 @@
     "id": "vocab-0558"
   },
   {
-    "farsi": "Chanta",
-    "english": "How many",
+    "farsi": "chand tâ / chantâ",
+    "english": "How many (counting objects)",
     "persian": "چند تا",
     "category": "conversation",
     "sourceLine": 1560,
@@ -4829,8 +4829,8 @@
   {
     "id": "recall-become",
     "farsi": "shodan",
-    "english": "Become",
-    "persian": "",
+    "english": "Become / get (change of state)",
+    "persian": "شدن",
     "category": "verbs",
     "source": "Vocabulary review — 4 October 2026",
     "kind": "verb",
@@ -4890,5 +4890,173 @@
     "pastStem": "vojud dâsht",
     "imperative": "— (not normally used as a command)",
     "present": "vojud dâram"
+  },
+  {
+    "id": "lesson-2026-10-11-v01",
+    "farsi": "jalase",
+    "english": "Session / meeting",
+    "persian": "جلسه",
+    "category": "education",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v02",
+    "farsi": "chi migi?",
+    "english": "What are you saying?",
+    "persian": "چی می‌گی؟",
+    "category": "conversation",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v03",
+    "farsi": "hâzeri?",
+    "english": "Are you ready?",
+    "persian": "حاضری؟",
+    "category": "conversation",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v04",
+    "farsi": "motavasset",
+    "english": "Medium / intermediate / average",
+    "persian": "متوسط",
+    "category": "descriptions",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v05",
+    "farsi": "âsân / âsun",
+    "english": "Easy (formal / spoken)",
+    "persian": "آسان / آسون",
+    "category": "descriptions",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v06",
+    "farsi": "yeki yeki / dune dune",
+    "english": "One by one",
+    "persian": "یکی‌یکی / دونه‌دونه",
+    "category": "numbers",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v07",
+    "farsi": "ya’ni chi?",
+    "english": "What does it mean?",
+    "persian": "یعنی چی؟",
+    "category": "conversation",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v08",
+    "farsi": "nemifahmam / motevajjeh nemisham",
+    "english": "I don’t understand",
+    "persian": "نمی‌فهمم / متوجه نمی‌شم",
+    "category": "conversation",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v09",
+    "farsi": "kare",
+    "english": "Butter",
+    "persian": "کره",
+    "category": "food",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v10",
+    "farsi": "mârmâlâd",
+    "english": "Marmalade",
+    "persian": "مارمالاد",
+    "category": "food",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v11",
+    "farsi": "hendevâne / hendune",
+    "english": "Watermelon (formal / spoken)",
+    "persian": "هندوانه / هندونه",
+    "category": "food",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v12",
+    "farsi": "tâlebi",
+    "english": "Cantaloupe / melon",
+    "persian": "طالبی",
+    "category": "food",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v13",
+    "farsi": "morabbâ",
+    "english": "Jam",
+    "persian": "مربا",
+    "category": "food",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v14",
+    "farsi": "nabât",
+    "english": "Rock sugar",
+    "persian": "نبات",
+    "category": "food",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v15",
+    "farsi": "tokhm-e morgh",
+    "english": "Egg",
+    "persian": "تخم‌مرغ",
+    "category": "food",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v16",
+    "farsi": "sham’",
+    "english": "Candle (distinct from shâm = dinner)",
+    "persian": "شمع",
+    "category": "home",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v17",
+    "farsi": "âsemân / âsemun",
+    "english": "Sky (formal / spoken)",
+    "persian": "آسمان / آسمون",
+    "category": "weather",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v18",
+    "farsi": "âbi-ye âsemâni / âbi-ye âsemuni",
+    "english": "Sky blue",
+    "persian": "آبی آسمانی / آبی آسمونی",
+    "category": "colours",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v19",
+    "farsi": "kam kam",
+    "english": "Gradually / little by little",
+    "persian": "کم‌کم",
+    "category": "time",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v20",
+    "farsi": "târik",
+    "english": "Dark (without light)",
+    "persian": "تاریک",
+    "category": "descriptions",
+    "source": "Lesson 2026-10-11"
+  },
+  {
+    "id": "lesson-2026-10-11-v21",
+    "farsi": "tâ",
+    "english": "Counting word after a number: se tâ medâd = three pencils",
+    "persian": "تا",
+    "category": "numbers",
+    "source": "Lesson 2026-10-11"
   }
 ]
