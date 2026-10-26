@@ -6056,5 +6056,551 @@
     "register": "spoken",
     "source": "11 October 2026 lesson supplement; added 18 October 2026",
     "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s01",
+    "prompt": "I have three cats at home.",
+    "tiles": [
+      "dâram",
+      "gorbe",
+      "se tâ",
+      "tu khune",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "tu khune",
+        "se tâ",
+        "gorbe",
+        "dâram"
+      ]
+    ],
+    "explanation": "After se tâ, the counted noun stays singular: gorbe. Tu khune = at home / in the house.",
+    "topic": "animals",
+    "grammar": "numbers",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s02",
+    "prompt": "One of them is black and white.",
+    "tiles": [
+      "sefide",
+      "siâh o",
+      "yekishun"
+    ],
+    "acceptedAnswers": [
+      [
+        "yekishun",
+        "siâh o",
+        "sefide"
+      ]
+    ],
+    "explanation": "Yeki + -shun = one of them. O is spoken va (and); sefid + -e = is white.",
+    "topic": "colours",
+    "grammar": "possession",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s03",
+    "prompt": "Another one is orange.",
+    "tiles": [
+      "nârenjie",
+      "yeki dige"
+    ],
+    "acceptedAnswers": [
+      [
+        "yeki dige",
+        "nârenjie"
+      ]
+    ],
+    "explanation": "Yeki dige is spoken yeki digar, another one. Nârenji + -e = is orange.",
+    "topic": "colours",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s04",
+    "prompt": "The last one is black too.",
+    "tiles": [
+      "siâhe",
+      "ham",
+      "âkhari"
+    ],
+    "acceptedAnswers": [
+      [
+        "âkhari",
+        "ham",
+        "siâhe"
+      ]
+    ],
+    "explanation": "Âkhari means the last one; ham means too. The source’s âkharie is clarified as âkhari here; siâhe supplies is black.",
+    "topic": "colours",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s05",
+    "prompt": "Yesterday I was playing with the cats when I heard a noise.",
+    "tiles": [
+      "shenidam",
+      "ye sedâyi",
+      "ke",
+      "bâzi mikardam",
+      "bâ gorbehâ",
+      "dâshtam",
+      "diruz"
+    ],
+    "acceptedAnswers": [
+      [
+        "diruz",
+        "dâshtam",
+        "bâ gorbehâ",
+        "bâzi mikardam",
+        "ke",
+        "ye sedâyi",
+        "shenidam"
+      ]
+    ],
+    "explanation": "Dâshtam + mi- past describes the ongoing background; ke introduces the event. Shenidam is active: I heard, not a noise was heard. Ye sedâyi = a noise.",
+    "topic": "animals",
+    "grammar": "past-continuous",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s06",
+    "prompt": "The noise came from the street.",
+    "tiles": [
+      "bud",
+      "az tu-ye khiâbun",
+      "sedâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "sedâ",
+        "az tu-ye khiâbun",
+        "bud"
+      ]
+    ],
+    "explanation": "Literally, the sound was from in the street. Az marks the source; tu-ye is the linked form of tu.",
+    "topic": "directions",
+    "grammar": "past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s07",
+    "prompt": "It was the sound of the cars that were in traffic.",
+    "tiles": [
+      "budan",
+      "tu-ye terâfik",
+      "ke",
+      "bud",
+      "sedâ-ye mâshinâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "sedâ-ye mâshinâ",
+        "bud",
+        "ke",
+        "tu-ye terâfik",
+        "budan"
+      ]
+    ],
+    "explanation": "Sedâ-ye mâshinâ uses ezâfe. Mâshinâ is spoken mâshinhâ; budan here is spoken budand (they were), not the infinitive.",
+    "topic": "travel",
+    "grammar": "past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s08",
+    "prompt": "The people were angry and tired.",
+    "tiles": [
+      "budan",
+      "khaste",
+      "asabâni o",
+      "mardom"
+    ],
+    "acceptedAnswers": [
+      [
+        "mardom",
+        "asabâni o",
+        "khaste",
+        "budan"
+      ]
+    ],
+    "explanation": "Mardom takes a plural verb here: budan = they were. Asabâni o means angry and; budam would mean I was.",
+    "topic": "feelings",
+    "grammar": "past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s09",
+    "prompt": "At six in the evening, the traffic ended.",
+    "tiles": [
+      "tamum shod",
+      "terâfik",
+      "sâ’at-e shesh-e asr"
+    ],
+    "acceptedAnswers": [
+      [
+        "sâ’at-e shesh-e asr",
+        "terâfik",
+        "tamum shod"
+      ]
+    ],
+    "explanation": "Shesh means six, not shishe (glass). Tamum shod is spoken tamâm shod: ended / finished, an intransitive change.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s10",
+    "prompt": "I went to the shop to buy food for the cats.",
+    "tiles": [
+      "bekharam",
+      "ghazâ",
+      "barâ gorbehâ",
+      "tâ",
+      "forushgâh",
+      "raftam",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "raftam",
+        "forushgâh",
+        "tâ",
+        "barâ gorbehâ",
+        "ghazâ",
+        "bekharam"
+      ]
+    ],
+    "explanation": "Tâ + subjunctive expresses purpose. Bekharam is buy in the first-person subjunctive; barâ is shortened barâye. Spoken Persian can omit be before the destination.",
+    "topic": "money",
+    "grammar": "purpose",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s11",
+    "prompt": "That shop usually has cat food, but yesterday it did not.",
+    "tiles": [
+      "nadâsht",
+      "diruz",
+      "vali",
+      "dâre",
+      "ghazâ-ye gorbe",
+      "mamulan",
+      "un forushgâh"
+    ],
+    "acceptedAnswers": [
+      [
+        "un forushgâh",
+        "mamulan",
+        "ghazâ-ye gorbe",
+        "dâre",
+        "vali",
+        "diruz",
+        "nadâsht"
+      ]
+    ],
+    "explanation": "Dâre is spoken dârad; nadâsht is did not have. Ghazâ-ye gorbe = cat food, with ezâfe; the shop takes singular agreement.",
+    "topic": "money",
+    "grammar": "negation",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s12",
+    "prompt": "What sound did I hear yesterday?",
+    "tiles": [
+      "shenidam",
+      "che sedâyi",
+      "diruz",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "diruz",
+        "che sedâyi",
+        "shenidam"
+      ]
+    ],
+    "explanation": "Che sedâyi = what sound? Shenidam keeps the I ending -am.",
+    "topic": "conversation",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s13",
+    "prompt": "Yesterday you heard the sound of the cars that were in traffic.",
+    "tiles": [
+      "budan",
+      "tu-ye terâfik",
+      "ke",
+      "shenidi",
+      "sedâ-ye mâshinâ ro",
+      "diruz",
+      "to"
+    ],
+    "acceptedAnswers": [
+      [
+        "to",
+        "diruz",
+        "sedâ-ye mâshinâ ro",
+        "shenidi",
+        "ke",
+        "tu-ye terâfik",
+        "budan"
+      ]
+    ],
+    "explanation": "Ro marks the identified object, the sound of the cars. Shenidi means you heard; budan refers to the cars.",
+    "topic": "travel",
+    "grammar": "object-marker",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s14",
+    "prompt": "Were the people in traffic happy?",
+    "tiles": [
+      "budan",
+      "khoshhâl",
+      "tu-ye terâfik",
+      "mardom",
+      "âyâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "âyâ",
+        "mardom",
+        "tu-ye terâfik",
+        "khoshhâl",
+        "budan"
+      ]
+    ],
+    "explanation": "Âyâ optionally introduces a yes/no question; it is more formal than the spoken forms used in the rest of this classroom example.",
+    "topic": "feelings",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s15",
+    "prompt": "No, they were angry and tired.",
+    "tiles": [
+      "budan",
+      "khaste",
+      "asabâni o",
+      "unâ",
+      "na"
+    ],
+    "acceptedAnswers": [
+      [
+        "na",
+        "unâ",
+        "asabâni o",
+        "khaste",
+        "budan"
+      ]
+    ],
+    "explanation": "Unâ = they; it replaces mardom in this answer. Budan is the spoken plural past of be.",
+    "topic": "feelings",
+    "grammar": "past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s16",
+    "prompt": "Do you think the traffic ended before seven o’clock?",
+    "tiles": [
+      "tamum shod",
+      "ghabl az sâ’at-e haft",
+      "terâfik",
+      "be nazaret"
+    ],
+    "acceptedAnswers": [
+      [
+        "be nazaret",
+        "terâfik",
+        "ghabl az sâ’at-e haft",
+        "tamum shod"
+      ]
+    ],
+    "explanation": "Be nazaret = in your opinion / do you think? Ghabl az = before. Haft means seven.",
+    "topic": "conversation",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s17",
+    "prompt": "Yes, the traffic ended at six o’clock.",
+    "tiles": [
+      "tamum shod",
+      "sâ’at-e shesh",
+      "terâfik",
+      "âre"
+    ],
+    "acceptedAnswers": [
+      [
+        "âre",
+        "terâfik",
+        "sâ’at-e shesh",
+        "tamum shod"
+      ]
+    ],
+    "explanation": "Âre is spoken yes. Ending at six supports the answer that it ended before seven.",
+    "topic": "travel",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s18",
+    "prompt": "Where did I go to buy cat food?",
+    "tiles": [
+      "raftam",
+      "kojâ",
+      "barâye kharidan-e ghazâ-ye gorbe",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "barâye kharidan-e ghazâ-ye gorbe",
+        "kojâ",
+        "raftam"
+      ]
+    ],
+    "explanation": "Barâye + infinitive expresses purpose: barâye kharidan-e = for buying. The ezâfe chain links buying, food and cat.",
+    "topic": "money",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s19",
+    "prompt": "You went to the shop.",
+    "tiles": [
+      "forushgâh",
+      "rafti"
+    ],
+    "acceptedAnswers": [
+      [
+        "rafti",
+        "forushgâh"
+      ]
+    ],
+    "explanation": "Rafti = you went (one person). The subject to can be omitted.",
+    "topic": "money",
+    "grammar": "simple-past",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s20",
+    "prompt": "You went to the Tesco shop near home.",
+    "tiles": [
+      "forushgâh-e Tesko-ye nazdik-e khune",
+      "rafti"
+    ],
+    "acceptedAnswers": [
+      [
+        "rafti",
+        "forushgâh-e Tesko-ye nazdik-e khune"
+      ]
+    ],
+    "explanation": "The lesson’s parenthetical destination is an alternative answer. Ezâfe links forushgâh, Tesko and nazdik-e khune; this is an example, not a personal fact.",
+    "topic": "money",
+    "grammar": "location",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s21",
+    "prompt": "Was I able to buy food for the cats yesterday?",
+    "tiles": [
+      "bekharam",
+      "ghazâ",
+      "barâye gorbehâ",
+      "tunestam",
+      "diruz",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "diruz",
+        "tunestam",
+        "barâye gorbehâ",
+        "ghazâ",
+        "bekharam"
+      ]
+    ],
+    "explanation": "Tunestam is spoken tavânestam (was able to). The following verb is subjunctive: bekharam. Intonation makes this a yes/no question.",
+    "topic": "animals",
+    "grammar": "modals",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-10-26-s22",
+    "prompt": "No, because the shop did not have cat food.",
+    "tiles": [
+      "nadâsht",
+      "ghazâ-ye gorbe",
+      "forushgâh",
+      "chon",
+      "na"
+    ],
+    "acceptedAnswers": [
+      [
+        "na",
+        "chon",
+        "forushgâh",
+        "ghazâ-ye gorbe",
+        "nadâsht"
+      ]
+    ],
+    "explanation": "Chon introduces the reason. Nadâsht means did not have, not does not have.",
+    "topic": "money",
+    "grammar": "negation",
+    "register": "spoken",
+    "source": "Lesson 2026-10-26",
+    "difficulty": "intermediate"
   }
 ]

@@ -22,7 +22,7 @@ async function run() {
     assert(answer.length>0,category);
     if (category==='verbs'||category==='actions') {
       assert.match(answer,/Present stem:/); assert.match(answer,/Command:/);
-      assert.equal(vm.runInContext('vocabulary.length',c),74);
+      assert.equal(vm.runInContext('vocabulary.length',c),75);
       assert(!vm.runInContext('question.textContent',c).includes('raftan'));
     }
     const count=vm.runInContext('vocabulary.length',c);
@@ -45,6 +45,6 @@ async function run() {
   assert.equal(weekly.phrases.length,10);
   assert.match(read('index.html'),/<details class="weekly-phrases">/);
   for(const phrase of weekly.phrases)assert(read('index.html').includes(phrase.farsi));
-  console.log('Topic navigation, 74 root cards, plural answers, daily completion and weekly phrases passed.');
+  console.log('Topic navigation, 75 root cards, plural answers, daily completion and weekly phrases passed.');
 }
 run().catch(e=>{console.error(e);process.exitCode=1});

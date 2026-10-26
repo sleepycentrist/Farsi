@@ -397,7 +397,7 @@
   },
   {
     "farsi": "digar / dige",
-    "english": "Other / another; spoken dige can also mean more / later",
+    "english": "Other / another; spoken dige can also mean more / later; yeki dige = another one",
     "persian": "دیگر / دیگه",
     "category": "sentence-building",
     "sourceLine": 403,
@@ -3105,9 +3105,9 @@
     "id": "vocab-0467"
   },
   {
-    "farsi": "Ghàbl",
-    "english": "Before",
-    "persian": "قبل",
+    "farsi": "ghabl / ghabl az",
+    "english": "Before; ghabl az = before something (e.g. ghabl az sâ’at-e haft)",
+    "persian": "قبل / قبل از",
     "category": "time",
     "sourceLine": 1385,
     "sourceCategory": "Time Words",
@@ -3583,7 +3583,11 @@
     "category": "animals",
     "sourceLine": 1499,
     "sourceCategory": "Animals",
-    "id": "vocab-0523"
+    "id": "vocab-0523",
+    "plural": {
+      "farsi": "gorbehâ",
+      "persian": "گربه‌ها"
+    }
   },
   {
     "farsi": "Mâshin",
@@ -3592,7 +3596,11 @@
     "category": "travel",
     "sourceLine": 1504,
     "sourceCategory": "Miscellaneous",
-    "id": "vocab-0524"
+    "id": "vocab-0524",
+    "plural": {
+      "farsi": "mâshinhâ / mâshinâ",
+      "persian": "ماشین‌ها / ماشینا"
+    }
   },
   {
     "farsi": "Dâroo",
@@ -4008,9 +4016,9 @@
     }
   },
   {
-    "farsi": "Barâye",
-    "english": "For",
-    "persian": "برای",
+    "farsi": "barâye / barâ",
+    "english": "For; barâ is a common spoken shortening of barâye",
+    "persian": "برای / برا",
     "category": "sentence-building",
     "sourceLine": 1589,
     "sourceCategory": "Common Expressions",
@@ -4711,7 +4719,7 @@
   {
     "id": "endings-06",
     "farsi": "-eshân / -eshun",
-    "english": "Their: dusteshân; spoken dusteshun = their friend.",
+    "english": "Their: dusteshân; spoken dusteshun = their friend. After yeki: yekishun = one of them (یکی‌شون).",
     "persian": "ـشان / ـشون",
     "category": "endings",
     "source": "Vocabulary review — 4 October 2026"
@@ -5127,5 +5135,37 @@
     "imperative": "tamâm sho",
     "present": "tamâm mishavam / tamum misham",
     "source": "11 October 2026 lesson supplement; added 18 October 2026"
+  },
+  {
+    "id": "lesson-2026-10-26-v01",
+    "farsi": "âkhari",
+    "persian": "آخری",
+    "english": "The last one",
+    "category": "numbers",
+    "source": "Lesson 2026-10-26"
+  },
+  {
+    "id": "lesson-2026-10-26-v02",
+    "farsi": "be nazaret",
+    "persian": "به نظرت",
+    "english": "In your opinion / do you think? (addressing one person)",
+    "category": "conversation",
+    "source": "Lesson 2026-10-26"
+  },
+  {
+    "id": "lesson-2026-10-26-v03",
+    "farsi": "forushgâh",
+    "persian": "فروشگاه",
+    "english": "Shop / store",
+    "category": "money",
+    "source": "Lesson 2026-10-26"
+  },
+  {
+    "id": "lesson-2026-10-26-v04",
+    "farsi": "khiâbân / khiâbun",
+    "persian": "خیابان / خیابون",
+    "english": "Street (formal / spoken)",
+    "category": "directions",
+    "source": "Lesson 2026-10-26"
   }
 ]

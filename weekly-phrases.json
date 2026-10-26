@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-26",
   "phrases": [
     {
-      "farsi": "Havâ târik shod.",
-      "persian": "هوا تاریک شد.",
-      "english": "It got dark."
+      "farsi": "man tu khune se tâ gorbe dâram.",
+      "persian": "من تو خونه سه تا گربه دارم.",
+      "english": "I have three cats at home."
     },
     {
-      "farsi": "Dâshtan miraftan sinemâ.",
-      "persian": "داشتن می‌رفتن سینما.",
-      "english": "They were going to the cinema."
+      "farsi": "yekishun siâh o sefide.",
+      "persian": "یکی‌شون سیاه و سفیده.",
+      "english": "One of them is black and white."
     },
     {
-      "farsi": "Az didan-e un khoshhâl shodim.",
-      "persian": "از دیدن اون خوشحال شدیم.",
-      "english": "We became happy from seeing him/her."
+      "farsi": "yeki dige nârenjie.",
+      "persian": "یکی دیگه نارنجیه.",
+      "english": "Another one is orange."
     },
     {
-      "farsi": "Shomâ khoshhâl shodid.",
-      "persian": "شما خوشحال شدید.",
-      "english": "You became happy. (plural/formal)"
+      "farsi": "âkhari ham siâhe.",
+      "persian": "آخری هم سیاهه.",
+      "english": "The last one is black too."
     },
     {
-      "farsi": "Barâdaresho didim.",
-      "persian": "برادرش رو دیدیم.",
-      "english": "We saw his/her brother."
+      "farsi": "diruz dâshtam bâ gorbehâ bâzi mikardam ke ye sedâyi shenidam.",
+      "persian": "دیروز داشتم با گربه‌ها بازی می‌کردم که یه صدایی شنیدم.",
+      "english": "Yesterday I was playing with the cats when I heard a noise."
     },
     {
-      "farsi": "Raftim sinemâ tâ film bebinim.",
-      "persian": "رفتیم سینما تا فیلم ببینیم.",
-      "english": "We went to the cinema to watch a film."
+      "farsi": "sedâ az tu-ye khiâbun bud.",
+      "persian": "صدا از توی خیابون بود.",
+      "english": "The noise came from the street."
     },
     {
-      "farsi": "Film tamum shod.",
-      "persian": "فیلم تموم شد.",
-      "english": "The film ended."
+      "farsi": "mardom asabâni o khaste budan.",
+      "persian": "مردم عصبانی و خسته بودن.",
+      "english": "The people were angry and tired."
     },
     {
-      "farsi": "Film tamum shode.",
-      "persian": "فیلم تموم شده.",
-      "english": "The film has finished."
+      "farsi": "sâ’at-e shesh-e asr terâfik tamum shod.",
+      "persian": "ساعت شش عصر ترافیک تموم شد.",
+      "english": "At six in the evening, the traffic ended."
     },
     {
-      "farsi": "Hamegi bâ ham bargashtim.",
-      "persian": "همگی با هم برگشتیم.",
-      "english": "We all returned together."
+      "farsi": "man raftam forushgâh tâ barâ gorbehâ ghazâ bekharam.",
+      "persian": "من رفتم فروشگاه تا برا گربه‌ها غذا بخرم.",
+      "english": "I went to the shop to buy food for the cats."
     },
     {
-      "farsi": "Raftim hamun sinemâ.",
-      "persian": "رفتیم همون سینما.",
-      "english": "We went to that same cinema."
+      "farsi": "un forushgâh mamulan ghazâ-ye gorbe dâre vali diruz nadâsht.",
+      "persian": "اون فروشگاه معمولاً غذای گربه داره ولی دیروز نداشت.",
+      "english": "That shop usually has cat food, but yesterday it did not."
     }
   ]
 }

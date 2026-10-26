@@ -2001,3 +2001,57 @@ Reviewed practice examples (not personal facts):
   Bargasht + -im = we returned. Hamegi means all/everyone; -im establishes all of us. Bâ ham means together.
 - raftim hamun sinemâ. — رفتیم همون سینما. — We went to that same cinema.
   Hamun is spoken hamân: that same / the very same. Spoken Persian may omit be before the destination.
+
+
+### 26 October 2026 — cats, street noise, traffic and shopping
+
+Reviewed lesson examples, not personal facts. Transliteration follows the existing JSON convention: u represents the oo sound (khune, yekishun, tamum, tunestam).
+
+Vocabulary: âkhari = the last one; be nazaret = in your opinion; forushgâh = shop; khiâbân/khiâbun = street. Existing cards reused for gorbe, colours, sedâ, terâfik, mardom, asabâni, khaste, mamulan, ghabl az, barâye/barâ and digar/dige. Yeki dige = another one. Yekishun = one of them, taught under the existing -eshân/-eshun ending. Plurals added to base-word cards.
+
+Bâzi kardan = to play (new full verb table). Existing tamâm shodan/tamum shodan recall entry reused; distinct from transitive tamâm kardan. Existing tavânestan table expanded with spoken past forms of tunestan.
+
+- man tu khune se tâ gorbe dâram — من تو خونه سه تا گربه دارم. — I have three cats at home.
+  After se tâ, the counted noun stays singular: gorbe. Tu khune = at home / in the house.
+- yekishun siâh o sefide — یکی‌شون سیاه و سفیده. — One of them is black and white.
+  Yeki + -shun = one of them. O is spoken va (and); sefid + -e = is white.
+- yeki dige nârenjie — یکی دیگه نارنجیه. — Another one is orange.
+  Yeki dige is spoken yeki digar, another one. Nârenji + -e = is orange.
+- âkhari ham siâhe — آخری هم سیاهه. — The last one is black too.
+  Âkhari means the last one; ham means too. The source’s âkharie is clarified as âkhari here; siâhe supplies is black.
+- diruz dâshtam bâ gorbehâ bâzi mikardam ke ye sedâyi shenidam — دیروز داشتم با گربه‌ها بازی می‌کردم که یه صدایی شنیدم. — Yesterday I was playing with the cats when I heard a noise.
+  Dâshtam + mi- past describes the ongoing background; ke introduces the event. Shenidam is active: I heard, not a noise was heard. Ye sedâyi = a noise.
+- sedâ az tu-ye khiâbun bud — صدا از توی خیابون بود. — The noise came from the street.
+  Literally, the sound was from in the street. Az marks the source; tu-ye is the linked form of tu.
+- sedâ-ye mâshinâ bud ke tu-ye terâfik budan — صدای ماشینا بود که توی ترافیک بودن. — It was the sound of the cars that were in traffic.
+  Sedâ-ye mâshinâ uses ezâfe. Mâshinâ is spoken mâshinhâ; budan here is spoken budand (they were), not the infinitive.
+- mardom asabâni o khaste budan — مردم عصبانی و خسته بودن. — The people were angry and tired.
+  Mardom takes a plural verb here: budan = they were. Asabâni o means angry and; budam would mean I was.
+- sâ’at-e shesh-e asr terâfik tamum shod — ساعت شش عصر ترافیک تموم شد. — At six in the evening, the traffic ended.
+  Shesh means six, not shishe (glass). Tamum shod is spoken tamâm shod: ended / finished, an intransitive change.
+- man raftam forushgâh tâ barâ gorbehâ ghazâ bekharam — من رفتم فروشگاه تا برا گربه‌ها غذا بخرم. — I went to the shop to buy food for the cats.
+  Tâ + subjunctive expresses purpose. Bekharam is buy in the first-person subjunctive; barâ is shortened barâye. Spoken Persian can omit be before the destination.
+- un forushgâh mamulan ghazâ-ye gorbe dâre vali diruz nadâsht — اون فروشگاه معمولاً غذای گربه داره ولی دیروز نداشت. — That shop usually has cat food, but yesterday it did not.
+  Dâre is spoken dârad; nadâsht is did not have. Ghazâ-ye gorbe = cat food, with ezâfe; the shop takes singular agreement.
+- man diruz che sedâyi shenidam — من دیروز چه صدایی شنیدم؟ — What sound did I hear yesterday?
+  Che sedâyi = what sound? Shenidam keeps the I ending -am.
+- to diruz sedâ-ye mâshinâ ro shenidi ke tu-ye terâfik budan — تو دیروز صدای ماشینا رو شنیدی که توی ترافیک بودن. — Yesterday you heard the sound of the cars that were in traffic.
+  Ro marks the identified object, the sound of the cars. Shenidi means you heard; budan refers to the cars.
+- âyâ mardom tu-ye terâfik khoshhâl budan — آیا مردم توی ترافیک خوشحال بودن؟ — Were the people in traffic happy?
+  Âyâ optionally introduces a yes/no question; it is more formal than the spoken forms used in the rest of this classroom example.
+- na unâ asabâni o khaste budan — نه، اونا عصبانی و خسته بودن. — No, they were angry and tired.
+  Unâ = they; it replaces mardom in this answer. Budan is the spoken plural past of be.
+- be nazaret terâfik ghabl az sâ’at-e haft tamum shod — به نظرت ترافیک قبل از ساعت هفت تموم شد؟ — Do you think the traffic ended before seven o’clock?
+  Be nazaret = in your opinion / do you think? Ghabl az = before. Haft means seven.
+- âre terâfik sâ’at-e shesh tamum shod — آره، ترافیک ساعت شش تموم شد. — Yes, the traffic ended at six o’clock.
+  Âre is spoken yes. Ending at six supports the answer that it ended before seven.
+- man barâye kharidan-e ghazâ-ye gorbe kojâ raftam — من برای خریدن غذای گربه کجا رفتم؟ — Where did I go to buy cat food?
+  Barâye + infinitive expresses purpose: barâye kharidan-e = for buying. The ezâfe chain links buying, food and cat.
+- rafti forushgâh — رفتی فروشگاه. — You went to the shop.
+  Rafti = you went (one person). The subject to can be omitted.
+- rafti forushgâh-e Tesko-ye nazdik-e khune — رفتی فروشگاه تسکوی نزدیک خونه. — You went to the Tesco shop near home.
+  The lesson’s parenthetical destination is an alternative answer. Ezâfe links forushgâh, Tesko and nazdik-e khune; this is an example, not a personal fact.
+- man diruz tunestam barâye gorbehâ ghazâ bekharam — من دیروز تونستم برای گربه‌ها غذا بخرم؟ — Was I able to buy food for the cats yesterday?
+  Tunestam is spoken tavânestam (was able to). The following verb is subjunctive: bekharam. Intonation makes this a yes/no question.
+- na chon forushgâh ghazâ-ye gorbe nadâsht — نه، چون فروشگاه غذای گربه نداشت. — No, because the shop did not have cat food.
+  Chon introduces the reason. Nadâsht means did not have, not does not have.

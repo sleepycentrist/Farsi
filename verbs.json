@@ -7433,24 +7433,30 @@
       "presentContinuous": {},
       "past": {
         "i": [
-          "tavânestam"
+          "tavânestam",
+          "tunestam"
         ],
         "you": [
-          "tavânesti"
+          "tavânesti",
+          "tunesti"
         ],
         "heShe": [
-          "tavânest"
+          "tavânest",
+          "tunest"
         ],
         "we": [
-          "tavânestim"
+          "tavânestim",
+          "tunestim"
         ],
         "youPlural": [
           "tavânestid",
-          "tavânestin"
+          "tavânestin",
+          "tunestin"
         ],
         "they": [
           "tavânestand",
-          "tavânestan"
+          "tavânestan",
+          "tunestan"
         ]
       },
       "pastContinuous": {},
@@ -7504,7 +7510,8 @@
     "notes": [
       "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
       "Continuous forms are excluded for this state/ability meaning. Do not generate a quiz question for an empty form object.",
-      "The imperative betavân is rare/literary and is not a useful everyday command. Prefer the infinitive as this verb’s cue. Ability normally introduces another verb."
+      "The imperative betavân is rare/literary and is not a useful everyday command. Prefer the infinitive as this verb’s cue. Ability normally introduces another verb.",
+      "Spoken tunestan (also written toonestan in lesson notes) corresponds to tavânestan. Tunestam bekharam = I was able to buy; natunestam = I could not."
     ]
   },
   {
@@ -9137,6 +9144,159 @@
     "notes": [
       "Lesson supplement: bargashtim = we returned. The prefix bar precedes mi- in barmigardam / barmigashtam; the command is bargard.",
       "Formal future: bar khâham gasht. Spoken Persian commonly uses the present form with a future time expression."
+    ]
+  },
+  {
+    "id": "play",
+    "meaning": "play",
+    "infinitive": "bâzi kardan",
+    "imperative": "bâzi kon",
+    "presentStem": "bâzi kon",
+    "pastStem": "bâzi kard",
+    "forms": {
+      "present": {
+        "i": [
+          "bâzi mikonam"
+        ],
+        "you": [
+          "bâzi mikoni"
+        ],
+        "heShe": [
+          "bâzi mikonad",
+          "bâzi mikone"
+        ],
+        "we": [
+          "bâzi mikonim"
+        ],
+        "youPlural": [
+          "bâzi mikonid",
+          "bâzi mikonin"
+        ],
+        "they": [
+          "bâzi mikonand",
+          "bâzi mikonan"
+        ]
+      },
+      "presentContinuous": {
+        "i": [
+          "dâram bâzi mikonam"
+        ],
+        "you": [
+          "dâri bâzi mikoni"
+        ],
+        "heShe": [
+          "dârad bâzi mikonad",
+          "dâre bâzi mikone"
+        ],
+        "we": [
+          "dârim bâzi mikonim"
+        ],
+        "youPlural": [
+          "dârid bâzi mikonid",
+          "dârin bâzi mikonin"
+        ],
+        "they": [
+          "dârand bâzi mikonand",
+          "dâran bâzi mikonan"
+        ]
+      },
+      "past": {
+        "i": [
+          "bâzi kardam"
+        ],
+        "you": [
+          "bâzi kardi"
+        ],
+        "heShe": [
+          "bâzi kard"
+        ],
+        "we": [
+          "bâzi kardim"
+        ],
+        "youPlural": [
+          "bâzi kardid",
+          "bâzi kardin"
+        ],
+        "they": [
+          "bâzi kardand",
+          "bâzi kardan"
+        ]
+      },
+      "pastContinuous": {
+        "i": [
+          "dâshtam bâzi mikardam"
+        ],
+        "you": [
+          "dâshti bâzi mikardi"
+        ],
+        "heShe": [
+          "dâsht bâzi mikard"
+        ],
+        "we": [
+          "dâshtim bâzi mikardim"
+        ],
+        "youPlural": [
+          "dâshtid bâzi mikardid",
+          "dâshtin bâzi mikardin"
+        ],
+        "they": [
+          "dâshtand bâzi mikardand",
+          "dâshtan bâzi mikardan"
+        ]
+      },
+      "future": {
+        "i": [
+          "bâzi khâham kard"
+        ],
+        "you": [
+          "bâzi khâhi kard"
+        ],
+        "heShe": [
+          "bâzi khâhad kard"
+        ],
+        "we": [
+          "bâzi khâhim kard"
+        ],
+        "youPlural": [
+          "bâzi khâhid kard"
+        ],
+        "they": [
+          "bâzi khâhand kard"
+        ]
+      },
+      "must": {
+        "i": [
+          "bâyad bâzi konam",
+          "bâyad bâzi bekonam"
+        ],
+        "you": [
+          "bâyad bâzi koni",
+          "bâyad bâzi bekoni"
+        ],
+        "heShe": [
+          "bâyad bâzi konad",
+          "bâyad bâzi kone",
+          "bâyad bâzi bekonad"
+        ],
+        "we": [
+          "bâyad bâzi konim",
+          "bâyad bâzi bekonim"
+        ],
+        "youPlural": [
+          "bâyad bâzi konid",
+          "bâyad bâzi konin",
+          "bâyad bâzi bekonid"
+        ],
+        "they": [
+          "bâyad bâzi konand",
+          "bâyad bâzi konan",
+          "bâyad bâzi bekonand"
+        ]
+      }
+    },
+    "notes": [
+      "Answers are verb phrases without a subject pronoun. First answer is the formal teaching form; further entries include selected spoken or grammatical alternatives.",
+      "Bâzi kardan = to play; bâ + person/animal = with. Dâshtam bâzi mikardam = I was playing."
     ]
   }
 ]
