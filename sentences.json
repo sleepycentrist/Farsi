@@ -5574,7 +5574,7 @@
         "dârim"
       ]
     ],
-    "explanation": "Chand tâ asks how many objects. The noun remains singular.",
+    "explanation": "Chand tâ asks how many objects. The noun remains singular. Lesson 2026-11-01 counting scene: All three people together: 2 + 3 + 6 = 11. Persian: ما چند تا مداد داریم؟",
     "topic": "numbers",
     "grammar": "numbers",
     "register": "spoken",
@@ -6602,5 +6602,931 @@
     "register": "spoken",
     "source": "Lesson 2026-10-26",
     "difficulty": "intermediate"
+  },
+  {
+    "id": "lesson-2026-11-01-s01",
+    "prompt": "Ali is Mahnaz’s spouse.",
+    "tiles": [
+      "Mahnâze",
+      "hamsar-e",
+      "Ali"
+    ],
+    "acceptedAnswers": [
+      [
+        "Ali",
+        "hamsar-e",
+        "Mahnâze"
+      ]
+    ],
+    "explanation": "Ezâfe -e links spouse to Mahnaz; final -e means is. Original: Ali hamsaré Mahnaz. Persian: علی همسر مهنازه.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s02",
+    "prompt": "They have two children.",
+    "tiles": [
+      "dâran",
+      "bache",
+      "tâ",
+      "do",
+      "unâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "unâ",
+        "do",
+        "tâ",
+        "bache",
+        "dâran"
+      ]
+    ],
+    "explanation": "Unâ (also written ounâ) is spoken they; after a number the noun stays singular. Persian: اونا دو تا بچه دارن.",
+    "topic": "family",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s03",
+    "prompt": "A son whose name is Khashayar.",
+    "tiles": [
+      "Khashâyâre",
+      "esmesh",
+      "ke",
+      "pesar",
+      "ye"
+    ],
+    "acceptedAnswers": [
+      [
+        "ye",
+        "pesar",
+        "ke",
+        "esmesh",
+        "Khashâyâre"
+      ]
+    ],
+    "explanation": "A deliberate continuation of the previous sentence. Esm + -esh = his/her name; final -e = is. Persian: یه پسر که اسمش خشایاره.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s04",
+    "prompt": "A daughter whose name is Mandana.",
+    "tiles": [
+      "Mândânâst",
+      "esmesh",
+      "ke",
+      "dokhtar",
+      "ye"
+    ],
+    "acceptedAnswers": [
+      [
+        "ye",
+        "dokhtar",
+        "ke",
+        "esmesh",
+        "Mândânâst"
+      ]
+    ],
+    "explanation": "Mândânâ ast contracts to Mândânâst; original Mândânâs is a casual pronunciation. Persian: یه دختر که اسمش مانداناست.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s05",
+    "prompt": "Ali’s brother’s name is Reza.",
+    "tiles": [
+      "Rezâst",
+      "Ali",
+      "barâdar-e",
+      "esm-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "esm-e",
+        "barâdar-e",
+        "Ali",
+        "Rezâst"
+      ]
+    ],
+    "explanation": "Ezâfe chains the nouns; Rezâ ast contracts to Rezâst (casual Rezâs). Persian: اسم برادر علی رضاست.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s06",
+    "prompt": "His sister’s name is Mojgan.",
+    "tiles": [
+      "Mojgâne",
+      "khâharesh",
+      "esm-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "esm-e",
+        "khâharesh",
+        "Mojgâne"
+      ]
+    ],
+    "explanation": "His refers to Ali here; -esh is gender-neutral. Mojgân + -e = Mojgâne. Persian: اسم خواهرش مژگانه.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s07",
+    "prompt": "Mahnaz has two sisters: Mahtab and Nazanin.",
+    "tiles": [
+      "Nâzanin",
+      "o",
+      "Mahtâb",
+      "dâre",
+      "khâhar",
+      "tâ",
+      "do",
+      "Mahnâz"
+    ],
+    "acceptedAnswers": [
+      [
+        "Mahnâz",
+        "do",
+        "tâ",
+        "khâhar",
+        "dâre",
+        "Mahtâb",
+        "o",
+        "Nâzanin"
+      ]
+    ],
+    "explanation": "Spoken o and fuller va both mean and; the family is a lesson example. Persian: مهناز دو تا خواهر داره: مهتاب و نازنین.",
+    "topic": "family",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s08",
+    "prompt": "Now I’ll ask a few questions.",
+    "tiles": [
+      "miporsam",
+      "soâl",
+      "tâ",
+      "chand",
+      "hâlâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "hâlâ",
+        "chand",
+        "tâ",
+        "soâl",
+        "miporsam"
+      ]
+    ],
+    "explanation": "Chand tâ means some/a few in this statement, not how many; present miporsam can express immediate intention. Persian: حالا چند تا سؤال می‌پرسم.",
+    "topic": "conversation",
+    "grammar": "present",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s09",
+    "prompt": "What is Mandana’s brother’s name?",
+    "tiles": [
+      "chie",
+      "Mândânâ",
+      "barâdar-e",
+      "esm-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "esm-e",
+        "barâdar-e",
+        "Mândânâ",
+        "chie"
+      ]
+    ],
+    "explanation": "Answer: Khashâyâre — خشایاره. Chie = what is it? Original chi-e/chie-e normalized. Persian: اسم برادر ماندانا چیه؟",
+    "topic": "family",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s10",
+    "prompt": "It is Khashayar.",
+    "tiles": [
+      "Khashâyâre"
+    ],
+    "acceptedAnswers": [
+      [
+        "Khashâyâre"
+      ]
+    ],
+    "explanation": "Answer to the preceding brother-name question; final -e is the spoken copula. Persian: خشایاره.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s11",
+    "prompt": "What is Mandana’s paternal uncle’s name?",
+    "tiles": [
+      "chie",
+      "Mândânâ",
+      "amu-ye",
+      "esm-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "esm-e",
+        "amu-ye",
+        "Mândânâ",
+        "chie"
+      ]
+    ],
+    "explanation": "Answer: Rezâst — رضاست. Amu is father’s brother; after u, ezâfe is -ye. Persian: اسم عموی ماندانا چیه؟",
+    "topic": "family",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s12",
+    "prompt": "It is Reza.",
+    "tiles": [
+      "Rezâst"
+    ],
+    "acceptedAnswers": [
+      [
+        "Rezâst"
+      ]
+    ],
+    "explanation": "Answer to the paternal-uncle question; original Rezâs retained as a casual pronunciation of Rezâst. Persian: رضاست.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s13",
+    "prompt": "What is Khashayar’s paternal aunt’s name?",
+    "tiles": [
+      "chie",
+      "Khashâyâr",
+      "amme-ye",
+      "esm-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "esm-e",
+        "amme-ye",
+        "Khashâyâr",
+        "chie"
+      ]
+    ],
+    "explanation": "Answer: Mojgâne — مژگانه. Amme is father’s sister. Persian: اسم عمهٔ خشایار چیه؟",
+    "topic": "family",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s14",
+    "prompt": "It is Mojgan.",
+    "tiles": [
+      "Mojgâne"
+    ],
+    "acceptedAnswers": [
+      [
+        "Mojgâne"
+      ]
+    ],
+    "explanation": "Answer to the paternal-aunt question; Mojgân + spoken is (-e). Persian: مژگانه.",
+    "topic": "family",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s15",
+    "prompt": "How many maternal aunts do Ali and Mahnaz’s children have?",
+    "tiles": [
+      "dâran",
+      "khâle",
+      "tâ",
+      "chand",
+      "Mahnâz",
+      "o",
+      "Ali",
+      "bachehâ-ye"
+    ],
+    "acceptedAnswers": [
+      [
+        "bachehâ-ye",
+        "Ali",
+        "o",
+        "Mahnâz",
+        "chand",
+        "tâ",
+        "khâle",
+        "dâran"
+      ]
+    ],
+    "explanation": "Khâle means mother’s sister. Answer: two, Mahtab and Nazanin. Persian: بچه‌های علی و مهناز چند تا خاله دارن؟",
+    "topic": "family",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s16",
+    "prompt": "They have two maternal aunts: Mahtab and Nazanin.",
+    "tiles": [
+      "Nâzanin",
+      "o",
+      "Mahtâb",
+      "dâran",
+      "khâle",
+      "tâ",
+      "do",
+      "unâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "unâ",
+        "do",
+        "tâ",
+        "khâle",
+        "dâran",
+        "Mahtâb",
+        "o",
+        "Nâzanin"
+      ]
+    ],
+    "explanation": "Khâle stays singular after do tâ; these aunts are Mahnaz’s sisters. Persian: اونا دو تا خاله دارن: مهتاب و نازنین.",
+    "topic": "family",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s17",
+    "prompt": "How many maternal uncles do they have?",
+    "tiles": [
+      "dâran",
+      "dâyi",
+      "tâ",
+      "chand"
+    ],
+    "acceptedAnswers": [
+      [
+        "chand",
+        "tâ",
+        "dâyi",
+        "dâran"
+      ]
+    ],
+    "explanation": "They refers to the children. Answer: unâ dâyi nadâran. This is supplied by the exercise, not inferred just from the list of sisters. Persian: چند تا دایی دارن؟",
+    "topic": "family",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s18",
+    "prompt": "They have no maternal uncles.",
+    "tiles": [
+      "nadâran",
+      "dâyi",
+      "unâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "unâ",
+        "dâyi",
+        "nadâran"
+      ]
+    ],
+    "explanation": "Na- negates dâran. Original dâee normalized as dâyi. Persian: اونا دایی ندارن.",
+    "topic": "family",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s19",
+    "prompt": "How many sons and how many daughters does Ali’s father have?",
+    "tiles": [
+      "dâre",
+      "dokhtar",
+      "tâ",
+      "chand",
+      "o",
+      "pesar",
+      "tâ",
+      "chand",
+      "Ali",
+      "bâbâ-ye"
+    ],
+    "acceptedAnswers": [
+      [
+        "bâbâ-ye",
+        "Ali",
+        "chand",
+        "tâ",
+        "pesar",
+        "o",
+        "chand",
+        "tâ",
+        "dokhtar",
+        "dâre"
+      ]
+    ],
+    "explanation": "Answer: two sons (Ali and Reza) and one daughter (Mojgan), within this lesson’s family. Persian: بابای علی چند تا پسر و چند تا دختر داره؟",
+    "topic": "family",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s20",
+    "prompt": "He has two sons and one daughter.",
+    "tiles": [
+      "dâre",
+      "dokhtar",
+      "ye",
+      "o",
+      "pesar",
+      "tâ",
+      "do",
+      "un"
+    ],
+    "acceptedAnswers": [
+      [
+        "un",
+        "do",
+        "tâ",
+        "pesar",
+        "o",
+        "ye",
+        "dokhtar",
+        "dâre"
+      ]
+    ],
+    "explanation": "Original pésàro is pesar + o, the conjunction and; it is not the object marker here. Persian: اون دو تا پسر و یه دختر داره.",
+    "topic": "family",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s21",
+    "prompt": "I have three books and two pencils.",
+    "tiles": [
+      "dâram",
+      "medâd",
+      "tâ",
+      "do",
+      "o",
+      "ketâb",
+      "tâ",
+      "se",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "se",
+        "tâ",
+        "ketâb",
+        "o",
+        "do",
+        "tâ",
+        "medâd",
+        "dâram"
+      ]
+    ],
+    "explanation": "Original ketabo is ketâb + o (and). Se, not seh; do, not doh. Counted nouns remain singular. Persian: من سه تا کتاب و دو تا مداد دارم.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s22",
+    "prompt": "Mehrnaz has two books and three pencils.",
+    "tiles": [
+      "dâre",
+      "medâd",
+      "tâ",
+      "se",
+      "o",
+      "ketâb",
+      "tâ",
+      "do",
+      "Mehrnâz"
+    ],
+    "acceptedAnswers": [
+      [
+        "Mehrnâz",
+        "do",
+        "tâ",
+        "ketâb",
+        "o",
+        "se",
+        "tâ",
+        "medâd",
+        "dâre"
+      ]
+    ],
+    "explanation": "Dâre is spoken third-person singular has; va may replace o in speech. Persian: مهرناز دو تا کتاب و سه تا مداد داره.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s23",
+    "prompt": "Mehrdad has four books and six pencils.",
+    "tiles": [
+      "dâre",
+      "medâd",
+      "tâ",
+      "shish",
+      "o",
+      "ketâb",
+      "tâ",
+      "châr",
+      "Mehrdâd"
+    ],
+    "acceptedAnswers": [
+      [
+        "Mehrdâd",
+        "châr",
+        "tâ",
+        "ketâb",
+        "o",
+        "shish",
+        "tâ",
+        "medâd",
+        "dâre"
+      ]
+    ],
+    "explanation": "Châr and shish are spoken forms of chahâr (چهار) and shesh (شش). Persian: مهرداد چار تا کتاب و شیش تا مداد داره.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s24",
+    "prompt": "How many books do we have?",
+    "tiles": [
+      "dârim",
+      "ketâb",
+      "tâ",
+      "chand",
+      "mâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "mâ",
+        "chand",
+        "tâ",
+        "ketâb",
+        "dârim"
+      ]
+    ],
+    "explanation": "In this counting scene we means the speaker, Mehrnaz and Mehrdad. Answer: 3 + 2 + 4 = 9. This question is asked again later in the original dialogue. Persian: ما چند تا کتاب داریم؟",
+    "topic": "education",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s25",
+    "prompt": "You have nine books.",
+    "tiles": [
+      "dârin",
+      "ketâb",
+      "tâ",
+      "noh",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "noh",
+        "tâ",
+        "ketâb",
+        "dârin"
+      ]
+    ],
+    "explanation": "Reply addressed to the group: the question’s we becomes you in the answer. Dârin is spoken dârid. Persian: شما نه تا کتاب دارین.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s26",
+    "prompt": "How many books do Mehrnaz and I have?",
+    "tiles": [
+      "dârim",
+      "ketâb",
+      "tâ",
+      "chand",
+      "Mehrnâz",
+      "o",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "o",
+        "Mehrnâz",
+        "chand",
+        "tâ",
+        "ketâb",
+        "dârim"
+      ]
+    ],
+    "explanation": "Original mano = man + o, meaning I and. Answer: 3 + 2 = 5. Persian: من و مهرناز چند تا کتاب داریم؟",
+    "topic": "education",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s27",
+    "prompt": "You have five books.",
+    "tiles": [
+      "dârin",
+      "ketâb",
+      "tâ",
+      "panj",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "panj",
+        "tâ",
+        "ketâb",
+        "dârin"
+      ]
+    ],
+    "explanation": "Original Pànshtâ is retained in the lesson notes as a pronunciation cue; standard written transliteration is panj tâ. Persian: شما پنج تا کتاب دارین.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s28",
+    "prompt": "How many pencils do Mehrdad and I have?",
+    "tiles": [
+      "dârim",
+      "medâd",
+      "tâ",
+      "chand",
+      "Mehrdâd",
+      "o",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "o",
+        "Mehrdâd",
+        "chand",
+        "tâ",
+        "medâd",
+        "dârim"
+      ]
+    ],
+    "explanation": "Answer: 2 + 6 = 8. Man o means I and, not the object form mano here. Persian: من و مهرداد چند تا مداد داریم؟",
+    "topic": "education",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s29",
+    "prompt": "You have eight pencils.",
+    "tiles": [
+      "dârin",
+      "medâd",
+      "tâ",
+      "hasht",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "hasht",
+        "tâ",
+        "medâd",
+        "dârin"
+      ]
+    ],
+    "explanation": "Original hash ta normalized to hasht tâ; the final t belongs to hasht. Persian: شما هشت تا مداد دارین.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s30",
+    "prompt": "This question is repeated.",
+    "tiles": [
+      "tekrârie",
+      "soâl",
+      "in"
+    ],
+    "acceptedAnswers": [
+      [
+        "in",
+        "soâl",
+        "tekrârie"
+      ]
+    ],
+    "explanation": "Response when mâ chand tâ ketâb dârim? is asked again. Original Een soâl tékrârié; adjective tekrâri + -e = tekrârie. Persian: این سؤال تکراریه.",
+    "topic": "conversation",
+    "grammar": "present-be",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s32",
+    "prompt": "You have eleven pencils.",
+    "tiles": [
+      "dârin",
+      "medâd",
+      "tâ",
+      "yâzdah",
+      "shomâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "shomâ",
+        "yâzdah",
+        "tâ",
+        "medâd",
+        "dârin"
+      ]
+    ],
+    "explanation": "Yâzdah = eleven; the original yazdah is normalized with â. Persian: شما یازده تا مداد دارین.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s33",
+    "prompt": "Who has two books?",
+    "tiles": [
+      "dâre",
+      "ketâb",
+      "tâ",
+      "do",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "do",
+        "tâ",
+        "ketâb",
+        "dâre"
+      ]
+    ],
+    "explanation": "Answer: Mehrnâz do tâ ketâb dâre. Ki means who here, not when. Persian: کی دو تا کتاب داره؟",
+    "topic": "education",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s34",
+    "prompt": "Mehrnaz has two books.",
+    "tiles": [
+      "dâre",
+      "ketâb",
+      "tâ",
+      "do",
+      "Mehrnâz"
+    ],
+    "acceptedAnswers": [
+      [
+        "Mehrnâz",
+        "do",
+        "tâ",
+        "ketâb",
+        "dâre"
+      ]
+    ],
+    "explanation": "Answer to ki do tâ ketâb dâre? Persian: مهرناز دو تا کتاب داره.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s35",
+    "prompt": "Who has six pencils?",
+    "tiles": [
+      "dâre",
+      "medâd",
+      "tâ",
+      "shish",
+      "ki"
+    ],
+    "acceptedAnswers": [
+      [
+        "ki",
+        "shish",
+        "tâ",
+        "medâd",
+        "dâre"
+      ]
+    ],
+    "explanation": "Answer: Mehrdâd shish tâ medâd dâre. Shish is spoken shesh. Persian: کی شیش تا مداد داره؟",
+    "topic": "education",
+    "grammar": "questions",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "lesson-2026-11-01-s36",
+    "prompt": "Mehrdad has six pencils.",
+    "tiles": [
+      "dâre",
+      "medâd",
+      "tâ",
+      "shish",
+      "Mehrdâd"
+    ],
+    "acceptedAnswers": [
+      [
+        "Mehrdâd",
+        "shish",
+        "tâ",
+        "medâd",
+        "dâre"
+      ]
+    ],
+    "explanation": "Answer to ki shish tâ medâd dâre? Persian: مهرداد شیش تا مداد داره.",
+    "topic": "education",
+    "grammar": "present-have",
+    "register": "spoken",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "difficulty": "beginner"
   }
 ]

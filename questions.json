@@ -2391,7 +2391,7 @@
   },
   {
     "farsi": "hamsar",
-    "english": "spouse",
+    "english": "Spouse (husband or wife; gender-neutral)",
     "persian": "همسر",
     "category": "family",
     "sourceLine": 791,
@@ -2718,7 +2718,7 @@
     "id": "vocab-0421"
   },
   {
-    "farsi": "Yek",
+    "farsi": "yek / ye",
     "english": "1",
     "persian": "یک",
     "category": "numbers",
@@ -2727,7 +2727,7 @@
     "id": "vocab-0423"
   },
   {
-    "farsi": "Do",
+    "farsi": "do",
     "english": "2",
     "persian": "دو",
     "category": "numbers",
@@ -2736,7 +2736,7 @@
     "id": "vocab-0424"
   },
   {
-    "farsi": "Sé",
+    "farsi": "se",
     "english": "3",
     "persian": "سه",
     "category": "numbers",
@@ -2745,7 +2745,7 @@
     "id": "vocab-0425"
   },
   {
-    "farsi": "Chahâr",
+    "farsi": "chahâr / châr",
     "english": "4",
     "persian": "چهار",
     "category": "numbers",
@@ -2754,7 +2754,7 @@
     "id": "vocab-0426"
   },
   {
-    "farsi": "Panj",
+    "farsi": "panj",
     "english": "5",
     "persian": "پنج",
     "category": "numbers",
@@ -2763,7 +2763,7 @@
     "id": "vocab-0427"
   },
   {
-    "farsi": "Shesh / Shish",
+    "farsi": "shesh / shish",
     "english": "6",
     "persian": "شش / شیش",
     "category": "numbers",
@@ -2772,7 +2772,7 @@
     "id": "vocab-0428"
   },
   {
-    "farsi": "Haaft",
+    "farsi": "haft",
     "english": "7",
     "persian": "هفت",
     "category": "numbers",
@@ -2781,7 +2781,7 @@
     "id": "vocab-0429"
   },
   {
-    "farsi": "Haasht",
+    "farsi": "hasht",
     "english": "8",
     "persian": "هشت",
     "category": "numbers",
@@ -2790,7 +2790,7 @@
     "id": "vocab-0430"
   },
   {
-    "farsi": "Noh",
+    "farsi": "noh",
     "english": "9",
     "persian": "نه",
     "category": "numbers",
@@ -2799,7 +2799,7 @@
     "id": "vocab-0431"
   },
   {
-    "farsi": "Dah",
+    "farsi": "dah",
     "english": "10",
     "persian": "ده",
     "category": "numbers",
@@ -3087,8 +3087,8 @@
     "id": "vocab-0465"
   },
   {
-    "farsi": "Mâh",
-    "english": "Month",
+    "farsi": "mâh",
+    "english": "Moon; month (the moon sense is used in the lesson’s names)",
     "persian": "ماه",
     "category": "time",
     "sourceLine": 1383,
@@ -3123,7 +3123,7 @@
     "id": "vocab-0469"
   },
   {
-    "farsi": "Alân / Hâlâ",
+    "farsi": "alân / hâlâ",
     "english": "Now",
     "persian": "الان / حالا",
     "category": "time",
@@ -3204,7 +3204,7 @@
     "id": "vocab-0478"
   },
   {
-    "farsi": "Barâdar",
+    "farsi": "barâdar",
     "english": "Brother",
     "persian": "برادر",
     "category": "family",
@@ -3217,7 +3217,7 @@
     }
   },
   {
-    "farsi": "Khâhar",
+    "farsi": "khâhar",
     "english": "Sister",
     "persian": "خواهر",
     "category": "family",
@@ -3226,7 +3226,7 @@
     "id": "vocab-0480"
   },
   {
-    "farsi": "Amoo",
+    "farsi": "amu",
     "english": "Uncle (father's brother)",
     "persian": "عمو",
     "category": "family",
@@ -3239,7 +3239,7 @@
     }
   },
   {
-    "farsi": "Ammé",
+    "farsi": "amme",
     "english": "Aunt (father's sister)",
     "persian": "عمه",
     "category": "family",
@@ -3248,7 +3248,7 @@
     "id": "vocab-0482"
   },
   {
-    "farsi": "Dâee",
+    "farsi": "dâyi",
     "english": "Uncle (mother's brother)",
     "persian": "دایی",
     "category": "family",
@@ -3257,7 +3257,7 @@
     "id": "vocab-0483"
   },
   {
-    "farsi": "Khâlé",
+    "farsi": "khâle",
     "english": "Aunt (mother's sister)",
     "persian": "خاله",
     "category": "family",
@@ -3426,7 +3426,7 @@
     "id": "vocab-0503"
   },
   {
-    "farsi": "Ketâb",
+    "farsi": "ketâb",
     "english": "Book",
     "persian": "کتاب",
     "category": "education",
@@ -3444,7 +3444,7 @@
     "id": "vocab-0505"
   },
   {
-    "farsi": "Medâd",
+    "farsi": "medâd",
     "english": "Pencil",
     "persian": "مداد",
     "category": "education",
@@ -3462,9 +3462,9 @@
     "id": "vocab-0507"
   },
   {
-    "farsi": "Soâl",
+    "farsi": "soâl",
     "english": "Question",
-    "persian": "سوال",
+    "persian": "سؤال",
     "category": "education",
     "sourceLine": 1472,
     "sourceCategory": "School & Office Items",
@@ -3877,8 +3877,8 @@
     "id": "vocab-0558"
   },
   {
-    "farsi": "chand tâ / chantâ",
-    "english": "How many (counting objects)",
+    "farsi": "chand tâ / chand-tâ (spoken chantâ)",
+    "english": "How many? in questions; a few / some in statements",
     "persian": "چند تا",
     "category": "conversation",
     "sourceLine": 1560,
@@ -5167,5 +5167,177 @@
     "english": "Street (formal / spoken)",
     "category": "directions",
     "source": "Lesson 2026-10-26"
+  },
+  {
+    "id": "lesson-2026-11-01-v01",
+    "farsi": "Ali",
+    "persian": "علی",
+    "english": "Ali (name; Mahnâz’s spouse in this lesson)",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v02",
+    "farsi": "Mahnâz",
+    "persian": "مهناز",
+    "english": "Mahnaz (name): mâh, moon, + nâz, charm; lesson gloss: moon + cute",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v03",
+    "farsi": "Khashâyâr",
+    "persian": "خشایار",
+    "english": "Khashayar (name associated with Xerxes; royal form Khashâyârshâ, خشایارشا)",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v04",
+    "farsi": "Mândânâ",
+    "persian": "ماندانا",
+    "english": "Mandana (name); Mandane is traditionally named as Cyrus the Great’s mother, not the literal meaning of the name",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v05",
+    "farsi": "Rezâ",
+    "persian": "رضا",
+    "english": "Reza (name; Ali’s brother in this lesson)",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v06",
+    "farsi": "Mojgân",
+    "persian": "مژگان",
+    "english": "Mojgan (name; Ali’s sister in this lesson)",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v07",
+    "farsi": "Mahtâb",
+    "persian": "مهتاب",
+    "english": "Mahtab (name); moonlight, from mâh + tâb",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v08",
+    "farsi": "Nâzanin",
+    "persian": "نازنین",
+    "english": "Nazanin (name); dear, beloved, lovely; lesson gloss: very cute",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v09",
+    "farsi": "Mehrnâz",
+    "persian": "مهرناز",
+    "english": "Mehrnaz (name; counting-practice character)",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v10",
+    "farsi": "Mehrdâd",
+    "persian": "مهرداد",
+    "english": "Mehrdad (name; counting-practice character)",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v11",
+    "farsi": "Kurosh",
+    "persian": "کوروش",
+    "english": "Cyrus (name); Kurosh-e Bozorg = Cyrus the Great",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v12",
+    "farsi": "nâz",
+    "persian": "ناز",
+    "english": "Charm / coyness; cute or lovely in colloquial descriptions",
+    "category": "descriptions",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v13",
+    "farsi": "tâb",
+    "persian": "تاب",
+    "english": "Radiance / shining (as in mahtâb, moonlight)",
+    "category": "descriptions",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v14",
+    "farsi": "tâbesh",
+    "persian": "تابش",
+    "english": "Shining / radiation / radiance",
+    "category": "descriptions",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v15",
+    "farsi": "khâli",
+    "persian": "خالی",
+    "english": "Empty",
+    "category": "descriptions",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v16",
+    "farsi": "tekrâri",
+    "persian": "تکراری",
+    "english": "Repeated / repetitive",
+    "category": "descriptions",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v17",
+    "farsi": "â",
+    "persian": "آ",
+    "english": "Alef with madd: the long â vowel at the start of a word",
+    "category": "conversation",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v18",
+    "farsi": "sefr",
+    "persian": "صفر",
+    "english": "Zero (۰)",
+    "category": "numbers",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v19",
+    "farsi": "yâzdah",
+    "persian": "یازده",
+    "english": "Eleven (۱۱)",
+    "category": "numbers",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "lesson-2026-11-01-v20",
+    "farsi": "bache",
+    "persian": "بچه",
+    "english": "Child",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
+    "plural": {
+      "farsi": "bachehâ",
+      "persian": "بچه‌ها"
+    }
+  },
+  {
+    "id": "lesson-2026-11-01-v21",
+    "farsi": "dokhtar",
+    "persian": "دختر",
+    "english": "Daughter / girl",
+    "category": "family",
+    "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
   }
 ]

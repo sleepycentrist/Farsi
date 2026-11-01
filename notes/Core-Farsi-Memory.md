@@ -2055,3 +2055,160 @@ Bâzi kardan = to play (new full verb table). Existing tamâm shodan/tamum shoda
   Tunestam is spoken tavânestam (was able to). The following verb is subjunctive: bekharam. Intonation makes this a yes/no question.
 - na chon forushgâh ghazâ-ye gorbe nadâsht — نه، چون فروشگاه غذای گربه نداشت. — No, because the shop did not have cat food.
   Chon introduces the reason. Nadâsht means did not have, not does not have.
+
+
+## 2026-11-01 — Family relationships, names and counting
+
+Source: user’s latest message in “Hamsar Meaning Explained” (6ae7568f-2360-83ed-9f58-5e9ab74d0df7). All people, possessions and relationships below are lesson examples, not user biography.
+
+### Vocabulary and name notes
+
+- hamsar — همسر — Spouse (husband or wife; gender-neutral) — family
+- Ali — علی — Ali (name; Mahnâz’s spouse in this lesson) — family
+- Mahnâz — مهناز — Mahnaz (name): mâh, moon, + nâz, charm; lesson gloss: moon + cute — family
+- Khashâyâr — خشایار — Khashayar (name associated with Xerxes; royal form Khashâyârshâ, خشایارشا) — family
+- Mândânâ — ماندانا — Mandana (name); Mandane is traditionally named as Cyrus the Great’s mother, not the literal meaning of the name — family
+- Rezâ — رضا — Reza (name; Ali’s brother in this lesson) — family
+- Mojgân — مژگان — Mojgan (name; Ali’s sister in this lesson) — family
+- Mahtâb — مهتاب — Mahtab (name); moonlight, from mâh + tâb — family
+- Nâzanin — نازنین — Nazanin (name); dear, beloved, lovely; lesson gloss: very cute — family
+- Mehrnâz — مهرناز — Mehrnaz (name; counting-practice character) — family
+- Mehrdâd — مهرداد — Mehrdad (name; counting-practice character) — family
+- Kurosh — کوروش — Cyrus (name); Kurosh-e Bozorg = Cyrus the Great — family
+- mâh — ماه — Moon; month (the moon sense is used in the lesson’s names) — time
+- nâz — ناز — Charm / coyness; cute or lovely in colloquial descriptions — descriptions
+- tâb — تاب — Radiance / shining (as in mahtâb, moonlight) — descriptions
+- tâbesh — تابش — Shining / radiation / radiance — descriptions
+- khâli — خالی — Empty — descriptions
+- tekrâri — تکراری — Repeated / repetitive — descriptions
+- â — آ — Alef with madd: the long â vowel at the start of a word — conversation
+- sefr — صفر — Zero (۰) — numbers
+- yâzdah — یازده — Eleven (۱۱) — numbers
+- bache — بچه — Child — family
+- dokhtar — دختر — Daughter / girl — family
+
+Hâlâ (حالا) and alân (الان) mean now; hamin alân (همین الان) means right now. Hâlâ can also introduce a thought (well/so). Chand tâ / spoken chantâ (چند تا) means how many in a question, a few/some in a statement. Amu (عمو) is father’s brother; amme (عمه) father’s sister; khâle (خاله) mother’s sister; dâyi (دایی) mother’s brother. Hamsar (همسر) is gender-neutral spouse. Bachehâ (بچه‌ها) is children.
+
+Mahnâz = mâh + nâz is a name-component explanation, not an exact literal English translation. Nâz is charm/coyness and can mean cute in descriptions; Nâzanin is dear/beloved/lovely, not necessarily “very cute.” Mahtâb means moonlight; tâb relates to shining, as does tâbesh. Mândânâ’s mother-of-Cyrus association is historical, not the name’s dictionary meaning; see https://www.iranicaonline.org/articles/mandane/. Khashâyâr is the short modern name associated with the royal name Khashâyârshâ (خشایارشا), Xerxes.
+
+### Full lesson and question–answer sequence
+
+1. **Ali hamsar-e Mahnâze** — علی همسر مهنازه. — Ali is Mahnaz’s spouse.
+   Ezâfe -e links spouse to Mahnaz; final -e means is. Original: Ali hamsaré Mahnaz.
+
+2. **unâ do tâ bache dâran** — اونا دو تا بچه دارن. — They have two children.
+   Unâ (also written ounâ) is spoken they; after a number the noun stays singular.
+
+3. **ye pesar ke esmesh Khashâyâre** — یه پسر که اسمش خشایاره. — A son whose name is Khashayar.
+   A deliberate continuation of the previous sentence. Esm + -esh = his/her name; final -e = is.
+
+4. **ye dokhtar ke esmesh Mândânâst** — یه دختر که اسمش مانداناست. — A daughter whose name is Mandana.
+   Mândânâ ast contracts to Mândânâst; original Mândânâs is a casual pronunciation.
+
+5. **esm-e barâdar-e Ali Rezâst** — اسم برادر علی رضاست. — Ali’s brother’s name is Reza.
+   Ezâfe chains the nouns; Rezâ ast contracts to Rezâst (casual Rezâs).
+
+6. **esm-e khâharesh Mojgâne** — اسم خواهرش مژگانه. — His sister’s name is Mojgan.
+   His refers to Ali here; -esh is gender-neutral. Mojgân + -e = Mojgâne.
+
+7. **Mahnâz do tâ khâhar dâre Mahtâb o Nâzanin** — مهناز دو تا خواهر داره: مهتاب و نازنین. — Mahnaz has two sisters: Mahtab and Nazanin.
+   Spoken o and fuller va both mean and; the family is a lesson example.
+
+8. **hâlâ chand tâ soâl miporsam** — حالا چند تا سؤال می‌پرسم. — Now I’ll ask a few questions.
+   Chand tâ means some/a few in this statement, not how many; present miporsam can express immediate intention.
+
+9. **esm-e barâdar-e Mândânâ chie** — اسم برادر ماندانا چیه؟ — What is Mandana’s brother’s name?
+   Answer: Khashâyâre — خشایاره. Chie = what is it? Original chi-e/chie-e normalized.
+
+10. **Khashâyâre** — خشایاره. — It is Khashayar.
+   Answer to the preceding brother-name question; final -e is the spoken copula.
+
+11. **esm-e amu-ye Mândânâ chie** — اسم عموی ماندانا چیه؟ — What is Mandana’s paternal uncle’s name?
+   Answer: Rezâst — رضاست. Amu is father’s brother; after u, ezâfe is -ye.
+
+12. **Rezâst** — رضاست. — It is Reza.
+   Answer to the paternal-uncle question; original Rezâs retained as a casual pronunciation of Rezâst.
+
+13. **esm-e amme-ye Khashâyâr chie** — اسم عمهٔ خشایار چیه؟ — What is Khashayar’s paternal aunt’s name?
+   Answer: Mojgâne — مژگانه. Amme is father’s sister.
+
+14. **Mojgâne** — مژگانه. — It is Mojgan.
+   Answer to the paternal-aunt question; Mojgân + spoken is (-e).
+
+15. **bachehâ-ye Ali o Mahnâz chand tâ khâle dâran** — بچه‌های علی و مهناز چند تا خاله دارن؟ — How many maternal aunts do Ali and Mahnaz’s children have?
+   Khâle means mother’s sister. Answer: two, Mahtab and Nazanin.
+
+16. **unâ do tâ khâle dâran Mahtâb o Nâzanin** — اونا دو تا خاله دارن: مهتاب و نازنین. — They have two maternal aunts: Mahtab and Nazanin.
+   Khâle stays singular after do tâ; these aunts are Mahnaz’s sisters.
+
+17. **chand tâ dâyi dâran** — چند تا دایی دارن؟ — How many maternal uncles do they have?
+   They refers to the children. Answer: unâ dâyi nadâran. This is supplied by the exercise, not inferred just from the list of sisters.
+
+18. **unâ dâyi nadâran** — اونا دایی ندارن. — They have no maternal uncles.
+   Na- negates dâran. Original dâee normalized as dâyi.
+
+19. **bâbâ-ye Ali chand tâ pesar o chand tâ dokhtar dâre** — بابای علی چند تا پسر و چند تا دختر داره؟ — How many sons and how many daughters does Ali’s father have?
+   Answer: two sons (Ali and Reza) and one daughter (Mojgan), within this lesson’s family.
+
+20. **un do tâ pesar o ye dokhtar dâre** — اون دو تا پسر و یه دختر داره. — He has two sons and one daughter.
+   Original pésàro is pesar + o, the conjunction and; it is not the object marker here.
+
+21. **man se tâ ketâb o do tâ medâd dâram** — من سه تا کتاب و دو تا مداد دارم. — I have three books and two pencils.
+   Original ketabo is ketâb + o (and). Se, not seh; do, not doh. Counted nouns remain singular.
+
+22. **Mehrnâz do tâ ketâb o se tâ medâd dâre** — مهرناز دو تا کتاب و سه تا مداد داره. — Mehrnaz has two books and three pencils.
+   Dâre is spoken third-person singular has; va may replace o in speech.
+
+23. **Mehrdâd châr tâ ketâb o shish tâ medâd dâre** — مهرداد چار تا کتاب و شیش تا مداد داره. — Mehrdad has four books and six pencils.
+   Châr and shish are spoken forms of chahâr (چهار) and shesh (شش).
+
+24. **mâ chand tâ ketâb dârim** — ما چند تا کتاب داریم؟ — How many books do we have?
+   In this counting scene we means the speaker, Mehrnaz and Mehrdad. Answer: 3 + 2 + 4 = 9. This question is asked again later in the original dialogue.
+
+25. **shomâ noh tâ ketâb dârin** — شما نه تا کتاب دارین. — You have nine books.
+   Reply addressed to the group: the question’s we becomes you in the answer. Dârin is spoken dârid.
+
+26. **man o Mehrnâz chand tâ ketâb dârim** — من و مهرناز چند تا کتاب داریم؟ — How many books do Mehrnaz and I have?
+   Original mano = man + o, meaning I and. Answer: 3 + 2 = 5.
+
+27. **shomâ panj tâ ketâb dârin** — شما پنج تا کتاب دارین. — You have five books.
+   Original Pànshtâ is retained in the lesson notes as a pronunciation cue; standard written transliteration is panj tâ.
+
+28. **man o Mehrdâd chand tâ medâd dârim** — من و مهرداد چند تا مداد داریم؟ — How many pencils do Mehrdad and I have?
+   Answer: 2 + 6 = 8. Man o means I and, not the object form mano here.
+
+29. **shomâ hasht tâ medâd dârin** — شما هشت تا مداد دارین. — You have eight pencils.
+   Original hash ta normalized to hasht tâ; the final t belongs to hasht.
+
+Repeated question from the original: mâ chand tâ ketâb dârim? — ما چند تا کتاب داریم؟
+
+30. **in soâl tekrârie** — این سؤال تکراریه. — This question is repeated.
+   Response when mâ chand tâ ketâb dârim? is asked again. Original Een soâl tékrârié; adjective tekrâri + -e = tekrârie.
+
+31. **mâ chand tâ medâd dârim** — ما چند تا مداد داریم؟ — How many pencils do we have?
+   All three people together: 2 + 3 + 6 = 11.
+
+32. **shomâ yâzdah tâ medâd dârin** — شما یازده تا مداد دارین. — You have eleven pencils.
+   Yâzdah = eleven; the original yazdah is normalized with â.
+
+33. **ki do tâ ketâb dâre** — کی دو تا کتاب داره؟ — Who has two books?
+   Answer: Mehrnâz do tâ ketâb dâre. Ki means who here, not when.
+
+34. **Mehrnâz do tâ ketâb dâre** — مهرناز دو تا کتاب داره. — Mehrnaz has two books.
+   Answer to ki do tâ ketâb dâre?
+
+35. **ki shish tâ medâd dâre** — کی شیش تا مداد داره؟ — Who has six pencils?
+   Answer: Mehrdâd shish tâ medâd dâre. Shish is spoken shesh.
+
+36. **Mehrdâd shish tâ medâd dâre** — مهرداد شیش تا مداد داره. — Mehrdad has six pencils.
+   Answer to ki shish tâ medâd dâre?
+
+### Grammar and original phrasing
+
+- Ezâfe: hamsar-e Mahnâz; esm-e barâdar-e Ali; amu-ye Mândânâ; amme-ye Khashâyâr; bachehâ-ye Ali. Final spoken -e is “is”: Khashâyâre, Mojgâne. After â, ast contracts to -st: Rezâst, Mândânâst. Original Rezâs / Mândânâs are retained as casual pronunciation notes.
+- -esh means his/her: esmesh, khâharesh. It does not encode gender.
+- Number + tâ + singular noun: do tâ bache, se tâ ketâb. Have: man dâram, un dâre, mâ dârim, shomâ dârin (formal dârid), unâ dâran (formal dârand). Negative: nadâran. Ask: porsidan, stem pors, miporsam. These verbs already exist in verbs.json; no duplicate paradigms are added.
+- Original spellings retained here: ouna / Ounâ → unâ; doh → do; seh → se; chanta → chand tâ / chantâ; khashâyâr / Khàshâyâr → Khashâyâr; daee / dâee → dâyi; khâlé → khâle; ammé → amme; Een → in; hash → hasht; Pànshtâ → panj tâ (original pronunciation cue); soaal → soâl. Shish and châr are valid spoken forms and remain in the exercises.
+- Original ketabo, pésàro, mano and Ali-o are ketâb o, pesar o, man o and Ali o: o means and here, not the object marker. Va is the fuller alternative.
+- Counting inventory: speaker = 3 books, 2 pencils; Mehrnaz = 2 books, 3 pencils; Mehrdad = 4 books, 6 pencils. Books total 9; speaker + Mehrnaz = 5 books; speaker + Mehrdad = 8 pencils; pencils total 11. All original arithmetic is correct.
+- The father of Ali has two sons and a daughter in the supplied answer. The children have no maternal uncle according to the explicit supplied answer; the initial description alone would not establish that.
