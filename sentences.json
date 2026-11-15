@@ -7528,5 +7528,245 @@
     "register": "spoken",
     "source": "Lesson 2026-11-01 — Hamsar Meaning Explained",
     "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s1",
+    "topic": "clothing",
+    "prompt": "This jacket really suits you.",
+    "tiles": [
+      "miâd",
+      "behet",
+      "kheyli",
+      "kot",
+      "in"
+    ],
+    "acceptedAnswers": [
+      [
+        "in",
+        "kot",
+        "kheyli",
+        "behet",
+        "miâd"
+      ]
+    ],
+    "explanation": "Behet means “to you”. Persian: این کت خیلی بهت میاد.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s2",
+    "topic": "clothing",
+    "prompt": "Does this suit me?",
+    "tiles": [
+      "miâd",
+      "behem",
+      "in"
+    ],
+    "acceptedAnswers": [
+      [
+        "in",
+        "behem",
+        "miâd"
+      ]
+    ],
+    "explanation": "Behem means “to me”. Persian: این بهم میاد؟",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s3",
+    "topic": "clothing",
+    "prompt": "I don’t think this shirt suits them.",
+    "tiles": [
+      "nemiâd",
+      "behesh",
+      "piran",
+      "in",
+      "nazaram",
+      "be"
+    ],
+    "acceptedAnswers": [
+      [
+        "be",
+        "nazaram",
+        "in",
+        "piran",
+        "behesh",
+        "nemiâd"
+      ]
+    ],
+    "explanation": "Behesh refers to one person. Persian: به نظرم این پیرهن بهش نمیاد.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s4",
+    "topic": "clothing",
+    "prompt": "I put on sunglasses.",
+    "tiles": [
+      "mizanam",
+      "âftâbi",
+      "eynak-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "eynak-e",
+        "âftâbi",
+        "mizanam"
+      ]
+    ],
+    "explanation": "Use zadan with glasses. Persian: عینک آفتابی می‌زنم.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s5",
+    "topic": "clothing",
+    "prompt": "I fasten my belt.",
+    "tiles": [
+      "mibandam",
+      "kamarbandam-o"
+    ],
+    "acceptedAnswers": [
+      [
+        "kamarbandam-o",
+        "mibandam"
+      ]
+    ],
+    "explanation": "Bastan means fasten here. Persian: کمربندم رو می‌بندم.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s6",
+    "topic": "clothing",
+    "prompt": "I take off my overcoat.",
+    "tiles": [
+      "miâram",
+      "dar",
+      "pâltom-o"
+    ],
+    "acceptedAnswers": [
+      [
+        "pâltom-o",
+        "dar",
+        "miâram"
+      ]
+    ],
+    "explanation": "Dar miâram is spoken. Persian: پالتوم رو درمیارم.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s7",
+    "topic": "clothing",
+    "prompt": "I wear a short-sleeved T-shirt.",
+    "tiles": [
+      "mipusham",
+      "âstin-kutâh",
+      "tishert-e",
+      "ye",
+      "man"
+    ],
+    "acceptedAnswers": [
+      [
+        "man",
+        "ye",
+        "tishert-e",
+        "âstin-kutâh",
+        "mipusham"
+      ]
+    ],
+    "explanation": "Âstin means sleeve. Persian: من یه تی‌شرت آستین‌کوتاه می‌پوشم.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s8",
+    "topic": "clothing",
+    "prompt": "I tie my shoelace.",
+    "tiles": [
+      "mibandam",
+      "kafsham-o",
+      "band-e"
+    ],
+    "acceptedAnswers": [
+      [
+        "band-e",
+        "kafsham-o",
+        "mibandam"
+      ]
+    ],
+    "explanation": "The object marker follows the possessive ending. Persian: بند کفشم رو می‌بندم.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s9",
+    "topic": "clothing",
+    "prompt": "These go well together.",
+    "tiles": [
+      "mishan",
+      "set",
+      "ham",
+      "bâ",
+      "inâ"
+    ],
+    "acceptedAnswers": [
+      [
+        "inâ",
+        "bâ",
+        "ham",
+        "set",
+        "mishan"
+      ]
+    ],
+    "explanation": "Bâ ham means together. Persian: اینا با هم ست می‌شن.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "clothes-1115-s10",
+    "topic": "clothing",
+    "prompt": "Last week I bought a blouse.",
+    "tiles": [
+      "kharidam",
+      "shomiz",
+      "ye",
+      "pish",
+      "hafte-ye"
+    ],
+    "acceptedAnswers": [
+      [
+        "hafte-ye",
+        "pish",
+        "ye",
+        "shomiz",
+        "kharidam"
+      ]
+    ],
+    "explanation": "Hafte-ye pish means last week. Persian: هفتهٔ پیش یه شومیز خریدم.",
+    "source": "Clothing lesson — 15 November 2026",
+    "grammar": "clothing-in-context",
+    "register": "spoken",
+    "difficulty": "beginner"
   }
 ]

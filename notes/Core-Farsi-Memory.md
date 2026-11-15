@@ -2212,3 +2212,31 @@ Repeated question from the original: mâ chand tâ ketâb dârim? — ما چن�
 - Original ketabo, pésàro, mano and Ali-o are ketâb o, pesar o, man o and Ali o: o means and here, not the object marker. Va is the fuller alternative.
 - Counting inventory: speaker = 3 books, 2 pencils; Mehrnaz = 2 books, 3 pencils; Mehrdad = 4 books, 6 pencils. Books total 9; speaker + Mehrnaz = 5 books; speaker + Mehrdad = 8 pencils; pencils total 11. All original arithmetic is correct.
 - The father of Ali has two sons and a daughter in the supplied answer. The children have no maternal uncle according to the explicit supplied answer; the initial description alone would not establish that.
+
+
+## 15 November 2026 — Clothing lesson
+
+### Clothing and appearance
+- Women’s clothing: lebâs-e zanâne (لباس زنانه); men’s clothing: lebâs-e mardâne (لباس مردانه).
+- Shomiz (شومیز): blouse / women’s button-up shirt. Pirâhan (پیراهن), spoken piran: shirt or dress, depending on context. Kot (کت): jacket / blazer / suit jacket; pâlto (پالتو): overcoat.
+- Sâde (ساده): simple / plain. Âstin-kutâh (آستین‌کوتاه): short-sleeved. Âstin-boland (آستین‌بلند): long-sleeved, not a long shirt.
+- Tishert (تی‌شرت): T-shirt; tâp (تاپ): sleeveless top; zirpush (زیرپوش): undershirt; boluz (بلوز): blouse / top, sometimes sweatshirt depending on the garment; zhâkat (ژاکت): cardigan / knitted jacket; hudi (هودی): hoodie.
+- Kâpshan (کاپشن): jacket / anorak, often padded; not exclusively a puffer. Bârâni (بارانی): raincoat; dâman (دامن): skirt; kafsh (کفش): shoe; rusari (روسری): headscarf, distinct from shâl-gardan (neck scarf).
+- Shalvâr (شلوار): trousers; shalvâr-e jin (شلوار جین): jeans; dampâyi (دمپایی): slipper / slide sandal; poliver (پلیور): jumper / sweater; pizhâme (پیژامه): pyjamas.
+- Eynak-e âftâbi (عینک آفتابی): sunglasses; sâ’at-e mochi (ساعت مچی): wristwatch; shalvârak (شلوارک): shorts; kamarband (کمربند): belt; kerâvât (کراوات): tie. -ak (ـک) is a diminutive suffix.
+- Chahârkhune (چهارخونه), formal chahârkhâne (چهارخانه): checked; khâlkhâli (خال‌خالی): polka-dot / spotted; râh-râh (راه‌راه): striped; goldâr (گل‌دار): floral.
+- Band-e kafsh (بند کفش): shoelace. Band-e kafsham = my shoelace; band-e kafsham-o = my shoelace as an object, with spoken ro / -o.
+- Talâ (طلا): gold; talâyi (طلایی): golden / gold-coloured; noghre (نقره): silver; noghreyi (نقره‌ای): silver-coloured. Ghahvei (قهوه‌ای): brown; ghahve (قهوه): coffee.
+- Siyâh and meshki both mean black; meshki is especially common for clothes. Vali / ammâ both mean but.
+
+### Wearing, removing and describing clothes
+- Pushidan (پوشیدن): wear / put on; command bepush; present mipusham. Singular past: man pushidam, to pushidi, u pushid. The infinitive is pushidan, not bepush.
+- Zadan (زدن): hit; with glasses, eynak-e âftâbi mizanam means I wear / put on sunglasses.
+- Bastan (بستن): close / fasten; sâ’at / kamarband / kerâvât mibandam means I put on / fasten a watch, belt or tie.
+- Dar âvordan (درآوردن): take off / remove; dar miâvaram, spoken dar miâram; command dar biâr. Âvordan alone means bring; command biâvar / biâr. These are a compound verb and its base verb respectively.
+- In kot kheyli behet miâd (این کت خیلی بهت میاد): this jacket suits you very well. In behem miâd? (این بهم میاد؟): does this suit me? Be nazaram, in piran behesh nemiâd (به نظرم این پیرهن بهش نمیاد): in my opinion, this shirt does not suit him/her.
+- Behem / behet / behesh are spoken be man / be to / be u. Kheyli miâd alone lacks the complement/context; the lesson examples mean suits / looks good on someone. For garments going well together, use bâ ham set mishan (با هم ست می‌شن).
+- Hafte-ye ghabl / hafte-ye pish (هفتهٔ قبل / هفتهٔ پیش): last week. Pish is Persian-origin; ghabl is Arabic-origin.
+
+### Listening pending
+The earlier Ali / bank / teacher listening passage remains uncertain until the teacher supplies the audio. Its guessed sentences have not been added as confirmed exercises.

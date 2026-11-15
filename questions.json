@@ -5339,5 +5339,268 @@
     "english": "Daughter / girl",
     "category": "family",
     "source": "Lesson 2026-11-01 — Hamsar Meaning Explained"
+  },
+  {
+    "id": "clothes-1115-v1",
+    "category": "clothing",
+    "farsi": "shomiz",
+    "persian": "شومیز",
+    "english": "Blouse / women’s button-up shirt",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v2",
+    "category": "clothing",
+    "farsi": "âstin-kutâh",
+    "persian": "آستین‌کوتاه",
+    "english": "Short-sleeved",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v3",
+    "category": "clothing",
+    "farsi": "âstin-boland",
+    "persian": "آستین‌بلند",
+    "english": "Long-sleeved",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v4",
+    "category": "clothing",
+    "farsi": "tâp",
+    "persian": "تاپ",
+    "english": "Sleeveless top",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v5",
+    "category": "clothing",
+    "farsi": "zirpush",
+    "persian": "زیرپوش",
+    "english": "Undershirt",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v6",
+    "category": "clothing",
+    "farsi": "boluz",
+    "persian": "بلوز",
+    "english": "Blouse / top",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v7",
+    "category": "clothing",
+    "farsi": "zhâkat",
+    "persian": "ژاکت",
+    "english": "Cardigan / knitted jacket",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v8",
+    "category": "clothing",
+    "farsi": "hudi",
+    "persian": "هودی",
+    "english": "Hoodie",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v9",
+    "category": "clothing",
+    "farsi": "bârâni",
+    "persian": "بارانی",
+    "english": "Raincoat",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v10",
+    "category": "clothing",
+    "farsi": "rusari",
+    "persian": "روسری",
+    "english": "Headscarf",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v11",
+    "category": "clothing",
+    "farsi": "shalvâr-e jin",
+    "persian": "شلوار جین",
+    "english": "Jeans",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v12",
+    "category": "clothing",
+    "farsi": "dampâyi",
+    "persian": "دمپایی",
+    "english": "Slipper / slide sandal",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v13",
+    "category": "clothing",
+    "farsi": "pizhâme",
+    "persian": "پیژامه",
+    "english": "Pyjamas",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v14",
+    "category": "clothing",
+    "farsi": "eynak-e âftâbi",
+    "persian": "عینک آفتابی",
+    "english": "Sunglasses",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v15",
+    "category": "clothing",
+    "farsi": "sâ’at-e mochi",
+    "persian": "ساعت مچی",
+    "english": "Wristwatch",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v16",
+    "category": "clothing",
+    "farsi": "kerâvât",
+    "persian": "کراوات",
+    "english": "Tie",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v17",
+    "category": "clothing",
+    "farsi": "chahârkhune / chahârkhâne",
+    "persian": "چهارخونه / چهارخانه",
+    "english": "Checked / checkered",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v18",
+    "category": "clothing",
+    "farsi": "khâlkhâli",
+    "persian": "خال‌خالی",
+    "english": "Spotted / polka-dot",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v19",
+    "category": "clothing",
+    "farsi": "râh-râh",
+    "persian": "راه‌راه",
+    "english": "Striped",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v20",
+    "category": "clothing",
+    "farsi": "goldâr",
+    "persian": "گل‌دار",
+    "english": "Floral",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v21",
+    "category": "clothing",
+    "farsi": "band-e kafsh",
+    "persian": "بند کفش",
+    "english": "Shoelace",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v22",
+    "category": "descriptions",
+    "farsi": "talâ",
+    "persian": "طلا",
+    "english": "Gold (metal)",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v23",
+    "category": "descriptions",
+    "farsi": "noghre",
+    "persian": "نقره",
+    "english": "Silver (metal)",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v24",
+    "category": "colours",
+    "farsi": "talâyi",
+    "persian": "طلایی",
+    "english": "Golden / gold-coloured",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v25",
+    "category": "colours",
+    "farsi": "noghreyi",
+    "persian": "نقره‌ای",
+    "english": "Silver-coloured",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v26",
+    "category": "colours",
+    "farsi": "ghahvei",
+    "persian": "قهوه‌ای",
+    "english": "Brown",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v27",
+    "category": "food",
+    "farsi": "ghahve",
+    "persian": "قهوه",
+    "english": "Coffee",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-v28",
+    "category": "time",
+    "farsi": "hafte-ye ghabl / hafte-ye pish",
+    "persian": "هفتهٔ قبل / هفتهٔ پیش",
+    "english": "Last week",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-verb1",
+    "kind": "verb",
+    "category": "verbs",
+    "farsi": "pushidan",
+    "persian": "پوشیدن",
+    "english": "Wear / put on",
+    "presentStem": "push",
+    "pastStem": "pushid",
+    "imperative": "bepush",
+    "present": "mipusham",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-verb2",
+    "kind": "verb",
+    "category": "verbs",
+    "farsi": "zadan",
+    "persian": "زدن",
+    "english": "Hit; put on (glasses)",
+    "presentStem": "zan",
+    "pastStem": "zad",
+    "imperative": "bezan",
+    "present": "mizanam",
+    "source": "Clothing lesson — 15 November 2026"
+  },
+  {
+    "id": "clothes-1115-verb3",
+    "kind": "verb",
+    "category": "verbs",
+    "farsi": "dar âvordan",
+    "persian": "درآوردن",
+    "english": "Take off / remove",
+    "presentStem": "dar âvar",
+    "pastStem": "dar âvard",
+    "imperative": "dar biâr",
+    "present": "dar miâvaram / dar miâram",
+    "source": "Clothing lesson — 15 November 2026"
   }
 ]
